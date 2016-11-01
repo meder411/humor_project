@@ -50,7 +50,8 @@ for i = 1 : length(vids)
 
 	% If no detections are found in the entire video, skip the video
 	if isempty(detection)
-		error('No suitable faces detected in video %s', vids{i})
+		warning('No suitable faces detected in video %s', vids{i})
+		fprintf(fid_log, 'No suitable faces detected in video %s', vids{i})
 		continue;
 	end
 

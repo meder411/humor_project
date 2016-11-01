@@ -51,7 +51,7 @@ def write_accuracy_to_file(filename, itt, att_acc):
 # USER DEFINED VARIABLES
 ###########################
 MODELS_ROOT = 'models' # Root of directory containing models
-LOGS_ROOT = 'logs' # Root of directory to put log files
+LOGS_ROOT = '../logs' # Root of directory to put log files
 GPU_IDX = 1 # Set which GPU to use
 TRAIN_BS = 75 # Training batch size
 TEST_BS = 1 # Testing batch size
