@@ -2,3 +2,5 @@ vgg_face
 AMFED
 frames
 logs
+*.caffemodel
+*.solverstate
