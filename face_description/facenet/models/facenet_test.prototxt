@@ -344,7 +344,7 @@ layer {
 }
 layer {
   name: "multi_label_loss"
-  type: "SigmoidCrossEntropyLoss"
+  type: "Sigmoid"
   bottom: "att_scores"
   bottom: "labels"
   top: "multi_label_loss"

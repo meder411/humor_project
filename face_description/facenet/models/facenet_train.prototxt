@@ -3,6 +3,7 @@ layer {
   type: "Python"
   top: "data"
   top: "labels"
+  top: "weights"
   python_param {
     module: "facenet_data_layer"
     layer: "FaceNetDataLayer"
@@ -344,8 +345,9 @@ layer {
 }
 layer {
   name: "multi_label_loss"
-  type: "SigmoidCrossEntropyLoss"
+  type: "WeightedSigmoidCrossEntropyLoss"
   bottom: "att_scores"
   bottom: "labels"
+  bottom: "weights"
   top: "multi_label_loss"
 }

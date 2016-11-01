@@ -27,11 +27,6 @@ vids = {vids(:).name};
 for i = 1 : length(vids)
 	[~, basename, ~] = fileparts(vids{i}); % Get the file's basename
 
-	% Make the output subdirectory if necessary
-	if ~exist(fullfile(output_dir, basename), 'dir')
-		mkdir(fullfile(output_dir, basename));
-	end
-
 	% Load the video
 	V = VideoReader(fullfile(vid_dir, vids{i}));
 	
@@ -51,7 +46,7 @@ for i = 1 : length(vids)
 	% If no detections are found in the entire video, skip the video
 	if isempty(detection)
 		warning('No suitable faces detected in video %s', vids{i})
-		fprintf(fid_log, 'No suitable faces detected in video %s', vids{i})
+		fprintf(fid_log, 'No suitable faces detected in video %s\n', vids{i})
 		continue;
 	end
 
@@ -68,6 +63,11 @@ for i = 1 : length(vids)
 	% Restart video
 	V.CurrentTime = 0;
 	frame_num = 0;
+
+	% Make the output subdirectory if necessary
+	if ~exist(fullfile(output_dir, basename), 'dir')
+		mkdir(fullfile(output_dir, basename));
+	end
 
 	% Create point tracker
 	tracker = vision.PointTracker('MaxBidirectionalError', 2);
@@ -89,6 +89,7 @@ for i = 1 : length(vids)
 		% Load frame and compute detection
 		frame = readFrame(V);
 		detection = step(face_detection, frame);
+		frame_num = frame_num + 1; % Increment frame number tracker
 
 		% If no detection is found, track one
 		if isempty(detection)
@@ -121,7 +122,7 @@ for i = 1 : length(vids)
 			else
 				% If we can't find a new detection, skip this frame
 				warning('Failed to find enough points...skipping frame number %d', frame_num)
-				fprintf(fid_log, 'Failed to find enough points...skipping frame number %d', frame_num);
+				fprintf(fid_log, 'Failed to find enough points...skipping frame number %d\n', frame_num);
 				continue;
 			end		
 		else
@@ -146,7 +147,6 @@ for i = 1 : length(vids)
 		% Crop face and write to file	
 		crop = lib.face_proc.faceCrop.crop(frame, detection);
 		imwrite(crop, out_name);
-		frame_num = frame_num + 1; % Increment frame number tracker
 	end
 
 	% Log number of frames in the video
