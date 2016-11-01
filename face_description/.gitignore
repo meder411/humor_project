@@ -4,3 +4,4 @@ frames
 logs
 *.caffemodel
 *.solverstate
+*.zip
