@@ -30,6 +30,7 @@ class FaceNetDataLayer(caffe.Layer):
 		# Reshape tops
 		top[0].reshape(self._batch_size, 3, 224, 224) # FaceNet's input is (batch_size x channels(3) x height(224) x width(224))
 		top[1].reshape(self._batch_size, 19) # 19 channels because 19 attributes
+		top[2].reshape(self._batch_size, 19) # 19 channels because 19 weights
 	
 	# Load data on forward pass
 	def forward(self, bottom, top):
@@ -58,8 +59,9 @@ class BatchLoader(object):
 	def __init__(self, params):
 		self._batch_size = params['batch_size'] # Number of images to load into the network at a time
 		self._phase = params['phase'].lower() # Are we training or testing the network
-		self._image_root = params['image_root'] # Root director of images
-		self._data = params['label_file'] # File containing GT labels
+		self._image_root = params['image_root'] # Root directory of images
+		self._data_file = params['label_file'] # File containing GT labels
+		self._weights_file = params['weights_file'] # File containing label weights
 		self._cur = 0 # Current image index
 
 		# Initialize a transformer for modifying images (e.g. augmentation, preprocessing)
@@ -69,7 +71,8 @@ class BatchLoader(object):
 		# Initialize and load the data
 		self._labels = []
 		self._image_paths = []
-		self.__load_data(self._image_root, self._data)
+		self._weights[]
+		self.__load_data(self._image_root, self._data_file, self._weights_file)
 
 		# Log the test runs
 		if self._phase is 'test':
@@ -108,14 +111,19 @@ class BatchLoader(object):
 		return self._transformer.preprocess(img), label
 
 	# Read the data from the file
-	def __load_data(self, image_root, data_file):
+	def __load_data(self, image_root, data_file, weights_file):
 		with open(data_file, 'r') as f:
 			label_names = f.readline()
 			data = f.readlines()
 			data = [line.strip('\r\n').split(' ') for line in data]
 			data =[[line[0], line[1], [float(x) for x in line[2:]]] for line in data]
 			self._labels = [line[2] for line in data]
-			self._image_paths = [osp.join('..', 'frames', line[0], line[0] + '_' + line[1] + '.jpg') for line in data]
+			self._image_paths = [osp.join(image_root, line[0], line[0] + '_' + line[1] + '.jpg') for line in data]
+		with open(weights_file, 'r') as f:
+			weights = f.readlines()
+			weights = [line.strip('\r\n').split(' ') for line in data]
+			for lbl in self._labels:
+				
 
 	# Shuffle the data lists *together*
 	def __shuffle_lists():

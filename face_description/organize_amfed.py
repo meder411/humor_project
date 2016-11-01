@@ -12,8 +12,6 @@ import random
 # Utility functions
 def check_exists(fname):
 	exist = osp.exists(fname)
-	if not exist:
-		print fname
 	return exist
 
 def correct_label(label):
@@ -132,12 +130,17 @@ for f in os.listdir(amfed_dir):
 							for lbl in label_dict:
 								# If the canonical label is found in this video's labeling, write this video's label
 								if lbl in labels:
-									label_weights[lbl] += 1 # Update the number of times this label has been observed in the dataset
 									idx = labels.index(lbl) # Get index of label in video's label list
 
 									# Output the label
 									output = output + ' ' + str(fdata[row_num, idx])
 									if lbl in cnn_labels:
+										# Update the number of times this label has been observed (i.e. non-zero value) in the dataset
+										if fdata[row_num, idx] > 0:
+											if lbl in label_weights:
+												label_weights[lbl] += 1
+											else:
+												label_weights[lbl] = 1
 										cnn_output = cnn_output + ' ' + str(fdata[row_num, idx])
 
 								# Otherwise, write a 0 for this label
@@ -158,11 +161,14 @@ for f in os.listdir(amfed_dir):
 								f_train.write(cnn_output)
 							lines_written += 1
 
-# Determine weights from label observances
-weights_output = 'Label Observations/Total Weight\n'
+print label_weights
+
+# Determine positive sample weights from label observances
+weights_output = 'Label +Observations/Total Weight\n'
 for lbl in label_weights:
-	weight = 1 / (label_weights[lbl] / lines_written) # Inverse frequency
-	weights_output = weights_output + '{} {}/{} {0:.3f}\n'.format(lbl, label_weights[lbl], lines_written, weight)
+	weight = float((lines_written - label_weights[lbl])) / float(label_weights[lbl]) # Ratio of negative occurances to positive occurances
+	weights_output = weights_output + '{0} {1}/{2} {3:.3f}\n'.format(lbl, label_weights[lbl], lines_written, weight)
+f_weights.write(weights_output)
 
 # Close all files
 f_all.close()
@@ -172,5 +178,6 @@ f_test.close()
 
 print 'Lines written = {}'.format(lines_written)
 print 'Mismatch = {}'.format(len(existing_files))
-print existing_files
+if existing_files:
+	print existing_files
 
