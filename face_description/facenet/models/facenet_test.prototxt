@@ -339,13 +339,12 @@ layer {
   name: "att_scores"
   type: "InnerProduct"
   inner_product_param {
-    num_output: 19
+    num_output: 6
   }
 }
 layer {
   name: "multi_label_loss"
   type: "Sigmoid"
   bottom: "att_scores"
-  bottom: "labels"
   top: "multi_label_loss"
 }

@@ -23,24 +23,32 @@ class FaceNetDataLayer(caffe.Layer):
 
 		# Store input as class variables
 		self._batch_size = params['batch_size']
-	
+
+		# Get phase of network operation	
+		self._phase = params['phase'].lower()
+
 		# Create a batch loader to load the images.
 		self._batch_loader = BatchLoader(params)
 	
 		# Reshape tops
 		top[0].reshape(self._batch_size, 3, 224, 224) # FaceNet's input is (batch_size x channels(3) x height(224) x width(224))
-		top[1].reshape(self._batch_size, 19) # 19 channels because 19 attributes
-		top[2].reshape(self._batch_size, 19) # 19 channels because 19 weights
+		top[1].reshape(self._batch_size, 6) # 6 channels because 6 attributes
+
+		if self._phase == 'train':
+			top[2].reshape(self._batch_size, 6) # 6 channels because 6 weights
 	
 	# Load data on forward pass
 	def forward(self, bottom, top):
 		for itt in range(self._batch_size):
 			# Use the batch loader to load the next image.
-			img, label = self._batch_loader.load_next_image()
+			img, label, weights = self._batch_loader.load_next_image()
 
 			# Add data directly to the Caffe data layer
 			top[0].data[itt, ...] = img
 			top[1].data[itt, ...] = label
+
+			if self._phase == 'train':
+				top[2].data[itt, ...] = weights
 
 	# As this layer always has fixed input and output sizes (from being the data layer),
 	# we can leave this unimplemented
@@ -61,7 +69,10 @@ class BatchLoader(object):
 		self._phase = params['phase'].lower() # Are we training or testing the network
 		self._image_root = params['image_root'] # Root directory of images
 		self._data_file = params['label_file'] # File containing GT labels
-		self._weights_file = params['weights_file'] # File containing label weights
+		if self._phase == 'train':
+			self._weights_file = params['weights_file'] # File containing label weights
+		else:
+			self._weights_file = ''
 		self._cur = 0 # Current image index
 
 		# Initialize a transformer for modifying images (e.g. augmentation, preprocessing)
@@ -71,7 +82,7 @@ class BatchLoader(object):
 		# Initialize and load the data
 		self._labels = []
 		self._image_paths = []
-		self._weights[]
+		self._weights = []
 		self.__load_data(self._image_root, self._data_file, self._weights_file)
 
 		# Log the test runs
@@ -96,10 +107,14 @@ class BatchLoader(object):
 		# Pull corresponding ground truth and convert to numpy float32 type array
 		label = np.asarray(self._labels[self._cur], dtype=np.float32)
 
+		# Normalize each label to sum to 1 (to mimic probability distribution as necessary for soft label cross entropy)
+		# Gives NaN loss...?
+#		label = label / np.sum(label)
+
 		# Log a test run
 		if self._phase is 'test':
 			with open(osp.join('test_GT_log.txt'), 'a') as f:
-			    f. write(str(self._cur) + ' ' + self._image_paths[self._cur] + ' '.join(map(str, map(int, label))) + '\n')
+			    f.write(str(self._cur) + ' ' + self._image_paths[self._cur] + ' '.join(map(str, map(int, label))) + '\n')
 
 		# Process image
 		self._transformer.set_mean([np.mean(img[:,:,i]) for i in xrange(img.shape[2])])
@@ -108,23 +123,27 @@ class BatchLoader(object):
 		# Increment image index
 		self._cur += 1
 		
-		return self._transformer.preprocess(img), label
+		return self._transformer.preprocess(img), label, self._weights
 
 	# Read the data from the file
 	def __load_data(self, image_root, data_file, weights_file):
 		with open(data_file, 'r') as f:
 			label_names = f.readline()
+			label_names = [lbl for lbl in label_names.strip('\n\r').split(' ')[2:]]
 			data = f.readlines()
 			data = [line.strip('\r\n').split(' ') for line in data]
 			data =[[line[0], line[1], [float(x) for x in line[2:]]] for line in data]
 			self._labels = [line[2] for line in data]
 			self._image_paths = [osp.join(image_root, line[0], line[0] + '_' + line[1] + '.jpg') for line in data]
-		with open(weights_file, 'r') as f:
-			weights = f.readlines()
-			weights = [line.strip('\r\n').split(' ') for line in data]
-			for lbl in self._labels:
-				
-
+		if weights_file:
+			with open(weights_file, 'r') as f:
+				f.readline()
+				weights = f.readlines()
+				weights = [line.strip('\n\r').split(' ') for line in weights]
+				weights = {line[0] : float(line[2]) for line in weights}
+				for lbl in label_names:
+					self._weights.append(weights[lbl])
+	
 	# Shuffle the data lists *together*
 	def __shuffle_lists():
 		# First shuffle the indices
@@ -183,10 +202,17 @@ class ImageTransformer(object):
 		return img
 
 	# Augments data by taking random crops and randomly flipping across vertical
+	# Only do the crops if the image is large enough
 	def augment(self, img):
 		img_dim = img.shape
-		tlr = random.randrange(img_dim[0] - self._crop_dims[0])
-		tlc = random.randrange(img_dim[1] - self._crop_dims[1])
+		if img_dim[0] > 224:
+			tlr = random.randrange(img_dim[0] - self._crop_dims[0])
+		else:
+			tlr = 0
+		if img_dim[1] > 224:
+			tlc = random.randrange(img_dim[1] - self._crop_dims[1])
+		else:
+			tlc = 0
 		flip = random.randint(0,1) * 2 - 1
 		img = img[:, ::flip, :]
 		return img[tlr : tlr+self._crop_dims[0], tlc : tlc+self._crop_dims[1], :]

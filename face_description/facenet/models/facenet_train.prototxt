@@ -7,7 +7,7 @@ layer {
   python_param {
     module: "facenet_data_layer"
     layer: "FaceNetDataLayer"
-    param_str: "{\'batch_size\': 75, \'phase\': \'train\', \'image_root\': \'../frames\', \'label_file\': \'amfed_train_labels.txt\'}"
+    param_str: "{\'batch_size\': 75, \'phase\': \'train\', \'image_root\': \'../frames\', \'label_file\': \'amfed_train_labels.txt\', \'weights_file\': \'amfed_label_weights.txt\'}"
   }
 }
 layer {
@@ -340,7 +340,7 @@ layer {
   name: "att_scores"
   type: "InnerProduct"
   inner_product_param {
-    num_output: 19
+    num_output: 6
   }
 }
 layer {

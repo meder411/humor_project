@@ -14,29 +14,49 @@ def check_exists(fname):
 	exist = osp.exists(fname)
 	return exist
 
-def correct_label(label):
-	if label == 'Au17' or label == 'AU17':
-		return 'AU17'
-	elif label == 'AU58' or label == 'Backward' or label == '58':
-		return 'AU58'
-	elif label == 'Forward' or label == 'AU57' or label == '57':
-		return 'AU57'
-	elif label == 'AU26' or label == 'Au26':
-		return 'AU26'
-	else:
-		return label
+# Merge the labels into more general classes
+# In each merger case, pick the max label value
+# The order of the mergers matters, as they are assembled in the same
+# order as the output_classes list hard-coded below
+def merge_labels(labels, data, output_classes):
+
+	# Initilize output array
+	output_data = np.zeros((data.shape[0], len(output_classes)), dtype=np.float32)
+	
+	# Global 'expressive' label
+	if 'Expressive' in labels:
+		output_data[:,0] = data[:,labels.index('Expressive')]
+	# Eyes		
+	indices = [labels.index(AU) for AU in ['AU02','AU04','AU05'] if AU in labels]
+	if indices:
+		output_data[:,1] = np.amax(data[:,indices], axis=1)
+	# Cheeks		
+	indices = [labels.index(AU) for AU in ['Unilateral_LAU14', 'Unilateral_RAU14', 'AU14'] if AU in labels]
+	if indices:
+		output_data[:,2] = np.amax(data[:,indices], axis=1)
+	# Head		
+	indices = [labels.index(AU) for AU in ['AU57','AU58', 'Forward', 'Backward', '58', '57'] if AU in labels]
+	if indices:
+		output_data[:,3] = np.amax(data[:,indices], axis=1)
+	# Mouth
+	indices = [labels.index(AU) for AU in ['Smile', 'negAU12', 'AU18', 'AU15', 'Unilateral_LAU12', 'Unilateral_RAU12'] if AU in labels]
+	if indices:
+		output_data[:,4] = np.amax(data[:,indices], axis=1)
+	# Chin	
+	indices = [labels.index(AU) for AU in ['AU17', 'Au17', 'AU26', 'Au26'] if AU in labels]
+	if indices:
+		output_data[:,5] = np.amax(data[:,indices], axis=1)
+
+	return output_data
 
 # Paths
 amfed_dir = '/playpen/meder/projects/humor/face_description/AMFED/AULabels'
-f_all = open('amfed_uniform_labels.txt', 'w')
-f_weights = open('amfed_label_weights.txt', 'w')
-f_train = open('amfed_train_labels.txt', 'w')
-f_test = open('amfed_test_labels.txt', 'w')
+f_weights = open('facenet/amfed_label_weights.txt', 'w')
+f_train = open('facenet/amfed_train_labels.txt', 'w')
+f_test = open('facenet/amfed_test_labels.txt', 'w')
 
-# Labels used as part of FaceNet
-cnn_labels = set(['Smile', 'AU02', 'AU26', 'AU04', 'AU05', 'AU09', 'AU12', 'negAU12', \
-	'Unilateral_LAU12', 'Unilateral_LAU14', 'AU57', 'AU58', 'AU18', 'AU15', \
-	'AU14', 'AU17', 'AU10', 'Unilateral_RAU12', 'Unilateral_RAU14', 'Expressive'])
+# Labels used as part of neural network
+output_classes = ['Expressive', 'Eyes', 'Cheeks', 'Head', 'Mouth', 'Chin']
 
 # Load vid-frame_number file
 with open('number_of_frames.txt') as name_fn_file:
@@ -51,30 +71,10 @@ for dir_name in os.listdir('frames'):
 		existing_files.add(filename)
 print 'Number of files: {}'.format(len(existing_files))	
 
-# Get all labels used
-label_dict = {}
-for f in os.listdir(amfed_dir):
-	if f.endswith('.csv'):
-		with open(osp.join(amfed_dir, f), 'r') as data_file:
-			labels = data_file.readline().strip('\r\n').split(',')
-			for lbl in labels:
-				lbl = correct_label(lbl)
-				if lbl in label_dict:
-					label_dict[lbl] += 1
-				else:
-					label_dict[lbl] = 1
-
-# Output file header
-output = 'Basename Frame'
-for lbl in label_dict:
-	lbl = correct_label(lbl)
-	output = output + ' ' + lbl
-output = output + '\n'
-f_all.write(output)
 
 # Output CNN files headers
 cnn_output = 'Basename Frame'
-for lbl in cnn_labels:
+for lbl in output_classes:
 	cnn_output = cnn_output + ' ' + lbl
 cnn_output = cnn_output + '\n'
 f_train.write(cnn_output)
@@ -89,7 +89,6 @@ for f in os.listdir(amfed_dir):
 			
 			# Read this file's labels
 			labels = data_file.readline().strip('\r\n').split(',')
-			labels = [correct_label(lbl) for lbl in labels]
 
 			# Read and format data
 			data = data_file.readlines()
@@ -99,12 +98,17 @@ for f in os.listdir(amfed_dir):
 				fdata.append([float(x) for x in line])
 			fdata = np.array(fdata) / 100.0
 
+			# Group labels into the desired output classes
+			fdata = merge_labels(labels, fdata, output_classes)
+
+			# Get video basename
 			vid_basename = osp.splitext(f)[0][:-6]
-			time_idx = labels.index('Time')
 
 			# Make sure there are frames sampled from this video
 			row_num = 0
+			time_idx = labels.index('Time')
 			if vid_basename in fnumbers.keys():
+
 				# Print each set of video labels to file
 				for t in xrange(int(fnumbers[vid_basename])):
 			
@@ -119,6 +123,7 @@ for f in os.listdir(amfed_dir):
 
 					# Make sure we're not overrunning the file
 					if row_num < fdata.shape[0]:
+
 						# Make sure this row has a corresponding video frame
 						exists = check_exists(osp.join('frames', vid_basename, vid_basename + '_{0:05}.jpg'.format(t)))
 						if exists:
@@ -127,33 +132,25 @@ for f in os.listdir(amfed_dir):
 							cnn_output = vid_basename + ' ' + '{0:05}'.format(t)
 
 							# Go through each of the canonical labels
-							for lbl in label_dict:
-								# If the canonical label is found in this video's labeling, write this video's label
-								if lbl in labels:
-									idx = labels.index(lbl) # Get index of label in video's label list
+							# (merge_labels() function ensures the proper order)
+							for lbl in output_classes:
 
-									# Output the label
-									output = output + ' ' + str(fdata[row_num, idx])
-									if lbl in cnn_labels:
-										# Update the number of times this label has been observed (i.e. non-zero value) in the dataset
-										if fdata[row_num, idx] > 0:
-											if lbl in label_weights:
-												label_weights[lbl] += 1
-											else:
-												label_weights[lbl] = 1
-										cnn_output = cnn_output + ' ' + str(fdata[row_num, idx])
+								# Get index of label
+								idx = output_classes.index(lbl)
 
-								# Otherwise, write a 0 for this label
-								else:
-									output = output + ' ' + str(0.0)
-									if lbl in cnn_labels:
-										cnn_output = cnn_output + ' ' + str(0.0)
+								# Update the number of times this label has been observed (i.e. non-zero value) in the dataset
+								if fdata[row_num, idx] > 0:
+									if lbl in label_weights:
+										label_weights[lbl] += 1
+									else:
+										label_weights[lbl] = 1
+
+								cnn_output = cnn_output + ' ' + str(fdata[row_num, idx])
+
+							# End line
+							cnn_output = cnn_output + '\n'
 
 							# Write outputs to file
-							output = output + '\n'
-							cnn_output = cnn_output + '\n'
-							f_all.write(output)
-
 							# Split data into 90% training, 10% test
 							if random.randrange(0,10) == 0:
 								f_test.write(cnn_output)
@@ -171,10 +168,9 @@ for lbl in label_weights:
 f_weights.write(weights_output)
 
 # Close all files
-f_all.close()
-f_weights.close()
 f_train.close()
 f_test.close()
+f_weights.close()
 
 print 'Lines written = {}'.format(lines_written)
 print 'Mismatch = {}'.format(len(existing_files))

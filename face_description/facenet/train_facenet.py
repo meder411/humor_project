@@ -7,6 +7,7 @@ import os
 import os.path as osp
 import numpy as np
 import caffe
+import time
 
 ######################
 # UTILITY FUNCTIONS
@@ -52,7 +53,7 @@ def write_accuracy_to_file(filename, itt, att_acc):
 ###########################
 MODELS_ROOT = 'models' # Root of directory containing models
 LOGS_ROOT = '../logs' # Root of directory to put log files
-GPU_IDX = 1 # Set which GPU to use
+GPU_IDX = 0 # Set which GPU to use
 TRAIN_BS = 75 # Training batch size
 TEST_BS = 1 # Testing batch size
 
@@ -80,7 +81,7 @@ baseline_att_acc = check_baseline_accuracy(test_net, 50, TEST_BS)
 print 'Baseline attribute accuracy:{0:.4f}'.format(baseline_att_acc)
 
 # Initialize a new log file
-accuracy_file = osp.join(LOGS_ROOT, 'training_accuracy.txt')
+accuracy_file = osp.join(LOGS_ROOT, 'training_accuracy' + '_' + time.ctime() + '.txt')
 with open(accuracy_file, 'w') as f:
 	f.write('Iteration Attribute_Accuracy\n')
 	f.write('0 {0:.4f}\n'.format(baseline_att_acc))
