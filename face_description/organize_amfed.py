@@ -53,6 +53,7 @@ def merge_labels(labels, data, output_classes):
 amfed_dir = '/playpen/meder/projects/humor/face_description/AMFED/AULabels'
 f_weights = open('facenet/amfed_label_weights.txt', 'w')
 f_train = open('facenet/amfed_train_labels.txt', 'w')
+f_valid = open('facenet/amfed_valid_labels.txt', 'w')
 f_test = open('facenet/amfed_test_labels.txt', 'w')
 
 # Labels used as part of neural network
@@ -152,8 +153,11 @@ for f in os.listdir(amfed_dir):
 
 							# Write outputs to file
 							# Split data into 90% training, 10% test
-							if random.randrange(0,10) == 0:
+							bit = random.randrange(0,10) 
+							if bit == 0:
 								f_test.write(cnn_output)
+							elif bit == 1:
+								f_valid.write(cnn_output)
 							else:
 								f_train.write(cnn_output)
 							lines_written += 1
@@ -169,6 +173,7 @@ f_weights.write(weights_output)
 
 # Close all files
 f_train.close()
+f_valid.close()
 f_test.close()
 f_weights.close()
 

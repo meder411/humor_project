@@ -107,13 +107,9 @@ class BatchLoader(object):
 		# Pull corresponding ground truth and convert to numpy float32 type array
 		label = np.asarray(self._labels[self._cur], dtype=np.float32)
 
-		# Normalize each label to sum to 1 (to mimic probability distribution as necessary for soft label cross entropy)
-		# Gives NaN loss...?
-#		label = label / np.sum(label)
-
 		# Log a test run
 		if self._phase is 'test':
-			with open(osp.join('test_GT_log.txt'), 'a') as f:
+			with open(osp.join('..', 'logs', 'test_GT_log.txt'), 'a') as f:
 			    f.write(str(self._cur) + ' ' + self._image_paths[self._cur] + ' '.join(map(str, map(int, label))) + '\n')
 
 		# Process image
@@ -145,10 +141,10 @@ class BatchLoader(object):
 					self._weights.append(weights[lbl])
 	
 	# Shuffle the data lists *together*
-	def __shuffle_lists():
+	def __shuffle_lists(self):
 		# First shuffle the indices
-		index_shuffle = xrange(len(self._image_paths))
-		shuffle(index_shuffle)
+		index_shuffle = range(len(self._image_paths))
+		random.shuffle(index_shuffle)
 		
 		# Then reindex the lists
 		self._image_paths = [self._image_paths[i] for i in index_shuffle]

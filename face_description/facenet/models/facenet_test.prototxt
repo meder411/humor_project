@@ -343,8 +343,9 @@ layer {
   }
 }
 layer {
-  name: "multi_label_loss"
+  name: "att_probability" 
   type: "Sigmoid"
   bottom: "att_scores"
-  top: "multi_label_loss"
+  top: "att_probability"
+
 }
