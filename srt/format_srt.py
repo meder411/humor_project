@@ -1,31 +1,94 @@
+__author__ = 'Marc Eder'
+__date__ ='October 19, 2016'
+
+
+# A script to parse the SRT files.
+# (COMPLETE)	 	- Shifts the time stamps so that each episodes starts at 0:00:00.00
+# (COMPLETE)		- Corrects misspelled words (a common issue is interchanging I <--> l)
+# (TODO)		- Aligns character names with dialogue
+
+import os
+import os.path as osp
+from nltk.tag import pos_tag
 import enchant
+import re
+import codecs
 
-def levenshteinDistance(s1, s2):
-	if len(s1) > len(s2):
-		s1, s2 = s2, s1
+# Functiion to verify that each word is valid (i.e. in the dictionary or a proper noun)
+def replace(sp_dict, word, log_file, log_info):
 
-	distances = range(len(s1) + 1)
-	for i2, c2 in enumerate(s2):
-		distances_ = [i2+1]
-	for i1, c1 in enumerate(s1):
-		if c1 == c2:
-			distances_.append(distances[i1])
-	else:
-		distances_.append(1 + min((distances[i1], distances[i1 + 1], distances_[-1])))
-		distances = distances_
-	return distances[-1]
-
-def replace(sp_dict, word, edit_dist):
-
-	if sp_dict.check(word):
+	# Return if word is empty string
+	if word == '':
 		return word
 
-	suggestions = sp_dict.suggest(word)
-
-	if suggestions and levenshteinDistance(word, suggestions[0]) <= edit_dist:
-		return suggestions[0]
-	else:
+	# Checks if the word is valid. If so, returns it back
+	if sp_dict.check(word) or pos_tag([word]) == 'NNP':
 		return word
+
+	# If the word is invalid, check if replacing 'I' with 'l' returns a valid word
+	ifix_word = word.replace('I', 'l')
+	if sp_dict.check(ifix_word) or pos_tag([ifix_word]) == 'NNP':
+		return ifix_word
+
+	# Also try the reverse
+	lfix_word = word.replace('l', 'I')
+	if sp_dict.check(lfix_word) or pos_tag([lfix_word]) == 'NNP':
+		return lfix_word
+
+	# If there is a possesive suffix, return true if the base word is valid
+	if word[-2:] == '\'s':
+		if word[:-2] == replace(sp_dict, word[:-2], log_file, log_info):
+			return word
+
+	# If a capital 'I' falls in the middle of the word, replace it with a lowercase 'l'
+	if 'I' in word[1:]:
+		word = word[0] + word[1:].replace('I', 'l')
+		return word
+
+	# Corrects the common parsing mistake of 'IK' instead of 'K'
+	if word[0] == 'I' and word[1].isupper():
+		return word[1:]		
+
+	# If it still fails at this point, use the word anyway, but log when this happens
+	log_file.write(log_info + ' - \'' + word + '\'\n')
+	return word
+
+
+
+# Function to strip all punctuation at the start and end of a word
+# e.g. '(the)' --> 'the', but 'don't' --> 'don't'
+# Returns the leading punctuation, trailing puncutation, and word itself
+def strip_external_punctuation(exclude, word):
+	leading = ''
+	trailing = ''
+	word = word.strip()
+	if len(word) >= 3:
+		if word[:3] == '<i>':
+			leading = '<i>'
+			word = word[3:]
+	if len(word) >= 4:
+		if word[-4:] == '</i>':
+			trailing = '</i>'
+			word = word[:-4]
+	if len(word) > 0:
+		ch = word[0]
+		while ch in exclude:
+			leading += ch
+			word = word[1:]
+			if len(word) > 0:
+				ch = word[0]
+			else:
+				ch = ''
+	if len(word) > 0:
+		ch = word[-1]
+		while ch in exclude:
+			trailing = ch + trailing
+			word = word[:-1]
+			if len(word) > 0:
+				ch = word[-1]
+			else:
+				ch = ''
+	return leading, trailing, word
 
 
 ####################
@@ -35,23 +98,95 @@ import pysrt
 import os
 import string
 
+# Punctuation set for exclusion
 exclude = set(string.punctuation)
+exclude.add('<i>')
+exclude.add('</i>')
+
+# Load the Amerian English dictionary
 spell_dict = enchant.Dict('en_US')
 
-for f in os.listdir('.'):
+if not osp.exists('edited'):
+	os.mkdir('edited')
+
+log_file = codecs.open('spell_check_log.txt', 'w', encoding='utf-8')
+
+# Go through each SRT file
+for f in os.listdir('subtitles'):
 	if f.endswith('.srt'):
 
-		subs = pysrt.open(f)
-#		subs.shift(index=-subs[0].index)
+		print f
+
+		# Open the subtitle files
+		subs = pysrt.open(osp.join('subtitles', f))
+
+		# Remove the titular subtitle
+		del subs[0]
+
+		# Shift the timestamps
 		subs.shift(milliseconds=-subs[0].start.milliseconds)
 		subs.shift(seconds=-subs[0].start.seconds)
 		subs.shift(minutes=-subs[0].start.minutes)
-		for i in xrange(1):#xrange(len(subs)):
-#			text = ''.join(ch for ch in subs[i].text if ch not in exclude)
-			words = subs[i].text.split()
+
+		# Correct spelling errors
+		for i in xrange(len(subs)):
+
+			log_info = '{}, {:02d}:{:02d}.{:03d}'.format(f, subs[i].start.minutes, subs[i].start.seconds, subs[i].start.milliseconds)
+
+			# Break sentence into list of words
+			words = subs[i].text.split(' ')
+
+			# Separate any words that may be joined by a newline character and remove any all-whitespace words
+			words = [w for word in words for w in word.split('\n') if not w.isspace() and w != '']
+
+			# Spell-check words in subtitle text
+			clean_text = []
 			for word in words:
-				print replace(spell_dict, word, 8)
-	
+				leading, trailing, word = strip_external_punctuation(exclude, word)
+				clean_text.append(leading + replace(spell_dict, word, log_file, log_info) + trailing)
+
+			# Recombine subtitle
+			fixed = ' '.join(clean_text)
+
+			# Separate lines that may have been combined by mistake in parsing
+			fixed = fixed.replace('-', '\n')
 
 
-		subs.save('shifted_' + f, encoding='utf=8') 
+			# Remove any empty lines that may have been formed
+			fixed = [phrase for phrase in fixed.split('\n') if not phrase.isspace() and phrase != '']
+			subs[i].text = '\n'.join(fixed)
+
+		# Save modified SRT file
+		subs.save(osp.join('edited', 'edited_' + f), encoding='utf=8') 
+
+import ngram
+
+# Go through each SRT file
+for transcript in os.listdir('transcripts'):
+	if transcript.endswith('.txt'):
+		with open(osp.join('transcripts', transcript), 'r') as f:
+
+			basename = osp.splitext(transcript)[0]
+			print basename
+			# Parse the transcript file and remove any non-dialogue (denoted by lines starting with punctuation)
+			lines = f.readlines()
+			lines = [line.replace('[', '\n[').strip() for line in lines]
+			lines = [l for line in lines for l in line.split('\n') if not l.isspace() and l != ''] # Flatten list
+			lines = [line for line in lines if line != '' and line[0] not in exclude]
+			lines = zip(*[(line[line.find(':')+1:].strip(), line[:line.find(':')].strip()) for line in lines])
+			dialogue = list(lines[0])
+			speakers = list(lines[1])
+			G = ngram.NGram(dialogue)
+
+			# Open the corresponding edited subtitle file
+			subs = pysrt.open(osp.join('edited', 'edited_' + basename + '.srt'))
+
+			for i in xrange(5):#len(subs)):
+				print subs[i].text
+				print G.find(subs[i].text)
+
+
+#			with open('test.txt', 'w') as fout:
+#				fout.write('\n'.join(lines))
+
+
