@@ -1,10 +1,6 @@
 1036
-01:00:00,000 --> 01:00:04,835
-If I were omnipotent for a day, I would want world peace...
-
-1037
-01:00:04,905 --> 01:00:07,897
-...no hunger, good things for the rain forest.
+01:00:00,000 --> 01:00:07,897
+If I were omnipotent for a day, I would want world peace no hunger, good things for the rain forest.
 
 1038
 01:00:08,909 --> 01:00:10,706
@@ -100,21 +96,16 @@ What? What? What?
 
 1061
 01:02:11,899 --> 01:02:15,926
-Hi. 
-It's okay. You just nodded off again.
+-Hi.
+-It's okay. You just nodded off again.
 
 1062
 01:02:16,737 --> 01:02:17,726
 What's going on?
 
 1063
-01:02:17,805 --> 01:02:22,799
-I got no sleep last night. My grandmother has a new boyfriend...
-
-1064
-01:02:23,744 --> 01:02:28,704
-...and they're both kind of insecure in bed, so
- And deaf.
+01:02:17,805 --> 01:02:28,704
+I got no sleep last night. My grandmother has a new boyfriend and they're both kind of insecure in bed, so-- And deaf.
 
 1065
 01:02:29,950 --> 01:02:33,852
@@ -126,12 +117,12 @@ You have no idea how loud they are.
 
 1067
 01:02:38,726 --> 01:02:41,820
-You can stay with Rachel and me. 
-Thanks.
+-You can stay with Rachel and me.
+-Thanks.
 
 1068
 01:02:41,929 --> 01:02:44,921
-95, 96, 97. See, I told you.
+--95, 96, 97. See, I told you.
 
 1069
 01:02:45,733 --> 01:02:48,031
@@ -147,34 +138,25 @@ There's the birthday boy.
 
 1072
 01:02:54,842 --> 01:02:58,903
-Hockey tickets. Rangers
-Penguins tonight and we're taking you.
+Hockey tickets. Rangers-Penguins tonight and we're taking you.
 
 1073
 01:02:59,680 --> 01:03:02,706
-Happy birthday, pal! 
-We love you, man.
+-Happy birthday, pal!
+-We love you, man.
 
 1074
 01:03:03,784 --> 01:03:06,878
 It's funny. My birthday was seven months ago.
 
 1075
-01:03:06,920 --> 01:03:09,787
-So? 
-So you had an extra ticket...
-
-1076
-01:03:09,890 --> 01:03:12,984
-...and couldn't decide who got to bring a date?
+01:03:06,920 --> 01:03:12,984
+-So?
+-So you had an extra ticket and couldn't decide who got to bring a date?
 
 1077
 01:03:13,727 --> 01:03:16,924
-Well, aren't we Mr. The
-Glass
-ls
-Half
-Empty?
+Well, aren't we Mr. The-Glass-ls-Half-Empty?
 
 1078
 01:03:17,698 --> 01:03:21,691
@@ -182,24 +164,16 @@ Oh, my God! Is today the 20th? October 20th?
 
 1079
 01:03:21,735 --> 01:03:25,796
-I hoped you wouldn't remember. 
-What's wrong with the 20th?
+-I hoped you wouldn't remember.
+-What's wrong with the 20th?
 
 1080
 01:03:25,839 --> 01:03:30,708
 Eleven days before Halloween. All the good costumes are gone?
 
 1081
-01:03:30,811 --> 01:03:33,939
-Today's the day Carol and I first...
-
-1082
-01:03:34,748 --> 01:03:36,807
-...consummated our...
-
-1083
-01:03:36,850 --> 01:03:39,717
-...physical relationship.
+01:03:30,811 --> 01:03:39,717
+Today's the day Carol and I first consummated our physical relationship.
 
 1084
 01:03:39,953 --> 01:03:41,921
@@ -207,8 +181,8 @@ Sex.
 
 1085
 01:03:44,825 --> 01:03:49,728
-You told your sister that? 
-Believe me, I told everyone.
+-You told your sister that?
+-Believe me, I told everyone.
 
 1086
 01:03:49,930 --> 01:03:51,830
@@ -216,8 +190,7 @@ I better pass on the game.
 
 1087
 01:03:51,932 --> 01:03:56,892
-I'm just gonna go home and think about my ex
-wife and her lesbian lover.
+I'm just gonna go home and think about my ex-wife and her lesbian lover.
 
 1088
 01:03:57,871 --> 01:04:00,863
@@ -233,18 +206,18 @@ Come on, what do you say, big guy?
 
 1091
 01:04:08,916 --> 01:04:11,783
-What are you doing? 
-I have no idea.
+-What are you doing?
+-I have no idea.
 
 1092
 01:04:11,885 --> 01:04:16,686
-Come on, Ross. 
-Maybe it will take my mind off it.
+-Come on, Ross.
+-Maybe it will take my mind off it.
 
 1093
 01:04:16,724 --> 01:04:19,784
-Promise to buy me a big foam finger? 
-You got it.
+-Promise to buy me a big foam finger?
+-You got it.
 
 1094
 01:04:19,893 --> 01:04:22,828
@@ -260,25 +233,20 @@ I remember when I got my first paycheck.
 
 1097
 01:04:30,904 --> 01:04:34,931
-There was a cave
-in in a mine, and eight people were killed.
+There was a cave-in in a mine, and eight people were killed.
 
 1098
 01:04:36,744 --> 01:04:40,942
-You worked in a mine? 
-No, I worked at a Dairy Queen. Why?
+-You worked in a mine?
+-No, I worked at a Dairy Queen. Why?
 
 1099
 01:04:43,951 --> 01:04:49,821
 Isn't this exciting? I earned this. I wiped tables for it. I steamed milk.
 
 1100
-01:04:49,857 --> 01:04:51,916
-And it was totally...
-
-1101
-01:04:51,959 --> 01:04:54,723
-...not worth it.
+01:04:49,857 --> 01:04:54,723
+And it was totally not worth it.
 
 1102
 01:04:54,828 --> 01:04:58,696
@@ -286,8 +254,7 @@ What's FICA? Why's he getting all my money?
 
 1103
 01:04:59,666 --> 01:05:02,794
-I mean, what
-? Chandler, look at that.
+I mean, what--? Chandler, look at that.
 
 1104
 01:05:03,670 --> 01:05:05,763
@@ -307,18 +274,18 @@ Oh, yeah. Yeah.
 
 1108
 01:05:13,914 --> 01:05:17,907
-By the way, great service today. 
-Yeah.
+-By the way, great service today.
+-Yeah.
 
 1109
 01:05:21,789 --> 01:05:23,916
-Hockey! 
-Hockey!
+-Hockey!
+-Hockey!
 
 1110
 01:05:34,902 --> 01:05:37,700
-Hockey! 
-Hockey.
+-Hockey!
+-Hockey.
 
 1111
 01:05:38,906 --> 01:05:40,897
@@ -330,7 +297,7 @@ Oh, my God!
 
 1113
 01:05:48,949 --> 01:05:53,716
-I swear I've seen birds do this on <i>Wild Kingdom.</i>
+I swear I've seen birds do this on Wild Kingdom.
 
 1114
 01:05:53,754 --> 01:05:54,948
@@ -357,13 +324,8 @@ I know, I know! I'm a duplex.
 Kiki, you look phenomenal. I mean, you've lost, like, a ton of weight.
 
 1120
-01:06:22,883 --> 01:06:24,817
-And you should...
-
-1121
-01:06:25,686 --> 01:06:28,985
-...really, really
- It's time to stop, you look perfect.
+01:06:22,883 --> 01:06:28,985
+And you should really, really-- It's time to stop, you look perfect.
 
 1122
 01:06:29,723 --> 01:06:30,883
@@ -383,7 +345,7 @@ Look, look! I have elbows!
 
 1126
 01:06:51,945 --> 01:06:54,812
-Passes it up to Leetch.
+--Passes it up to Leetch.
 
 1127
 01:06:54,915 --> 01:06:57,884
@@ -391,8 +353,7 @@ Leetch spots Messier. Here's the pass!
 
 1128
 01:06:59,653 --> 01:07:03,783
-We'll take a time
-out while Messier looks at some women's shoes.
+We'll take a time-out while Messier looks at some women's shoes.
 
 1129
 01:07:03,857 --> 01:07:08,851
@@ -408,17 +369,16 @@ She never took them off.
 
 1132
 01:07:14,801 --> 01:07:17,895
-It's because we
- Sorry, sorry.
+It's because we-- Sorry, sorry.
 
 1133
 01:07:18,705 --> 01:07:21,799
-I can't believe
+I can't believe--
 
 1134
 01:07:22,809 --> 01:07:24,868
-What? 
-Peach pit.
+-What?
+-Peach pit.
 
 1135
 01:07:25,679 --> 01:07:27,670
@@ -426,25 +386,20 @@ Yes, bunny?
 
 1136
 01:07:27,881 --> 01:07:31,681
-Peach pit. That night, we had
+Peach pit. That night, we had--
 
 1137
 01:07:31,785 --> 01:07:35,778
-Peaches? 
-Actually, nectarines but....
+-Peaches?
+-Actually, nectarines but....
 
 1138
 01:07:35,822 --> 01:07:37,687
 Could've been a peach.
 
 1139
-01:07:37,791 --> 01:07:42,922
-Then we
- Then we got dressed and I walked her to...
-
-1140
-01:07:43,697 --> 01:07:46,928
-...the bus stop. I'm fine.
+01:07:37,791 --> 01:07:46,928
+Then we-- Then we got dressed and I walked her to the bus stop. I'm fine.
 
 1141
 01:07:47,935 --> 01:07:50,927
@@ -464,18 +419,18 @@ Well, the biggest news is still you dumping Barry at the altar.
 
 1145
 01:08:07,955 --> 01:08:11,857
-Let's talk reality for a second. 
-Okay.
+-Let's talk reality for a second.
+-Okay.
 
 1146
 01:08:11,892 --> 01:08:16,659
-When are you coming home? 
-What? Guys, I'm not.
+-When are you coming home?
+-What? Guys, I'm not.
 
 1147
 01:08:16,763 --> 01:08:20,665
-Come on. This is us. 
-I'm not.
+-Come on. This is us.
+-I'm not.
 
 1148
 01:08:20,701 --> 01:08:24,694
@@ -487,8 +442,8 @@ I even do my own laundry.
 
 1150
 01:08:31,878 --> 01:08:34,938
-This is what I'm doing now. 
-Waitressing?
+-This is what I'm doing now.
+-Waitressing?
 
 1151
 01:08:35,716 --> 01:08:41,712
@@ -520,8 +475,8 @@ Okay, how would you like some Tiki Death punch?
 
 1158
 01:09:20,861 --> 01:09:23,694
-What's that? 
-Well, it's rum and
+-What's that?
+-Well, it's rum and--
 
 1159
 01:09:23,797 --> 01:09:25,697
@@ -545,8 +500,8 @@ But we can prep the guy.
 
 1164
 01:09:46,820 --> 01:09:51,723
-Rach, it's the Visa card people. 
-Oh, God. Ask them what they want.
+-Rach, it's the Visa card people.
+-Oh, God. Ask them what they want.
 
 1165
 01:09:51,792 --> 01:09:55,694
@@ -602,8 +557,8 @@ Let's play Twister!
 
 1178
 01:10:50,851 --> 01:10:55,788
-Sorry. 
-Sorry. Sorry, sorry.
+-Sorry.
+-Sorry. Sorry, sorry.
 
 1179
 01:10:55,822 --> 01:10:59,781
@@ -643,12 +598,12 @@ I gave up, like, everything. And for what?
 
 1188
 01:11:27,921 --> 01:11:31,755
-You are just like Jack. 
-Jack from downstairs?
+-You are just like Jack.
+-Jack from downstairs?
 
 1189
 01:11:32,025 --> 01:11:34,960
-No, <i>Jack and the Beanstalk.</i>
+No, Jack and the Beanstalk.
 
 1190
 01:11:35,829 --> 01:11:37,729
@@ -659,12 +614,8 @@ Ah, the other Jack.
 Right. He gave up something but then he got those magic beans.
 
 1192
-01:11:41,968 --> 01:11:46,769
-And then he woke up and there was this big plant...
-
-1193
-01:11:46,840 --> 01:11:49,968
-...outside of his window, full of possibilities.
+01:11:41,968 --> 01:11:49,968
+And then he woke up and there was this big plant outside of his window, full of possibilities.
 
 1194
 01:11:50,777 --> 01:11:53,871
@@ -676,8 +627,8 @@ Okay. But, Pheebs, Jack gave up a cow. I gave up an orthodontist.
 
 1196
 01:12:00,787 --> 01:12:05,815
-Okay, I know I didn't love him.... 
-Oh, see, Jack did love the cow.
+-Okay, I know I didn't love him....
+-Oh, see, Jack did love the cow.
 
 1197
 01:12:06,693 --> 01:12:09,685
@@ -689,8 +640,8 @@ Everything was figured out. Now it's like....
 
 1199
 01:12:12,799 --> 01:12:14,790
-Floopy? 
-Yeah.
+-Floopy?
+-Yeah.
 
 1200
 01:12:15,936 --> 01:12:19,702
@@ -698,8 +649,7 @@ We don't know where we're going.
 
 1201
 01:12:19,739 --> 01:12:24,836
-It's all gonna come together and it's just gonna be un
-floopy.
+It's all gonna come together and it's just gonna be un-floopy.
 
 1202
 01:12:24,945 --> 01:12:27,709
@@ -715,8 +665,7 @@ Pheebs?
 
 1205
 01:12:37,958 --> 01:12:41,917
-Well, because you just
- I don't like this question.
+Well, because you just-- I don't like this question.
 
 1206
 01:12:42,829 --> 01:12:46,731
@@ -744,8 +693,8 @@ Pass it! Pass it!
 
 1212
 01:13:07,887 --> 01:13:12,790
-He's open! He's open! 
-Shoot it! Shoot it!
+-He's open! He's open!
+-Shoot it! Shoot it!
 
 1213
 01:13:17,797 --> 01:13:20,698
@@ -781,17 +730,17 @@ I don't want to make any trouble but I'm in a lot of pain.
 
 1221
 01:14:00,974 --> 01:14:05,707
-My face is dented. 
-Well, you'll have to wait your turn.
+-My face is dented.
+-Well, you'll have to wait your turn.
 
 1222
 01:14:05,779 --> 01:14:10,773
-How long do you think it will be? 
-Any minute now.
+-How long do you think it will be?
+-Any minute now.
 
 1223
 01:14:12,886 --> 01:14:14,877
-Hey, this
+Hey, this--
 
 1224
 01:14:26,900 --> 01:14:31,701
@@ -803,18 +752,18 @@ No, you were right. I don't have a plan.
 
 1226
 01:14:38,912 --> 01:14:42,712
-Pizza guy. 
-Food!
+-Pizza guy.
+-Food!
 
 1227
 01:14:42,749 --> 01:14:44,808
-Phoebe? 
-What?
+-Phoebe?
+-What?
 
 1228
 01:14:44,851 --> 01:14:48,912
-Do you have a plan? 
-I don't even have a ''pla.''
+-Do you have a plan?
+-I don't even have a ''pla.''
 
 1229
 01:14:51,758 --> 01:14:53,919
@@ -826,8 +775,7 @@ No, no, no. That's not what we ordered!
 
 1231
 01:14:58,665 --> 01:15:01,964
-We ordered a fat
-free crust with extra cheese!
+We ordered a fat-free crust with extra cheese!
 
 1232
 01:15:04,871 --> 01:15:09,672
@@ -851,18 +799,18 @@ Was this a small Mediterranean guy with curiously intelligent good looks?
 
 1237
 01:15:30,930 --> 01:15:34,923
-That sounds right. 
-Was he wearing a stunning blue suit?
+-That sounds right.
+-Was he wearing a stunning blue suit?
 
 1238
 01:15:35,735 --> 01:15:39,000
-And a power tie? 
-No, pretty much just a towel.
+-And a power tie?
+-No, pretty much just a towel.
 
 1239
 01:15:39,739 --> 01:15:43,732
-Oh, God! 
-You guys want me to take this back?
+-Oh, God!
+-You guys want me to take this back?
 
 1240
 01:15:43,843 --> 01:15:48,746
@@ -878,8 +826,8 @@ That's Big Bird's friend.
 
 1243
 01:16:02,796 --> 01:16:05,890
-I see pizza! 
-I want to see. Let me see.
+-I see pizza!
+-I want to see. Let me see.
 
 1244
 01:16:06,666 --> 01:16:08,657
@@ -899,13 +847,13 @@ Oh, him! The little guy. Oh, I love him!
 
 1248
 01:16:19,813 --> 01:16:24,978
-Wait. Wait, I see a woman. 
-Tell me it's his mother.
+-Wait. Wait, I see a woman.
+-Tell me it's his mother.
 
 1249
 01:16:25,718 --> 01:16:27,913
-Definitely not his mother. 
-Oh, no!
+-Definitely not his mother.
+-Oh, no!
 
 1250
 01:16:28,688 --> 01:16:32,886
@@ -913,8 +861,7 @@ Wait, she's walking across the floor. She's walking, she's walking....
 
 1251
 01:16:32,926 --> 01:16:36,885
-She's going for the pizza
- That's not for you, bitch!
+She's going for the pizza-- That's not for you, bitch!
 
 1252
 01:16:51,911 --> 01:16:56,780
@@ -929,12 +876,8 @@ That guy with the toe thing, who's he sleeping with?
 Oh, come on, Dora. Don't be mad.
 
 1255
-01:17:06,726 --> 01:17:09,661
-I know we both said some things...
-
-1256
-01:17:10,663 --> 01:17:14,861
-...we didn't mean but that doesn't mean we still don't love each other.
+01:17:06,726 --> 01:17:14,861
+I know we both said some things...we didn't mean but that doesn't mean we still don't love each other.
 
 1257
 01:17:15,668 --> 01:17:18,796
@@ -942,13 +885,13 @@ You know, I feel like I've lost her.
 
 1258
 01:17:22,675 --> 01:17:24,666
-Come on, push me. 
-No.
+-Come on, push me.
+-No.
 
 1259
 01:17:24,744 --> 01:17:26,905
-Push me. 
-We're gonna get in trouble.
+-Push me.
+-We're gonna get in trouble.
 
 1260
 01:17:27,680 --> 01:17:29,773
@@ -960,8 +903,7 @@ All right. I'm gonna push you, okay? How about I push you like this?
 
 1262
 01:17:36,923 --> 01:17:42,884
-Now you're gonna be in a wheelchair the rest of your life, pally
-wally....
+Now you're gonna be in a wheelchair the rest of your life, pally-wally....
 
 1263
 01:17:44,831 --> 01:17:50,701
@@ -969,8 +911,8 @@ I am so very sorry. Can I sign you?
 
 1264
 01:17:52,839 --> 01:17:54,807
-Lights still out? 
-Yeah.
+-Lights still out?
+-Yeah.
 
 1265
 01:17:54,908 --> 01:17:57,775
@@ -978,8 +920,8 @@ Well, maybe they're napping.
 
 1266
 01:17:57,844 --> 01:18:02,679
-Please. They're having sex. 
-Shut up!
+-Please. They're having sex.
+-Shut up!
 
 1267
 01:18:05,652 --> 01:18:09,850
@@ -987,8 +929,8 @@ So, what do you think George is like?
 
 1268
 01:18:09,889 --> 01:18:12,687
-I think he's shy. 
-Yeah.
+-I think he's shy.
+-Yeah.
 
 1269
 01:18:12,759 --> 01:18:15,751
@@ -1000,18 +942,18 @@ And then when you do, he's a preppy animal.
 
 1271
 01:18:21,801 --> 01:18:24,770
-What do you think of the guys? 
-Our guys?
+-What do you think of the guys?
+-Our guys?
 
 1272
 01:18:24,871 --> 01:18:28,671
-Yeah, our guys. 
-I feel funny talking about that.
+-Yeah, our guys.
+-I feel funny talking about that.
 
 1273
 01:18:28,775 --> 01:18:31,801
-Oh, come on. 
-Okay. Well....
+-Oh, come on.
+-Okay. Well....
 
 1274
 01:18:31,878 --> 01:18:34,779
@@ -1022,12 +964,8 @@ I think Joey's like a little kiddie ride.
 You just have to put the quarter in and it just goes.
 
 1276
-01:18:40,787 --> 01:18:44,780
-He might surprise you. One time, he helped me put on my coat...
-
-1277
-01:18:44,891 --> 01:18:47,792
-...and he was really tender.
+01:18:40,787 --> 01:18:47,792
+He might surprise you. One time, he helped me put on my coat and he was really tender.
 
 1278
 01:18:47,894 --> 01:18:52,695
@@ -1047,13 +985,13 @@ I think it's an act. Chandler is more sophisticated than he seems.
 
 1282
 01:19:10,750 --> 01:19:12,945
-You know who's kind of sexy? 
-Don't.
+-You know who's kind of sexy?
+-Don't.
 
 1283
 01:19:13,686 --> 01:19:16,849
-Ross. 
-No, guys. Please, he is my brother.
+-Ross.
+-No, guys. Please, he is my brother.
 
 1284
 01:19:16,889 --> 01:19:20,791
@@ -1072,12 +1010,8 @@ I really don't want to.
 Come on, laugh. Laugh.
 
 1288
-01:19:40,880 --> 01:19:45,874
-I remember the moonlight coming in the window, and her face had the most...
-
-1289
-01:19:45,985 --> 01:19:47,816
-...incredible glow.
+01:19:40,880 --> 01:19:47,816
+I remember the moonlight coming in the window, and her face had the most incredible glow.
 
 1290
 01:19:47,920 --> 01:19:51,879
@@ -1101,7 +1035,7 @@ You slept with her for seven years after that.
 
 1295
 01:20:06,839 --> 01:20:08,932
-It's a little more complicated
+It's a little more complicated--
 
 1296
 01:20:09,742 --> 01:20:13,940
@@ -1116,12 +1050,8 @@ Louder. There's a man on the 1 2th floor in a coma who didn't hear you.
 Then, what?
 
 1299
-01:20:24,824 --> 01:20:27,725
-My first time with Carol was...
-
-1300
-01:20:27,760 --> 01:20:29,921
-...was my....
+01:20:24,824 --> 01:20:29,921
+My first time with Carol was was my....
 
 1301
 01:20:30,930 --> 01:20:31,954
@@ -1141,8 +1071,7 @@ Oh.
 
 1305
 01:20:48,881 --> 01:20:52,749
-So, in your whole life, you've only been with one
-?
+So, in your whole life, you've only been with one--?
 
 1306
 01:20:53,953 --> 01:20:57,821
@@ -1157,17 +1086,12 @@ There's a bunch of stuff we could've done tonight.
 Okay, I got one.
 
 1309
-01:21:05,898 --> 01:21:08,924
-Do you remember that vegetarian pâté...
-
-1310
-01:21:09,702 --> 01:21:12,694
-...that I made that you loved so much?
+01:21:05,898 --> 01:21:12,694
+Do you remember that vegetarian pâté that I made that you loved so much?
 
 1311
 01:21:13,706 --> 01:21:16,937
-Well, unless goose is a vegetable
-!
+Well, unless goose is a vegetable--!
 
 1312
 01:21:19,912 --> 01:21:23,939
@@ -1175,18 +1099,18 @@ Now I don't feel so bad about sleeping with Jason Hurley.
 
 1313
 01:21:24,751 --> 01:21:28,710
-What? You slept with Jason? 
-You had already broken up.
+-What? You slept with Jason?
+-You had already broken up.
 
 1314
 01:21:28,821 --> 01:21:30,914
-How long? 
-Just a couple hours.
+-How long?
+-Just a couple hours.
 
 1315
 01:21:31,724 --> 01:21:35,922
-Oh, that's nice! 
-Okay, okay, okay, I got one!
+-Oh, that's nice!
+-Okay, okay, okay, I got one!
 
 1316
 01:21:37,930 --> 01:21:42,924
@@ -1218,18 +1142,18 @@ Oh, my God! There he is! There he is!
 
 1323
 01:22:07,794 --> 01:22:10,888
-Where? 
-Where we've been looking all night.
+-Where?
+-Where we've been looking all night.
 
 1324
 01:22:11,697 --> 01:22:14,689
-He's so cute. 
-George, baby, drop the towel.
+-He's so cute.
+-George, baby, drop the towel.
 
 1325
 01:22:14,801 --> 01:22:18,897
-Come on, drop the towel. 
-Drop it. Will you please drop it?
+-Come on, drop the towel.
+-Drop it. Will you please drop it?
 
 1326
 01:22:19,005 --> 01:22:21,701
@@ -1257,8 +1181,8 @@ You kidding? The guy's a freak. I judge him.
 
 1332
 01:22:41,861 --> 01:22:43,829
-Hey, man! 
-Hey, buddy!
+-Hey, man!
+-Hey, buddy!
 
 1333
 01:22:47,767 --> 01:22:51,760
@@ -1266,7 +1190,7 @@ Oh, that's attractive.
 
 1334
 01:22:52,872 --> 01:22:56,672
-I thought you were great in <i>Silence of the Lambs.</i>
+I thought you were great in Silence of the Lambs.
 
 1335
 01:22:57,910 --> 01:23:01,778
@@ -1282,8 +1206,8 @@ Where's my puck?
 
 1338
 01:23:07,687 --> 01:23:10,679
-The kid has it. 
-The kid
+-The kid has it.
+-The kid--
 
 1339
 01:23:11,691 --> 01:23:13,886
@@ -1299,7 +1223,7 @@ You gotta do it, man.
 
 1342
 01:23:24,003 --> 01:23:26,938
-I'm rubber, you're glue. Whatever you
+I'm rubber, you're glue. Whatever you--
 
 1343
 01:23:27,707 --> 01:23:28,935
@@ -1307,19 +1231,18 @@ I can't do it.
 
 1344
 01:23:29,742 --> 01:23:31,937
-Listen, give me back my puck. 
-No.
+-Listen, give me back my puck.
+-No.
 
 1345
 01:23:32,712 --> 01:23:33,906
-Yes, how about
-? 
-No.
+-Yes, how about--?
+-No.
 
 1346
 01:23:33,946 --> 01:23:35,914
-Give me my puck. 
-No.
+-Give me my puck.
+-No.
 
 1347
 01:23:35,948 --> 01:23:37,916
@@ -1367,8 +1290,8 @@ It's the Visa card people.
 
 1358
 01:24:43,816 --> 01:24:47,752
-Okay. Will you take my place? 
-All right. This is Rachel.
+-Okay. Will you take my place?
+-All right. This is Rachel.
 
 1359
 01:24:47,853 --> 01:24:49,753
@@ -1384,8 +1307,8 @@ Oh, well, thanks. But I'm okay, really.
 
 1362
 01:25:00,766 --> 01:25:02,859
-To the green. 
-Oh, no.
+-To the green.
+-Oh, no.
 
 1363
 01:25:02,969 --> 01:25:05,870
