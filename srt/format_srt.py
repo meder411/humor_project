@@ -167,23 +167,32 @@ for transcript in os.listdir('transcripts'):
 		with open(osp.join('transcripts', transcript), 'r') as f:
 
 			basename = osp.splitext(transcript)[0]
-			print basename
+
 			# Parse the transcript file and remove any non-dialogue (denoted by lines starting with punctuation)
 			lines = f.readlines()
 			lines = [line.replace('[', '\n[').strip() for line in lines]
 			lines = [l for line in lines for l in line.split('\n') if not l.isspace() and l != ''] # Flatten list
 			lines = [line for line in lines if line != '' and line[0] not in exclude]
-			lines = zip(*[(line[line.find(':')+1:].strip(), line[:line.find(':')].strip()) for line in lines])
-			dialogue = list(lines[0])
-			speakers = list(lines[1])
-			G = ngram.NGram(dialogue)
 
+			# Split the transcript into pairs of (single dialogue sentence, speaker)
+			lines = [[line[line.find(':')+1:].strip(), line[:line.find(':')].strip()] for line in lines]
+			lines = [zip(*[line[0].split('. '), [line[1] for i in xrange(len(line[0].split('. ')))]]) for line in lines]
+			lines = [pair for line in lines for pair in line]
+
+			# Now separate the dialogue and the speaker into two corresponding lists
+			dialogue = [line[0] for line in lines]
+			speakers = [line[1] for line in lines]
+			
 			# Open the corresponding edited subtitle file
 			subs = pysrt.open(osp.join('edited', 'edited_' + basename + '.srt'))
 
-			for i in xrange(5):#len(subs)):
-				print subs[i].text
-				print G.find(subs[i].text)
+			tmp = []
+			for i in xrange(len(subs)):
+				tmp.append(subs[i].text)
+			G = ngram.NGram(tmp, N=9)
+			for i in xrange(15):
+				print 'SUB: ' + dialogue[i]
+				print 'MATCH: ' + G.find(dialogue[i])
 
 
 #			with open('test.txt', 'w') as fout:
