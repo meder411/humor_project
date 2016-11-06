@@ -1,5 +1,5 @@
 1
-00:00:01,029 --> 00:00:02,058
+00:00:00,000 --> 00:00:01,029
 How did it go?
 
 2
@@ -123,7 +123,7 @@ Smoke away!
 I think this is why Dimon smokes in his cell alone.
 
 35
-00:02:54,052 --> 00:02:55,064
+00:02:53,040 --> 00:02:54,052
 What?
 
 36
@@ -147,7 +147,7 @@ All right. Now take a puff.
 Right.
 
 41
-00:03:08,517 --> 00:03:10,047
+00:03:06,987 --> 00:03:08,517
 Give it to me.
 
 42
@@ -175,7 +175,7 @@ When you hold it, you feel right.
 You feel complete.
 
 48
-00:03:28,071 --> 00:03:29,168
+00:03:26,974 --> 00:03:28,071
 You miss it?
 
 49
@@ -191,7 +191,7 @@ All right. Now we smoke.
 Oh, my God!
 
 52
-00:03:40,103 --> 00:03:41,087
+00:03:39,119 --> 00:03:40,103
 Give me that!
 
 53
@@ -203,7 +203,7 @@ No. You've got options.
 You can smoke like this:
 
 55
-00:03:44,136 --> 00:03:45,182
+00:03:43,090 --> 00:03:44,136
 Chandler--
 
 56
@@ -215,7 +215,7 @@ Or hold it in your mouth.
 Give me the cigarette!
 
 58
-00:03:47,707 --> 00:03:48,287
+00:03:47,127 --> 00:03:47,707
 You try.
 
 59
@@ -279,7 +279,7 @@ Latte.
 And an iced tea.
 
 76
-00:04:53,493 --> 00:04:54,960
+00:04:52,026 --> 00:04:53,493
 I'm getting good at this.
 
 77
@@ -291,7 +291,7 @@ Excellent!
 Good for me!
 
 79
-00:05:11,560 --> 00:05:12,976
+00:05:10,144 --> 00:05:11,560
 You okay, Phoebe?
 
 80
@@ -303,7 +303,7 @@ It's not worth--
 It's my bank.
 
 82
-00:05:16,011 --> 00:05:17,040
+00:05:14,982 --> 00:05:16,011
 What did they do?
 
 83
@@ -331,7 +331,7 @@ Satan's minions at work again!
 Now I have to go deal with them--
 
 89
-00:05:36,080 --> 00:05:38,059
+00:05:34,101 --> 00:05:36,080
 What are you talking about? Keep it!
 
 90
@@ -383,7 +383,7 @@ What are you doing?
 Oh, gross!
 
 102
-00:06:18,610 --> 00:06:20,043
+00:06:17,177 --> 00:06:18,610
 What is this?
 
 103
@@ -411,7 +411,7 @@ Forget about you. Think about what we went through!
 So this time I won't quit.
 
 109
-00:06:37,629 --> 00:06:39,062
+00:06:36,196 --> 00:06:37,629
 Put it out!
 
 110
@@ -447,7 +447,7 @@ When do we get to meet him?
 Let's see, it's Monday....
 
 118
-00:07:02,136 --> 00:07:03,051
+00:07:01,221 --> 00:07:02,136
 Never.
 
 119
@@ -487,39 +487,35 @@ Sorry.
 Joey. Let it go.
 
 128
-00:07:31,529 --> 00:07:03,111
-...if they never get to meet the guy.
-
-129
-00:07:31,529 --> 00:07:03,111
-I know.
-
-130
 00:07:32,052 --> 00:07:33,144
 Why should they meet him?
 
-131
+129
 00:07:33,954 --> 00:07:40,151
 I bring a guy home and they're like coyotes picking off the weak members of the herd.
 
-133
+131
 00:07:41,094 --> 00:07:49,197
 Listen, as someone who's seen more than her share of bad beef I'll tell you, that is not such a terrible thing.
 
-135
+133
 00:07:49,970 --> 00:07:52,097
 Your friends are just looking after you.
 
-136
+134
 00:07:52,206 --> 00:07:55,903
 I wish that once I'd date a guy they liked.
 
+135
+00:07:56,009 --> 00:08:01,528
+You realize the odds of that happening are slimmer if they never get to meet the guy.
+
 137
-00:07:56,009 --> 00:07:59,137
-You realize the odds of that happening are slimmer...
+00:08:01,528 --> 00:08:03,109
+I know.
 
 138
-00:08:05,050 --> 00:08:06,950
+00:08:03,150 --> 00:08:05,050
 Can't I whimper a little bit?
 
 139
@@ -539,7 +535,7 @@ Let it go, Ross.
 You didn't know Chi-Chi.
 
 143
-00:08:21,099 --> 00:08:22,231
+00:08:19,967 --> 00:08:21,099
 Do you all promise?
 
 144
@@ -600,7 +596,7 @@ One more button.
 Closed! How about closed?
 
 160
-00:09:30,103 --> 00:09:31,070
+00:09:29,136 --> 00:09:30,103
 I didn't know.
 
 161
@@ -676,7 +672,7 @@ And did you notice?
 Know what was great? His smile was crooked.
 
 179
-00:10:46,207 --> 00:10:48,203
+00:10:44,211 --> 00:10:46,207
 Yes! Like the man in the shoe!
 
 180
@@ -704,7 +700,7 @@ So I think Alan is the yardstick by which future boyfriends will be measured.
 Future boyfriends?
 
 187
-00:11:09,515 --> 00:11:11,062
+00:11:07,968 --> 00:11:09,515
 I think this could be ''it.''
 
 188
@@ -720,7 +716,7 @@ I'd marry him for his David Hasselhoff impression alone.
 You know I'll be doing that at parties.
 
 191
-00:11:23,045 --> 00:11:24,108
+00:11:21,982 --> 00:11:23,045
 Know what I like most?
 
 192
@@ -748,7 +744,7 @@ We won!
 Fantastic! Question. How is that possible?
 
 198
-00:12:03,001 --> 00:12:04,047
+00:12:01,955 --> 00:12:03,001
 Alan.
 
 199
@@ -800,7 +796,7 @@ It's his innate ''Alan-ness'' that we adore.
 I, personally, could have a gallon of Alan.
 
 211
-00:12:54,019 --> 00:12:55,065
+00:12:52,973 --> 00:12:54,019
 Hey, Lizzy.
 
 212
@@ -808,7 +804,7 @@ Hey, Lizzy.
 Hey, weird girl.
 
 213
-00:12:57,088 --> 00:12:58,134
+00:12:56,042 --> 00:12:57,088
 I brought alphabet soup.
 
 214
@@ -820,7 +816,7 @@ Pick out the vowels?
 I left in the Y's. Because, ''sometimes Y.''
 
 216
-00:13:04,095 --> 00:13:05,141
+00:13:03,049 --> 00:13:04,095
 And something else.
 
 217
@@ -840,7 +836,7 @@ What?
 Oh, my God!
 
 221
-00:13:14,090 --> 00:13:15,187
+00:13:12,993 --> 00:13:14,090
 There's really money in here.
 
 222
@@ -856,7 +852,7 @@ What are you doing?
 I want you to have it. I don't want it.
 
 225
-00:13:22,697 --> 00:13:24,193
+00:13:21,201 --> 00:13:22,697
 I have to give you something.
 
 226
@@ -864,7 +860,7 @@ I have to give you something.
 No, you don't--
 
 227
-00:13:26,586 --> 00:13:28,167
+00:13:25,005 --> 00:13:26,586
 Do you want my tinfoil hat?
 
 228
@@ -872,7 +868,7 @@ Do you want my tinfoil hat?
 No, you need that.
 
 229
-00:13:29,725 --> 00:13:31,175
+00:13:28,275 --> 00:13:29,725
 It's okay. Thanks.
 
 230
@@ -884,7 +880,7 @@ Let me do something.
 I'll tell you what. Buy me a soda and we're even. Okay?
 
 232
-00:13:38,615 --> 00:13:39,212
+00:13:38,018 --> 00:13:38,615
 Okay.
 
 233
@@ -904,7 +900,7 @@ Thanks, Lizzy.
 Want a pretzel?
 
 237
-00:14:47,503 --> 00:14:48,987
+00:14:46,019 --> 00:14:47,503
 No, I'm fine. Thanks.
 
 238
@@ -924,7 +920,7 @@ I know. There it was, just floating like this tiny little hitchhiker.
 Maybe it's a contest. Like ''collect all five.''
 
 243
-00:15:14,563 --> 00:15:16,047
+00:15:13,079 --> 00:15:14,563
 Does anyone wanna see?
 
 244
@@ -940,7 +936,7 @@ Don't do that. Come on!
 It's worse than the thumb.
 
 247
-00:15:25,054 --> 00:15:26,151
+00:15:23,957 --> 00:15:25,054
 This is so unfair.
 
 248
@@ -1052,7 +1048,7 @@ Honey, you should always feel the thing.
 If that's how you feel about the guy, dump him.
 
 275
-00:17:38,620 --> 00:17:40,184
+00:17:37,056 --> 00:17:38,620
 It's gonna be really hard.
 
 276
@@ -1064,7 +1060,7 @@ He'll get over it.
 No, he'll be fine. It's the other five I'm worried about.
 
 278
-00:17:48,061 --> 00:17:50,057
+00:17:46,065 --> 00:17:48,061
 Don't you respect your body?
 
 279
@@ -1120,7 +1116,7 @@ Well, okay. Thanks.
 God, he's good.
 
 292
-00:18:49,111 --> 00:18:51,062
+00:18:47,160 --> 00:18:49,111
 If only he were a woman.
 
 293
@@ -1144,7 +1140,7 @@ If I had a sock on my hand for 30 years, it'd be talking too.
 I think it's time to change somebody's nicotine patch.
 
 298
-00:19:16,638 --> 00:19:20,148
+00:19:15,154 --> 00:19:16,638
 Where's Joey?
 
 299
@@ -1156,7 +1152,7 @@ Joey ate my last stick of gum so I killed him.
 Do you think that was wrong?
 
 302
-00:19:26,028 --> 00:19:27,125
+00:19:24,931 --> 00:19:26,028
 I think he's across the hall.
 
 303
@@ -1172,40 +1168,40 @@ There you go.
 I'm alive with pleasure now.
 
 306
-00:19:31,195 --> 00:19:03,192
-What's going on?
-
-307
-00:19:31,195 --> 00:19:03,192
-It's just nice when we're together.
-
-308
 00:19:33,172 --> 00:19:37,074
 Pheebs, do you want the rest of that Pop-Tart?
 
-309
+307
 00:19:38,177 --> 00:19:41,146
 Does anyone want the rest of this Pop-Tart?
 
-310
+308
 00:19:42,982 --> 00:19:44,950
 Hey, I might.
 
-311
+309
 00:19:45,051 --> 00:19:47,042
 I'm sorry.
 
-312
+310
 00:19:47,153 --> 00:19:51,954
 The soda people gave me $ 7000 for the thumb.
 
-313
+311
 00:19:53,092 --> 00:19:56,152
 And on my way over here I stepped in gum.
 
-314
+312
 00:19:57,063 --> 00:19:59,088
 What is up with the universe?
+
+313
+00:19:59,198 --> 00:20:01,194
+What's going on?
+
+314
+00:20:01,194 --> 00:20:03,190
+It's just nice when we're together.
 
 315
 00:20:04,003 --> 00:20:07,097
@@ -1224,7 +1220,7 @@ Wait! I'm getting a déjà vu.
 No, I'm not.
 
 319
-00:20:28,489 --> 00:20:29,985
+00:20:26,993 --> 00:20:28,489
 We have to talk.
 
 320
@@ -1276,7 +1272,7 @@ Just like that?
 You let your guard down. You start to care about someone, and....
 
 333
-00:21:26,600 --> 00:21:27,982
+00:21:25,218 --> 00:21:26,600
 I can go on pretending--
 
 334
@@ -1300,7 +1296,7 @@ Well, who wants fair?
 I just want things back, you know, the way they were.
 
 339
-00:21:43,064 --> 00:21:45,094
+00:21:41,034 --> 00:21:43,064
 I'm sorry.
 
 340
@@ -1324,7 +1320,7 @@ I'll meet someone. There'll be other Alans.
 Yeah, right!
 
 345
-00:22:05,007 --> 00:22:06,958
+00:22:03,056 --> 00:22:05,007
 Are you guys gonna be okay?
 
 346
@@ -1340,7 +1336,7 @@ We're just gonna need a little time.
 I understand.
 
 349
-00:22:18,569 --> 00:22:19,968
+00:22:17,170 --> 00:22:18,569
 Wow.
 
 350
@@ -1352,7 +1348,7 @@ I'm really sorry.
 Yeah, I mean, I'm sorry too.
 
 352
-00:22:24,689 --> 00:22:26,202
+00:22:23,176 --> 00:22:24,689
 But I'm a little relieved.
 
 353
@@ -1396,7 +1392,7 @@ Did he mention us?
 He says he's really gonna miss you guys.
 
 363
-00:23:21,582 --> 00:23:22,998
+00:23:20,166 --> 00:23:21,582
 Rough day, huh?
 
 364
@@ -1408,7 +1404,7 @@ You have no idea.
 Come here.
 
 366
-00:23:29,137 --> 00:23:30,200
+00:23:28,074 --> 00:23:29,137
 That's it. I'm getting cigarettes.
 
 367
