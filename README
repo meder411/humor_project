@@ -14,14 +14,20 @@ This repository contains the files listed below. All code is my work unless indi
 |	|>> facenet : Neural network components
 |	|	|
 |	|	|>> layers: Directory containing soft-links to a modified version of Caffe's sigmoid_cross_entropy_layer (now it can accept class weights)
-|	|		|-- weighted_sigmoid_cross_entropy_loss_layer.cpp
-|	|		|-- weighted_sigmoid_cross_entropy_loss_layer.hpp
-|	|		|-- weighted_sigmoid_cross_entropy_loss_layer.cu
+|	|	|	|
+|	|	|	|-- weighted_sigmoid_cross_entropy_loss_layer.cpp
+|	|	|	|-- weighted_sigmoid_cross_entropy_loss_layer.hpp
+|	|	|	|-- weighted_sigmoid_cross_entropy_loss_layer.cu
+|	|	|	=
+|	|	|	
 |	|	|>> models: Directory containing .prototxt files describing the FaceNet architecture
-|	|		|--facenet_train_solver.prototxt : solver parameters file
-|	|		|--facenet_train.prototxt : train net (provided by FaceNet authors)
-|	|		|--facenet_test.prototxt : test net
-|	|		|--facenet_valid.prototxt : validation net
+|	|	|	|
+|	|	|	|--facenet_train_solver.prototxt : solver parameters file
+|	|	|	|--facenet_train.prototxt : train net (provided by FaceNet authors)
+|	|	|	|--facenet_test.prototxt : test net
+|	|	|	|--facenet_valid.prototxt : validation net
+|	|	|	=
+|	|	|
 |	|	|-- amfed_label_weights.txt : List of class weights based on negative:positive sample ratio
 |	|	|-- amfed_test_labels.txt : Test set
 |	|	|-- amfed_train_labels.txt : Training set
@@ -30,15 +36,18 @@ This repository contains the files listed below. All code is my work unless indi
 |	|	|-- network_util.py : Utility functions for FaceNet
 |	|	|-- test_facenet.py : Script to test the network
 |	|	|-- train_facenet.py : Script to train the network
+|	|	=
 |	|
 |	|>> matlab : Directory containing tools for video sampling and face extraction
 |	|	|>> +lib : Directory containing functions for face detection and cropping (only cropping is used) (from FaceNet creators) 
 |	|	|-- points2xyxy.m : Function to convert bounding box representation
 |	|	|-- tlwh2xyxy.m : Another function to convert bounding box representation
 |	|	|-- sample_video.m : Script to automatically extract faces from videos
-|	|
+|	|	=
+|	|	
 |	|-- number_of_frames.txt : File mapping AMFED videos to the number of frames in the video
 |	|-- organize_amfed.py : Script to unify the AMFED dataset (the data is highly disorganized) and generate the training, test, and validation sets for FaceNet
+|	=
 |
 |>> dataset : Top-level directory for components related to building the dataset
 |	|
@@ -50,6 +59,7 @@ This repository contains the files listed below. All code is my work unless indi
 |	|-- format_srt.py : Script to spell-check and parse the raw subtitles
 |	|-- match_speakers_old.py : Script to attempt to assign speakers from transcripts to lines in subtitles using N-gram matching of lines (old version)
 |	|-- match_speakers.py : Better script to assign speakers to subtitles. Takes advantage of inherent ordering, but still uses N-gram similarity
+|	=
 |
 |>> sentence_encoding : Top-level directory for sentences feature extraction (currently empty)
 |
