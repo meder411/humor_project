@@ -92,6 +92,9 @@ def strip_external_punctuation(exclude, word):
 				ch = ''
 	return leading, trailing, word
 
+		
+
+
 ####################
 # FORMAT SRT FILES
 ####################
@@ -126,6 +129,22 @@ for f in os.listdir('subtitles'):
 		subs.shift(milliseconds=-subs[0].start.milliseconds)
 		subs.shift(seconds=-subs[0].start.seconds)
 		subs.shift(minutes=-subs[0].start.minutes)
+
+		# Split any multi-speaker subtitles (denoted by '\n-') into multiple single-speaker subtitles
+		for i in reversed(xrange(len(subs))):
+			if '\n-' in subs[i].text:
+				# Split the subtitle at the hyphen and format the list
+				lines = [line[1:] if line[0] == '-' else line for line in subs[i].text.split('\n-')]
+				length_milli = 1000 * float(subs[i].end.seconds - subs[i].start.seconds) + float(subs[i].end.milliseconds - subs[i].start.milliseconds)
+				interval_milli = int(length_milli / len(lines))
+				dummy = pysrt.SubRipItem(0, start=str(subs[i].start), end=str(subs[i].end), text="") # Use this just to get the right formatting for the time
+				dummy.shift(milliseconds =+ interval_milli) # Shift the dummy so its start time is now the end time we want
+				for j in xrange(len(lines)):
+					new_sub = pysrt.SubRipItem(0, start=subs[i].start, end=dummy.start, text=lines[j])
+					new_sub.shift(milliseconds =+ (j * interval_milli))
+					subs.append(new_sub)
+				del subs[i]
+		subs.clean_indexes()
 
 		# Correct spelling errors
 		for i in xrange(len(subs)):

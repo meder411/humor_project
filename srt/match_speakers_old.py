@@ -1,11 +1,10 @@
 import os
 import os.path as osp
 import re
-from ngram import NGram
+import ngram
 import string
 import pysrt
-import jellyfish
-import numpy as np
+import math
 
 # Function to remove parentheticals from lines
 # Courtesy of this answer http://stackoverflow.com/a/14598135/3427580
@@ -26,6 +25,17 @@ def remove_parentheticals(line):
             ret += i
     return ret
 
+######################
+# FORMAT TRANSCRIPTS
+######################
+
+exclude = set(string.punctuation)
+#delim = '|'.join(map(re.escape, ['. ', '? ', '! ', '\n', '\r']))
+delim = map(re.escape, ['. ', '? ', '! ', '\n', '\r'])
+delim = ['(' + d + ')' for d in delim if d != '\n' and d != '\r']
+delim = '|'.join(delim)
+line_ends = set(['. ','! ','? '])
+
 def fix_delim(lines, line_ends):
 	for i in reversed(xrange(len(lines) - 1)):
 		if not lines[i][0]:
@@ -35,24 +45,6 @@ def fix_delim(lines, line_ends):
 			lines[i-1][0] = lines[i-1][0] + lines[i][0][0]
 			del lines[i]
 	return lines
-
-def get_all_substrings(min_word_len, max_word_len, line):
-	words = line.split(' ')
-	num_words = len(words)
-	sublines = []
-	for l in xrange(min_word_len, max_word_len+1):
-		sublines += [' '.join(words[i:i+l]) for i in xrange(num_words-l)]
-	return sublines
-
-######################
-# FORMAT TRANSCRIPTS
-######################
-
-exclude = set(string.punctuation)
-delim = map(re.escape, ['. ', '? ', '! ', '\n', '\r'])
-delim = ['(' + d + ')' for d in delim if d != '\n' and d != '\r']
-delim = '|'.join(delim)
-line_ends = set(['. ','! ','? '])
 
 # Go through each transcript file
 for transcript in os.listdir('transcripts'):
@@ -70,6 +62,13 @@ for transcript in os.listdir('transcripts'):
 			# Split the transcript into pairs of (single dialogue sentence, speaker)
 			# Extract speaker and dialogue separately
 			lines = [[line[line.find(':')+1:].strip(), line[:line.find(':')].strip()] for line in lines]
+			# Split multi-sentence lines into separate (phrase, speaker) groupings
+			lines = [zip(*[re.split(delim, line[0]), [line[1] for i in xrange(len(re.split(delim, line[0])))]]) for line in lines]
+			lines = [list(pair) for line in lines for pair in line if pair[0]]
+			# Re-insert the deliminaters that we split on
+			lines = fix_delim(lines, line_ends)
+			# Strip any last whitespace
+			lines = [(line[0].strip(), line[1].strip()) for line in lines]
 
 			# Now separate the dialogue and the speaker into two corresponding lists
 			dialogue = [line[0] for line in lines]
@@ -78,37 +77,38 @@ for transcript in os.listdir('transcripts'):
 			# Open the corresponding edited subtitle file
 			subs = pysrt.open(osp.join('edited', 'edited_' + basename + '.srt'))
 
+			rng = 0.33 # Range of the transcript to check
+			num_top_matches = 8
 			num_speakers_matched = 0 # Number of speakers identified
 			num_lines_examined = 0 # Number of lines queried
-			dist = []
-			dialogue_idx = 0
-			sub_idx = 0
-			tmp = 0
-			while dialogue_idx < len(dialogue)-1 and sub_idx < len(subs) and tmp < 30:
-				tmp+=1
-				curr_line = dialogue[dialogue_idx]
-				next_line = dialogue[dialogue_idx+1]
-				curr_sub = subs[sub_idx].text
-				curr_score = NGram.compare(curr_line, subs[sub_idx].text)
-				next_score = NGram.compare(next_line, subs[sub_idx].text)
-
-				# If the subtitle matches to the current line of dialogue
-				# better than it matches to the next one, assign it the speaker of this line
-				# and increment the subtitle index to the next one
-				if curr_score >= next_score:
-					print 'BEFORE: ' + subs[sub_idx].text
-					subs[sub_idx].text = speakers[dialogue_idx] + ': ' + subs[sub_idx].text
-					print 'AFTER: ' + subs[sub_idx].text
-					sub_idx += 1
-				# If the better match is to the next line of dialogue, then
-				# don't do anything with this subtitle and just increment the
-				# dialogue to the next line (only problematic if the 'line-after-that'
-				# is better than the next line--in that case we skip dialogue)
-				else:
-					dialogue_idx += 1
-
+			for i in xrange(len(subs)):
+				sub_dist = float(i) / float(len(subs))
+				start_idx = max(0, int(math.floor(sub_dist * len(subs)) - 4))
+				end_idx = min(int(math.ceil(start_idx + rng * len(dialogue))), len(dialogue))
+				print start_idx, end_idx
+				G = ngram.NGram(dialogue[start_idx : end_idx], N=4)
+				lines = [line[1:] if line[0] == '-' else line for line in subs[i].text.split('\n-')]
+				new_subtitle = ''
+				for line in lines:
+					num_lines_examined += 1
+					print 'QUERY: ' + line
+					closest_matches = G.search(line)[:num_top_matches]
+					print closest_matches
+					matches, scores = zip(*closest_matches)
+					num_speakers_matched += 1
+					match = matches[0]
+					match_idx = dialogue.index(matches[0])
+					speaker = speakers[match_idx]
+					new_subtitle += speaker + ': ' + line + '\n'
+				if new_subtitle:
+					subs[i].text = new_subtitle
+				print 'UPDATED: ' + subs[i].text
+					
 			subs.save(osp.join('edited', 'speakers_' + basename + '.srt'), encoding='utf=8') 
 
 			print 'Number of speakers matches: {} / {}'.format(num_speakers_matched, num_lines_examined)
 
-			break
+
+
+
+

@@ -1,1328 +1,1508 @@
-1036
+1
 01:00:00,000 --> 01:00:07,897
 If I were omnipotent for a day, I would want world peace no hunger, good things for the rain forest.
 
-1038
+3
 01:00:08,909 --> 01:00:10,706
 And bigger boobs.
 
-1039
+4
 01:00:11,846 --> 01:00:14,815
 Well, see, you took mine.
 
-1040
+5
 01:00:15,749 --> 01:00:16,738
 What about you?
 
-1041
+6
 01:00:16,851 --> 01:00:21,811
 If I were omnipotent for a day, I'd make myself omnipotent forever.
 
-1042
+7
 01:00:21,922 --> 01:00:26,916
 There's always one guy. ''If I had a wish, I'd wish for three more wishes.''
 
-1043
+8
 01:00:28,863 --> 01:00:29,955
 Hey, Joey.
 
-1044
+9
 01:00:30,764 --> 01:00:33,028
 What would you do if you were omnipotent?
 
-1045
+10
 01:00:33,767 --> 01:00:35,758
 Probably kill myself.
 
-1046
+11
 01:00:36,871 --> 01:00:37,929
 Excuse me?
 
-1047
+12
 01:00:37,972 --> 01:00:41,874
 If little Joey's dead, then I got no reason to live.
 
-1048
+13
 01:00:43,878 --> 01:00:46,972
 Joey, omnipotent.
 
-1049
+14
 01:00:47,882 --> 01:00:49,850
 You are?
 
-1050
+15
 01:00:49,950 --> 01:00:55,820
 Ross, I'm sorry. I had no idea. I thought it was a theoretical question.
 
-1051
+16
 01:00:56,824 --> 01:00:58,883
 The One With the George Stephanopoulos
 
-1052
+17
 01:01:45,940 --> 01:01:47,874
 How does she do that?
 
-1053
+18
 01:01:47,942 --> 01:01:50,740
 I can't sleep in a public place.
 
-1054
+19
 01:01:50,844 --> 01:01:52,971
 Libraries, airplanes, movie theaters....
 
-1055
+20
 01:01:53,781 --> 01:01:55,715
 You slept at the Grand Canyon.
 
-1056
+21
 01:01:55,783 --> 01:01:59,776
 Hello, Mom and Dad never took us to the Grand Canyon.
 
-1057
+22
 01:02:00,788 --> 01:02:02,915
 Mom and Dad took us to the Grand Canyon?
 
-1058
+23
 01:02:04,692 --> 01:02:07,786
 Would you look at her? She is so peaceful.
 
-1059
+24
 01:02:07,861 --> 01:02:08,919
 Yeah.
 
-1060
+25
 01:02:09,863 --> 01:02:11,831
 What? What? What?
 
-1061
-01:02:11,899 --> 01:02:15,926
--Hi.
--It's okay. You just nodded off again.
+26
+01:02:13,912 --> 01:02:15,925
+Hi.
 
-1062
+27
+01:02:13,912 --> 01:02:15,925
+It's okay. You just nodded off again.
+
+28
 01:02:16,737 --> 01:02:17,726
 What's going on?
 
-1063
+29
 01:02:17,805 --> 01:02:28,704
 I got no sleep last night. My grandmother has a new boyfriend and they're both kind of insecure in bed, so-- And deaf.
 
-1065
+31
 01:02:29,950 --> 01:02:33,852
 They reassure each other that they're having a good time.
 
-1066
+32
+01:02:31,193 --> 01:02:02,706
+Happy birthday, pal!
+
+33
+01:02:31,193 --> 01:02:02,706
+We love you, man.
+
+34
 01:02:33,921 --> 01:02:37,755
 You have no idea how loud they are.
 
-1067
-01:02:38,726 --> 01:02:41,820
--You can stay with Rachel and me.
--Thanks.
+35
+01:02:40,273 --> 01:02:41,820
+You can stay with Rachel and me.
 
-1068
+36
+01:02:40,273 --> 01:02:41,820
+Thanks.
+
+37
 01:02:41,929 --> 01:02:44,921
 --95, 96, 97. See, I told you.
 
-1069
+38
 01:02:45,733 --> 01:02:48,031
 Less than 100 steps from our place to here.
 
-1070
+39
 01:02:48,769 --> 01:02:51,761
 You got way too much free time, man.
 
-1071
+40
 01:02:51,872 --> 01:02:54,739
 There's the birthday boy.
 
-1072
+41
 01:02:54,842 --> 01:02:58,903
 Hockey tickets. Rangers-Penguins tonight and we're taking you.
 
-1073
-01:02:59,680 --> 01:03:02,706
--Happy birthday, pal!
--We love you, man.
-
-1074
+42
 01:03:03,784 --> 01:03:06,878
 It's funny. My birthday was seven months ago.
 
-1075
-01:03:06,920 --> 01:03:12,984
--So?
--So you had an extra ticket and couldn't decide who got to bring a date?
+43
+01:03:08,353 --> 01:03:12,984
+So?
 
-1077
+44
+01:03:08,353 --> 01:03:12,984
+So you had an extra ticket and couldn't decide who got to bring a date?
+
+46
 01:03:13,727 --> 01:03:16,924
 Well, aren't we Mr. The-Glass-ls-Half-Empty?
 
-1078
+47
 01:03:17,698 --> 01:03:21,691
 Oh, my God! Is today the 20th? October 20th?
 
-1079
-01:03:21,735 --> 01:03:25,796
--I hoped you wouldn't remember.
--What's wrong with the 20th?
+48
+01:03:23,765 --> 01:03:25,795
+I hoped you wouldn't remember.
 
-1080
+49
+01:03:23,765 --> 01:03:25,795
+What's wrong with the 20th?
+
+50
 01:03:25,839 --> 01:03:30,708
 Eleven days before Halloween. All the good costumes are gone?
 
-1081
+51
 01:03:30,811 --> 01:03:39,717
 Today's the day Carol and I first consummated our physical relationship.
 
-1084
+54
 01:03:39,953 --> 01:03:41,921
 Sex.
 
-1085
-01:03:44,825 --> 01:03:49,728
--You told your sister that?
--Believe me, I told everyone.
+55
+01:03:47,276 --> 01:03:49,727
+You told your sister that?
 
-1086
+56
+01:03:47,276 --> 01:03:49,727
+Believe me, I told everyone.
+
+57
 01:03:49,930 --> 01:03:51,830
 I better pass on the game.
 
-1087
+58
 01:03:51,932 --> 01:03:56,892
 I'm just gonna go home and think about my ex-wife and her lesbian lover.
 
-1088
+59
 01:03:57,871 --> 01:04:00,863
 The hell with hockey! Let's all do that!
 
-1089
+60
 01:04:02,776 --> 01:04:06,678
 Come on, Ross! You, me, Joey, ice! Guys' night out!
 
-1090
+61
 01:04:06,714 --> 01:04:08,875
 Come on, what do you say, big guy?
 
-1091
-01:04:08,916 --> 01:04:11,783
--What are you doing?
--I have no idea.
+62
+01:04:10,349 --> 01:04:11,782
+What are you doing?
 
-1092
-01:04:11,885 --> 01:04:16,686
--Come on, Ross.
--Maybe it will take my mind off it.
+63
+01:04:10,349 --> 01:04:11,782
+I have no idea.
 
-1093
-01:04:16,724 --> 01:04:19,784
--Promise to buy me a big foam finger?
--You got it.
+64
+01:04:14,285 --> 01:04:16,685
+Come on, Ross.
 
-1094
+65
+01:04:14,285 --> 01:04:16,685
+Maybe it will take my mind off it.
+
+66
+01:04:18,254 --> 01:04:19,784
+Promise to buy me a big foam finger?
+
+67
+01:04:18,254 --> 01:04:19,784
+You got it.
+
+68
 01:04:19,893 --> 01:04:22,828
 Look, look, look! My first paycheck!
 
-1095
+69
 01:04:22,896 --> 01:04:27,799
 Look at the window! There's my name! Hi, me!
 
-1096
+70
 01:04:28,702 --> 01:04:30,829
 I remember when I got my first paycheck.
 
-1097
+71
 01:04:30,904 --> 01:04:34,931
 There was a cave-in in a mine, and eight people were killed.
 
-1098
-01:04:36,744 --> 01:04:40,942
--You worked in a mine?
--No, I worked at a Dairy Queen. Why?
+72
+01:04:38,843 --> 01:04:40,942
+You worked in a mine?
 
-1099
+73
+01:04:38,843 --> 01:04:40,942
+No, I worked at a Dairy Queen. Why?
+
+74
 01:04:43,951 --> 01:04:49,821
 Isn't this exciting? I earned this. I wiped tables for it. I steamed milk.
 
-1100
+75
 01:04:49,857 --> 01:04:54,723
 And it was totally not worth it.
 
-1102
+77
 01:04:54,828 --> 01:04:58,696
 What's FICA? Why's he getting all my money?
 
-1103
+78
 01:04:59,666 --> 01:05:02,794
 I mean, what--? Chandler, look at that.
 
-1104
+79
 01:05:03,670 --> 01:05:05,763
 This is not that bad.
 
-1105
+80
 01:05:05,806 --> 01:05:08,775
 You're fine, yeah, for a first job.
 
-1106
+81
 01:05:08,809 --> 01:05:11,710
 You can totally, totally live on this.
 
-1107
+82
 01:05:11,779 --> 01:05:13,872
 Oh, yeah. Yeah.
 
-1108
-01:05:13,914 --> 01:05:17,907
--By the way, great service today.
--Yeah.
+83
+01:05:15,910 --> 01:05:17,906
+By the way, great service today.
 
-1109
-01:05:21,789 --> 01:05:23,916
--Hockey!
--Hockey!
+84
+01:05:15,910 --> 01:05:17,906
+Yeah.
 
-1110
-01:05:34,902 --> 01:05:37,700
--Hockey!
--Hockey.
+85
+01:05:22,852 --> 01:05:23,915
+Hockey!
 
-1111
+86
+01:05:22,852 --> 01:05:23,915
+Hockey!
+
+87
+01:05:36,301 --> 01:05:37,700
+Hockey!
+
+88
+01:05:36,301 --> 01:05:37,700
+Hockey.
+
+89
 01:05:38,906 --> 01:05:40,897
 Rachel?
 
-1112
+90
 01:05:41,909 --> 01:05:44,707
 Oh, my God!
 
-1113
+91
 01:05:48,949 --> 01:05:53,716
 I swear I've seen birds do this on Wild Kingdom.
 
-1114
+92
 01:05:53,754 --> 01:05:54,948
 What are you doing here?
 
-1115
+93
 01:05:55,689 --> 01:06:00,888
 We were in the city shopping, and your mom said you work here, and it's true!
 
-1116
+94
 01:06:02,896 --> 01:06:07,765
 Look at you in the apron. You look like you're in a play.
 
-1117
+95
 01:06:09,770 --> 01:06:12,864
 God, look at you! You're so big! I can't believe it!
 
-1118
+96
 01:06:12,973 --> 01:06:16,807
 I know, I know! I'm a duplex.
 
-1119
+97
 01:06:16,910 --> 01:06:22,780
 Kiki, you look phenomenal. I mean, you've lost, like, a ton of weight.
 
-1120
+98
 01:06:22,883 --> 01:06:28,985
 And you should really, really-- It's time to stop, you look perfect.
 
-1122
+100
 01:06:29,723 --> 01:06:30,883
 What's going on?
 
-1123
+101
 01:06:30,924 --> 01:06:34,985
 Well, guess who my dad's making partner in his firm?
 
-1124
+102
 01:06:38,699 --> 01:06:40,997
 And while we're on the subject of news....
 
-1125
+103
 01:06:44,705 --> 01:06:46,900
 Look, look! I have elbows!
 
-1126
+104
 01:06:51,945 --> 01:06:54,812
 --Passes it up to Leetch.
 
-1127
+105
 01:06:54,915 --> 01:06:57,884
 Leetch spots Messier. Here's the pass!
 
-1128
+106
 01:06:59,653 --> 01:07:03,783
 We'll take a time-out while Messier looks at some women's shoes.
 
-1129
+107
 01:07:03,857 --> 01:07:08,851
 Carol was wearing boots just like those the night that we first....
 
-1130
+108
 01:07:08,896 --> 01:07:11,956
 You know? In fact, she....
 
-1131
+109
 01:07:12,699 --> 01:07:14,758
 She never took them off.
 
-1132
+110
 01:07:14,801 --> 01:07:17,895
 It's because we-- Sorry, sorry.
 
-1133
+111
 01:07:18,705 --> 01:07:21,799
 I can't believe--
 
-1134
-01:07:22,809 --> 01:07:24,868
--What?
--Peach pit.
+112
+01:07:23,838 --> 01:07:24,867
+What?
 
-1135
+113
+01:07:23,838 --> 01:07:24,867
+Peach pit.
+
+114
 01:07:25,679 --> 01:07:27,670
 Yes, bunny?
 
-1136
+115
 01:07:27,881 --> 01:07:31,681
 Peach pit. That night, we had--
 
-1137
-01:07:31,785 --> 01:07:35,778
--Peaches?
--Actually, nectarines but....
+116
+01:07:33,781 --> 01:07:35,777
+Peaches?
 
-1138
+117
+01:07:33,781 --> 01:07:35,777
+Actually, nectarines but....
+
+118
 01:07:35,822 --> 01:07:37,687
 Could've been a peach.
 
-1139
+119
 01:07:37,791 --> 01:07:46,928
 Then we-- Then we got dressed and I walked her to the bus stop. I'm fine.
 
-1141
+121
 01:07:47,935 --> 01:07:50,927
 Hey, that woman's got an ass like Carol's.
 
-1142
+122
 01:07:54,942 --> 01:07:58,639
 What? I thought we were trying to find stuff.
 
-1143
+123
 01:07:58,946 --> 01:08:01,779
 Come on, you guys. Tell me all the dirt.
 
-1144
+124
 01:08:01,848 --> 01:08:06,842
 Well, the biggest news is still you dumping Barry at the altar.
 
-1145
-01:08:07,955 --> 01:08:11,857
--Let's talk reality for a second.
--Okay.
+125
+01:08:09,906 --> 01:08:11,857
+Let's talk reality for a second.
 
-1146
-01:08:11,892 --> 01:08:16,659
--When are you coming home?
--What? Guys, I'm not.
+126
+01:08:09,906 --> 01:08:11,857
+Okay.
 
-1147
-01:08:16,763 --> 01:08:20,665
--Come on. This is us.
--I'm not.
+127
+01:08:14,275 --> 01:08:16,658
+When are you coming home?
 
-1148
+128
+01:08:14,275 --> 01:08:16,658
+What? Guys, I'm not.
+
+129
+01:08:18,714 --> 01:08:20,665
+Come on. This is us.
+
+130
+01:08:18,714 --> 01:08:20,665
+I'm not.
+
+131
 01:08:20,701 --> 01:08:24,694
 This is what I'm doing now. I've got this job.
 
-1149
+132
 01:08:24,805 --> 01:08:27,865
 I even do my own laundry.
 
-1150
-01:08:31,878 --> 01:08:34,938
--This is what I'm doing now.
--Waitressing?
+133
+01:08:33,408 --> 01:08:34,938
+This is what I'm doing now.
 
-1151
+134
+01:08:33,408 --> 01:08:34,938
+Waitressing?
+
+135
 01:08:35,716 --> 01:08:41,712
 I'm not just waitressing. I mean, I'm....
 
-1152
+136
 01:08:41,788 --> 01:08:47,727
 I write the specials on the specials board.
 
-1153
+137
 01:08:47,828 --> 01:08:51,821
 And I take the dead flowers out of the vase.
 
-1154
+138
 01:08:51,898 --> 01:08:56,835
 Sometimes Arturo lets me put the chocolate blobbies on the cookies.
 
-1155
+139
 01:08:56,870 --> 01:09:01,637
 Well, your mom didn't tell us about the blobbies.
 
-1156
+140
 01:09:11,651 --> 01:09:14,643
 Hey, Rach. How was it with your friends?
 
-1157
+141
 01:09:17,758 --> 01:09:20,784
 Okay, how would you like some Tiki Death punch?
 
-1158
-01:09:20,861 --> 01:09:23,694
--What's that?
--Well, it's rum and--
+142
+01:09:22,277 --> 01:09:23,693
+What's that?
 
-1159
+143
+01:09:22,277 --> 01:09:23,693
+Well, it's rum and--
+
+144
 01:09:23,797 --> 01:09:25,697
 Okay.
 
-1160
+145
 01:09:27,667 --> 01:09:30,864
 Since Phoebe's staying, we'll have a slumber party.
 
-1161
+146
 01:09:30,971 --> 01:09:35,704
 We got trashy magazines. We got cookie dough. We got Twister.
 
-1162
+147
 01:09:36,676 --> 01:09:41,807
 And I brought Operation. But I lost the tweezers so we can't operate.
 
-1163
+148
 01:09:42,783 --> 01:09:44,876
 But we can prep the guy.
 
-1164
-01:09:46,820 --> 01:09:51,723
--Rach, it's the Visa card people.
--Oh, God. Ask them what they want.
+149
+01:09:49,271 --> 01:09:51,722
+Rach, it's the Visa card people.
 
-1165
+150
+01:09:49,271 --> 01:09:51,722
+Oh, God. Ask them what they want.
+
+151
 01:09:51,792 --> 01:09:55,694
 Could you please tell me what this is in reference to?
 
-1166
+152
 01:09:55,929 --> 01:09:59,797
 There's been unusual activity on your account.
 
-1167
+153
 01:09:59,900 --> 01:10:01,925
 I haven't used my card in weeks.
 
-1168
+154
 01:10:02,736 --> 01:10:04,897
 That is the unusual activity.
 
-1169
+155
 01:10:05,939 --> 01:10:08,806
 They wanna see if you're okay.
 
-1170
+156
 01:10:08,842 --> 01:10:12,835
 They wanna know if I'm okay? Okay, let's see.
 
-1171
+157
 01:10:12,913 --> 01:10:16,849
 Well, let's see. The FICA guys took all my money.
 
-1172
+158
 01:10:16,917 --> 01:10:20,819
 Everyone is getting married or pregnant or promoted.
 
-1173
+159
 01:10:20,854 --> 01:10:24,915
 And I'm getting coffee. And it's not even for me!
 
-1174
+160
 01:10:24,958 --> 01:10:29,759
 If that sounds like I'm okay, then tell them I'm okay. Okay?
 
-1175
+161
 01:10:31,731 --> 01:10:36,828
 Rachel has left the building. Can you call back?
 
-1176
+162
 01:10:36,870 --> 01:10:39,771
 All right! Come on!
 
-1177
+163
 01:10:39,940 --> 01:10:42,841
 Let's play Twister!
 
-1178
-01:10:50,851 --> 01:10:55,788
--Sorry.
--Sorry. Sorry, sorry.
+164
+01:10:53,319 --> 01:10:55,787
+Sorry.
 
-1179
+165
+01:10:53,319 --> 01:10:55,787
+Sorry. Sorry, sorry.
+
+166
 01:10:55,822 --> 01:10:59,781
 There was ice that night with Carol? Plastic seats?
 
-1180
+167
 01:10:59,826 --> 01:11:02,818
 Four thousand angry Pittsburgh fans?
 
-1181
+168
 01:11:03,797 --> 01:11:06,925
 No, I was just saying we're not sitting together.
 
-1182
+169
 01:11:07,734 --> 01:11:10,999
 But now that you mention it, there was ice that night.
 
-1183
+170
 01:11:11,805 --> 01:11:14,797
 It was the first frost.
 
-1184
+171
 01:11:14,841 --> 01:11:16,934
 Sit. Just sit down. Sit.
 
-1185
+172
 01:11:17,711 --> 01:11:20,839
 You're doing this amazing independent thing.
 
-1186
+173
 01:11:20,947 --> 01:11:23,711
 Monica, what is so amazing?
 
-1187
+174
 01:11:23,817 --> 01:11:27,844
 I gave up, like, everything. And for what?
 
-1188
-01:11:27,921 --> 01:11:31,755
--You are just like Jack.
--Jack from downstairs?
+175
+01:11:29,838 --> 01:11:31,755
+You are just like Jack.
 
-1189
+176
+01:11:29,838 --> 01:11:31,755
+Jack from downstairs?
+
+177
 01:11:32,025 --> 01:11:34,960
 No, Jack and the Beanstalk.
 
-1190
+178
 01:11:35,829 --> 01:11:37,729
 Ah, the other Jack.
 
-1191
+179
 01:11:37,764 --> 01:11:41,928
 Right. He gave up something but then he got those magic beans.
 
-1192
+180
 01:11:41,968 --> 01:11:49,968
 And then he woke up and there was this big plant outside of his window, full of possibilities.
 
-1194
+182
 01:11:50,777 --> 01:11:53,871
 He lived in a village, and you live in the Village.
 
-1195
+183
 01:11:53,947 --> 01:12:00,682
 Okay. But, Pheebs, Jack gave up a cow. I gave up an orthodontist.
 
-1196
-01:12:00,787 --> 01:12:05,815
--Okay, I know I didn't love him....
--Oh, see, Jack did love the cow.
+184
+01:12:03,301 --> 01:12:05,815
+Okay, I know I didn't love him....
 
-1197
+185
+01:12:03,301 --> 01:12:05,815
+Oh, see, Jack did love the cow.
+
+186
 01:12:06,693 --> 01:12:09,685
 But, see, it was a plan. It was clear.
 
-1198
+187
 01:12:09,796 --> 01:12:12,731
 Everything was figured out. Now it's like....
 
-1199
-01:12:12,799 --> 01:12:14,790
--Floopy?
--Yeah.
+188
+01:12:13,794 --> 01:12:14,789
+Floopy?
 
-1200
+189
+01:12:13,794 --> 01:12:14,789
+Yeah.
+
+190
 01:12:15,936 --> 01:12:19,702
 We don't know where we're going.
 
-1201
+191
 01:12:19,739 --> 01:12:24,836
 It's all gonna come together and it's just gonna be un-floopy.
 
-1202
+192
 01:12:24,945 --> 01:12:27,709
 Yeah, like that's a word.
 
-1203
+193
 01:12:29,916 --> 01:12:34,717
 Okay. But Monica, what if it doesn't come together?
 
-1204
+194
 01:12:35,755 --> 01:12:36,949
 Pheebs?
 
-1205
+195
 01:12:37,958 --> 01:12:41,917
 Well, because you just-- I don't like this question.
 
-1206
+196
 01:12:42,829 --> 01:12:46,731
 See, you guys? What if we don't get magic beans?
 
-1207
+197
 01:12:46,833 --> 01:12:51,736
 I mean, what if all we've got are beans?
 
-1208
+198
 01:12:54,841 --> 01:12:57,867
 Get him! Get him! Get him!
 
-1209
+199
 01:12:57,978 --> 01:13:00,879
 Yes! You're not laughing now, are you, pal?
 
-1210
+200
 01:13:01,681 --> 01:13:05,674
 All you needed were guys hitting each other with sticks.
 
-1211
+201
 01:13:05,719 --> 01:13:07,812
 Pass it! Pass it!
 
-1212
-01:13:07,887 --> 01:13:12,790
--He's open! He's open!
--Shoot it! Shoot it!
+202
+01:13:10,338 --> 01:13:12,789
+He's open! He's open!
 
-1213
+203
+01:13:10,338 --> 01:13:12,789
+Shoot it! Shoot it!
+
+204
 01:13:17,797 --> 01:13:20,698
 Hey, look, we're on that TV thing.
 
-1214
+205
 01:13:31,711 --> 01:13:32,837
 Excuse me?
 
-1215
+206
 01:13:32,912 --> 01:13:37,713
 It says to call if you're not satisfied with this candy bar.
 
-1216
+207
 01:13:37,751 --> 01:13:40,811
 Well, I'm not completely satisfied.
 
-1217
+208
 01:13:42,756 --> 01:13:45,748
 Well, the label promises nutty goodness.
 
-1218
+209
 01:13:46,726 --> 01:13:50,958
 It's an emergency. But you know that, or we'd be in the predicament room.
 
-1219
+210
 01:13:53,767 --> 01:13:56,759
 Hold on. Fill these out. Sit over there!
 
-1220
+211
 01:13:56,870 --> 01:14:00,863
 I don't want to make any trouble but I'm in a lot of pain.
 
-1221
-01:14:00,974 --> 01:14:05,707
--My face is dented.
--Well, you'll have to wait your turn.
+212
+01:14:03,340 --> 01:14:05,706
+My face is dented.
 
-1222
-01:14:05,779 --> 01:14:10,773
--How long do you think it will be?
--Any minute now.
+213
+01:14:03,340 --> 01:14:05,706
+Well, you'll have to wait your turn.
 
-1223
+214
+01:14:08,276 --> 01:14:10,773
+How long do you think it will be?
+
+215
+01:14:08,276 --> 01:14:10,773
+Any minute now.
+
+216
 01:14:12,886 --> 01:14:14,877
 Hey, this--
 
-1224
+217
 01:14:26,900 --> 01:14:31,701
 I'm so sorry, you guys. I didn't mean to bring you down.
 
-1225
+218
 01:14:31,738 --> 01:14:36,835
 No, you were right. I don't have a plan.
 
-1226
-01:14:38,912 --> 01:14:42,712
--Pizza guy.
--Food!
+219
+01:14:40,812 --> 01:14:42,712
+Pizza guy.
 
-1227
-01:14:42,749 --> 01:14:44,808
--Phoebe?
--What?
+220
+01:14:40,812 --> 01:14:42,712
+Food!
 
-1228
-01:14:44,851 --> 01:14:48,912
--Do you have a plan?
--I don't even have a ''pla.''
+221
+01:14:43,778 --> 01:14:44,807
+Phoebe?
 
-1229
+222
+01:14:43,778 --> 01:14:44,807
+What?
+
+223
+01:14:46,881 --> 01:14:48,911
+Do you have a plan?
+
+224
+01:14:46,881 --> 01:14:48,911
+I don't even have a ''pla.''
+
+225
 01:14:51,758 --> 01:14:53,919
 One mushroom, green pepper and onion?
 
-1230
+226
 01:14:54,728 --> 01:14:57,856
 No, no, no. That's not what we ordered!
 
-1231
+227
 01:14:58,665 --> 01:15:01,964
 We ordered a fat-free crust with extra cheese!
 
-1232
+228
 01:15:04,871 --> 01:15:09,672
 Wait. You're not G. Stephanopoulos? Man, my dad's gonna kill me!
 
-1233
+229
 01:15:09,776 --> 01:15:13,803
 Wait! Did you say G. Stephanopoulos?
 
-1234
+230
 01:15:13,880 --> 01:15:18,874
 Yeah, this one goes across the street. I gave him yours. Bonehead! Bonehead!
 
-1235
+231
 01:15:19,686 --> 01:15:22,883
 When you do that, you're only hitting yourself.
 
-1236
+232
 01:15:24,924 --> 01:15:30,885
 Was this a small Mediterranean guy with curiously intelligent good looks?
 
-1237
-01:15:30,930 --> 01:15:34,923
--That sounds right.
--Was he wearing a stunning blue suit?
+233
+01:15:32,926 --> 01:15:34,922
+That sounds right.
 
-1238
-01:15:35,735 --> 01:15:39,000
--And a power tie?
--No, pretty much just a towel.
+234
+01:15:32,926 --> 01:15:34,922
+Was he wearing a stunning blue suit?
 
-1239
-01:15:39,739 --> 01:15:43,732
--Oh, God!
--You guys want me to take this back?
+235
+01:15:37,367 --> 01:15:38,999
+And a power tie?
 
-1240
+236
+01:15:37,367 --> 01:15:38,999
+No, pretty much just a towel.
+
+237
+01:15:41,735 --> 01:15:43,731
+Oh, God!
+
+238
+01:15:41,735 --> 01:15:43,731
+You guys want me to take this back?
+
+239
 01:15:43,843 --> 01:15:48,746
 What, are you nuts? We've got George Stephanopoulos' pizza!
 
-1241
+240
 01:15:51,951 --> 01:15:56,752
 Pheebs, who's George Snuffleupagus?
 
-1242
+241
 01:15:58,691 --> 01:16:00,852
 That's Big Bird's friend.
 
-1243
-01:16:02,796 --> 01:16:05,890
--I see pizza!
--I want to see. Let me see.
+242
+01:16:04,343 --> 01:16:05,890
+I see pizza!
 
-1244
+243
+01:16:04,343 --> 01:16:05,890
+I want to see. Let me see.
+
+244
 01:16:06,666 --> 01:16:08,657
 Hello! Who are we spying on?
 
-1245
+245
 01:16:08,768 --> 01:16:11,760
 White House adviser, Clinton's campaign guy.
 
-1246
+246
 01:16:11,871 --> 01:16:15,671
 The one with the great hair, sexy smile, cute butt.
 
-1247
+247
 01:16:15,775 --> 01:16:19,711
 Oh, him! The little guy. Oh, I love him!
 
-1248
-01:16:19,813 --> 01:16:24,978
--Wait. Wait, I see a woman.
--Tell me it's his mother.
+248
+01:16:22,395 --> 01:16:24,977
+Wait. Wait, I see a woman.
 
-1249
-01:16:25,718 --> 01:16:27,913
--Definitely not his mother.
--Oh, no!
+249
+01:16:22,395 --> 01:16:24,977
+Tell me it's his mother.
 
-1250
+250
+01:16:26,815 --> 01:16:27,912
+Definitely not his mother.
+
+251
+01:16:26,815 --> 01:16:27,912
+Oh, no!
+
+252
 01:16:28,688 --> 01:16:32,886
 Wait, she's walking across the floor. She's walking, she's walking....
 
-1251
+253
 01:16:32,926 --> 01:16:36,885
 She's going for the pizza-- That's not for you, bitch!
 
-1252
+254
 01:16:51,911 --> 01:16:56,780
 We've been here for over an hour, and people less sick have gone in.
 
-1253
+255
 01:16:56,883 --> 01:17:00,751
 That guy with the toe thing, who's he sleeping with?
 
-1254
+256
 01:17:03,690 --> 01:17:06,659
 Oh, come on, Dora. Don't be mad.
 
-1255
+257
 01:17:06,726 --> 01:17:14,861
 I know we both said some things...we didn't mean but that doesn't mean we still don't love each other.
 
-1257
+259
 01:17:15,668 --> 01:17:18,796
 You know, I feel like I've lost her.
 
-1258
-01:17:22,675 --> 01:17:24,666
--Come on, push me.
--No.
+260
+01:17:23,670 --> 01:17:24,665
+Come on, push me.
 
-1259
-01:17:24,744 --> 01:17:26,905
--Push me.
--We're gonna get in trouble.
+261
+01:17:23,670 --> 01:17:24,665
+No.
 
-1260
+262
+01:17:25,824 --> 01:17:26,904
+Push me.
+
+263
+01:17:25,824 --> 01:17:26,904
+We're gonna get in trouble.
+
+264
 01:17:27,680 --> 01:17:29,773
 Don't be a baby. Push me. Push me.
 
-1261
+265
 01:17:29,883 --> 01:17:35,685
 All right. I'm gonna push you, okay? How about I push you like this?
 
-1262
+266
+01:17:30,262 --> 01:17:02,680
+Please. They're having sex.
+
+267
+01:17:30,262 --> 01:17:02,680
+Shut up!
+
+268
 01:17:36,923 --> 01:17:42,884
 Now you're gonna be in a wheelchair the rest of your life, pally-wally....
 
-1263
+269
 01:17:44,831 --> 01:17:50,701
 I am so very sorry. Can I sign you?
 
-1264
-01:17:52,839 --> 01:17:54,807
--Lights still out?
--Yeah.
+270
+01:17:53,823 --> 01:17:54,807
+Lights still out?
 
-1265
+271
+01:17:53,823 --> 01:17:54,807
+Yeah.
+
+272
 01:17:54,908 --> 01:17:57,775
 Well, maybe they're napping.
 
-1266
-01:17:57,844 --> 01:18:02,679
--Please. They're having sex.
--Shut up!
-
-1267
+273
 01:18:05,652 --> 01:18:09,850
 So, what do you think George is like?
 
-1268
-01:18:09,889 --> 01:18:12,687
--I think he's shy.
--Yeah.
+274
+01:18:11,288 --> 01:18:12,687
+I think he's shy.
 
-1269
+275
+01:18:11,288 --> 01:18:12,687
+Yeah.
+
+276
 01:18:12,759 --> 01:18:15,751
 Yeah. I think you have to draw him out.
 
-1270
+277
 01:18:15,795 --> 01:18:20,789
 And then when you do, he's a preppy animal.
 
-1271
-01:18:21,801 --> 01:18:24,770
--What do you think of the guys?
--Our guys?
+278
+01:18:23,285 --> 01:18:24,769
+What do you think of the guys?
 
-1272
-01:18:24,871 --> 01:18:28,671
--Yeah, our guys.
--I feel funny talking about that.
+279
+01:18:23,285 --> 01:18:24,769
+Our guys?
 
-1273
-01:18:28,775 --> 01:18:31,801
--Oh, come on.
--Okay. Well....
+280
+01:18:26,771 --> 01:18:28,671
+Yeah, our guys.
 
-1274
+281
+01:18:26,771 --> 01:18:28,671
+I feel funny talking about that.
+
+282
+01:18:30,288 --> 01:18:31,801
+Oh, come on.
+
+283
+01:18:30,288 --> 01:18:31,801
+Okay. Well....
+
+284
 01:18:31,878 --> 01:18:34,779
 I think Joey's like a little kiddie ride.
 
-1275
+285
 01:18:34,881 --> 01:18:38,977
 You just have to put the quarter in and it just goes.
 
-1276
+286
 01:18:40,787 --> 01:18:47,792
 He might surprise you. One time, he helped me put on my coat and he was really tender.
 
-1278
+288
 01:18:47,894 --> 01:18:52,695
 Come on, baby, come on. Let's go.
 
-1279
+289
 01:18:52,799 --> 01:18:54,733
 Yes!
 
-1280
+290
 01:18:55,735 --> 01:19:00,638
 Chandler's one of those repressed guys who you'd have to seduce.
 
-1281
+291
 01:19:00,673 --> 01:19:05,633
 I think it's an act. Chandler is more sophisticated than he seems.
 
-1282
-01:19:10,750 --> 01:19:12,945
--You know who's kind of sexy?
--Don't.
+292
+01:19:11,847 --> 01:19:12,944
+You know who's kind of sexy?
 
-1283
-01:19:13,686 --> 01:19:16,849
--Ross.
--No, guys. Please, he is my brother.
+293
+01:19:11,847 --> 01:19:12,944
+Don't.
 
-1284
+294
+01:19:15,267 --> 01:19:16,848
+Ross.
+
+295
+01:19:15,267 --> 01:19:16,848
+No, guys. Please, he is my brother.
+
+296
 01:19:16,889 --> 01:19:20,791
 I know exactly what you mean. He can be really smooth.
 
-1285
+297
 01:19:31,904 --> 01:19:34,805
 Can't you just picture him in bed?
 
-1286
+298
 01:19:34,874 --> 01:19:36,967
 I really don't want to.
 
-1287
+299
 01:19:38,778 --> 01:19:40,712
 Come on, laugh. Laugh.
 
-1288
+300
 01:19:40,880 --> 01:19:47,816
 I remember the moonlight coming in the window, and her face had the most incredible glow.
 
-1290
+302
 01:19:47,920 --> 01:19:51,879
 The moon, the glow, the magical feeling. You did this.
 
-1291
+303
 01:19:52,692 --> 01:19:55,786
 Could I get some painkillers over here, please?
 
-1292
+304
 01:19:55,895 --> 01:19:59,831
 He's right. Enough. What's the big deal about today?
 
-1293
+305
 01:19:59,899 --> 01:20:02,834
 So you slept with her for the first time.
 
-1294
+306
 01:20:02,902 --> 01:20:05,928
 You slept with her for seven years after that.
 
-1295
+307
 01:20:06,839 --> 01:20:08,932
 It's a little more complicated--
 
-1296
+308
 01:20:09,742 --> 01:20:13,940
 What is it, that she left you for another woman that likes women?
 
-1297
+309
 01:20:14,714 --> 01:20:19,845
 Louder. There's a man on the 1 2th floor in a coma who didn't hear you.
 
-1298
+310
 01:20:22,722 --> 01:20:23,746
 Then, what?
 
-1299
+311
 01:20:24,824 --> 01:20:29,921
 My first time with Carol was was my....
 
-1301
+313
 01:20:30,930 --> 01:20:31,954
 What?
 
-1302
+314
 01:20:34,834 --> 01:20:39,828
 It was my first time.
 
-1303
+315
 01:20:39,972 --> 01:20:41,940
 With Carol?
 
-1304
+316
 01:20:46,846 --> 01:20:47,938
 Oh.
 
-1305
+317
 01:20:48,881 --> 01:20:52,749
 So, in your whole life, you've only been with one--?
 
-1306
+318
 01:20:53,953 --> 01:20:57,821
 Oh, boy. Hockey was a big mistake.
 
-1307
+319
 01:20:58,691 --> 01:21:01,819
 There's a bunch of stuff we could've done tonight.
 
-1308
+320
 01:21:03,730 --> 01:21:05,789
 Okay, I got one.
 
-1309
+321
 01:21:05,898 --> 01:21:12,694
 Do you remember that vegetarian pâté that I made that you loved so much?
 
-1311
+323
 01:21:13,706 --> 01:21:16,937
 Well, unless goose is a vegetable--!
 
-1312
+324
 01:21:19,912 --> 01:21:23,939
 Now I don't feel so bad about sleeping with Jason Hurley.
 
-1313
-01:21:24,751 --> 01:21:28,710
--What? You slept with Jason?
--You had already broken up.
+325
+01:21:26,730 --> 01:21:28,709
+What? You slept with Jason?
 
-1314
-01:21:28,821 --> 01:21:30,914
--How long?
--Just a couple hours.
+326
+01:21:26,730 --> 01:21:28,709
+You had already broken up.
 
-1315
-01:21:31,724 --> 01:21:35,922
--Oh, that's nice!
--Okay, okay, okay, I got one!
+327
+01:21:29,867 --> 01:21:30,913
+How long?
 
-1316
+328
+01:21:29,867 --> 01:21:30,913
+Just a couple hours.
+
+329
+01:21:33,823 --> 01:21:35,922
+Oh, that's nice!
+
+330
+01:21:33,823 --> 01:21:35,922
+Okay, okay, okay, I got one!
+
+331
 01:21:37,930 --> 01:21:42,924
 Anyway, the valentine Tom left in your locker was really from me!
 
-1317
+332
 01:21:43,836 --> 01:21:45,770
 Excuse me?
 
-1318
+333
 01:21:45,838 --> 01:21:49,968
 Hello! Like he was really gonna send you one.
 
-1319
+334
 01:21:51,744 --> 01:21:54,838
 She was a big girl!
 
-1320
+335
 01:21:55,715 --> 01:22:01,711
 Really? Well, at least big girls don't pee in their pants in seventh grade!
 
-1321
+336
 01:22:01,821 --> 01:22:04,790
 I was laughing. You made me laugh!
 
-1322
+337
 01:22:04,824 --> 01:22:07,691
 Oh, my God! There he is! There he is!
 
-1323
-01:22:07,794 --> 01:22:10,888
--Where?
--Where we've been looking all night.
+338
+01:22:09,341 --> 01:22:10,888
+Where?
 
-1324
-01:22:11,697 --> 01:22:14,689
--He's so cute.
--George, baby, drop the towel.
+339
+01:22:09,341 --> 01:22:10,888
+Where we've been looking all night.
 
-1325
-01:22:14,801 --> 01:22:18,897
--Come on, drop the towel.
--Drop it. Will you please drop it?
+340
+01:22:13,193 --> 01:22:14,689
+He's so cute.
 
-1326
+341
+01:22:13,193 --> 01:22:14,689
+George, baby, drop the towel.
+
+342
+01:22:16,849 --> 01:22:18,897
+Come on, drop the towel.
+
+343
+01:22:16,849 --> 01:22:18,897
+Drop it. Will you please drop it?
+
+344
 01:22:19,005 --> 01:22:21,701
 Wow!
 
-1327
+345
 01:22:23,943 --> 01:22:28,937
 Man, can you believe he's only had sex with one woman?
 
-1328
+346
 01:22:29,916 --> 01:22:33,909
 I think it's great. You know, it's sweet.
 
-1329
+347
 01:22:34,020 --> 01:22:36,011
 It's romantic.
 
-1330
+348
 01:22:36,923 --> 01:22:37,947
 Really?
 
-1331
+349
 01:22:38,724 --> 01:22:41,818
 You kidding? The guy's a freak. I judge him.
 
-1332
-01:22:41,861 --> 01:22:43,829
--Hey, man!
--Hey, buddy!
+350
+01:22:42,845 --> 01:22:43,829
+Hey, man!
 
-1333
+351
+01:22:42,845 --> 01:22:43,829
+Hey, buddy!
+
+352
 01:22:47,767 --> 01:22:51,760
 Oh, that's attractive.
 
-1334
+353
 01:22:52,872 --> 01:22:56,672
 I thought you were great in Silence of the Lambs.
 
-1335
+354
 01:22:57,910 --> 01:23:01,778
 Admit it, all things considered, you had fun tonight.
 
-1336
+355
 01:23:01,881 --> 01:23:05,715
 Fun? Where was the fun? Tell me which part was fun.
 
-1337
+356
 01:23:05,818 --> 01:23:06,910
 Where's my puck?
 
-1338
-01:23:07,687 --> 01:23:10,679
--The kid has it.
--The kid--
+357
+01:23:09,183 --> 01:23:10,679
+The kid has it.
 
-1339
+358
+01:23:09,183 --> 01:23:10,679
+The kid--
+
+359
 01:23:11,691 --> 01:23:13,886
 Excuse me, that's my puck.
 
-1340
+360
 01:23:14,694 --> 01:23:18,790
 I found it. Finders keepers, losers weepers.
 
-1341
+361
 01:23:21,701 --> 01:23:22,998
 You gotta do it, man.
 
-1342
+362
 01:23:24,003 --> 01:23:26,938
 I'm rubber, you're glue. Whatever you--
 
-1343
+363
 01:23:27,707 --> 01:23:28,935
 I can't do it.
 
-1344
-01:23:29,742 --> 01:23:31,937
--Listen, give me back my puck.
--No.
+364
+01:23:30,839 --> 01:23:31,936
+Listen, give me back my puck.
 
-1345
-01:23:32,712 --> 01:23:33,906
--Yes, how about--?
--No.
+365
+01:23:30,839 --> 01:23:31,936
+No.
 
-1346
-01:23:33,946 --> 01:23:35,914
--Give me my puck.
--No.
+366
+01:23:33,309 --> 01:23:33,906
+Yes, how about--?
 
-1347
+367
+01:23:33,309 --> 01:23:33,906
+No.
+
+368
+01:23:34,930 --> 01:23:35,914
+Give me my puck.
+
+369
+01:23:34,930 --> 01:23:35,914
+No.
+
+370
 01:23:35,948 --> 01:23:37,916
 No roughhousing in my ER!
 
-1348
+371
 01:23:38,718 --> 01:23:40,845
 Give me my puck!
 
-1349
+372
 01:23:45,725 --> 01:23:47,920
 Now that was fun.
 
-1350
+373
 01:23:53,766 --> 01:23:57,862
 Okay, Monica. Right foot, red.
 
-1351
+374
 01:23:57,904 --> 01:24:01,863
 We could've played Monopoly, but no!
 
-1352
+375
 01:24:07,813 --> 01:24:09,713
 Thanks.
 
-1353
+376
 01:24:14,921 --> 01:24:19,722
 Okay, Pheebs. Right hand, blue.
 
-1354
+377
 01:24:26,732 --> 01:24:30,725
 Ross, switch with me and Phoebe could be number two.
 
-1355
+378
 01:24:31,938 --> 01:24:36,898
 Nothing. It's a Twister thing. The rules are on the back of the box.
 
-1356
+379
 01:24:39,745 --> 01:24:40,939
 Hello?
 
-1357
+380
 01:24:41,747 --> 01:24:43,715
 It's the Visa card people.
 
-1358
-01:24:43,816 --> 01:24:47,752
--Okay. Will you take my place?
--All right. This is Rachel.
+381
+01:24:45,784 --> 01:24:47,752
+Okay. Will you take my place?
 
-1359
+382
+01:24:45,784 --> 01:24:47,752
+All right. This is Rachel.
+
+383
 01:24:47,853 --> 01:24:49,753
 No!
 
-1360
+384
 01:24:51,824 --> 01:24:56,852
 Hello? Oh, yeah. No, I know. I haven't been using it much.
 
-1361
+385
 01:24:56,896 --> 01:25:00,662
 Oh, well, thanks. But I'm okay, really.
 
-1362
-01:25:00,766 --> 01:25:02,859
--To the green.
--Oh, no.
+386
+01:25:01,812 --> 01:25:02,858
+To the green.
 
-1363
+387
+01:25:01,812 --> 01:25:02,858
+Oh, no.
+
+388
 01:25:02,969 --> 01:25:05,870
 I've got magic beans.
 
-1364
+389
 01:25:07,907 --> 01:25:09,807
 No, no, never mind.
 
-1365
+390
 01:25:09,875 --> 01:25:12,776
 To the left! To the left!
 
-1366
+391
 01:25:12,878 --> 01:25:15,870
 I'm fine.
 
