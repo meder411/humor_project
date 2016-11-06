@@ -52,8 +52,8 @@ Chandler: Then I look down and I realize there is a phone...there.
 
 17
 00:00:52,119 --> 00:00:54,019
-Chandler: -Instead of--
--That's right!
+Joey: Instead of--
+Chandler: That's right!
 
 18
 00:00:54,188 --> 00:00:55,985
@@ -77,7 +77,7 @@ Chandler: Finally, I figure I'd better answer it.
 
 23
 00:01:11,138 --> 00:01:15,040
-And it turns out it's my mother.
+Chandler: And it turns out it's my mother.
 
 24
 00:01:15,108 --> 00:01:19,101
@@ -101,8 +101,8 @@ Ross: I feel like someone pulled my intestine out of my mouth...
 
 29
 00:01:39,967 --> 00:01:44,063
--...and tied it around my neck.
--Cookie?
+Ross: ...and tied it around my neck.
+Chandler: Cookie?
 
 30
 00:01:44,204 --> 00:01:47,105
@@ -110,8 +110,8 @@ Monica: Carol moved her stuff out today.
 
 31
 00:01:47,174 --> 00:01:50,200
-Monica: -Let me get you some coffee.
--Thanks.
+Monica: Let me get you some coffee.
+Ross: Thanks.
 
 32
 00:01:54,081 --> 00:01:59,075
@@ -119,13 +119,13 @@ Ross: No, don't! Stop cleansing my aura.
 
 33
 00:01:59,186 --> 00:02:03,953
-Ross: -Just leave my aura alone, okay?
--Fine, be murky.
+Ross: Just leave my aura alone, okay?
+Phoebe: Fine, be murky.
 
 34
 00:02:04,124 --> 00:02:07,958
-Ross: -I'll be fine. I hope she'll be happy.
--No, you don't.
+Ross: I'll be fine. I hope she'll be happy.
+Monica: No, you don't.
 
 35
 00:02:08,028 --> 00:02:11,156
@@ -137,7 +137,7 @@ Joey: You never knew she was a lesbian?
 
 37
 00:02:17,971 --> 00:02:19,939
-No! Okay?
+Ross: No! Okay?
 
 38
 00:02:20,040 --> 00:02:23,032
@@ -205,8 +205,8 @@ Chandler: And I just want a million dollars!
 
 55
 00:03:27,040 --> 00:03:30,237
-Rachel: -Rachel?
--Oh, Monica! Thank God!
+Monica: Rachel?
+Rachel: Oh, Monica! Thank God!
 
 56
 00:03:31,044 --> 00:03:36,948
@@ -214,8 +214,8 @@ Rachel: I went to your building and a guy with a hammer said you'd be here, and 
 
 58
 00:03:37,050 --> 00:03:40,986
-Waitress: -Can I get you some coffee?
--Decaf.
+Waitress: Can I get you some coffee?
+Monica: Decaf.
 
 59
 00:03:41,188 --> 00:03:45,056
@@ -243,11 +243,11 @@ Rachel: I was in the room with all the presents and I was looking at this really
 
 67
 00:04:21,028 --> 00:04:22,928
-When all of a sudden--
+Rachel: When all of a sudden--
 
 68
 00:04:23,030 --> 00:04:24,019
-Sweet 'N Low?
+Rachel: Sweet 'N Low?
 
 69
 00:04:26,166 --> 00:04:30,125
@@ -275,8 +275,8 @@ Rachel: I didn't know where to go, and I know we've drifted apart but you're the
 
 77
 00:04:58,065 --> 00:05:03,162
-Monica: -Who wasn't invited to the wedding.
--I hoped that wouldn't be an issue.
+Monica: Who wasn't invited to the wedding.
+Rachel: I hoped that wouldn't be an issue.
 
 78
 00:05:19,953 --> 00:05:24,913
@@ -388,7 +388,7 @@ Monica: Try to think of nice, calm things.
 
 105
 00:07:15,001 --> 00:07:18,095
-Raindrops on roses And whiskers on kittens
+Phoebe: Raindrops on roses And whiskers on kittens
 
 106
 00:07:18,939 --> 00:07:23,000
@@ -432,7 +432,7 @@ Joey: Like there's a rule, or something?
 
 116
 00:08:01,214 --> 00:08:03,910
-Joey: I got it.
+Monica: I got it.
 
 117
 00:08:04,017 --> 00:08:07,145
@@ -448,8 +448,8 @@ Monica: Oh, God, is it 6:30? Buzz him in.
 
 120
 00:08:13,093 --> 00:08:15,891
-Joey: -Who's Paul?
--Paul, the wine guy?
+Joey: Who's Paul?
+Monica: Paul, the wine guy?
 
 121
 00:08:15,996 --> 00:08:16,985
@@ -461,8 +461,8 @@ Monica: Your ''not a real date'' is with Paul, the wine guy?
 
 123
 00:08:20,900 --> 00:08:23,027
-Ross: -He finally asked you out?
--Yes!
+Ross: He finally asked you out?
+Monica: Yes!
 
 124
 00:08:23,103 --> 00:08:25,936
@@ -470,8 +470,8 @@ Chandler: It's a ''Dear Diary'' moment.
 
 125
 00:08:26,006 --> 00:08:29,100
-Monica: -Rach, I can cancel.
--Please, go, I'll be fine.
+Monica: Rach, I can cancel.
+Rachel: Please, go, I'll be fine.
 
 126
 00:08:30,944 --> 00:08:34,038
@@ -483,8 +483,8 @@ Ross: That'd be good.
 
 128
 00:08:38,118 --> 00:08:42,111
-Ross: -Really?
--Go on! It's Paul, the wine guy!
+Monica: Really?
+Ross: Go on! It's Paul, the wine guy!
 
 129
 00:08:43,023 --> 00:08:45,048
@@ -500,8 +500,8 @@ Monica: Hi, come in! Paul, this is...everybody. Everybody, this is Paul.
 
 133
 00:08:56,069 --> 00:09:00,028
-Chandler: -The wine guy.
--I didn't catch your name. Paul?
+All: The wine guy.
+Chandler: I didn't catch your name. Paul?
 
 134
 00:09:01,941 --> 00:09:04,967
@@ -569,8 +569,8 @@ Rachel: Thanks. But I'm just going to hang out here.
 
 154
 00:10:16,082 --> 00:10:18,073
-Rachel: -It's been a long day.
--Oh, sure.
+Rachel: It's been a long day.
+Ross: Oh, sure.
 
 155
 00:10:18,184 --> 00:10:19,947
@@ -586,19 +586,19 @@ Phoebe: Love is sweet as summer showers Love is a wondrous work of art
 
 158
 00:10:38,171 --> 00:10:44,007
-But your love Oh, your love, your love
+Phoebe: But your love Oh, your love, your love
 
 159
 00:10:44,077 --> 00:10:48,173
-Is like a giant pigeon
+Phoebe: Is like a giant pigeon
 
 160
 00:10:48,982 --> 00:10:52,179
-Crapping on my heart
+Phoebe: Crapping on my heart
 
 161
 00:10:55,021 --> 00:10:56,989
-Paul: Thank you.
+Ross: Thank you.
 
 162
 00:11:05,131 --> 00:11:12,166
@@ -610,8 +610,8 @@ Ross: I have no bracket-y thing. I see no worm guys whatsoever and I cannot feel
 
 166
 00:11:25,051 --> 00:11:28,953
-Joey: -We got a bookcase.
--It's beautiful.
+Joey: We got a bookcase.
+Chandler: It's beautiful.
 
 167
 00:11:29,155 --> 00:11:30,952
@@ -623,13 +623,13 @@ Chandler: I would have to say that is an L-shaped bracket.
 
 169
 00:11:36,162 --> 00:11:40,155
-Chandler: -Which goes where?
--I have no idea.
+Joey: Which goes where?
+Chandler: I have no idea.
 
 170
 00:11:42,168 --> 00:11:45,194
-Joey: -Done with the bookcase.
--All finished.
+Joey: Done with the bookcase.
+Chandler: All finished.
 
 171
 00:11:48,975 --> 00:11:52,001
@@ -641,8 +641,8 @@ Ross: She always drank it out of the can. I should have known.
 
 173
 00:12:00,119 --> 00:12:05,113
-Chandler: -Start with that, we're out of here.
--Please don't spoil all this fun.
+Joey: Start with that, we're out of here.
+Chandler: Please don't spoil all this fun.
 
 174
 00:12:05,225 --> 00:12:07,022
@@ -658,13 +658,13 @@ Monica: What did you get?
 
 177
 00:12:13,933 --> 00:12:16,959
-Joey: -You guys.
--You got screwed.
+Ross: You guys.
+Joey: You got screwed.
 
 178
 00:12:17,036 --> 00:12:21,234
-Paul: -Oh, my God.
--I know. I'm such an idiot.
+Chandler: Oh, my God.
+Paul: I know. I'm such an idiot.
 
 179
 00:12:21,975 --> 00:12:26,139
@@ -688,8 +688,8 @@ Paul: He might accidentally break something valuable of hers.
 
 184
 00:12:37,090 --> 00:12:38,955
--Say her--
--Leg?
+Paul: Say her--
+Monica: Leg?
 
 185
 00:12:39,058 --> 00:12:42,994
@@ -705,8 +705,8 @@ Monica: The worst I ever did was shred my old boyfriend's favorite towel.
 
 188
 00:12:50,970 --> 00:12:54,098
-Paul: -Steer clear of you.
--That's right.
+Paul: Steer clear of you.
+Chandler: That's right.
 
 189
 00:12:55,008 --> 00:12:57,977
@@ -718,7 +718,7 @@ Rachel: You probably think it's about making love with your socks on, but it isn
 
 191
 00:13:03,950 --> 00:13:06,111
-It's about me. And I just--
+Rachel: It's about me. And I just--
 
 192
 00:13:13,026 --> 00:13:16,018
@@ -742,8 +742,8 @@ Ross: I'm divorced.
 
 197
 00:13:38,952 --> 00:13:44,982
-Ross: -I'm only 26, and I'm divorced!
--Shut up!
+Ross: I'm only 26, and I'm divorced!
+Joey: Shut up!
 
 198
 00:13:49,195 --> 00:13:51,993
@@ -795,7 +795,7 @@ Joey: Let me tell you something. There's lots of flavors out there.
 
 210
 00:14:44,050 --> 00:14:48,043
-Rocky road and cookie dough and bing cherry vanilla.
+Joey: Rocky road and cookie dough and bing cherry vanilla.
 
 211
 00:14:49,055 --> 00:14:53,082
@@ -815,8 +815,8 @@ Joey: Welcome back to the world. Grab a spoon!
 
 215
 00:15:05,138 --> 00:15:09,905
-Ross: -I don't know if I'm hungry or horny.
--Then stay out of my freezer.
+Ross: I don't know if I'm hungry or horny.
+Chandler: Then stay out of my freezer.
 
 216
 00:15:13,946 --> 00:15:17,006
@@ -824,7 +824,7 @@ Paul: Ever since she walked out on me....
 
 217
 00:15:17,150 --> 00:15:19,118
-Rachel: What?
+Monica: What?
 
 218
 00:15:19,919 --> 00:15:22,012
@@ -856,7 +856,7 @@ Paul: Ever since she left me I haven't been able to perform sexually.
 
 227
 00:15:55,154 --> 00:15:58,146
-Rachel: Oh, God! I'm so sorry.
+Chandler: Oh, God! I'm so sorry.
 
 228
 00:15:58,191 --> 00:16:02,992
@@ -868,8 +868,8 @@ Monica: How long?
 
 230
 00:16:06,032 --> 00:16:09,024
-Paul: -Two years.
--Wow.
+Paul: Two years.
+Monica: Wow.
 
 231
 00:16:09,102 --> 00:16:13,095
@@ -889,7 +889,7 @@ Priest on TV: We are gathered here to join Joanie Louise Cunningham and Charles.
 
 237
 00:16:41,000 --> 00:16:41,989
-See!
+Monica: See!
 
 238
 00:16:42,068 --> 00:16:48,064
@@ -921,7 +921,7 @@ Chandler: Andrea's the screamer. Angela has cats.
 
 245
 00:17:14,901 --> 00:17:19,099
-Right, thanks. It's Julie. I'm out of here.
+Joey: Right, thanks. It's Julie. I'm out of here.
 
 246
 00:17:20,940 --> 00:17:29,947
@@ -933,8 +933,8 @@ Rachel: Isn't this amazing? I've never made coffee in my life.
 
 250
 00:17:58,077 --> 00:18:00,170
-Joey: -That is amazing.
--Congratulations.
+Chandler: That is amazing.
+Joey: Congratulations.
 
 251
 00:18:00,980 --> 00:18:04,177
@@ -958,23 +958,23 @@ Monica: Oh, good. Lenny and Squiggy are here.
 
 256
 00:18:26,906 --> 00:18:28,931
-All: -Good morning.
--Good morning.
+All: Good morning.
+All: Good morning.
 
 257
 00:18:30,943 --> 00:18:32,911
-Joey: -Morning.
--Morning, Paul.
+All: Morning.
+Joey: Morning, Paul.
 
 258
 00:18:33,012 --> 00:18:35,947
-Chandler: -Hello, Paul.
--Hi. Paul, is it?
+Rachel: Hello, Paul.
+Chandler: Hi. Paul, is it?
 
 259
 00:18:43,022 --> 00:18:45,957
-Paul: -Thank you so much.
--Stop.
+Paul: Thank you so much.
+Monica: Stop.
 
 260
 00:18:46,025 --> 00:18:53,124
@@ -1018,8 +1018,8 @@ Monica: Yeah, we all have jobs. That's how we buy stuff.
 
 271
 00:19:47,186 --> 00:19:51,213
-Rachel: -Yeah, I'm an actor.
--Have I seen you in anything?
+Joey: Yeah, I'm an actor.
+Rachel: Have I seen you in anything?
 
 272
 00:19:51,991 --> 00:19:54,084
@@ -1039,8 +1039,8 @@ Chandler: ''Look, Geppetto. I'm a real live boy.''
 
 277
 00:20:08,074 --> 00:20:12,033
-Joey: -I will not take this abuse.
--You're right, I'm sorry.
+Joey: I will not take this abuse.
+Chandler: You're right, I'm sorry.
 
 278
 00:20:12,078 --> 00:20:14,979
@@ -1072,8 +1072,8 @@ Monica: I know. He's just so....
 
 285
 00:20:45,211 --> 00:20:48,180
-Monica: -Remember you and Tony Demarco?
--Oh, yeah.
+Monica: Remember you and Tony Demarco?
+All: Oh, yeah.
 
 286
 00:20:48,214 --> 00:20:52,116
@@ -1081,8 +1081,8 @@ Monica: Well, it's like that. With feelings.
 
 287
 00:20:53,119 --> 00:20:56,088
-Rachel: -Wow, are you in trouble!
--Big time!
+Rachel: Wow, are you in trouble!
+Monica: Big time!
 
 288
 00:20:56,288 --> 00:21:00,019
@@ -1102,8 +1102,8 @@ Monica: Or else I'm going to get up and go to work.
 
 292
 00:21:12,171 --> 00:21:14,071
-Monica: -Wish me luck!
--What for?
+Rachel: Wish me luck!
+Monica: What for?
 
 293
 00:21:14,140 --> 00:21:18,941
@@ -1111,18 +1111,18 @@ Rachel: I'm gonna go get one of those job things.
 
 294
 00:21:29,055 --> 00:21:31,148
-Monica: -Hi, Monica.
--Franny, welcome back.
+Frannie: Hi, Monica.
+Monica: Franny, welcome back.
 
 295
 00:21:31,257 --> 00:21:34,954
-Frannie: -How was Florida?
--You had sex, didn't you?
+Monica: How was Florida?
+Frannie: You had sex, didn't you?
 
 296
 00:21:36,996 --> 00:21:39,055
-Monica: -How do you do that?
--I hate you.
+Monica: How do you do that?
+Monica: I hate you.
 
 297
 00:21:39,098 --> 00:21:43,091
@@ -1166,7 +1166,7 @@ Ross: I assume we want an answer more sophisticated than:
 
 307
 00:22:16,135 --> 00:22:19,127
-''To get you into bed.''
+Ross: ''To get you into bed.''
 
 308
 00:22:19,171 --> 00:22:21,969
@@ -1198,8 +1198,8 @@ Joey: I can't believe you didn't know it was a line.
 
 316
 00:22:58,077 --> 00:23:00,011
-Ross: -Guess what?
--You got a job?
+Rachel: Guess what?
+Ross: You got a job?
 
 317
 00:23:00,079 --> 00:23:04,106
@@ -1207,8 +1207,8 @@ Rachel: Are you kidding? I'm trained for nothing.
 
 318
 00:23:04,917 --> 00:23:08,148
-Chandler: -I was laughed out of 1 2 interviews.
--You're surprisingly upbeat.
+Rachel: I was laughed out of 1 2 interviews.
+Chandler: You're surprisingly upbeat.
 
 319
 00:23:08,954 --> 00:23:12,014
@@ -1224,8 +1224,8 @@ Rachel: They're my ''I don't need a job I've got great boots'' boots.
 
 323
 00:23:24,970 --> 00:23:27,029
-Rachel: -How did you pay?
--Credit card.
+Monica: How did you pay?
+Rachel: Credit card.
 
 324
 00:23:27,173 --> 00:23:30,074
@@ -1261,11 +1261,11 @@ Phoebe: I remember when I first came to this city, I was 1 4.
 
 332
 00:23:55,000 --> 00:23:57,969
-Mom had killed herself, stepdad was in jail.
+Phoebe: Mom had killed herself, stepdad was in jail.
 
 333
 00:23:58,070 --> 00:24:00,004
-I didn't know anybody here.
+Joey: I didn't know anybody here.
 
 334
 00:24:00,105 --> 00:24:04,906
@@ -1273,7 +1273,7 @@ Phoebe: I ended up living with this albino guy who was cleaning windshields.
 
 335
 00:24:05,010 --> 00:24:06,910
-And then he killed himself.
+Phoebe: And then he killed himself.
 
 336
 00:24:07,012 --> 00:24:11,210
@@ -1285,12 +1285,12 @@ Ross: The word you're looking for is:
 
 338
 00:24:18,057 --> 00:24:20,924
-''Anyway....''
+Ross: ''Anyway....''
 
 339
 00:24:24,930 --> 00:24:28,127
-Rachel: -You ready?
--No, how can I be ready?
+Monica: You ready?
+Rachel: No, how can I be ready?
 
 340
 00:24:28,234 --> 00:24:31,169
@@ -1298,17 +1298,17 @@ Rachel: ''Ready to jump out of the plane with no parachute?''
 
 341
 00:24:31,937 --> 00:24:33,962
-Monica: -I can't do this.
--I know you can.
+Monica: I can't do this.
+Monica: I know you can.
 
 342
 00:24:34,039 --> 00:24:37,065
-Ross: -No.
--You made coffee, you can do anything.
+Phoebe: No.
+Ross: You made coffee, you can do anything.
 
 343
 00:24:39,945 --> 00:24:42,937
-Cut. Cut. Cut.
+Ross: Cut. Cut. Cut.
 
 344
 00:24:47,987 --> 00:24:51,150
@@ -1316,8 +1316,8 @@ Rachel: You know what? I think we can leave it at that.
 
 345
 00:24:51,257 --> 00:24:55,250
-Monica: -Kind of a symbolic gesture.
--Rachel, that was a library card.
+Rachel: Kind of a symbolic gesture.
+Monica: Rachel, that was a library card.
 
 346
 00:25:02,167 --> 00:25:07,036
@@ -1337,8 +1337,8 @@ Monica: That's it. Are you going to crash on the couch?
 
 350
 00:25:26,925 --> 00:25:30,918
-Ross: -No, I gotta go home sometime.
--Are you gonna be okay?
+Ross: No, I gotta go home sometime.
+Monica: Are you gonna be okay?
 
 351
 00:25:32,931 --> 00:25:36,025
@@ -1354,17 +1354,17 @@ Monica: That's Paul's watch. Just put it back where you found it.
 
 354
 00:25:44,043 --> 00:25:46,068
-Chandler: Oh, boy! All right.
+Monica: Oh, boy! All right.
 
 355
 00:25:46,245 --> 00:25:49,976
-Monica: -Good night, everybody.
--Good night.
+Monica: Good night, everybody.
+Ross and Rachel: Good night.
 
 356
 00:26:00,059 --> 00:26:04,928
-Rachel: -I'm sorry. Have it, I don't want it.
--Split it?
+Rachel: I'm sorry. Have it, I don't want it.
+Ross: Split it?
 
 357
 00:26:09,034 --> 00:26:15,098
@@ -1388,7 +1388,7 @@ Rachel: I did.
 
 363
 00:26:32,024 --> 00:26:33,924
-Listen, do you think...?
+Monica: Listen, do you think...?
 
 364
 00:26:33,959 --> 00:26:38,953
@@ -1404,7 +1404,7 @@ Paul: Yeah.
 
 367
 00:26:47,039 --> 00:26:48,063
-Monica: Maybe.
+Ross: Maybe.
 
 368
 00:26:49,074 --> 00:26:52,134
@@ -1416,8 +1416,8 @@ Ross: Okay, maybe I will.
 
 370
 00:27:02,087 --> 00:27:05,113
-Ross and Rachel: -Good night.
--Good night.
+Ross and Rachel: Good night.
+Ross and Rachel: Good night.
 
 371
 00:27:18,904 --> 00:27:20,929
@@ -1433,18 +1433,18 @@ Ross: I just grabbed a spoon.
 
 374
 00:27:37,923 --> 00:27:41,950
-Joey: -I can't believe what I'm hearing.
--Can't believe what I'm hearing
+Joey: I can't believe what I'm hearing.
+Joey: Can't believe what I'm hearing
 
 375
 00:27:42,027 --> 00:27:44,052
--What? I said--
--What? I said
+Rachel: What? I said--
+Rachel: What? I said
 
 376
 00:27:45,130 --> 00:27:47,928
-Phoebe: -Would you stop?
--Was I doing it again?
+Monica: Would you stop?
+Phoebe: Was I doing it again?
 
 377
 00:27:48,033 --> 00:27:50,058
@@ -1456,8 +1456,8 @@ Monica: I said you had a nice butt. It's just not a great butt.
 
 379
 00:27:55,073 --> 00:27:59,134
-Ross: -You won't know a butt if it bit you.
--There's an image.
+Joey: You won't know a butt if it bit you.
+Ross: There's an image.
 
 380
 00:28:01,980 --> 00:28:04,972
@@ -1469,8 +1469,8 @@ Chandler: You made it, or you're serving it?
 
 382
 00:28:08,120 --> 00:28:12,022
-All: -I'm just serving it.
--I'll have a cup of coffee.
+Rachel: I'm just serving it.
+All: I'll have a cup of coffee.
 
 383
 00:28:12,090 --> 00:28:13,921
