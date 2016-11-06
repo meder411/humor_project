@@ -1,0 +1,34 @@
+This is code for my project to detect humor in videos by leveraging both visual cues and dialogue.
+
+
+The project has 3 components:
+1. Building a humor dataset that explicitly aligns visuals wih language in humorous situations
+2. Detecting and describing the speakers' expressions
+3. The actual humor detection
+
+
+This repository contains the following files:
+
+-->face_description : top-level directory for face detection and description
+|	|
+|	|---->facenet : neural network components
+		|
+		|---->layers: directory containing soft-links to a modified version of Caffe's sigmoid_cross_entropy_layer (now it can accept class weights)
+			|-- weighted_sigmoid_cross_entropy_loss_layer.cpp
+			|-- weighted_sigmoid_cross_entropy_loss_layer.hpp
+			|-- weighted_sigmoid_cross_entropy_loss_layer.cu
+		|---->models: directory containing .prototxt files describing the FaceNEt architecture
+			|--facenet_train_solver.prototxt : solver parameters file
+			|--facenet_train.prototxt : train net
+			|--facenet_test.prototxt : test net
+			|--facenet_valid.prototxt : validation net
+		|-- amfed_label_weights.txt : List of class weights based on negative:positive sample ratio
+		|-- amfed_test_labels.txt : Test set
+		|-- amfed_train_labels.txt : Training set
+		|-- amfed_valid_labels.txt : Validation set
+		|-- facenet_data_layer : Custom Python data layer to load images into FaceNet
+		|-- network_util.py : Utility functions for FaceNet
+		|-- test_facenet.py : Script to test the network
+		|-- train_facenet.py : Script to train the network
+
+|

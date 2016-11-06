@@ -5,3 +5,4 @@ logs
 *.caffemodel
 *.solverstate
 *.zip
+pr_example.py
