@@ -110,7 +110,7 @@ spell_dict = enchant.Dict('en_US')
 if not osp.exists('edited'):
 	os.mkdir('edited')
 
-log_file = codecs.open('spell_check_log.txt', 'w', encoding='utf-8')
+log_file = codecs.open(osp.join('logs', 'spell_check_log.txt'), 'w', encoding='utf-8')
 ital_regex = '|'.join(map(re.escape, ['<i>', '</i>']))
 
 # Go through each SRT file

@@ -62,6 +62,6 @@ This repository contains the files listed below. All code is my work unless indi
 	|	|-- match_speakers.py : Better script to assign speakers to subtitles. Takes advantage of inherent ordering, but still uses N-gram similarity
 	|	=
 	|
-	|>> sentence_encoding : Top-level directory for sentences feature extraction (currently empty)
+	|>> sentence_encoding : Top-level directory for sentence feature extraction (currently empty)
 	|
 	|>> humor_detector : Top-level directory for components of the final system (currently empty)

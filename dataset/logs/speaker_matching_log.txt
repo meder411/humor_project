@@ -1,1455 +1,371 @@
-EXAMINING ep1
+EXAMINING ep4
 ----------
 
-SUBTITLE: There's nothing to tell. It's just some guy I work with.
-DIALOGUE_PAIR: (There's nothing to tell! He's just some guy I work with!, 0.731343283582), (C'mon, you're going out with the guy! There's gotta be something wrong with him!, 0.157024793388)
-RESULT: Monica: There's nothing to tell. It's just some guy I work with.
-SUBTITLE: You're going out with the guy.
-DIALOGUE_PAIR: (There's nothing to tell! He's just some guy I work with!, 0.0975609756098), (C'mon, you're going out with the guy! There's gotta be something wrong with him!, 0.295454545455)
-RESULT: Joey: You're going out with the guy.
-SUBTITLE: There has to be something wrong with him.
-DIALOGUE_PAIR: (C'mon, you're going out with the guy! There's gotta be something wrong with him!, 0.315789473684), (All right Joey, be nice.  So does he have a hump? A hump and a hairpiece?, 0.0350877192982)
-RESULT: Joey: There has to be something wrong with him.
-SUBTITLE: All right, Joey. Be nice.
-DIALOGUE_PAIR: (C'mon, you're going out with the guy! There's gotta be something wrong with him!, 0.0), (All right Joey, be nice.  So does he have a hump? A hump and a hairpiece?, 0.2)
-RESULT: Chandler: All right, Joey. Be nice.
-SUBTITLE: So does he have a hump and a hairpiece?
-DIALOGUE_PAIR: (All right Joey, be nice.  So does he have a hump? A hump and a hairpiece?, 0.506493506494), (Wait, does he eat chalk?, 0.135593220339)
-RESULT: Chandler: So does he have a hump and a hairpiece?
-SUBTITLE: Wait, does he eat chalk?
-DIALOGUE_PAIR: (All right Joey, be nice.  So does he have a hump? A hump and a hairpiece?, 0.0860215053763), (Wait, does he eat chalk?, 1.0)
-RESULT: Phoebe: Wait, does he eat chalk?
-SUBTITLE: I don't want her to go through what I did with Carl.
-DIALOGUE_PAIR: (Wait, does he eat chalk?, 0.038961038961), (Just, 'cause, I don't want her to go through what I went through with Carl- oh!, 0.483516483516)
-RESULT: Phoebe: I don't want her to go through what I did with Carl.
-SUBTITLE: Okay, everybody relax. This is not even a date.
-DIALOGUE_PAIR: (Just, 'cause, I don't want her to go through what I went through with Carl- oh!, 0.0), (Okay, everybody relax. This is not even a date. It's just two people going out to dinner and- not having sex., 0.428571428571)
-RESULT: Monica: Okay, everybody relax. This is not even a date.
-SUBTITLE: It's just two people going out to dinner and not having sex.
-DIALOGUE_PAIR: (Okay, everybody relax. This is not even a date. It's just two people going out to dinner and- not having sex., 0.504347826087), (Sounds like a date to me., 0.0348837209302)
-RESULT: Monica: It's just two people going out to dinner and not having sex.
-SUBTITLE: Sounds like a date to me.
-DIALOGUE_PAIR: (Okay, everybody relax. This is not even a date. It's just two people going out to dinner and- not having sex., 0.0615384615385), (Sounds like a date to me., 1.0)
-RESULT: Chandler: Sounds like a date to me.
-SUBTITLE: I'm in high school, in the cafeteria and I realize I'm totally naked.
-DIALOGUE_PAIR: (Sounds like a date to me., 0.0208333333333), (Alright, so I'm back in high school, I'm standing in the middle of the cafeteria, and I realize I am totally naked., 0.528455284553)
-RESULT: Chandler: I'm in high school, in the cafeteria and I realize I'm totally naked.
-SUBTITLE: I've had that dream.
-DIALOGUE_PAIR: (Alright, so I'm back in high school, I'm standing in the middle of the cafeteria, and I realize I am totally naked., 0.0220588235294), (Oh, yeah. Had that dream., 0.4)
-RESULT: All: I've had that dream.
-SUBTITLE: Then I look down and I realize there is a phone...there.
-DIALOGUE_PAIR: (Oh, yeah. Had that dream., 0.0365853658537), (Then I look down, and I realize there's a phone... there., 0.746268656716)
-RESULT: Chandler: Then I look down and I realize there is a phone...there.
-SUBTITLE: Instead of--
-DIALOGUE_PAIR: (Then I look down, and I realize there's a phone... there., 0.0), (Instead of...?, 0.5)
-RESULT: Joey: Instead of--
-SUBTITLE: That's right!
-DIALOGUE_PAIR: (Instead of...?, 0.0), (That's right., 0.666666666667)
-RESULT: Chandler: That's right!
-SUBTITLE: Never had that one.
-DIALOGUE_PAIR: (That's right., 0.0588235294118), (Never had that dream., 0.571428571429)
-RESULT: Joey: Never had that one.
-SUBTITLE: All of a sudden, the phone starts to ring.
-DIALOGUE_PAIR: (Never had that dream., 0.0307692307692), (No., 0.0208333333333)
+SUBTITLE: If I were omnipotent for a day, I would want world peace no hunger, good things for the rain forest.
+DIALOGUE_PAIR: (Alright. Phoebe?, 0.0), (Okay, okay. If I were omnipotent for a day, I would want, um, world peace, no more hunger, good things for the rain-forest...And bigger boobs!, 0.576923076923)
+RESULT: Phoebe: If I were omnipotent for a day, I would want world peace no hunger, good things for the rain forest.
+SUBTITLE: And bigger boobs.
+DIALOGUE_PAIR: (Okay, okay. If I were omnipotent for a day, I would want, um, world peace, no more hunger, good things for the rain-forest...And bigger boobs!, 0.0939597315436), (Yeah, see.. you took mine. Chandler, what about you?, 0.0)
+--CHECKING SUBSTRINGS--
+RESULT: Phoebe: And bigger boobs.
+SUBTITLE: Well, see, you took mine.
+DIALOGUE_PAIR: (Okay, okay. If I were omnipotent for a day, I would want, um, world peace, no more hunger, good things for the rain-forest...And bigger boobs!, 0.00588235294118), (Yeah, see.. you took mine. Chandler, what about you?, 0.246153846154)
+RESULT: Ross: Well, see, you took mine.
+SUBTITLE: What about you?
+DIALOGUE_PAIR: (Yeah, see.. you took mine. Chandler, what about you?, 0.245614035088), (Uh, if I were omnipotent for a day, I'd.. make myself omnipotent forever., 0.0)
+RESULT: Ross: What about you?
+SUBTITLE: If I were omnipotent for a day, I'd make myself omnipotent forever.
+DIALOGUE_PAIR: (Yeah, see.. you took mine. Chandler, what about you?, 0.0), (Uh, if I were omnipotent for a day, I'd.. make myself omnipotent forever., 0.8)
+RESULT: Chandler: If I were omnipotent for a day, I'd make myself omnipotent forever.
+SUBTITLE: There's always one guy. ''If I had a wish, I'd wish for three more wishes.''
+DIALOGUE_PAIR: (Uh, if I were omnipotent for a day, I'd.. make myself omnipotent forever., 0.10071942446), (See, there's always one guy.  "If I had a wish, I'd wish for three more wishes.", 0.720430107527)
+RESULT: Rachel: There's always one guy. ''If I had a wish, I'd wish for three more wishes.''
+SUBTITLE: Hey, Joey.
+DIALOGUE_PAIR: (See, there's always one guy.  "If I had a wish, I'd wish for three more wishes.", 0.0), (Hey Joey. Hi. Hey, buddy., 0.392857142857)
+RESULT: All: Hey, Joey.
+SUBTITLE: What would you do if you were omnipotent?
+DIALOGUE_PAIR: (Hey Joey. Hi. Hey, buddy., 0.0), (Hey, Joey, what would you do if you were omnipotent?, 0.701754385965)
+RESULT: Monica: What would you do if you were omnipotent?
+SUBTITLE: Probably kill myself.
+DIALOGUE_PAIR: (Hey, Joey, what would you do if you were omnipotent?, 0.0), (Probably kill myself!, 0.769230769231)
+RESULT: Joey: Probably kill myself.
+SUBTITLE: Excuse me?
+DIALOGUE_PAIR: (Probably kill myself!, 0.0), (..Excuse me?, 0.625)
+RESULT: Monica: Excuse me?
+SUBTITLE: If little Joey's dead, then I got no reason to live.
+DIALOGUE_PAIR: (..Excuse me?, 0.0), (Hey, if Little Joey's dead, then I got no reason to live!, 0.661764705882)
+RESULT: Joey: If little Joey's dead, then I got no reason to live.
+SUBTITLE: Joey, omnipotent.
+DIALOGUE_PAIR: (Hey, if Little Joey's dead, then I got no reason to live!, 0.0540540540541), (Joey, uh- OMnipotent., 0.555555555556)
+RESULT: Ross: Joey, omnipotent.
+SUBTITLE: You are?
+DIALOGUE_PAIR: (Joey, uh- OMnipotent., 0.0), (You are? Ross, I'm sorry.., 0.266666666667)
+RESULT: Joey: You are?
+SUBTITLE: Ross, I'm sorry. I had no idea. I thought it was a theoretical question.
+DIALOGUE_PAIR: (You are? Ross, I'm sorry.., 0.172413793103), (Opening Credits, 0.0)
+RESULT: Joey: Ross, I'm sorry. I had no idea. I thought it was a theoretical question.
+SUBTITLE: The One With the George Stephanopoulos
+DIALOGUE_PAIR: (You are? Ross, I'm sorry.., 0.0), (Opening Credits, 0.0178571428571)
 --CHECKING SUBSTRINGS--
 >>==MOVING TO NEXT DIALOGUE (fails: 1)
-SUBTITLE: All of a sudden, the phone starts to ring.
-DIALOGUE_PAIR: (No., 0.0208333333333), (All of a sudden, the phone starts to ring. Now I don't know what to do, everybody starts looking at me., 0.405660377358)
-RESULT: Chandler: All of a sudden, the phone starts to ring.
-SUBTITLE: What do I do? Everyone starts looking at me.
-DIALOGUE_PAIR: (All of a sudden, the phone starts to ring. Now I don't know what to do, everybody starts looking at me., 0.279661016949), (And they weren't looking at you before?!, 0.128205128205)
-RESULT: Chandler: What do I do? Everyone starts looking at me.
-SUBTITLE: They weren't looking at you before?
-DIALOGUE_PAIR: (All of a sudden, the phone starts to ring. Now I don't know what to do, everybody starts looking at me., 0.0923076923077), (And they weren't looking at you before?!, 0.68085106383)
-RESULT: Monica: They weren't looking at you before?
-SUBTITLE: Finally, I figure I'd better answer it.
-DIALOGUE_PAIR: (And they weren't looking at you before?!, 0.0246913580247), (Finally, I figure I'd better answer it, and it turns out it's my mother, which is very-very weird, because- she never calls me!, 0.287878787879)
-RESULT: Chandler: Finally, I figure I'd better answer it.
-SUBTITLE: And it turns out it's my mother.
-DIALOGUE_PAIR: (Finally, I figure I'd better answer it, and it turns out it's my mother, which is very-very weird, because- she never calls me!, 0.207407407407), (Hi., 0.0263157894737)
-RESULT: Chandler: And it turns out it's my mother.
-SUBTITLE: Which is very, very weird because she never calls me.
-DIALOGUE_PAIR: (Finally, I figure I'd better answer it, and it turns out it's my mother, which is very-very weird, because- she never calls me!, 0.304964539007), (Hi., 0.0169491525424)
-RESULT: Chandler: Which is very, very weird because she never calls me.
-SUBTITLE: Hi.
-DIALOGUE_PAIR: (Finally, I figure I'd better answer it, and it turns out it's my mother, which is very-very weird, because- she never calls me!, 0.0), (Hi., 1.0)
-RESULT: Ross: Hi.
-SUBTITLE: He says, ''Hello,'' I want to kill myself.
-DIALOGUE_PAIR: (Hi., 0.0425531914894), (This guy says hello, I wanna kill myself., 0.359375)
-RESULT: Joey: He says, ''Hello,'' I want to kill myself.
-SUBTITLE: You okay?
-DIALOGUE_PAIR: (This guy says hello, I wanna kill myself., 0.0), (Are you okay, sweetie?, 0.206896551724)
-RESULT: Monica: You okay?
-SUBTITLE: I feel like someone pulled my intestine out of my mouth and tied it around my neck.
-DIALOGUE_PAIR: (Are you okay, sweetie?, 0.00925925925926), (I just feel like someone reached down my throat, grabbed my small intestine, pulled it out of my mouth and tied it around my neck..., 0.564285714286)
-RESULT: Ross: I feel like someone pulled my intestine out of my mouth and tied it around my neck.
-SUBTITLE: Cookie?
-DIALOGUE_PAIR: (I just feel like someone reached down my throat, grabbed my small intestine, pulled it out of my mouth and tied it around my neck..., 0.0), (Cookie?, 1.0)
-RESULT: Chandler: Cookie?
-SUBTITLE: Carol moved her stuff out today.
-DIALOGUE_PAIR: (Cookie?, 0.0238095238095), (Carol moved her stuff out today., 1.0)
-RESULT: Monica: Carol moved her stuff out today.
-SUBTITLE: Let me get you some coffee.
-DIALOGUE_PAIR: (Carol moved her stuff out today., 0.0161290322581), (Ohh., 0.0294117647059)
---CHECKING SUBSTRINGS--
->>==MOVING TO NEXT DIALOGUE (fails: 1)
-SUBTITLE: Let me get you some coffee.
-DIALOGUE_PAIR: (Ohh., 0.0294117647059), (Let me get you some coffee., 1.0)
-RESULT: Monica: Let me get you some coffee.
-SUBTITLE: Thanks.
-DIALOGUE_PAIR: (Let me get you some coffee., 0.027027027027), (Thanks., 1.0)
-RESULT: Ross: Thanks.
-SUBTITLE: No, don't! Stop cleansing my aura.
-DIALOGUE_PAIR: (Thanks., 0.0227272727273), (Ooh! Oh!, 0.0)
---CHECKING SUBSTRINGS--
->>==MOVING TO NEXT DIALOGUE (fails: 1)
-SUBTITLE: No, don't! Stop cleansing my aura.
-DIALOGUE_PAIR: (Ooh! Oh!, 0.0), (No, no don't! Stop cleansing my aura! No, just leave my aura alone, okay?, 0.405063291139)
-RESULT: Ross: No, don't! Stop cleansing my aura.
-SUBTITLE: Just leave my aura alone, okay?
-DIALOGUE_PAIR: (No, no don't! Stop cleansing my aura! No, just leave my aura alone, okay?, 0.384615384615), (Fine!  Be murky!, 0.02)
-RESULT: Ross: Just leave my aura alone, okay?
-SUBTITLE: Fine, be murky.
-DIALOGUE_PAIR: (No, no don't! Stop cleansing my aura! No, just leave my aura alone, okay?, 0.0337078651685), (Fine!  Be murky!, 0.346153846154)
-RESULT: Phoebe: Fine, be murky.
-SUBTITLE: I'll be fine. I hope she'll be happy.
-DIALOGUE_PAIR: (Fine!  Be murky!, 0.0178571428571), (I'll be fine, alright? Really, everyone. I hope she'll be very happy., 0.527777777778)
-RESULT: Ross: I'll be fine. I hope she'll be happy.
-SUBTITLE: No, you don't.
-DIALOGUE_PAIR: (I'll be fine, alright? Really, everyone. I hope she'll be very happy., 0.0116279069767), (No you don't., 0.722222222222)
-RESULT: Monica: No, you don't.
-SUBTITLE: No, I don't. To hell with her. She left me!
-DIALOGUE_PAIR: (No you don't., 0.132075471698), (No I don't, to hell with her, she left me!, 0.561403508772)
-RESULT: Ross: No, I don't. To hell with her. She left me!
-SUBTITLE: You never knew she was a lesbian?
-DIALOGUE_PAIR: (No I don't, to hell with her, she left me!, 0.0533333333333), (And you never knew she was a lesbian..., 0.617021276596)
-RESULT: Joey: You never knew she was a lesbian?
-SUBTITLE: No! Okay?
-DIALOGUE_PAIR: (And you never knew she was a lesbian..., 0.0), (No!! Okay?! Why does everyone keep fixating on that? She didn't know, how should I know?, 0.0978260869565)
---CHECKING SUBSTRINGS--
-RESULT: Ross: No! Okay?
-SUBTITLE: Why does everyone keep fixating on that?
-DIALOGUE_PAIR: (No!! Okay?! Why does everyone keep fixating on that? She didn't know, how should I know?, 0.41935483871), (Sometimes I wish I was a lesbian...  Did I say that out loud?, 0.05)
-RESULT: Ross: Why does everyone keep fixating on that?
-SUBTITLE: She didn't know. How should I know?
-DIALOGUE_PAIR: (No!! Okay?! Why does everyone keep fixating on that? She didn't know, how should I know?, 0.309278350515), (Sometimes I wish I was a lesbian...  Did I say that out loud?, 0.0416666666667)
-RESULT: Ross: She didn't know. How should I know?
-SUBTITLE: Sometimes I wish I was a lesbian.
-DIALOGUE_PAIR: (No!! Okay?! Why does everyone keep fixating on that? She didn't know, how should I know?, 0.0162601626016), (Sometimes I wish I was a lesbian...  Did I say that out loud?, 0.507692307692)
-RESULT: Chandler: Sometimes I wish I was a lesbian.
-SUBTITLE: Did I say that out loud?
-DIALOGUE_PAIR: (Sometimes I wish I was a lesbian...  Did I say that out loud?, 0.369230769231), (I told mom and dad last night, they seemed to take it pretty well., 0.010752688172)
-RESULT: Chandler: Did I say that out loud?
-SUBTITLE: I told Mom and Dad last night. They took it pretty well.
-DIALOGUE_PAIR: (Sometimes I wish I was a lesbian...  Did I say that out loud?, 0.00833333333333), (I told mom and dad last night, they seemed to take it pretty well., 0.5)
-RESULT: Ross: I told Mom and Dad last night. They took it pretty well.
-SUBTITLE: Oh, really?
-DIALOGUE_PAIR: (I told mom and dad last night, they seemed to take it pretty well., 0.0), (Oh really, so that hysterical phone call I got from a woman at sobbing 3:00 A.M., "I'll never have grandchildren, I'll never have grandchildren." was what?  A wrong number?, 0.0446927374302)
---CHECKING SUBSTRINGS--
-RESULT: Monica: Oh, really?
-SUBTITLE: So that hysterical phone call from a woman sobbing ''I'll never have grandchildren,'' was what? A wrong number?
-DIALOGUE_PAIR: (Oh really, so that hysterical phone call I got from a woman at sobbing 3:00 A.M., "I'll never have grandchildren, I'll never have grandchildren." was what?  A wrong number?, 0.526595744681), (Sorry., 0.0168067226891)
-RESULT: Monica: So that hysterical phone call from a woman sobbing ''I'll never have grandchildren,'' was what? A wrong number?
-SUBTITLE: Sorry.
-DIALOGUE_PAIR: (Oh really, so that hysterical phone call I got from a woman at sobbing 3:00 A.M., "I'll never have grandchildren, I'll never have grandchildren." was what?  A wrong number?, 0.0), (Sorry., 1.0)
-RESULT: Ross: Sorry.
-SUBTITLE: Look, you're feeling a lot of pain right now.
-DIALOGUE_PAIR: (Sorry., 0.0185185185185), (Alright Ross, look. You're feeling a lot of pain right now. You're angry. You're hurting. Can I tell you what the answer is?, 0.291044776119)
-RESULT: Joey: Look, you're feeling a lot of pain right now.
-SUBTITLE: You're angry. You're hurting.
-DIALOGUE_PAIR: (Alright Ross, look. You're feeling a lot of pain right now. You're angry. You're hurting. Can I tell you what the answer is?, 0.207692307692), (Strip joint! C'mon, you're single! Have some hormones!, 0.0740740740741)
-RESULT: Joey: You're angry. You're hurting.
-SUBTITLE: Can I tell you what the answer is?
-DIALOGUE_PAIR: (Alright Ross, look. You're feeling a lot of pain right now. You're angry. You're hurting. Can I tell you what the answer is?, 0.265625), (Strip joint! C'mon, you're single! Have some hormones!, 0.0222222222222)
-RESULT: Joey: Can I tell you what the answer is?
-SUBTITLE: Strip joints!
-DIALOGUE_PAIR: (Alright Ross, look. You're feeling a lot of pain right now. You're angry. You're hurting. Can I tell you what the answer is?, 0.0), (Strip joint! C'mon, you're single! Have some hormones!, 0.224137931034)
-RESULT: Joey: Strip joints!
-SUBTITLE: Hey, you're single. Have some hormones.
-DIALOGUE_PAIR: (Strip joint! C'mon, you're single! Have some hormones!, 0.44776119403), (I don't want to be single, okay? I just... I just- I just wanna be married again!, 0.0508474576271)
-RESULT: Joey: Hey, you're single. Have some hormones.
-SUBTITLE: But I don't want to be single, okay?
-DIALOGUE_PAIR: (Strip joint! C'mon, you're single! Have some hormones!, 0.0681818181818), (I don't want to be single, okay? I just... I just- I just wanna be married again!, 0.344444444444)
-RESULT: Ross: But I don't want to be single, okay?
-SUBTITLE: I just want to be married again.
-DIALOGUE_PAIR: (I don't want to be single, okay? I just... I just- I just wanna be married again!, 0.360465116279), (And I just want a million dollars!, 0.166666666667)
-RESULT: Ross: I just want to be married again.
-SUBTITLE: And I just want a million dollars!
-DIALOGUE_PAIR: (I don't want to be single, okay? I just... I just- I just wanna be married again!, 0.122641509434), (And I just want a million dollars!, 1.0)
-RESULT: Chandler: And I just want a million dollars!
-SUBTITLE: Rachel?
-DIALOGUE_PAIR: (And I just want a million dollars!, 0.0), (Rachel?!, 0.583333333333)
-RESULT: Monica: Rachel?
-SUBTITLE: Oh, Monica! Thank God!
-DIALOGUE_PAIR: (Rachel?!, 0.030303030303), (Oh God Monica hi! Thank God! I just went to your building and you weren't there and then this guy with a big hammer said you might be here and you are, you are!, 0.107142857143)
---CHECKING SUBSTRINGS--
-RESULT: Rachel: Oh, Monica! Thank God!
-SUBTITLE: I went to your building and a guy with a hammer said you'd be here, and you are.
-DIALOGUE_PAIR: (Oh God Monica hi! Thank God! I just went to your building and you weren't there and then this guy with a big hammer said you might be here and you are, you are!, 0.386363636364), (Can I get you some coffee?, 0.0280373831776)
-RESULT: Rachel: I went to your building and a guy with a hammer said you'd be here, and you are.
-SUBTITLE: Can I get you some coffee?
-DIALOGUE_PAIR: (Oh God Monica hi! Thank God! I just went to your building and you weren't there and then this guy with a big hammer said you might be here and you are, you are!, 0.0215053763441), (Can I get you some coffee?, 1.0)
-RESULT: Waitress: Can I get you some coffee?
-SUBTITLE: Decaf.
-DIALOGUE_PAIR: (Can I get you some coffee?, 0.0), (De-caff.  Okay, everybody, this is Rachel, another Lincoln High survivor.  This is everybody, this is Chandler, and Phoebe, and Joey, and- you remember my brother Ross?, 0.0171428571429)
---CHECKING SUBSTRINGS--
-RESULT: Monica: Decaf.
-SUBTITLE: Everybody, this is Rachel, a Lincoln High survivor.
-DIALOGUE_PAIR: (De-caff.  Okay, everybody, this is Rachel, another Lincoln High survivor.  This is everybody, this is Chandler, and Phoebe, and Joey, and- you remember my brother Ross?, 0.25988700565), (Hi, sure!, 0.0322580645161)
-RESULT: Monica: Everybody, this is Rachel, a Lincoln High survivor.
-SUBTITLE: This is everybody. Chandler and Phoebe Joey. Remember my brother, Ross?
-DIALOGUE_PAIR: (De-caff.  Okay, everybody, this is Rachel, another Lincoln High survivor.  This is everybody, this is Chandler, and Phoebe, and Joey, and- you remember my brother Ross?, 0.320652173913), (Hi, sure!, 0.0)
-RESULT: Monica: This is everybody. Chandler and Phoebe Joey. Remember my brother, Ross?
-SUBTITLE: Sure!
-DIALOGUE_PAIR: (De-caff.  Okay, everybody, this is Rachel, another Lincoln High survivor.  This is everybody, this is Chandler, and Phoebe, and Joey, and- you remember my brother Ross?, 0.0), (Hi, sure!, 0.285714285714)
-RESULT: Rachel: Sure!
-SUBTITLE: You want to tell us now, or are we waiting for four wet bridesmaids?
-DIALOGUE_PAIR: (Hi, sure!, 0.0), (Hi., 0.0)
---CHECKING SUBSTRINGS--
->>==MOVING TO NEXT DIALOGUE (fails: 1)
-SUBTITLE: You want to tell us now, or are we waiting for four wet bridesmaids?
-DIALOGUE_PAIR: (Hi., 0.0), (So you wanna tell us now, or are we waiting for four wet bridesmaids?, 0.7625)
-RESULT: Monica: You want to tell us now, or are we waiting for four wet bridesmaids?
-SUBTITLE: Well, it started about a half-hour before the wedding.
-DIALOGUE_PAIR: (So you wanna tell us now, or are we waiting for four wet bridesmaids?, 0.0672268907563), (Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'.  So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city., 0.0652463382157)
---CHECKING SUBSTRINGS--
-RESULT: Rachel: Well, it started about a half-hour before the wedding.
-SUBTITLE: I was in the room with all the presents and I was looking at this really gorgeous Limoges gravy boat.
-DIALOGUE_PAIR: (Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'.  So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city., 0.113009198423), (Who wasn't invited to the wedding., 0.0610687022901)
---CHECKING SUBSTRINGS--
-RESULT: Rachel: I was in the room with all the presents and I was looking at this really gorgeous Limoges gravy boat.
-SUBTITLE: When all of a sudden--
-DIALOGUE_PAIR: (Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'.  So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city., 0.0253671562083), (Who wasn't invited to the wedding., 0.0344827586207)
---CHECKING SUBSTRINGS--
-RESULT: Rachel: When all of a sudden--
-SUBTITLE: Sweet 'N Low?
-DIALOGUE_PAIR: (Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'.  So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city., 0.00796812749004), (Who wasn't invited to the wedding., 0.0)
---CHECKING SUBSTRINGS--
-RESULT: Rachel: Sweet 'N Low?
-SUBTITLE: I realized I was more turned on by this gravy boat than Barry.
-DIALOGUE_PAIR: (Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'.  So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city., 0.0802139037433), (Who wasn't invited to the wedding., 0.0526315789474)
---CHECKING SUBSTRINGS--
-RESULT: Rachel: I realized I was more turned on by this gravy boat than Barry.
-SUBTITLE: I got freaked out, and it hit me:
-DIALOGUE_PAIR: (Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'.  So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city., 0.0386666666667), (Who wasn't invited to the wedding., 0.0142857142857)
---CHECKING SUBSTRINGS--
-RESULT: Rachel: I got freaked out, and it hit me:
-SUBTITLE: How much Barry looks like Mr. Potato Head.
-DIALOGUE_PAIR: (Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'.  So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city., 0.0534759358289), (Who wasn't invited to the wedding., 0.025641025641)
---CHECKING SUBSTRINGS--
-RESULT: Rachel: How much Barry looks like Mr. Potato Head.
-SUBTITLE: I always knew he looked familiar, but....
-DIALOGUE_PAIR: (Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'.  So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city., 0.0507343124166), (Who wasn't invited to the wedding., 0.0394736842105)
---CHECKING SUBSTRINGS--
-RESULT: Rachel: I always knew he looked familiar, but....
-SUBTITLE: I had to get out of there, and I started wondering ''Why am I doing this,'' and ''Who am I doing it for?''
-DIALOGUE_PAIR: (Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'.  So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city., 0.11811023622), (Who wasn't invited to the wedding., 0.0746268656716)
---CHECKING SUBSTRINGS--
-RESULT: Rachel: I had to get out of there, and I started wondering ''Why am I doing this,'' and ''Who am I doing it for?''
-SUBTITLE: I didn't know where to go, and I know we've drifted apart but you're the only person I know here.
-DIALOGUE_PAIR: (Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'.  So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city., 0.116556291391), (Who wasn't invited to the wedding., 0.0887096774194)
---CHECKING SUBSTRINGS--
-RESULT: Rachel: I didn't know where to go, and I know we've drifted apart but you're the only person I know here.
-SUBTITLE: Who wasn't invited to the wedding.
-DIALOGUE_PAIR: (Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'.  So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city., 0.0303830911493), (Who wasn't invited to the wedding., 1.0)
-RESULT: Monica: Who wasn't invited to the wedding.
-SUBTITLE: I hoped that wouldn't be an issue.
-DIALOGUE_PAIR: (Who wasn't invited to the wedding., 0.0909090909091), (Ooh, I was kinda hoping that wouldn't be an issue..., 0.451612903226)
-RESULT: Rachel: I hoped that wouldn't be an issue.
-SUBTITLE: I guess he bought her the pipe organ, and she's really not happy about it.
-DIALOGUE_PAIR: (Ooh, I was kinda hoping that wouldn't be an issue..., 0.0236220472441), (Now I'm guessing that he bought her the big pipe organ, and she's really not happy about it., 0.7)
-RESULT: Monica: I guess he bought her the pipe organ, and she's really not happy about it.
-SUBTITLE: ''Tuna or egg salad! Decide!''
-DIALOGUE_PAIR: (Now I'm guessing that he bought her the big pipe organ, and she's really not happy about it., 0.008), (Tuna or egg salad?  Decide!, 0.525)
-RESULT: Chandler: ''Tuna or egg salad! Decide!''
-SUBTITLE: ''I'll have whatever Christina's having.''
-DIALOGUE_PAIR: (Tuna or egg salad?  Decide!, 0.0), (I'll have whatever Christine is having., 0.603773584906)
-RESULT: Ross: ''I'll have whatever Christina's having.''
-SUBTITLE: Daddy, I just-- I can't marry him.
-DIALOGUE_PAIR: (I'll have whatever Christine is having., 0.0131578947368), (Daddy, I just... I can't marry him! I'm sorry. I just don't love him. Well, it matters to me!, 0.29702970297)
-RESULT: Rachel: Daddy, I just-- I can't marry him.
-SUBTITLE: I'm sorry. I just don't love him.
-DIALOGUE_PAIR: (Daddy, I just... I can't marry him! I'm sorry. I just don't love him. Well, it matters to me!, 0.313131313131), (If I let go of my hair, my head will fall off., 0.0375)
-RESULT: Rachel: I'm sorry. I just don't love him.
-SUBTITLE: Well, it matters to me!
-DIALOGUE_PAIR: (Daddy, I just... I can't marry him! I'm sorry. I just don't love him. Well, it matters to me!, 0.237113402062), (If I let go of my hair, my head will fall off., 0.0)
-RESULT: Rachel: Well, it matters to me!
-SUBTITLE: ''If I let go of my hair, my head will fall off.''
-DIALOGUE_PAIR: (Daddy, I just... I can't marry him! I'm sorry. I just don't love him. Well, it matters to me!, 0.0137931034483), (If I let go of my hair, my head will fall off., 0.785714285714)
-RESULT: Phoebe: ''If I let go of my hair, my head will fall off.''
-SUBTITLE: She should not be wearing those pants.
-DIALOGUE_PAIR: (If I let go of my hair, my head will fall off., 0.0114942528736), (Ooh, she should not be wearing those pants., 0.770833333333)
-RESULT: Chandler: She should not be wearing those pants.
-SUBTITLE: Push her down the stairs!
-DIALOGUE_PAIR: (Ooh, she should not be wearing those pants., 0.0434782608696), (I say push her down the stairs., 0.538461538462)
-RESULT: Joey: Push her down the stairs!
-SUBTITLE: Push her! Push her down the stairs!
-DIALOGUE_PAIR: (I say push her down the stairs., 0.428571428571), (Push her down the stairs! Push her down the stairs! Push her down the stairs!, 0.432098765432)
-RESULT: Phoebe, Ross, Chandler, and Joey: Push her! Push her down the stairs!
-SUBTITLE: Come on, Daddy, listen!
-DIALOGUE_PAIR: (Push her down the stairs! Push her down the stairs! Push her down the stairs!, 0.00970873786408), (C'mon Daddy, listen to me! It's like, it's like, all of my life, everyone has always told me, 'You're a shoe! You're a shoe, you're a shoe, you're a shoe!'. And today I just stopped and I said, 'What if I don't wanna be a shoe? What if I wanna be a- a purse, y'know? Or a- or a hat! No, I'm not saying I want you to buy me a hat, I'm saying I am a ha- It's a metaphor, Daddy!, 0.0414507772021)
---CHECKING SUBSTRINGS--
-RESULT: Rachel: Come on, Daddy, listen!
-SUBTITLE: All my life, everyone's always told me, ''You're a shoe!''
-DIALOGUE_PAIR: (C'mon Daddy, listen to me! It's like, it's like, all of my life, everyone has always told me, 'You're a shoe! You're a shoe, you're a shoe, you're a shoe!'. And today I just stopped and I said, 'What if I don't wanna be a shoe? What if I wanna be a- a purse, y'know? Or a- or a hat! No, I'm not saying I want you to buy me a hat, I'm saying I am a ha- It's a metaphor, Daddy!, 0.126288659794), (You can see where he'd have trouble., 0.0208333333333)
---CHECKING SUBSTRINGS--
-RESULT: Rachel: All my life, everyone's always told me, ''You're a shoe!''
-SUBTITLE: ''You're a shoe!''
-DIALOGUE_PAIR: (C'mon Daddy, listen to me! It's like, it's like, all of my life, everyone has always told me, 'You're a shoe! You're a shoe, you're a shoe, you're a shoe!'. And today I just stopped and I said, 'What if I don't wanna be a shoe? What if I wanna be a- a purse, y'know? Or a- or a hat! No, I'm not saying I want you to buy me a hat, I'm saying I am a ha- It's a metaphor, Daddy!, 0.0365535248042), (You can see where he'd have trouble., 0.0357142857143)
---CHECKING SUBSTRINGS--
-RESULT: Rachel: ''You're a shoe!''
-SUBTITLE: What if I don't want to be a shoe?
-DIALOGUE_PAIR: (C'mon Daddy, listen to me! It's like, it's like, all of my life, everyone has always told me, 'You're a shoe! You're a shoe, you're a shoe, you're a shoe!'. And today I just stopped and I said, 'What if I don't wanna be a shoe? What if I wanna be a- a purse, y'know? Or a- or a hat! No, I'm not saying I want you to buy me a hat, I'm saying I am a ha- It's a metaphor, Daddy!, 0.0811518324607), (You can see where he'd have trouble., 0.0)
---CHECKING SUBSTRINGS--
-RESULT: Rachel: What if I don't want to be a shoe?
-SUBTITLE: What if I want to be a purse?
-DIALOGUE_PAIR: (C'mon Daddy, listen to me! It's like, it's like, all of my life, everyone has always told me, 'You're a shoe! You're a shoe, you're a shoe, you're a shoe!'. And today I just stopped and I said, 'What if I don't wanna be a shoe? What if I wanna be a- a purse, y'know? Or a- or a hat! No, I'm not saying I want you to buy me a hat, I'm saying I am a ha- It's a metaphor, Daddy!, 0.065274151436), (You can see where he'd have trouble., 0.0)
---CHECKING SUBSTRINGS--
-RESULT: Rachel: What if I want to be a purse?
-SUBTITLE: Or a hat?
-DIALOGUE_PAIR: (C'mon Daddy, listen to me! It's like, it's like, all of my life, everyone has always told me, 'You're a shoe! You're a shoe, you're a shoe, you're a shoe!'. And today I just stopped and I said, 'What if I don't wanna be a shoe? What if I wanna be a- a purse, y'know? Or a- or a hat! No, I'm not saying I want you to buy me a hat, I'm saying I am a ha- It's a metaphor, Daddy!, 0.0157068062827), (You can see where he'd have trouble., 0.0208333333333)
---CHECKING SUBSTRINGS--
-RESULT: Rachel: Or a hat?
-SUBTITLE: No, I don't want you to buy me a hat!
-DIALOGUE_PAIR: (C'mon Daddy, listen to me! It's like, it's like, all of my life, everyone has always told me, 'You're a shoe! You're a shoe, you're a shoe, you're a shoe!'. And today I just stopped and I said, 'What if I don't wanna be a shoe? What if I wanna be a- a purse, y'know? Or a- or a hat! No, I'm not saying I want you to buy me a hat, I'm saying I am a ha- It's a metaphor, Daddy!, 0.0947368421053), (You can see where he'd have trouble., 0.0266666666667)
---CHECKING SUBSTRINGS--
-RESULT: Rachel: No, I don't want you to buy me a hat!
-SUBTITLE: It's a metaphor, Daddy!
-DIALOGUE_PAIR: (C'mon Daddy, listen to me! It's like, it's like, all of my life, everyone has always told me, 'You're a shoe! You're a shoe, you're a shoe, you're a shoe!'. And today I just stopped and I said, 'What if I don't wanna be a shoe? What if I wanna be a- a purse, y'know? Or a- or a hat! No, I'm not saying I want you to buy me a hat, I'm saying I am a ha- It's a metaphor, Daddy!, 0.0606860158311), (You can see where he'd have trouble., 0.0)
---CHECKING SUBSTRINGS--
-RESULT: Rachel: It's a metaphor, Daddy!
-SUBTITLE: You can see where he'd have trouble.
-DIALOGUE_PAIR: (C'mon Daddy, listen to me! It's like, it's like, all of my life, everyone has always told me, 'You're a shoe! You're a shoe, you're a shoe, you're a shoe!'. And today I just stopped and I said, 'What if I don't wanna be a shoe? What if I wanna be a- a purse, y'know? Or a- or a hat! No, I'm not saying I want you to buy me a hat, I'm saying I am a ha- It's a metaphor, Daddy!, 0.0121951219512), (You can see where he'd have trouble., 1.0)
-RESULT: Ross: You can see where he'd have trouble.
-SUBTITLE: Look, Daddy, it's my life.
-DIALOGUE_PAIR: (You can see where he'd have trouble., 0.03125), (Look Daddy, it's my life. Well maybe I'll just stay here with Monica., 0.32)
-RESULT: Rachel: Look, Daddy, it's my life.
-SUBTITLE: Well, maybe I'll just stay here with Monica.
-DIALOGUE_PAIR: (Look Daddy, it's my life. Well maybe I'll just stay here with Monica., 0.539473684211), (Well, I guess we've established who's staying here with Monica..., 0.298850574713)
-RESULT: Rachel: Well, maybe I'll just stay here with Monica.
-SUBTITLE: I guess we've established she's staying with Monica.
-DIALOGUE_PAIR: (Look Daddy, it's my life. Well maybe I'll just stay here with Monica., 0.157407407407), (Well, I guess we've established who's staying here with Monica..., 0.592105263158)
-RESULT: Monica: I guess we've established she's staying with Monica.
-SUBTITLE: Well, maybe that's my decision.
-DIALOGUE_PAIR: (Well, I guess we've established who's staying here with Monica..., 0.0869565217391), (Well, maybe that's my decision. Well, maybe I don't need your money. Wait!! Wait, I said maybe!!, 0.31)
-RESULT: Rachel: Well, maybe that's my decision.
-SUBTITLE: Maybe I don't need your money.
-DIALOGUE_PAIR: (Well, maybe that's my decision. Well, maybe I don't need your money. Wait!! Wait, I said maybe!!, 0.26213592233), (Just breathe, breathe.. that's it. Just try to think of nice calm things..., 0.00925925925926)
-RESULT: Rachel: Maybe I don't need your money.
-SUBTITLE: Wait! I said maybe!
-DIALOGUE_PAIR: (Well, maybe that's my decision. Well, maybe I don't need your money. Wait!! Wait, I said maybe!!, 0.166666666667), (Just breathe, breathe.. that's it. Just try to think of nice calm things..., 0.0)
-RESULT: Rachel: Wait! I said maybe!
-SUBTITLE: Just breathe. That's it.
-DIALOGUE_PAIR: (Well, maybe that's my decision. Well, maybe I don't need your money. Wait!! Wait, I said maybe!!, 0.0333333333333), (Just breathe, breathe.. that's it. Just try to think of nice calm things..., 0.256097560976)
-RESULT: Monica: Just breathe. That's it.
-SUBTITLE: Try to think of nice, calm things.
-DIALOGUE_PAIR: (Just breathe, breathe.. that's it. Just try to think of nice calm things..., 0.361445783133), (Raindrops on roses and rabbits and kittens,  bluebells and sleighbells and- something with mittens... La la la la...something and noodles with string.  These are a few..., 0.029702970297)
-RESULT: Monica: Try to think of nice, calm things.
-SUBTITLE: Raindrops on roses And whiskers on kittens
-DIALOGUE_PAIR: (Just breathe, breathe.. that's it. Just try to think of nice calm things..., 0.0), (Raindrops on roses and rabbits and kittens,  bluebells and sleighbells and- something with mittens... La la la la...something and noodles with string.  These are a few..., 0.136842105263)
---CHECKING SUBSTRINGS--
-RESULT: Phoebe: Raindrops on roses And whiskers on kittens
-SUBTITLE: Doorbells and sleigh bells And something with mittens
-DIALOGUE_PAIR: (Raindrops on roses and rabbits and kittens,  bluebells and sleighbells and- something with mittens... La la la la...something and noodles with string.  These are a few..., 0.213903743316), (I'm all better now., 0.027027027027)
-RESULT: Phoebe: Doorbells and sleigh bells And something with mittens
-SUBTITLE: La la la something And noodles with string
-DIALOGUE_PAIR: (Raindrops on roses and rabbits and kittens,  bluebells and sleighbells and- something with mittens... La la la la...something and noodles with string.  These are a few..., 0.2), (I'm all better now., 0.015625)
-RESULT: Phoebe: La la la something And noodles with string
-SUBTITLE: I'm all better now.
-DIALOGUE_PAIR: (Raindrops on roses and rabbits and kittens,  bluebells and sleighbells and- something with mittens... La la la la...something and noodles with string.  These are a few..., 0.0157894736842), (I'm all better now., 1.0)
-RESULT: Rachel: I'm all better now.
-SUBTITLE: I helped.
-DIALOGUE_PAIR: (I'm all better now., 0.0666666666667), (I helped!, 0.571428571429)
-RESULT: Phoebe: I helped.
-SUBTITLE: This is probably for the best.
-DIALOGUE_PAIR: (I helped!, 0.0), (Okay, look, this is probably for the best, y'know? Independence. Taking control of your life.  The whole, 'hat' thing., 0.216)
-RESULT: Monica: This is probably for the best.
-SUBTITLE: Independence. Controlling your life. The whole hat thing.
-DIALOGUE_PAIR: (Okay, look, this is probably for the best, y'know? Independence. Taking control of your life.  The whole, 'hat' thing., 0.335820895522), (And hey, you need anything, you can always come to Joey. Me and Chandler live across the hall. And he's away a lot., 0.0731707317073)
-RESULT: Monica: Independence. Controlling your life. The whole hat thing.
-SUBTITLE: You can always come to Joey.
-DIALOGUE_PAIR: (Okay, look, this is probably for the best, y'know? Independence. Taking control of your life.  The whole, 'hat' thing., 0.0135135135135), (And hey, you need anything, you can always come to Joey. Me and Chandler live across the hall. And he's away a lot., 0.214876033058)
-RESULT: Joey: You can always come to Joey.
-SUBTITLE: Me and Chandler live across the hall. He's away a lot.
-DIALOGUE_PAIR: (And hey, you need anything, you can always come to Joey. Me and Chandler live across the hall. And he's away a lot., 0.418032786885), (Joey, stop hitting on her! It's her wedding day!, 0.0192307692308)
-RESULT: Joey: Me and Chandler live across the hall. He's away a lot.
-SUBTITLE: Stop hitting on her! It's her wedding day.
-DIALOGUE_PAIR: (And hey, you need anything, you can always come to Joey. Me and Chandler live across the hall. And he's away a lot., 0.0387096774194), (Joey, stop hitting on her! It's her wedding day!, 0.678571428571)
-RESULT: Monica: Stop hitting on her! It's her wedding day.
-SUBTITLE: Like there's a rule, or something?
-DIALOGUE_PAIR: (Joey, stop hitting on her! It's her wedding day!, 0.0361445783133), (What, like there's a rule or something?, 0.63829787234)
-RESULT: Joey: Like there's a rule, or something?
-SUBTITLE: I got it.
-DIALOGUE_PAIR: (What, like there's a rule or something?, 0.0), (Please don't do that again, it's a horrible sound., 0.0327868852459)
---CHECKING SUBSTRINGS--
->>==MOVING TO NEXT DIALOGUE (fails: 1)
-SUBTITLE: I got it.
-DIALOGUE_PAIR: (Please don't do that again, it's a horrible sound., 0.0327868852459), (It's, uh, it's Paul., 0.1)
+SUBTITLE: The One With the George Stephanopoulos
+DIALOGUE_PAIR: (Opening Credits, 0.0178571428571), (How does she do that?, 0.0327868852459)
 --CHECKING SUBSTRINGS--
 >>==MOVING TO NEXT DIALOGUE (fails: 2)
-SUBTITLE: I got it.
-DIALOGUE_PAIR: (It's, uh, it's Paul., 0.1), (Oh God, is it 6:30?  Buzz him in!, 0.0222222222222)
+SUBTITLE: The One With the George Stephanopoulos
+DIALOGUE_PAIR: (How does she do that?, 0.0327868852459), (I cannot sleep in a public place., 0.0)
 --CHECKING SUBSTRINGS--
 >>==MOVING TO NEXT DIALOGUE (fails: 3)
-SUBTITLE: I got it.
-DIALOGUE_PAIR: (Oh God, is it 6:30?  Buzz him in!, 0.0222222222222), (Who's Paul?, 0.0)
+SUBTITLE: The One With the George Stephanopoulos
+DIALOGUE_PAIR: (I cannot sleep in a public place., 0.0), (Would you look at her? She is so peaceful., 0.0243902439024)
 --CHECKING SUBSTRINGS--
 >>==MOVING TO NEXT DIALOGUE (fails: 4)
-SUBTITLE: I got it.
-DIALOGUE_PAIR: (Who's Paul?, 0.0), (Paul the Wine Guy, Paul?, 0.0)
+SUBTITLE: The One With the George Stephanopoulos
+DIALOGUE_PAIR: (Would you look at her? She is so peaceful., 0.0243902439024), (Oh! What what what! ...Hi., 0.0)
 --CHECKING SUBSTRINGS--
 >>==MOVING TO NEXT DIALOGUE (fails: 5)
 --GIVING UP ON SUBTITLE--
-SUBTITLE: Please don't do that again. It's a horrible sound.
-DIALOGUE_PAIR: (What, like there's a rule or something?, 0.0813953488372), (Please don't do that again, it's a horrible sound., 0.824561403509)
-RESULT: Chandler: Please don't do that again. It's a horrible sound.
-SUBTITLE: It's Paul.
-DIALOGUE_PAIR: (Please don't do that again, it's a horrible sound., 0.0491803278689), (It's, uh, it's Paul., 0.545454545455)
-RESULT: Paul: It's Paul.
-SUBTITLE: Oh, God, is it 6:30? Buzz him in.
-DIALOGUE_PAIR: (It's, uh, it's Paul., 0.0754716981132), (Oh God, is it 6:30?  Buzz him in!, 0.666666666667)
-RESULT: Monica: Oh, God, is it 6:30? Buzz him in.
-SUBTITLE: Who's Paul?
-DIALOGUE_PAIR: (Oh God, is it 6:30?  Buzz him in!, 0.0), (Who's Paul?, 1.0)
-RESULT: Joey: Who's Paul?
-SUBTITLE: Paul, the wine guy?
-DIALOGUE_PAIR: (Who's Paul?, 0.0967741935484), (Paul the Wine Guy, Paul?, 0.27027027027)
-RESULT: Ross: Paul, the wine guy?
-SUBTITLE: Maybe.
-DIALOGUE_PAIR: (Paul the Wine Guy, Paul?, 0.0), (Maybe. Joey: Wait. Your 'not a real date' tonight is with Paul the Wine Guy?, 0.075)
---CHECKING SUBSTRINGS--
-RESULT: Monica: Maybe.
-SUBTITLE: Your ''not a real date'' is with Paul, the wine guy?
-DIALOGUE_PAIR: (Maybe. Joey: Wait. Your 'not a real date' tonight is with Paul the Wine Guy?, 0.404255319149), (He finally asked you out?, 0.0125)
-RESULT: Monica: Your ''not a real date'' is with Paul, the wine guy?
-SUBTITLE: He finally asked you out?
-DIALOGUE_PAIR: (Maybe. Joey: Wait. Your 'not a real date' tonight is with Paul the Wine Guy?, 0.00961538461538), (He finally asked you out?, 1.0)
-RESULT: Ross: He finally asked you out?
-SUBTITLE: Yes!
-DIALOGUE_PAIR: (He finally asked you out?, 0.0), (Yes!, 1.0)
-RESULT: Monica: Yes!
-SUBTITLE: It's a ''Dear Diary'' moment.
-DIALOGUE_PAIR: (Yes!, 0.0), (Ooh, this is a Dear Diary moment., 0.375)
-RESULT: Chandler: It's a ''Dear Diary'' moment.
-SUBTITLE: Rach, I can cancel.
-DIALOGUE_PAIR: (Ooh, this is a Dear Diary moment., 0.037037037037), (Rach, wait, I can cancel..., 0.666666666667)
-RESULT: Monica: Rach, I can cancel.
-SUBTITLE: Please, go, I'll be fine.
-DIALOGUE_PAIR: (Rach, wait, I can cancel..., 0.037037037037), (Please, no, go, that'd be fine!, 0.428571428571)
-RESULT: Rachel: Please, go, I'll be fine.
-SUBTITLE: Ross, are you okay? Do you want me to stay?
-DIALOGUE_PAIR: (Please, no, go, that'd be fine!, 0.0), (Are, are you okay? I mean, do you want me to stay?, 0.590163934426)
-RESULT: Monica: Ross, are you okay? Do you want me to stay?
-SUBTITLE: That'd be good.
-DIALOGUE_PAIR: (Are, are you okay? I mean, do you want me to stay?, 0.0), (That'd be good..., 0.8)
-RESULT: Ross: That'd be good.
-SUBTITLE: Really?
-DIALOGUE_PAIR: (That'd be good..., 0.0), (Really?, 1.0)
-RESULT: Monica: Really?
-SUBTITLE: Go on! It's Paul, the wine guy!
-DIALOGUE_PAIR: (Really?, 0.0), (No, go on! It's Paul the Wine Guy!, 0.4375)
-RESULT: Ross: Go on! It's Paul, the wine guy!
-SUBTITLE: Does he sell it, drink it?
-DIALOGUE_PAIR: (No, go on! It's Paul the Wine Guy!, 0.015873015873), (What does that mean?   Does he sell it, drink it, or just complain a lot?, 0.320512820513)
-RESULT: Phoebe: Does he sell it, drink it?
-SUBTITLE: Or he just complains a lot?
-DIALOGUE_PAIR: (What does that mean?   Does he sell it, drink it, or just complain a lot?, 0.253012048193), (Hi, come in! Paul, this is.. ... everybody, everybody, this is Paul., 0.020618556701)
-RESULT: Phoebe: Or he just complains a lot?
-SUBTITLE: Hi, come in! Paul, this is...everybody. Everybody, this is Paul.
-DIALOGUE_PAIR: (What does that mean?   Does he sell it, drink it, or just complain a lot?, 0.0217391304348), (Hi, come in! Paul, this is.. ... everybody, everybody, this is Paul., 0.766233766234)
-RESULT: Monica: Hi, come in! Paul, this is...everybody. Everybody, this is Paul.
-SUBTITLE: The wine guy.
-DIALOGUE_PAIR: (Hi, come in! Paul, this is.. ... everybody, everybody, this is Paul., 0.0119047619048), (Hey! Paul! Hi! The Wine Guy! Hey!, 0.0869565217391)
---CHECKING SUBSTRINGS--
-RESULT: All: The wine guy.
-SUBTITLE: I didn't catch your name. Paul?
-DIALOGUE_PAIR: (Hey! Paul! Hi! The Wine Guy! Hey!, 0.0461538461538), (I'm sorry, I didn't catch your name. Paul, was it?, 0.545454545455)
-RESULT: Chandler: I didn't catch your name. Paul?
-SUBTITLE: I'll be right back. I've just gotta go--
-DIALOGUE_PAIR: (I'm sorry, I didn't catch your name. Paul, was it?, 0.0217391304348), (Okay, umm-umm, I'll just--I'll be right back, I just gotta go ah, go ah..., 0.325842696629)
-RESULT: Monica: I'll be right back. I've just gotta go--
-SUBTITLE: A-wandering?
-DIALOGUE_PAIR: (Okay, umm-umm, I'll just--I'll be right back, I just gotta go ah, go ah..., 0.0), (A wandering?, 0.647058823529)
-RESULT: Ross: A-wandering?
-SUBTITLE: Change.
-DIALOGUE_PAIR: (A wandering?, 0.0), (Change!  Okay, sit down.  Two seconds., 0.166666666667)
-RESULT: Monica: Change.
-SUBTITLE: Sit down. Two seconds.
-DIALOGUE_PAIR: (Change!  Okay, sit down.  Two seconds., 0.454545454545), (Ooh, I just pulled out four eyelashes. That can't be good., 0.0243902439024)
-RESULT: Monica: Sit down. Two seconds.
-SUBTITLE: I just pulled out four eyelashes. That can't be good.
-DIALOGUE_PAIR: (Change!  Okay, sit down.  Two seconds., 0.0106382978723), (Ooh, I just pulled out four eyelashes. That can't be good., 0.854838709677)
-RESULT: Phoebe: I just pulled out four eyelashes. That can't be good.
-SUBTITLE: Hey, Paul, here's a tip.
-DIALOGUE_PAIR: (Ooh, I just pulled out four eyelashes. That can't be good., 0.0117647058824), (Hey, Paul!, 0.310344827586)
-RESULT: Joey: Hey, Paul, here's a tip.
-SUBTITLE: She really likes it when you rub her neck in the same spot until it starts to get red.
-DIALOGUE_PAIR: (Hey, Paul!, 0.0), (Yeah?, 0.0)
+SUBTITLE: How does she do that?
+DIALOGUE_PAIR: (You are? Ross, I'm sorry.., 0.0), (Opening Credits, 0.0)
 --CHECKING SUBSTRINGS--
 >>==MOVING TO NEXT DIALOGUE (fails: 1)
-SUBTITLE: She really likes it when you rub her neck in the same spot until it starts to get red.
-DIALOGUE_PAIR: (Yeah?, 0.0), (Here's a little tip, she really likes it when you rub her neck in the same spot over and over and over again until it starts to get a little red., 0.546052631579)
-RESULT: Joey: She really likes it when you rub her neck in the same spot until it starts to get red.
-SUBTITLE: Shut up, Joey!
-DIALOGUE_PAIR: (Here's a little tip, she really likes it when you rub her neck in the same spot over and over and over again until it starts to get a little red., 0.00617283950617), (Shut up, Joey!, 1.0)
-RESULT: Monica: Shut up, Joey!
-SUBTITLE: What are you up to tonight?
-DIALOGUE_PAIR: (Shut up, Joey!, 0.0227272727273), (So Rachel, what're you, uh... what're you up to tonight?, 0.338461538462)
-RESULT: Ross: What are you up to tonight?
-SUBTITLE: I was supposed to be headed for Aruba on my honeymoon so, nothing.
-DIALOGUE_PAIR: (So Rachel, what're you, uh... what're you up to tonight?, 0.0161290322581), (Well, I was kinda supposed to be headed for Aruba on my honeymoon, so nothing!, 0.626373626374)
-RESULT: Rachel: I was supposed to be headed for Aruba on my honeymoon so, nothing.
-SUBTITLE: Right. You're not even getting your honeymoon.
-DIALOGUE_PAIR: (Well, I was kinda supposed to be headed for Aruba on my honeymoon, so nothing!, 0.0940170940171), (Right, you're not even getting your honeymoon, God.. No, no, although, Aruba, this time of year... talk about your-  -big lizards... Anyway, if you don't feel like being alone tonight, Joey and Chandler are coming over to help me put together my new furniture., 0.152416356877)
-RESULT: Ross: Right. You're not even getting your honeymoon.
-SUBTITLE: Although, Aruba. This time of year?
-DIALOGUE_PAIR: (Right, you're not even getting your honeymoon, God.. No, no, although, Aruba, this time of year... talk about your-  -big lizards... Anyway, if you don't feel like being alone tonight, Joey and Chandler are coming over to help me put together my new furniture., 0.0952380952381), (Yes, and we're very excited about it., 0.0)
---CHECKING SUBSTRINGS--
-RESULT: Ross: Although, Aruba. This time of year?
-SUBTITLE: Talk about your big lizards.
-DIALOGUE_PAIR: (Right, you're not even getting your honeymoon, God.. No, no, although, Aruba, this time of year... talk about your-  -big lizards... Anyway, if you don't feel like being alone tonight, Joey and Chandler are coming over to help me put together my new furniture., 0.089552238806), (Yes, and we're very excited about it., 0.0952380952381)
---CHECKING SUBSTRINGS--
-RESULT: Ross: Talk about your big lizards.
-SUBTITLE: If you don't want to be alone tonight Joey and Chandler are helping me with my furniture.
-DIALOGUE_PAIR: (Right, you're not even getting your honeymoon, God.. No, no, although, Aruba, this time of year... talk about your-  -big lizards... Anyway, if you don't feel like being alone tonight, Joey and Chandler are coming over to help me put together my new furniture., 0.234265734266), (Yes, and we're very excited about it., 0.04)
-RESULT: Ross: If you don't want to be alone tonight Joey and Chandler are helping me with my furniture.
-SUBTITLE: We're very excited about it.
-DIALOGUE_PAIR: (Right, you're not even getting your honeymoon, God.. No, no, although, Aruba, this time of year... talk about your-  -big lizards... Anyway, if you don't feel like being alone tonight, Joey and Chandler are coming over to help me put together my new furniture., 0.0318021201413), (Yes, and we're very excited about it., 0.642857142857)
-RESULT: Chandler: We're very excited about it.
-SUBTITLE: Thanks. But I'm just going to hang out here.
-DIALOGUE_PAIR: (Yes, and we're very excited about it., 0.0365853658537), (Well actually thanks, but I think I'm just gonna hang out here tonight.  It's been kinda a long day., 0.254237288136)
-RESULT: Rachel: Thanks. But I'm just going to hang out here.
-SUBTITLE: It's been a long day.
-DIALOGUE_PAIR: (Well actually thanks, but I think I'm just gonna hang out here tonight.  It's been kinda a long day., 0.190476190476), (Okay, sure., 0.0285714285714)
-RESULT: Rachel: It's been a long day.
-SUBTITLE: Oh, sure.
-DIALOGUE_PAIR: (Well actually thanks, but I think I'm just gonna hang out here tonight.  It's been kinda a long day., 0.00892857142857), (Okay, sure., 0.5)
-RESULT: Ross: Oh, sure.
-SUBTITLE: Pheebs, wanna help?
-DIALOGUE_PAIR: (Okay, sure., 0.0), (Hey Pheebs, you wanna help?, 0.5625)
-RESULT: Joey: Pheebs, wanna help?
-SUBTITLE: I wish I could, but I don't want to.
-DIALOGUE_PAIR: (Hey Pheebs, you wanna help?, 0.0307692307692), (Oh, I wish I could, but I don't want to., 0.818181818182)
-RESULT: Phoebe: I wish I could, but I don't want to.
-SUBTITLE: Love is sweet as summer showers Love is a wondrous work of art
-DIALOGUE_PAIR: (Oh, I wish I could, but I don't want to., 0.0), (Commercial Break, 0.025)
+SUBTITLE: How does she do that?
+DIALOGUE_PAIR: (Opening Credits, 0.0), (How does she do that?, 1.0)
+RESULT: Monica: How does she do that?
+SUBTITLE: I can't sleep in a public place.
+DIALOGUE_PAIR: (How does she do that?, 0.0), (I cannot sleep in a public place., 0.815789473684)
+RESULT: Ross: I can't sleep in a public place.
+SUBTITLE: Libraries, airplanes, movie theaters....
+DIALOGUE_PAIR: (I cannot sleep in a public place., 0.0266666666667), (Would you look at her? She is so peaceful., 0.0117647058824)
 --CHECKING SUBSTRINGS--
 >>==MOVING TO NEXT DIALOGUE (fails: 1)
-SUBTITLE: Love is sweet as summer showers Love is a wondrous work of art
-DIALOGUE_PAIR: (Commercial Break, 0.025), (Love is sweet as summer showers, love is a wondrous work of art, but your love oh your love, your love...is like a giant pigeon...crapping on my heart.  La-la-la-la-la-  Thank you.  La-la-la-la...ohhh!, 0.277511961722)
-RESULT: Phoebe: Love is sweet as summer showers Love is a wondrous work of art
-SUBTITLE: But your love Oh, your love, your love
-DIALOGUE_PAIR: (Love is sweet as summer showers, love is a wondrous work of art, but your love oh your love, your love...is like a giant pigeon...crapping on my heart.  La-la-la-la-la-  Thank you.  La-la-la-la...ohhh!, 0.140845070423), (I'm supposed to attach a brackety thing to the side things, using a bunch of these little worm guys. I have no brackety thing, I see no whim guys whatsoever and- I cannot feel my legs., 0.00444444444444)
---CHECKING SUBSTRINGS--
-RESULT: Phoebe: But your love Oh, your love, your love
-SUBTITLE: Is like a giant pigeon
-DIALOGUE_PAIR: (Love is sweet as summer showers, love is a wondrous work of art, but your love oh your love, your love...is like a giant pigeon...crapping on my heart.  La-la-la-la-la-  Thank you.  La-la-la-la...ohhh!, 0.0913461538462), (I'm supposed to attach a brackety thing to the side things, using a bunch of these little worm guys. I have no brackety thing, I see no whim guys whatsoever and- I cannot feel my legs., 0.0144927536232)
---CHECKING SUBSTRINGS--
-RESULT: Phoebe: Is like a giant pigeon
-SUBTITLE: Crapping on my heart
-DIALOGUE_PAIR: (Love is sweet as summer showers, love is a wondrous work of art, but your love oh your love, your love...is like a giant pigeon...crapping on my heart.  La-la-la-la-la-  Thank you.  La-la-la-la...ohhh!, 0.0817307692308), (I'm supposed to attach a brackety thing to the side things, using a bunch of these little worm guys. I have no brackety thing, I see no whim guys whatsoever and- I cannot feel my legs., 0.0196078431373)
---CHECKING SUBSTRINGS--
-RESULT: Phoebe: Crapping on my heart
-SUBTITLE: Thank you.
-DIALOGUE_PAIR: (Love is sweet as summer showers, love is a wondrous work of art, but your love oh your love, your love...is like a giant pigeon...crapping on my heart.  La-la-la-la-la-  Thank you.  La-la-la-la...ohhh!, 0.0386473429952), (I'm supposed to attach a brackety thing to the side things, using a bunch of these little worm guys. I have no brackety thing, I see no whim guys whatsoever and- I cannot feel my legs., 0.00507614213198)
---CHECKING SUBSTRINGS--
-RESULT: Phoebe: Thank you.
-SUBTITLE: I'm supposed to attach a bracket-y thing to the side things using a bunch of these little worm guys.
-DIALOGUE_PAIR: (Love is sweet as summer showers, love is a wondrous work of art, but your love oh your love, your love...is like a giant pigeon...crapping on my heart.  La-la-la-la-la-  Thank you.  La-la-la-la...ohhh!, 0.0374149659864), (I'm supposed to attach a brackety thing to the side things, using a bunch of these little worm guys. I have no brackety thing, I see no whim guys whatsoever and- I cannot feel my legs., 0.507853403141)
-RESULT: Ross: I'm supposed to attach a bracket-y thing to the side things using a bunch of these little worm guys.
-SUBTITLE: I have no bracket-y thing. I see no worm guys whatsoever and I cannot feel my legs.
-DIALOGUE_PAIR: (I'm supposed to attach a brackety thing to the side things, using a bunch of these little worm guys. I have no brackety thing, I see no whim guys whatsoever and- I cannot feel my legs., 0.396907216495), (I'm thinking we've got a bookcase here., 0.0677966101695)
-RESULT: Ross: I have no bracket-y thing. I see no worm guys whatsoever and I cannot feel my legs.
-SUBTITLE: We got a bookcase.
-DIALOGUE_PAIR: (I'm supposed to attach a brackety thing to the side things, using a bunch of these little worm guys. I have no brackety thing, I see no whim guys whatsoever and- I cannot feel my legs., 0.019801980198), (I'm thinking we've got a bookcase here., 0.355555555556)
-RESULT: Joey: We got a bookcase.
-SUBTITLE: It's beautiful.
-DIALOGUE_PAIR: (I'm thinking we've got a bookcase here., 0.0357142857143), (It's a beautiful thing., 0.5)
-RESULT: Chandler: It's beautiful.
-SUBTITLE: What's this?
-DIALOGUE_PAIR: (It's a beautiful thing., 0.114285714286), (What's this?, 1.0)
-RESULT: Joey: What's this?
-SUBTITLE: I would have to say that is an L-shaped bracket.
-DIALOGUE_PAIR: (What's this?, 0.0322580645161), (I would have to say that is an 'L'-shaped bracket., 0.854545454545)
-RESULT: Chandler: I would have to say that is an L-shaped bracket.
-SUBTITLE: Which goes where?
-DIALOGUE_PAIR: (I would have to say that is an 'L'-shaped bracket., 0.0), (Which goes where?, 1.0)
-RESULT: Joey: Which goes where?
-SUBTITLE: I have no idea.
-DIALOGUE_PAIR: (Which goes where?, 0.0), (I have no idea., 1.0)
-RESULT: Chandler: I have no idea.
-SUBTITLE: Done with the bookcase.
-DIALOGUE_PAIR: (I have no idea., 0.0243902439024), (Done with the bookcase!, 0.785714285714)
-RESULT: Joey: Done with the bookcase.
-SUBTITLE: All finished.
-DIALOGUE_PAIR: (Done with the bookcase!, 0.0), (All finished!, 0.666666666667)
-RESULT: Chandler: All finished.
-SUBTITLE: This was Carol's favorite beer.
-DIALOGUE_PAIR: (All finished!, 0.0), (This was Carol's favorite beer. She always drank it out of the can, I should have known., 0.351648351648)
-RESULT: Ross: This was Carol's favorite beer.
-SUBTITLE: She always drank it out of the can. I should have known.
-DIALOGUE_PAIR: (This was Carol's favorite beer. She always drank it out of the can, I should have known., 0.557894736842), (Hey-hey-hey-hey, if you're gonna start with that stuff we're outta here., 0.03125)
-RESULT: Ross: She always drank it out of the can. I should have known.
-SUBTITLE: Start with that, we're out of here.
-DIALOGUE_PAIR: (This was Carol's favorite beer. She always drank it out of the can, I should have known., 0.0672268907563), (Hey-hey-hey-hey, if you're gonna start with that stuff we're outta here., 0.305882352941)
-RESULT: Joey: Start with that, we're out of here.
-SUBTITLE: Please don't spoil all this fun.
-DIALOGUE_PAIR: (Hey-hey-hey-hey, if you're gonna start with that stuff we're outta here., 0.0285714285714), (Yes, please don't spoil all this fun., 0.738095238095)
-RESULT: Chandler: Please don't spoil all this fun.
-SUBTITLE: Let me ask you.
-DIALOGUE_PAIR: (Yes, please don't spoil all this fun., 0.0181818181818), (Ross, let me ask you a question. She got the furniture, the stereo, the good TV- what did you get?, 0.103773584906)
---CHECKING SUBSTRINGS--
-RESULT: Joey: Let me ask you.
-SUBTITLE: She got the furniture, the stereo, the good TV.
-DIALOGUE_PAIR: (Ross, let me ask you a question. She got the furniture, the stereo, the good TV- what did you get?, 0.419047619048), (You guys., 0.0169491525424)
-RESULT: Joey: She got the furniture, the stereo, the good TV.
-SUBTITLE: What did you get?
-DIALOGUE_PAIR: (Ross, let me ask you a question. She got the furniture, the stereo, the good TV- what did you get?, 0.155339805825), (You guys., 0.0714285714286)
-RESULT: Joey: What did you get?
-SUBTITLE: You guys.
-DIALOGUE_PAIR: (Ross, let me ask you a question. She got the furniture, the stereo, the good TV- what did you get?, 0.0183486238532), (You guys., 1.0)
-RESULT: Ross: You guys.
-SUBTITLE: You got screwed.
-DIALOGUE_PAIR: (You guys., 0.260869565217), (Oh, God., 0.0769230769231)
-RESULT: Ross: You got screwed.
-SUBTITLE: Oh, my God.
-DIALOGUE_PAIR: (You guys., 0.0434782608696), (Oh, God., 0.642857142857)
-RESULT: Chandler: Oh, my God.
-SUBTITLE: I know. I'm such an idiot.
-DIALOGUE_PAIR: (Oh, God., 0.027027027027), (You got screwed., 0.0222222222222)
---CHECKING SUBSTRINGS--
->>==MOVING TO NEXT DIALOGUE (fails: 1)
-SUBTITLE: I know. I'm such an idiot.
-DIALOGUE_PAIR: (You got screwed., 0.0222222222222), (Oh my God!, 0.0)
+SUBTITLE: Libraries, airplanes, movie theaters....
+DIALOGUE_PAIR: (Would you look at her? She is so peaceful., 0.0117647058824), (Oh! What what what! ...Hi., 0.0294117647059)
 --CHECKING SUBSTRINGS--
 >>==MOVING TO NEXT DIALOGUE (fails: 2)
-SUBTITLE: I know. I'm such an idiot.
-DIALOGUE_PAIR: (Oh my God!, 0.0), (Oh my God!, 0.0)
+SUBTITLE: Libraries, airplanes, movie theaters....
+DIALOGUE_PAIR: (Oh! What what what! ...Hi., 0.0294117647059), (It's okay, y'know, you just nodded off again., 0.0113636363636)
 --CHECKING SUBSTRINGS--
 >>==MOVING TO NEXT DIALOGUE (fails: 3)
-SUBTITLE: I know. I'm such an idiot.
-DIALOGUE_PAIR: (Oh my God!, 0.0), (I know, I know, I'm such an idiot. I guess I should have caught on when she started going to the dentist four and five times a week. I mean, how clean can teeth get?, 0.140350877193)
---CHECKING SUBSTRINGS--
-RESULT: Paul: I know. I'm such an idiot.
-SUBTITLE: I should've known when she went to the dentist five times a week.
-DIALOGUE_PAIR: (I know, I know, I'm such an idiot. I guess I should have caught on when she started going to the dentist four and five times a week. I mean, how clean can teeth get?, 0.292817679558), (My brother's going through that right now, he's such a mess. How did you get through it?, 0.0397350993377)
-RESULT: Paul: I should've known when she went to the dentist five times a week.
-SUBTITLE: I mean, how clean can teeth get?
-DIALOGUE_PAIR: (I know, I know, I'm such an idiot. I guess I should have caught on when she started going to the dentist four and five times a week. I mean, how clean can teeth get?, 0.203592814371), (My brother's going through that right now, he's such a mess. How did you get through it?, 0.0598290598291)
-RESULT: Paul: I mean, how clean can teeth get?
-SUBTITLE: My brother's going through that.
-DIALOGUE_PAIR: (I know, I know, I'm such an idiot. I guess I should have caught on when she started going to the dentist four and five times a week. I mean, how clean can teeth get?, 0.046875), (My brother's going through that right now, he's such a mess. How did you get through it?, 0.333333333333)
-RESULT: Monica: My brother's going through that.
-SUBTITLE: How did you get over it?
-DIALOGUE_PAIR: (My brother's going through that right now, he's such a mess. How did you get through it?, 0.183673469388), (Well, you might try accidentally breaking something valuable of hers, say her-, 0.0291262135922)
-RESULT: Monica: How did you get over it?
-SUBTITLE: He might accidentally break something valuable of hers.
-DIALOGUE_PAIR: (My brother's going through that right now, he's such a mess. How did you get through it?, 0.0652173913043), (Well, you might try accidentally breaking something valuable of hers, say her-, 0.522222222222)
-RESULT: Paul: He might accidentally break something valuable of hers.
-SUBTITLE: Say her--
-DIALOGUE_PAIR: (Well, you might try accidentally breaking something valuable of hers, say her-, 0.0705882352941), (-leg?, 0.0)
---CHECKING SUBSTRINGS--
-RESULT: Paul: Say her--
-SUBTITLE: Leg?
-DIALOGUE_PAIR: (Well, you might try accidentally breaking something valuable of hers, say her-, 0.0), (-leg?, 0.3)
-RESULT: Monica: Leg?
-SUBTITLE: That's one way of doing it. I went for the watch.
-DIALOGUE_PAIR: (-leg?, 0.0), (That's one way! Me, I- I went for the watch., 0.590163934426)
-RESULT: Paul: That's one way of doing it. I went for the watch.
-SUBTITLE: You actually broke her watch?
-DIALOGUE_PAIR: (That's one way! Me, I- I went for the watch., 0.0547945205479), (You actually broke her watch?  Wow!  The worst thing I ever did was, I-I shredded by boyfriend's favorite bath towel., 0.239669421488)
-RESULT: Monica: You actually broke her watch?
-SUBTITLE: The worst I ever did was shred my old boyfriend's favorite towel.
-DIALOGUE_PAIR: (You actually broke her watch?  Wow!  The worst thing I ever did was, I-I shredded by boyfriend's favorite bath towel., 0.409090909091), (Ooh, steer clear of you., 0.021978021978)
-RESULT: Monica: The worst I ever did was shred my old boyfriend's favorite towel.
-SUBTITLE: Steer clear of you.
-DIALOGUE_PAIR: (You actually broke her watch?  Wow!  The worst thing I ever did was, I-I shredded by boyfriend's favorite bath towel., 0.0144927536232), (Ooh, steer clear of you., 0.620689655172)
-RESULT: Paul: Steer clear of you.
-SUBTITLE: That's right.
-DIALOGUE_PAIR: (Ooh, steer clear of you., 0.025), (That's right., 1.0)
-RESULT: Monica: That's right.
-SUBTITLE: Barry, I'm sorry. I am so sorry.
-DIALOGUE_PAIR: (That's right., 0.0208333333333), (Barry, I'm sorry... I am so sorry... I know you probably think that this is all about what I said the other day about you making love with your socks on, but it isn't... it isn't, it's about me, and I ju-  Hi, machine cut me off again... anyway...look, look, I know that some girl is going to be incredibly lucky to become Mrs. Barry Finkel, but it isn't me, it's not me.  And not that I have any idea who me is right now, but you just have to give me a chance too..., 0.067940552017)
---CHECKING SUBSTRINGS--
-RESULT: Rachel: Barry, I'm sorry. I am so sorry.
-SUBTITLE: You probably think it's about making love with your socks on, but it isn't.
-DIALOGUE_PAIR: (Barry, I'm sorry... I am so sorry... I know you probably think that this is all about what I said the other day about you making love with your socks on, but it isn't... it isn't, it's about me, and I ju-  Hi, machine cut me off again... anyway...look, look, I know that some girl is going to be incredibly lucky to become Mrs. Barry Finkel, but it isn't me, it's not me.  And not that I have any idea who me is right now, but you just have to give me a chance too..., 0.151898734177), (I'm divorced!  I'm only 26 and I'm divorced!, 0.0165289256198)
-RESULT: Rachel: You probably think it's about making love with your socks on, but it isn't.
-SUBTITLE: It's about me. And I just--
-DIALOGUE_PAIR: (Barry, I'm sorry... I am so sorry... I know you probably think that this is all about what I said the other day about you making love with your socks on, but it isn't... it isn't, it's about me, and I ju-  Hi, machine cut me off again... anyway...look, look, I know that some girl is going to be incredibly lucky to become Mrs. Barry Finkel, but it isn't me, it's not me.  And not that I have any idea who me is right now, but you just have to give me a chance too..., 0.0440251572327), (I'm divorced!  I'm only 26 and I'm divorced!, 0.0416666666667)
---CHECKING SUBSTRINGS--
-RESULT: Rachel: It's about me. And I just--
-SUBTITLE: The machine cut me off again. Anyway....
-DIALOGUE_PAIR: (Barry, I'm sorry... I am so sorry... I know you probably think that this is all about what I said the other day about you making love with your socks on, but it isn't... it isn't, it's about me, and I ju-  Hi, machine cut me off again... anyway...look, look, I know that some girl is going to be incredibly lucky to become Mrs. Barry Finkel, but it isn't me, it's not me.  And not that I have any idea who me is right now, but you just have to give me a chance too..., 0.0757894736842), (I'm divorced!  I'm only 26 and I'm divorced!, 0.0)
---CHECKING SUBSTRINGS--
-RESULT: Rachel: The machine cut me off again. Anyway....
-SUBTITLE: I know that some lucky girl is going to become Mrs. Barry Finkel.
-DIALOGUE_PAIR: (Barry, I'm sorry... I am so sorry... I know you probably think that this is all about what I said the other day about you making love with your socks on, but it isn't... it isn't, it's about me, and I ju-  Hi, machine cut me off again... anyway...look, look, I know that some girl is going to be incredibly lucky to become Mrs. Barry Finkel, but it isn't me, it's not me.  And not that I have any idea who me is right now, but you just have to give me a chance too..., 0.128421052632), (I'm divorced!  I'm only 26 and I'm divorced!, 0.00892857142857)
---CHECKING SUBSTRINGS--
-RESULT: Rachel: I know that some lucky girl is going to become Mrs. Barry Finkel.
-SUBTITLE: But it isn't me. It's not me.
-DIALOGUE_PAIR: (Barry, I'm sorry... I am so sorry... I know you probably think that this is all about what I said the other day about you making love with your socks on, but it isn't... it isn't, it's about me, and I ju-  Hi, machine cut me off again... anyway...look, look, I know that some girl is going to be incredibly lucky to become Mrs. Barry Finkel, but it isn't me, it's not me.  And not that I have any idea who me is right now, but you just have to give me a chance too..., 0.0526315789474), (I'm divorced!  I'm only 26 and I'm divorced!, 0.0)
---CHECKING SUBSTRINGS--
-RESULT: Rachel: But it isn't me. It's not me.
-SUBTITLE: Not that I have any idea who ''me'' is right now, but you just--
-DIALOGUE_PAIR: (Barry, I'm sorry... I am so sorry... I know you probably think that this is all about what I said the other day about you making love with your socks on, but it isn't... it isn't, it's about me, and I ju-  Hi, machine cut me off again... anyway...look, look, I know that some girl is going to be incredibly lucky to become Mrs. Barry Finkel, but it isn't me, it's not me.  And not that I have any idea who me is right now, but you just have to give me a chance too..., 0.105371900826), (I'm divorced!  I'm only 26 and I'm divorced!, 0.00900900900901)
---CHECKING SUBSTRINGS--
-RESULT: Rachel: Not that I have any idea who ''me'' is right now, but you just--
-SUBTITLE: I'm divorced.
-DIALOGUE_PAIR: (Barry, I'm sorry... I am so sorry... I know you probably think that this is all about what I said the other day about you making love with your socks on, but it isn't... it isn't, it's about me, and I ju-  Hi, machine cut me off again... anyway...look, look, I know that some girl is going to be incredibly lucky to become Mrs. Barry Finkel, but it isn't me, it's not me.  And not that I have any idea who me is right now, but you just have to give me a chance too..., 0.00623700623701), (I'm divorced!  I'm only 26 and I'm divorced!, 0.244897959184)
-RESULT: Ross: I'm divorced.
-SUBTITLE: I'm only 26, and I'm divorced!
-DIALOGUE_PAIR: (I'm divorced!  I'm only 26 and I'm divorced!, 0.591836734694), (Shut up!, 0.0243902439024)
-RESULT: Ross: I'm only 26, and I'm divorced!
-SUBTITLE: Shut up!
-DIALOGUE_PAIR: (I'm divorced!  I'm only 26 and I'm divorced!, 0.0181818181818), (Shut up!, 1.0)
-RESULT: Joey: Shut up!
-SUBTITLE: That only took me an hour.
-DIALOGUE_PAIR: (Shut up!, 0.0), (You must stop!, 0.0)
---CHECKING SUBSTRINGS--
->>==MOVING TO NEXT DIALOGUE (fails: 1)
-SUBTITLE: That only took me an hour.
-DIALOGUE_PAIR: (You must stop!, 0.0), (That only took me an hour., 1.0)
-RESULT: Ross: That only took me an hour.
-SUBTITLE: We haven't had a relationship that's lasted longer than a Mento.
-DIALOGUE_PAIR: (That only took me an hour., 0.032967032967), (Look, Ross, you gotta understand, between us we haven't had a relationship that has lasted longer than a Mento.   You, however have had the love of a woman for four years.   Four years of closeness and sharing at the end of which she ripped your heart out, and that is why we don't do it!  I don't think that was my point!, 0.174698795181)
-RESULT: Chandler: We haven't had a relationship that's lasted longer than a Mento.
-SUBTITLE: You have had the love of a woman for four years.
-DIALOGUE_PAIR: (Look, Ross, you gotta understand, between us we haven't had a relationship that has lasted longer than a Mento.   You, however have had the love of a woman for four years.   Four years of closeness and sharing at the end of which she ripped your heart out, and that is why we don't do it!  I don't think that was my point!, 0.136778115502), (You know what the scariest part is? What if there's only one woman for everybody, y'know? I mean what if you get one woman- and that's it? Unfortunately in my case, there was only one woman- for her..., 0.0811965811966)
---CHECKING SUBSTRINGS--
-RESULT: Chandler: You have had the love of a woman for four years.
-SUBTITLE: Four years of closeness and sharing, after which she ripped your heart out.
-DIALOGUE_PAIR: (Look, Ross, you gotta understand, between us we haven't had a relationship that has lasted longer than a Mento.   You, however have had the love of a woman for four years.   Four years of closeness and sharing at the end of which she ripped your heart out, and that is why we don't do it!  I don't think that was my point!, 0.193452380952), (You know what the scariest part is? What if there's only one woman for everybody, y'know? I mean what if you get one woman- and that's it? Unfortunately in my case, there was only one woman- for her..., 0.0566037735849)
-RESULT: Chandler: Four years of closeness and sharing, after which she ripped your heart out.
-SUBTITLE: That is why we don't do it!
-DIALOGUE_PAIR: (Look, Ross, you gotta understand, between us we haven't had a relationship that has lasted longer than a Mento.   You, however have had the love of a woman for four years.   Four years of closeness and sharing at the end of which she ripped your heart out, and that is why we don't do it!  I don't think that was my point!, 0.0795107033639), (You know what the scariest part is? What if there's only one woman for everybody, y'know? I mean what if you get one woman- and that's it? Unfortunately in my case, there was only one woman- for her..., 0.0265486725664)
---CHECKING SUBSTRINGS--
-RESULT: Chandler: That is why we don't do it!
-SUBTITLE: I don't think that was my point!
-DIALOGUE_PAIR: (Look, Ross, you gotta understand, between us we haven't had a relationship that has lasted longer than a Mento.   You, however have had the love of a woman for four years.   Four years of closeness and sharing at the end of which she ripped your heart out, and that is why we don't do it!  I don't think that was my point!, 0.0981595092025), (You know what the scariest part is? What if there's only one woman for everybody, y'know? I mean what if you get one woman- and that's it? Unfortunately in my case, there was only one woman- for her..., 0.0486725663717)
---CHECKING SUBSTRINGS--
-RESULT: Chandler: I don't think that was my point!
-SUBTITLE: Know what's scary? What if there's only one woman for everybody?
-DIALOGUE_PAIR: (Look, Ross, you gotta understand, between us we haven't had a relationship that has lasted longer than a Mento.   You, however have had the love of a woman for four years.   Four years of closeness and sharing at the end of which she ripped your heart out, and that is why we don't do it!  I don't think that was my point!, 0.0512129380054), (You know what the scariest part is? What if there's only one woman for everybody, y'know? I mean what if you get one woman- and that's it? Unfortunately in my case, there was only one woman- for her..., 0.262910798122)
-RESULT: Ross: Know what's scary? What if there's only one woman for everybody?
-SUBTITLE: I mean, what if you get one woman, and that's it?
-DIALOGUE_PAIR: (You know what the scariest part is? What if there's only one woman for everybody, y'know? I mean what if you get one woman- and that's it? Unfortunately in my case, there was only one woman- for her..., 0.192488262911), (What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!, 0.0706401766004)
-RESULT: Ross: I mean, what if you get one woman, and that's it?
-SUBTITLE: Unfortunately, in my case, there was only one woman for her.
-DIALOGUE_PAIR: (You know what the scariest part is? What if there's only one woman for everybody, y'know? I mean what if you get one woman- and that's it? Unfortunately in my case, there was only one woman- for her..., 0.274038461538), (What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!, 0.0575692963753)
-RESULT: Ross: Unfortunately, in my case, there was only one woman for her.
-SUBTITLE: What are you talking about? One woman.
-DIALOGUE_PAIR: (You know what the scariest part is? What if there's only one woman for everybody, y'know? I mean what if you get one woman- and that's it? Unfortunately in my case, there was only one woman- for her..., 0.0657894736842), (What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!, 0.0797266514806)
---CHECKING SUBSTRINGS--
-RESULT: Joey: What are you talking about? One woman.
-SUBTITLE: That's like saying there's only one flavor of ice cream.
-DIALOGUE_PAIR: (What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!, 0.120728929385), (I honestly don't know if I'm hungry or horny., 0.05)
---CHECKING SUBSTRINGS--
-RESULT: Joey: That's like saying there's only one flavor of ice cream.
-SUBTITLE: Let me tell you something. There's lots of flavors out there.
-DIALOGUE_PAIR: (What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!, 0.12443438914), (I honestly don't know if I'm hungry or horny., 0.00917431192661)
---CHECKING SUBSTRINGS--
-RESULT: Joey: Let me tell you something. There's lots of flavors out there.
-SUBTITLE: Rocky road and cookie dough and bing cherry vanilla.
-DIALOGUE_PAIR: (What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!, 0.0655021834061), (I honestly don't know if I'm hungry or horny., 0.030612244898)
---CHECKING SUBSTRINGS--
-RESULT: Joey: Rocky road and cookie dough and bing cherry vanilla.
-SUBTITLE: You can get them with jimmies or nuts or whipped cream.
-DIALOGUE_PAIR: (What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!, 0.0959821428571), (I honestly don't know if I'm hungry or horny., 0.029702970297)
---CHECKING SUBSTRINGS--
-RESULT: Joey: You can get them with jimmies or nuts or whipped cream.
-SUBTITLE: It's the best thing to happen to you!
-DIALOGUE_PAIR: (What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!, 0.0725623582766), (I honestly don't know if I'm hungry or horny., 0.0238095238095)
---CHECKING SUBSTRINGS--
-RESULT: Joey: It's the best thing to happen to you!
-SUBTITLE: You got married. You were like, what, 8?
-DIALOGUE_PAIR: (What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!, 0.0744920993228), (I honestly don't know if I'm hungry or horny., 0.0)
---CHECKING SUBSTRINGS--
-RESULT: Joey: You got married. You were like, what, 8?
-SUBTITLE: Welcome back to the world. Grab a spoon!
-DIALOGUE_PAIR: (What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!, 0.0867579908676), (I honestly don't know if I'm hungry or horny., 0.0)
---CHECKING SUBSTRINGS--
-RESULT: Joey: Welcome back to the world. Grab a spoon!
-SUBTITLE: I don't know if I'm hungry or horny.
-DIALOGUE_PAIR: (What are you talking about? 'One woman'? That's like saying there's only one flavor of ice cream for you. Lemme tell you something, Ross. There's lots of flavors out there. There's Rocky Road, and Cookie Dough, and Bing! Cherry Vanilla. You could get 'em with Jimmies, or nuts, or whipped cream! This is the best thing that ever happened to you! You got married, you were, like, what, eight? Welcome back to the world! Grab a spoon!, 0.0107066381156), (I honestly don't know if I'm hungry or horny., 0.770833333333)
-RESULT: Ross: I don't know if I'm hungry or horny.
-SUBTITLE: Then stay out of my freezer.
-DIALOGUE_PAIR: (I honestly don't know if I'm hungry or horny., 0.0266666666667), (Stay out of my freezer!, 0.527777777778)
-RESULT: Chandler: Then stay out of my freezer.
-SUBTITLE: Ever since she walked out on me....
-DIALOGUE_PAIR: (Stay out of my freezer!, 0.0689655172414), (Ever since she walked out on me, I, uh..., 0.739130434783)
-RESULT: Paul: Ever since she walked out on me....
-SUBTITLE: What?
-DIALOGUE_PAIR: (Ever since she walked out on me, I, uh..., 0.0), (What?..... What, you wanna spell it out with noodles?, 0.107142857143)
---CHECKING SUBSTRINGS--
-RESULT: Monica: What?
-SUBTITLE: You wanna spell it out with noodles?
-DIALOGUE_PAIR: (What?..... What, you wanna spell it out with noodles?, 0.603448275862), (No, it's, it's more of a fifth date kinda revelation., 0.021978021978)
-RESULT: Monica: You wanna spell it out with noodles?
-SUBTITLE: It's more of a fifth date kind of revelation.
-DIALOGUE_PAIR: (What?..... What, you wanna spell it out with noodles?, 0.00990099009901), (No, it's, it's more of a fifth date kinda revelation., 0.619047619048)
-RESULT: Paul: It's more of a fifth date kind of revelation.
-SUBTITLE: So there's going to be a fifth date?
-DIALOGUE_PAIR: (No, it's, it's more of a fifth date kinda revelation., 0.148148148148), (Oh, so there is gonna be a fifth date?, 0.444444444444)
-RESULT: Monica: So there's going to be a fifth date?
-SUBTITLE: Isn't there?
-DIALOGUE_PAIR: (Oh, so there is gonna be a fifth date?, 0.125), (Isn't there?, 1.0)
-RESULT: Paul: Isn't there?
-SUBTITLE: Yeah, yeah. I think there is.
-DIALOGUE_PAIR: (Isn't there?, 0.0975609756098), (Yeah... yeah, I think there is. -What were you gonna say?, 0.40625)
-RESULT: Monica: Yeah, yeah. I think there is.
-SUBTITLE: What were you going to say?
-DIALOGUE_PAIR: (Yeah... yeah, I think there is. -What were you gonna say?, 0.275362318841), (Well, ever-ev-... ever since she left me, um, I haven't been able to, uh, perform.  ...Sexually., 0.016)
-RESULT: Monica: What were you going to say?
-SUBTITLE: Ever since she left me I haven't been able to perform sexually.
-DIALOGUE_PAIR: (Yeah... yeah, I think there is. -What were you gonna say?, 0.00813008130081), (Well, ever-ev-... ever since she left me, um, I haven't been able to, uh, perform.  ...Sexually., 0.495412844037)
-RESULT: Paul: Ever since she left me I haven't been able to perform sexually.
-SUBTITLE: Oh, God! I'm so sorry.
-DIALOGUE_PAIR: (Well, ever-ev-... ever since she left me, um, I haven't been able to, uh, perform.  ...Sexually., 0.0252100840336), (Oh God, oh God, I am sorry... I am so sorry..., 0.241379310345)
-RESULT: Monica: Oh, God! I'm so sorry.
-SUBTITLE: Being spit on is probably not what you need right now.
-DIALOGUE_PAIR: (Oh God, oh God, I am sorry... I am so sorry..., 0.00970873786408), (It's okay..., 0.0144927536232)
---CHECKING SUBSTRINGS--
->>==MOVING TO NEXT DIALOGUE (fails: 1)
-SUBTITLE: Being spit on is probably not what you need right now.
-DIALOGUE_PAIR: (It's okay..., 0.0144927536232), (I know being spit on is probably not what you need right now. Um... how long?, 0.607142857143)
-RESULT: Monica: Being spit on is probably not what you need right now.
-SUBTITLE: How long?
-DIALOGUE_PAIR: (I know being spit on is probably not what you need right now. Um... how long?, 0.0975609756098), (Two years., 0.0)
---CHECKING SUBSTRINGS--
-RESULT: Monica: How long?
-SUBTITLE: Two years.
-DIALOGUE_PAIR: (I know being spit on is probably not what you need right now. Um... how long?, 0.0), (Two years., 1.0)
-RESULT: Paul: Two years.
-SUBTITLE: Wow.
-DIALOGUE_PAIR: (Two years., 0.0588235294118), (Wow! I'm-I'm-I'm glad you smashed her watch!, 0.0612244897959)
---CHECKING SUBSTRINGS--
-RESULT: Monica: Wow.
-SUBTITLE: I'm glad you smashed her watch.
-DIALOGUE_PAIR: (Wow! I'm-I'm-I'm glad you smashed her watch!, 0.549019607843), (So you still think you, um... might want that fifth date?, 0.0574712643678)
-RESULT: Monica: I'm glad you smashed her watch.
-SUBTITLE: So you still think you might want that fifth date?
-DIALOGUE_PAIR: (Wow! I'm-I'm-I'm glad you smashed her watch!, 0.0537634408602), (So you still think you, um... might want that fifth date?, 0.819672131148)
-RESULT: Paul: So you still think you might want that fifth date?
-SUBTITLE: Yeah. Yeah, I do.
-DIALOGUE_PAIR: (So you still think you, um... might want that fifth date?, 0.0), (...Yeah. Yeah, I do., 0.708333333333)
-RESULT: Monica: Yeah. Yeah, I do.
-SUBTITLE: We are gathered here to join Joanie Louise Cunningham and Charles. Chachi, Chachi, Chachi in the bonds of holy matrimony.
-DIALOGUE_PAIR: (...Yeah. Yeah, I do., 0.00694444444444), (We are gathered here today to join Joanne Louise Cunningham and Charles, Chachi-Chachi-Chachi, Arcola in the bound of holy matrimony., 0.686274509804)
-RESULT: Priest on TV: We are gathered here to join Joanie Louise Cunningham and Charles. Chachi, Chachi, Chachi in the bonds of holy matrimony.
-SUBTITLE: See!
-DIALOGUE_PAIR: (We are gathered here today to join Joanne Louise Cunningham and Charles, Chachi-Chachi-Chachi, Arcola in the bound of holy matrimony., 0.0), (Oh...see... but Joanne loved Chachi! That's the difference!, 0.0307692307692)
---CHECKING SUBSTRINGS--
->>==MOVING TO NEXT DIALOGUE (fails: 1)
-SUBTITLE: See!
-DIALOGUE_PAIR: (Oh...see... but Joanne loved Chachi! That's the difference!, 0.0307692307692), (Grab a spoon. Do you know how long it's been since I've grabbed a spoon? Do the words 'Billy, don't be a hero' mean anything to you?, 0.0)
---CHECKING SUBSTRINGS--
->>==MOVING TO NEXT DIALOGUE (fails: 2)
-SUBTITLE: See!
-DIALOGUE_PAIR: (Grab a spoon. Do you know how long it's been since I've grabbed a spoon? Do the words 'Billy, don't be a hero' mean anything to you?, 0.0), (Great story!  But, I uh, I gotta go, I got a date with Andrea--Angela--Andrea...  Oh man,, 0.0)
---CHECKING SUBSTRINGS--
->>==MOVING TO NEXT DIALOGUE (fails: 3)
-SUBTITLE: See!
-DIALOGUE_PAIR: (Great story!  But, I uh, I gotta go, I got a date with Andrea--Angela--Andrea...  Oh man,, 0.0), (Angela's the screamer, Andrea has cats., 0.0)
+SUBTITLE: Libraries, airplanes, movie theaters....
+DIALOGUE_PAIR: (It's okay, y'know, you just nodded off again., 0.0113636363636), (What's going on with you?, 0.0)
 --CHECKING SUBSTRINGS--
 >>==MOVING TO NEXT DIALOGUE (fails: 4)
-SUBTITLE: See!
-DIALOGUE_PAIR: (Angela's the screamer, Andrea has cats., 0.0), (Right.  Thanks.  It's June.  I'm outta here., 0.0)
+SUBTITLE: Libraries, airplanes, movie theaters....
+DIALOGUE_PAIR: (What's going on with you?, 0.0), (I got no sleep last night!, 0.0)
 --CHECKING SUBSTRINGS--
 >>==MOVING TO NEXT DIALOGUE (fails: 5)
 --GIVING UP ON SUBTITLE--
-SUBTITLE: But Joanie loved Chachi. That's the difference.
-DIALOGUE_PAIR: (We are gathered here today to join Joanne Louise Cunningham and Charles, Chachi-Chachi-Chachi, Arcola in the bound of holy matrimony., 0.0887573964497), (Oh...see... but Joanne loved Chachi! That's the difference!, 0.506849315068)
-RESULT: Rachel: But Joanie loved Chachi. That's the difference.
-SUBTITLE: ''Grab a spoon.''
-DIALOGUE_PAIR: (Oh...see... but Joanne loved Chachi! That's the difference!, 0.0), (Grab a spoon. Do you know how long it's been since I've grabbed a spoon? Do the words 'Billy, don't be a hero' mean anything to you?, 0.0774647887324)
---CHECKING SUBSTRINGS--
-RESULT: Ross: ''Grab a spoon.''
-SUBTITLE: Do you know how long it's been since I grabbed a spoon?
-DIALOGUE_PAIR: (Grab a spoon. Do you know how long it's been since I've grabbed a spoon? Do the words 'Billy, don't be a hero' mean anything to you?, 0.374100719424), (Great story!  But, I uh, I gotta go, I got a date with Andrea--Angela--Andrea...  Oh man,, 0.0206896551724)
-RESULT: Ross: Do you know how long it's been since I grabbed a spoon?
-SUBTITLE: Do the words, ''Billy, don't be a hero,'' mean anything to you?
-DIALOGUE_PAIR: (Grab a spoon. Do you know how long it's been since I've grabbed a spoon? Do the words 'Billy, don't be a hero' mean anything to you?, 0.372413793103), (Great story!  But, I uh, I gotta go, I got a date with Andrea--Angela--Andrea...  Oh man,, 0.012987012987)
-RESULT: Ross: Do the words, ''Billy, don't be a hero,'' mean anything to you?
-SUBTITLE: Great story. But I gotta go.
-DIALOGUE_PAIR: (Grab a spoon. Do you know how long it's been since I've grabbed a spoon? Do the words 'Billy, don't be a hero' mean anything to you?, 0.0123456790123), (Great story!  But, I uh, I gotta go, I got a date with Andrea--Angela--Andrea...  Oh man,, 0.222222222222)
-RESULT: Joey: Great story. But I gotta go.
-SUBTITLE: I got a date with Andrea. Angela. No, Andrea.
-DIALOGUE_PAIR: (Great story!  But, I uh, I gotta go, I got a date with Andrea--Angela--Andrea...  Oh man,, 0.301886792453), (Angela's the screamer, Andrea has cats., 0.157894736842)
-RESULT: Joey: I got a date with Andrea. Angela. No, Andrea.
-SUBTITLE: Andrea's the screamer. Angela has cats.
-DIALOGUE_PAIR: (Great story!  But, I uh, I gotta go, I got a date with Andrea--Angela--Andrea...  Oh man,, 0.0819672131148), (Angela's the screamer, Andrea has cats., 0.782608695652)
-RESULT: Chandler: Andrea's the screamer. Angela has cats.
-SUBTITLE: Right, thanks. It's Julie. I'm out of here.
-DIALOGUE_PAIR: (Angela's the screamer, Andrea has cats., 0.0361445783133), (Right.  Thanks.  It's June.  I'm outta here., 0.467741935484)
-RESULT: Joey: Right, thanks. It's Julie. I'm out of here.
-SUBTITLE: Here's the thing. Even if I could get it together enough to ask a woman out who am I going to ask?
-DIALOGUE_PAIR: (Right.  Thanks.  It's June.  I'm outta here., 0.0354609929078), (Y'know, here's the thing. Even if I could get it together enough to- to ask a woman out,... who am I gonna ask?, 0.704)
-RESULT: Ross: Here's the thing. Even if I could get it together enough to ask a woman out who am I going to ask?
-SUBTITLE: Isn't this amazing? I've never made coffee in my life.
-DIALOGUE_PAIR: (Y'know, here's the thing. Even if I could get it together enough to- to ask a woman out,... who am I gonna ask?, 0.0432098765432), (Commercial Break, 0.0)
+SUBTITLE: You slept at the Grand Canyon.
+DIALOGUE_PAIR: (I cannot sleep in a public place., 0.046875), (Would you look at her? She is so peaceful., 0.0704225352113)
 --CHECKING SUBSTRINGS--
 >>==MOVING TO NEXT DIALOGUE (fails: 1)
-SUBTITLE: Isn't this amazing? I've never made coffee in my life.
-DIALOGUE_PAIR: (Commercial Break, 0.0), (Isn't this amazing? I mean, I have never made coffee before in my entire life., 0.619047619048)
-RESULT: Rachel: Isn't this amazing? I've never made coffee in my life.
-SUBTITLE: That is amazing.
-DIALOGUE_PAIR: (Isn't this amazing? I mean, I have never made coffee before in my entire life., 0.101123595506), (That is amazing., 1.0)
-RESULT: Chandler: That is amazing.
-SUBTITLE: Congratulations.
-DIALOGUE_PAIR: (That is amazing., 0.0285714285714), (Congratulations., 1.0)
-RESULT: Joey: Congratulations.
-SUBTITLE: If I can make coffee, there isn't anything I can't do.
-DIALOGUE_PAIR: (Congratulations., 0.013698630137), (Y'know, I figure if I can make coffee, there isn't anything I can't do., 0.697368421053)
-RESULT: Rachel: If I can make coffee, there isn't anything I can't do.
-SUBTITLE: I think it's, ''If I can invade Poland, there's nothing I can't do.''
-DIALOGUE_PAIR: (Y'know, I figure if I can make coffee, there isn't anything I can't do., 0.220338983051), (If can invade Poland, there isn't anything I can't do., 0.459770114943)
-RESULT: Chandler: I think it's, ''If I can invade Poland, there's nothing I can't do.''
-SUBTITLE: If you feel like you have to make a Western omelet or something....
-DIALOGUE_PAIR: (If can invade Poland, there isn't anything I can't do., 0.0593220338983), (Listen, while you're on a roll, if you feel like you gotta make like a Western omelet or something...  Although actually I'm really not that hungry..., 0.34756097561)
-RESULT: Joey: If you feel like you have to make a Western omelet or something....
-SUBTITLE: Although, actually I'm really not that hungry.
-DIALOGUE_PAIR: (Listen, while you're on a roll, if you feel like you gotta make like a Western omelet or something...  Although actually I'm really not that hungry..., 0.26582278481), (Oh good, Lenny and Squigy are here., 0.0119047619048)
-RESULT: Joey: Although, actually I'm really not that hungry.
-SUBTITLE: Oh, good. Lenny and Squiggy are here.
-DIALOGUE_PAIR: (Listen, while you're on a roll, if you feel like you gotta make like a Western omelet or something...  Although actually I'm really not that hungry..., 0.0159574468085), (Oh good, Lenny and Squigy are here., 0.688888888889)
-RESULT: Monica: Oh, good. Lenny and Squiggy are here.
-SUBTITLE: Good morning.
-DIALOGUE_PAIR: (Oh good, Lenny and Squigy are here., 0.04), (Morning. Good morning., 0.5)
-RESULT: All: Good morning.
-SUBTITLE: Good morning.
-DIALOGUE_PAIR: (Morning. Good morning., 0.5), (Morning., 0.388888888889)
-RESULT: All: Good morning.
-SUBTITLE: Morning.
-DIALOGUE_PAIR: (Morning. Good morning., 0.416666666667), (Morning., 1.0)
-RESULT: Paul: Morning.
-SUBTITLE: Morning, Paul.
-DIALOGUE_PAIR: (Morning., 0.444444444444), (Morning, Paul., 1.0)
-RESULT: Joey: Morning, Paul.
-SUBTITLE: Hello, Paul.
-DIALOGUE_PAIR: (Morning, Paul., 0.304347826087), (Hello, Paul., 1.0)
-RESULT: Rachel: Hello, Paul.
-SUBTITLE: Hi. Paul, is it?
-DIALOGUE_PAIR: (Hello, Paul., 0.142857142857), (Hi, Paul, is it?, 0.714285714286)
-RESULT: Chandler: Hi. Paul, is it?
-SUBTITLE: Thank you so much.
-DIALOGUE_PAIR: (Hi, Paul, is it?, 0.0), (Thank you!  Thank you so much!, 0.485714285714)
-RESULT: Paul: Thank you so much.
-SUBTITLE: Stop.
-DIALOGUE_PAIR: (Thank you!  Thank you so much!, 0.0), (Stop!, 0.4)
-RESULT: Monica: Stop.
-SUBTITLE: Last night was like all my birthdays, both graduations plus the barn-raising scene in Witness.
-DIALOGUE_PAIR: (Stop!, 0.0), (No, I'm telling you last night was like umm, all my birthdays, both graduations, plus the barn raising scene in Witness., 0.664122137405)
-RESULT: Paul: Last night was like all my birthdays, both graduations plus the barn-raising scene in Witness.
-SUBTITLE: We'll talk later.
-DIALOGUE_PAIR: (No, I'm telling you last night was like umm, all my birthdays, both graduations, plus the barn raising scene in Witness., 0.0217391304348), (We'll talk later., 1.0)
-RESULT: Monica: We'll talk later.
-SUBTITLE: Thank you.
-DIALOGUE_PAIR: (We'll talk later., 0.0333333333333), (Yeah.  Thank you., 0.47619047619)
-RESULT: Paul: Thank you.
-SUBTITLE: That wasn't a real date.
-DIALOGUE_PAIR: (Yeah.  Thank you., 0.046511627907), (That wasn't a real date?! What the hell do you do on a real date?, 0.328571428571)
-RESULT: Joey: That wasn't a real date.
-SUBTITLE: What the hell do you do on a real date?
-DIALOGUE_PAIR: (That wasn't a real date?! What the hell do you do on a real date?, 0.565217391304), (Shut up, and put my table back., 0.0)
-RESULT: Joey: What the hell do you do on a real date?
-SUBTITLE: Shut up and put my table back.
-DIALOGUE_PAIR: (That wasn't a real date?! What the hell do you do on a real date?, 0.0), (Shut up, and put my table back., 0.857142857143)
-RESULT: Monica: Shut up and put my table back.
-SUBTITLE: I've got to get to work.
-DIALOGUE_PAIR: (Shut up, and put my table back., 0.0350877192982), (Okayyy!, 0.0)
---CHECKING SUBSTRINGS--
->>==MOVING TO NEXT DIALOGUE (fails: 1)
-SUBTITLE: I've got to get to work.
-DIALOGUE_PAIR: (Okayyy!, 0.0), (All right, kids, I gotta get to work. If I don't input those numbers,... it doesn't make much of a difference..., 0.12)
---CHECKING SUBSTRINGS--
-RESULT: Chandler: I've got to get to work.
-SUBTITLE: If I don't input those numbers, it doesn't make much of a difference.
-DIALOGUE_PAIR: (All right, kids, I gotta get to work. If I don't input those numbers,... it doesn't make much of a difference..., 0.567796610169), (So, like, you guys all have jobs?, 0.0)
-RESULT: Chandler: If I don't input those numbers, it doesn't make much of a difference.
-SUBTITLE: So, like, you guys all have jobs?
-DIALOGUE_PAIR: (All right, kids, I gotta get to work. If I don't input those numbers,... it doesn't make much of a difference..., 0.00675675675676), (So, like, you guys all have jobs?, 1.0)
-RESULT: Rachel: So, like, you guys all have jobs?
-SUBTITLE: Yeah, we all have jobs. That's how we buy stuff.
-DIALOGUE_PAIR: (So, like, you guys all have jobs?, 0.164383561644), (Yeah, we all have jobs. See, that's how we buy stuff., 0.810344827586)
-RESULT: Monica: Yeah, we all have jobs. That's how we buy stuff.
-SUBTITLE: Yeah, I'm an actor.
-DIALOGUE_PAIR: (Yeah, we all have jobs. See, that's how we buy stuff., 0.101449275362), (Yeah, I'm an actor., 1.0)
-RESULT: Joey: Yeah, I'm an actor.
-SUBTITLE: Have I seen you in anything?
-DIALOGUE_PAIR: (Yeah, I'm an actor., 0.0408163265306), (Wow! Would I have seen you in anything?, 0.54347826087)
-RESULT: Rachel: Have I seen you in anything?
-SUBTITLE: I doubt it. Mostly regional work.
-DIALOGUE_PAIR: (Wow! Would I have seen you in anything?, 0.0), (I doubt it. Mostly regional work., 1.0)
-RESULT: Joey: I doubt it. Mostly regional work.
-SUBTITLE: Unless you saw the Wee One's production of Pinocchio at the little theater in the park?
-DIALOGUE_PAIR: (I doubt it. Mostly regional work., 0.00813008130081), (Oh wait, wait, unless you happened to catch the Reruns' production of Pinocchio, at the little theater in the park., 0.460992907801)
-RESULT: Monica: Unless you saw the Wee One's production of Pinocchio at the little theater in the park?
-SUBTITLE: It was a job!
-DIALOGUE_PAIR: (Oh wait, wait, unless you happened to catch the Reruns' production of Pinocchio, at the little theater in the park., 0.00763358778626), (Look, it was a job all right?, 0.243243243243)
-RESULT: Joey: It was a job!
-SUBTITLE: ''Look, Geppetto. I'm a real live boy.''
-DIALOGUE_PAIR: (Look, it was a job all right?, 0.0735294117647), ('Look, Gippetto, I'm a real live boy.', 0.64)
-RESULT: Chandler: ''Look, Geppetto. I'm a real live boy.''
-SUBTITLE: I will not take this abuse.
-DIALOGUE_PAIR: ('Look, Gippetto, I'm a real live boy.', 0.0), (I will not take this abuse., 1.0)
-RESULT: Joey: I will not take this abuse.
-SUBTITLE: You're right, I'm sorry.
-DIALOGUE_PAIR: (I will not take this abuse., 0.0185185185185), (You're right, I'm sorry.  "Once I was a wooden boy, a little wooden boy...", 0.303797468354)
-RESULT: Chandler: You're right, I'm sorry.
-SUBTITLE: Once I was a wooden boy A little wooden boy
-DIALOGUE_PAIR: (You're right, I'm sorry.  "Once I was a wooden boy, a little wooden boy...", 0.435294117647), (You should both know, that he's a dead man.  Oh, Chandler?, 0.0294117647059)
-RESULT: Chandler: Once I was a wooden boy A little wooden boy
-SUBTITLE: You should both know that he's a dead man.
-DIALOGUE_PAIR: (You're right, I'm sorry.  "Once I was a wooden boy, a little wooden boy...", 0.0521739130435), (You should both know, that he's a dead man.  Oh, Chandler?, 0.625)
-RESULT: Joey: You should both know that he's a dead man.
-SUBTITLE: Oh, Chandler!
-DIALOGUE_PAIR: (You should both know, that he's a dead man.  Oh, Chandler?, 0.153846153846), (So how you doing today? Did you sleep okay? Talk to Barry? I can't stop smiling., 0.0)
-RESULT: Joey: Oh, Chandler!
-SUBTITLE: How are you doing today? Sleep okay?
-DIALOGUE_PAIR: (You should both know, that he's a dead man.  Oh, Chandler?, 0.0208333333333), (So how you doing today? Did you sleep okay? Talk to Barry? I can't stop smiling., 0.263157894737)
-RESULT: Monica: How are you doing today? Sleep okay?
-SUBTITLE: Did you talk to Barry? I can't stop smiling.
-DIALOGUE_PAIR: (So how you doing today? Did you sleep okay? Talk to Barry? I can't stop smiling., 0.471264367816), (I can see that. You look like you slept with a hanger in your mouth., 0.0642201834862)
-RESULT: Monica: Did you talk to Barry? I can't stop smiling.
-SUBTITLE: I see that. You look like you slept with a hanger in your mouth.
-DIALOGUE_PAIR: (So how you doing today? Did you sleep okay? Talk to Barry? I can't stop smiling., 0.0724637681159), (I can see that. You look like you slept with a hanger in your mouth., 0.915492957746)
-RESULT: Rachel: I see that. You look like you slept with a hanger in your mouth.
-SUBTITLE: I know. He's just so....
-DIALOGUE_PAIR: (I can see that. You look like you slept with a hanger in your mouth., 0.0322580645161), (I know, he's just so, so... Do you remember you and Tony DeMarco?, 0.24)
-RESULT: Monica: I know. He's just so....
-SUBTITLE: Remember you and Tony Demarco?
-DIALOGUE_PAIR: (I know, he's just so, so... Do you remember you and Tony DeMarco?, 0.356164383562), (Oh, yeah., 0.0)
-RESULT: Monica: Remember you and Tony Demarco?
-SUBTITLE: Oh, yeah.
-DIALOGUE_PAIR: (I know, he's just so, so... Do you remember you and Tony DeMarco?, 0.0), (Oh, yeah., 1.0)
-RESULT: Rachel: Oh, yeah.
-SUBTITLE: Well, it's like that. With feelings.
-DIALOGUE_PAIR: (Oh, yeah., 0.0208333333333), (Well, it's like that. With feelings., 1.0)
-RESULT: Monica: Well, it's like that. With feelings.
-SUBTITLE: Wow, are you in trouble!
-DIALOGUE_PAIR: (Well, it's like that. With feelings., 0.015873015873), (Oh wow. Are you in trouble., 0.375)
-RESULT: Rachel: Wow, are you in trouble!
-SUBTITLE: Big time!
-DIALOGUE_PAIR: (Oh wow. Are you in trouble., 0.0), (Big time!, 1.0)
-RESULT: Monica: Big time!
-SUBTITLE: Want a wedding dress? Hardly used.
-DIALOGUE_PAIR: (Big time!, 0.0), (Want a wedding dress?   Hardly used., 0.897435897436)
-RESULT: Rachel: Want a wedding dress? Hardly used.
-SUBTITLE: I think we're getting a little ahead of ourselves.
-DIALOGUE_PAIR: (Want a wedding dress?   Hardly used., 0.0588235294118), (I think we are getting a little ahead of selves here. Okay. Okay. I am just going to get up, go to work and not think about him all day. Or else I'm just gonna get up and go to work., 0.216494845361)
-RESULT: Monica: I think we're getting a little ahead of ourselves.
-SUBTITLE: I'm going to get up, go to work, and not think about him all day.
-DIALOGUE_PAIR: (I think we are getting a little ahead of selves here. Okay. Okay. I am just going to get up, go to work and not think about him all day. Or else I'm just gonna get up and go to work., 0.321052631579), (Oh, look, wish me luck!, 0.010989010989)
-RESULT: Monica: I'm going to get up, go to work, and not think about him all day.
-SUBTITLE: Or else I'm going to get up and go to work.
-DIALOGUE_PAIR: (I think we are getting a little ahead of selves here. Okay. Okay. I am just going to get up, go to work and not think about him all day. Or else I'm just gonna get up and go to work., 0.224598930481), (Oh, look, wish me luck!, 0.0144927536232)
-RESULT: Monica: Or else I'm going to get up and go to work.
-SUBTITLE: Wish me luck!
-DIALOGUE_PAIR: (I think we are getting a little ahead of selves here. Okay. Okay. I am just going to get up, go to work and not think about him all day. Or else I'm just gonna get up and go to work., 0.0), (Oh, look, wish me luck!, 0.428571428571)
-RESULT: Rachel: Wish me luck!
-SUBTITLE: What for?
-DIALOGUE_PAIR: (Oh, look, wish me luck!, 0.0), (What for?, 1.0)
-RESULT: Monica: What for?
-SUBTITLE: I'm gonna go get one of those job things.
-DIALOGUE_PAIR: (What for?, 0.0), (I'm gonna go get one of those  job things., 0.933333333333)
-RESULT: Rachel: I'm gonna go get one of those job things.
-SUBTITLE: Hi, Monica.
-DIALOGUE_PAIR: (I'm gonna go get one of those  job things., 0.0178571428571), (Hey, Monica!, 0.35)
-RESULT: Frannie: Hi, Monica.
-SUBTITLE: Franny, welcome back.
-DIALOGUE_PAIR: (Hey, Monica!, 0.0277777777778), (Hey Frannie, welcome back! How was Florida?, 0.283018867925)
-RESULT: Monica: Franny, welcome back.
-SUBTITLE: How was Florida?
-DIALOGUE_PAIR: (Hey Frannie, welcome back! How was Florida?, 0.369565217391), (You had sex, didn't you?, 0.0232558139535)
-RESULT: Monica: How was Florida?
-SUBTITLE: You had sex, didn't you?
-DIALOGUE_PAIR: (Hey Frannie, welcome back! How was Florida?, 0.0142857142857), (You had sex, didn't you?, 1.0)
-RESULT: Frannie: You had sex, didn't you?
-SUBTITLE: How do you do that?
-DIALOGUE_PAIR: (You had sex, didn't you?, 0.093023255814), (How do you do that?, 1.0)
-RESULT: Monica: How do you do that?
-SUBTITLE: I hate you.
-DIALOGUE_PAIR: (How do you do that?, 0.0967741935484), (Oh, I hate you, I'm pushing my Aunt Roz through Parrot Jungle and you're having sex!  So? Who?, 0.0792079207921)
---CHECKING SUBSTRINGS--
-RESULT: Frannie: I hate you.
-SUBTITLE: I'm pushing my aunt through Parrot Jungle, you're having sex.
-DIALOGUE_PAIR: (Oh, I hate you, I'm pushing my Aunt Roz through Parrot Jungle and you're having sex!  So? Who?, 0.472222222222), (You know Paul?, 0.0128205128205)
-RESULT: Frannie: I'm pushing my aunt through Parrot Jungle, you're having sex.
-SUBTITLE: So, who?
-DIALOGUE_PAIR: (Oh, I hate you, I'm pushing my Aunt Roz through Parrot Jungle and you're having sex!  So? Who?, 0.0291262135922), (You know Paul?, 0.04)
---CHECKING SUBSTRINGS--
-RESULT: Frannie: So, who?
-SUBTITLE: You know Paul?
-DIALOGUE_PAIR: (Oh, I hate you, I'm pushing my Aunt Roz through Parrot Jungle and you're having sex!  So? Who?, 0.0181818181818), (You know Paul?, 1.0)
-RESULT: Monica: You know Paul?
-SUBTITLE: Paul, the wine guy? Yeah, I know Paul.
-DIALOGUE_PAIR: (You know Paul?, 0.166666666667), (Paul the Wine Guy? Oh yeah, I know Paul., 0.518518518519)
-RESULT: Frannie: Paul, the wine guy? Yeah, I know Paul.
-SUBTITLE: You mean, you know Paul like I know Paul?
-DIALOGUE_PAIR: (Paul the Wine Guy? Oh yeah, I know Paul., 0.180555555556), (You mean you know Paul like I know Paul?, 0.888888888889)
-RESULT: Monica: You mean, you know Paul like I know Paul?
-SUBTITLE: What? I take credit for Paul.
-DIALOGUE_PAIR: (You mean you know Paul like I know Paul?, 0.0735294117647), (Are you kidding? I take credit for Paul. Y'know before me, there was no snap in his turtle for two years., 0.210526315789)
-RESULT: Frannie: What? I take credit for Paul.
-SUBTITLE: Before me, there was no snap in his turtle for two years.
-DIALOGUE_PAIR: (Are you kidding? I take credit for Paul. Y'know before me, there was no snap in his turtle for two years., 0.509090909091), (Of course it was a line!, 0.0365853658537)
-RESULT: Frannie: Before me, there was no snap in his turtle for two years.
-SUBTITLE: Of course it was a line.
-DIALOGUE_PAIR: (Are you kidding? I take credit for Paul. Y'know before me, there was no snap in his turtle for two years., 0.0390625), (Of course it was a line!, 0.793103448276)
-RESULT: Joey: Of course it was a line.
-SUBTITLE: Why would anybody do something like that?
-DIALOGUE_PAIR: (Of course it was a line!, 0.0147058823529), (Why?! Why? Why, why would anybody do something like that?, 0.728813559322)
-RESULT: Monica: Why would anybody do something like that?
-SUBTITLE: I assume we want an answer more sophisticated than:
-DIALOGUE_PAIR: (Why?! Why? Why, why would anybody do something like that?, 0.037037037037), (I assume we're looking for an answer more sophisticated than 'to get you into bed'., 0.452631578947)
-RESULT: Ross: I assume we want an answer more sophisticated than:
-SUBTITLE: ''To get you into bed.''
-DIALOGUE_PAIR: (I assume we're looking for an answer more sophisticated than 'to get you into bed'., 0.168421052632), (I hate men!  I hate men!, 0.0)
-RESULT: Ross: ''To get you into bed.''
-SUBTITLE: I hate men.
-DIALOGUE_PAIR: (I assume we're looking for an answer more sophisticated than 'to get you into bed'., 0.0425531914894), (I hate men!  I hate men!, 0.344827586207)
-RESULT: Monica: I hate men.
-SUBTITLE: Don't hate. You don't want to put that out into the universe.
-DIALOGUE_PAIR: (I hate men!  I hate men!, 0.0470588235294), (Oh no, don't hate, you don't want to put that out into the universe., 0.705128205128)
-RESULT: Phoebe: Don't hate. You don't want to put that out into the universe.
-SUBTITLE: Is it me?
-DIALOGUE_PAIR: (Oh no, don't hate, you don't want to put that out into the universe., 0.0), (Is it me? Is it like I have some sort of beacon that only dogs and men with severe emotional problems can hear?, 0.0877192982456)
---CHECKING SUBSTRINGS--
-RESULT: Monica: Is it me?
-SUBTITLE: Is it like I have some sort of beacon that only dogs and men with emotional problems can hear?
-DIALOGUE_PAIR: (Is it me? Is it like I have some sort of beacon that only dogs and men with severe emotional problems can hear?, 0.833333333333), (All right, c'mere, gimme your feet., 0.00757575757576)
-RESULT: Monica: Is it like I have some sort of beacon that only dogs and men with emotional problems can hear?
-SUBTITLE: Come here. Give me your feet.
-DIALOGUE_PAIR: (Is it me? Is it like I have some sort of beacon that only dogs and men with severe emotional problems can hear?, 0.0434782608696), (All right, c'mere, gimme your feet., 0.259259259259)
-RESULT: Phoebe: Come here. Give me your feet.
-SUBTITLE: I just thought he was nice, you know?
-DIALOGUE_PAIR: (All right, c'mere, gimme your feet., 0.0555555555556), (I just thought he was nice, y'know?, 0.809523809524)
-RESULT: Monica: I just thought he was nice, you know?
-SUBTITLE: I can't believe you didn't know it was a line.
-DIALOGUE_PAIR: (I just thought he was nice, y'know?, 0.0897435897436), (I can't believe you didn't know it was a line!, 0.882352941176)
-RESULT: Joey: I can't believe you didn't know it was a line.
-SUBTITLE: Guess what?
-DIALOGUE_PAIR: (I can't believe you didn't know it was a line!, 0.0), (Guess what?, 1.0)
-RESULT: Rachel: Guess what?
-SUBTITLE: You got a job?
-DIALOGUE_PAIR: (Guess what?, 0.0357142857143), (You got a job?, 1.0)
-RESULT: Ross: You got a job?
-SUBTITLE: Are you kidding? I'm trained for nothing.
-DIALOGUE_PAIR: (You got a job?, 0.0172413793103), (Are you kidding? I'm trained for nothing! I was laughed out of twelve interviews today., 0.450549450549)
-RESULT: Rachel: Are you kidding? I'm trained for nothing.
-SUBTITLE: I was laughed out of 1 2 interviews.
-DIALOGUE_PAIR: (Are you kidding? I'm trained for nothing! I was laughed out of twelve interviews today., 0.295918367347), (And yet you're surprisingly upbeat., 0.0135135135135)
-RESULT: Rachel: I was laughed out of 1 2 interviews.
-SUBTITLE: You're surprisingly upbeat.
-DIALOGUE_PAIR: (Are you kidding? I'm trained for nothing! I was laughed out of twelve interviews today., 0.0260869565217), (And yet you're surprisingly upbeat., 0.65)
-RESULT: Chandler: You're surprisingly upbeat.
-SUBTITLE: You'd be too, if you found these boots on sale...
-DIALOGUE_PAIR: (And yet you're surprisingly upbeat., 0.0602409638554), (You would be too if you found John and David boots on sale, fifty percent off!, 0.336734693878)
-RESULT: Rachel: You'd be too, if you found these boots on sale...
-SUBTITLE: How well you know me.
-DIALOGUE_PAIR: (You would be too if you found John and David boots on sale, fifty percent off!, 0.03), (Oh, how well you know me..., 0.575757575758)
-RESULT: Chandler: How well you know me.
-SUBTITLE: They're my ''I don't need a job I've got great boots'' boots.
-DIALOGUE_PAIR: (Oh, how well you know me..., 0.010989010989), (They're my new 'I don't need a job, I don't need my parents, I've got great boots' boots!, 0.524752475248)
-RESULT: Rachel: They're my ''I don't need a job I've got great boots'' boots.
-SUBTITLE: How did you pay?
-DIALOGUE_PAIR: (They're my new 'I don't need a job, I don't need my parents, I've got great boots' boots!, 0.00925925925926), (How'd you pay for them?, 0.34375)
-RESULT: Monica: How did you pay?
-SUBTITLE: Credit card.
-DIALOGUE_PAIR: (How'd you pay for them?, 0.0), (Uh, credit card., 0.52380952381)
-RESULT: Rachel: Credit card.
-SUBTITLE: And who pays for that?
-DIALOGUE_PAIR: (Uh, credit card., 0.0), (And who pays for that?, 1.0)
-RESULT: Monica: And who pays for that?
-SUBTITLE: My father.
-DIALOGUE_PAIR: (And who pays for that?, 0.0), (Um... my... father., 0.32)
-RESULT: Rachel: My father.
-SUBTITLE: Is this really necessary? I can stop charging any time.
-DIALOGUE_PAIR: (Um... my... father., 0.012987012987), (Oh God, come on you guys, is this really necessary?  I mean, I can stop charging anytime I want., 0.448598130841)
-RESULT: Rachel: Is this really necessary? I can stop charging any time.
-SUBTITLE: You can't live off your parents.
-DIALOGUE_PAIR: (Oh God, come on you guys, is this really necessary?  I mean, I can stop charging anytime I want., 0.056), (C'mon, you can't live off your parents your whole life., 0.467741935484)
-RESULT: Monica: You can't live off your parents.
-SUBTITLE: I know that. That's why I was getting married.
-DIALOGUE_PAIR: (C'mon, you can't live off your parents your whole life., 0.0194174757282), (I know that. That's why I was getting married., 1.0)
-RESULT: Rachel: I know that. That's why I was getting married.
-SUBTITLE: Give her a break. It's hard being on your own.
-DIALOGUE_PAIR: (I know that. That's why I was getting married., 0.0549450549451), (Give her a break, it's hard being on your own for the first time., 0.554054054054)
-RESULT: Phoebe: Give her a break. It's hard being on your own.
-SUBTITLE: Thank you.
-DIALOGUE_PAIR: (Give her a break, it's hard being on your own for the first time., 0.0394736842105), (Thank you., 1.0)
-RESULT: Rachel: Thank you.
-SUBTITLE: I remember when I first came to this city, I was 1 4.
-DIALOGUE_PAIR: (Thank you., 0.0151515151515), (You're welcome. I remember when I first came to this city. I was fourteen. My mom had just killed herself and my step-dad was back in prison, and I got here, and I didn't know anybody. And I ended up living with this albino guy who was, like, cleaning windshields outside port authority, and then he killed himself, and then I found aromatherapy. So believe me, I know exactly how you feel., 0.12030075188)
---CHECKING SUBSTRINGS--
-RESULT: Phoebe: I remember when I first came to this city, I was 1 4.
-SUBTITLE: Mom had killed herself, stepdad was in jail.
-DIALOGUE_PAIR: (You're welcome. I remember when I first came to this city. I was fourteen. My mom had just killed herself and my step-dad was back in prison, and I got here, and I didn't know anybody. And I ended up living with this albino guy who was, like, cleaning windshields outside port authority, and then he killed himself, and then I found aromatherapy. So believe me, I know exactly how you feel., 0.0814814814815), (The word you're looking for is 'Anyway'..., 0.0112359550562)
---CHECKING SUBSTRINGS--
-RESULT: Phoebe: Mom had killed herself, stepdad was in jail.
-SUBTITLE: I didn't know anybody here.
-DIALOGUE_PAIR: (You're welcome. I remember when I first came to this city. I was fourteen. My mom had just killed herself and my step-dad was back in prison, and I got here, and I didn't know anybody. And I ended up living with this albino guy who was, like, cleaning windshields outside port authority, and then he killed himself, and then I found aromatherapy. So believe me, I know exactly how you feel., 0.0604534005038), (The word you're looking for is 'Anyway'..., 0.0138888888889)
---CHECKING SUBSTRINGS--
-RESULT: Phoebe: I didn't know anybody here.
-SUBTITLE: I ended up living with this albino guy who was cleaning windshields.
-DIALOGUE_PAIR: (You're welcome. I remember when I first came to this city. I was fourteen. My mom had just killed herself and my step-dad was back in prison, and I got here, and I didn't know anybody. And I ended up living with this albino guy who was, like, cleaning windshields outside port authority, and then he killed himself, and then I found aromatherapy. So believe me, I know exactly how you feel., 0.166666666667), (The word you're looking for is 'Anyway'..., 0.0363636363636)
-RESULT: Phoebe: I ended up living with this albino guy who was cleaning windshields.
-SUBTITLE: And then he killed himself.
-DIALOGUE_PAIR: (You're welcome. I remember when I first came to this city. I was fourteen. My mom had just killed herself and my step-dad was back in prison, and I got here, and I didn't know anybody. And I ended up living with this albino guy who was, like, cleaning windshields outside port authority, and then he killed himself, and then I found aromatherapy. So believe me, I know exactly how you feel., 0.0631313131313), (The word you're looking for is 'Anyway'..., 0.0281690140845)
---CHECKING SUBSTRINGS--
-RESULT: Phoebe: And then he killed himself.
-SUBTITLE: Then I found aromatherapy. So I know exactly how you feel.
-DIALOGUE_PAIR: (You're welcome. I remember when I first came to this city. I was fourteen. My mom had just killed herself and my step-dad was back in prison, and I got here, and I didn't know anybody. And I ended up living with this albino guy who was, like, cleaning windshields outside port authority, and then he killed himself, and then I found aromatherapy. So believe me, I know exactly how you feel., 0.141414141414), (The word you're looking for is 'Anyway'..., 0.0721649484536)
---CHECKING SUBSTRINGS--
-RESULT: Phoebe: Then I found aromatherapy. So I know exactly how you feel.
-SUBTITLE: The word you're looking for is:
-DIALOGUE_PAIR: (You're welcome. I remember when I first came to this city. I was fourteen. My mom had just killed herself and my step-dad was back in prison, and I got here, and I didn't know anybody. And I ended up living with this albino guy who was, like, cleaning windshields outside port authority, and then he killed himself, and then I found aromatherapy. So believe me, I know exactly how you feel., 0.0265700483092), (The word you're looking for is 'Anyway'..., 0.63829787234)
-RESULT: Ross: The word you're looking for is:
-SUBTITLE: ''Anyway....''
-DIALOGUE_PAIR: (The word you're looking for is 'Anyway'..., 0.111111111111), (All right, you ready?, 0.0)
---CHECKING SUBSTRINGS--
-RESULT: Ross: ''Anyway....''
-SUBTITLE: You ready?
-DIALOGUE_PAIR: (The word you're looking for is 'Anyway'..., 0.0), (All right, you ready?, 0.346153846154)
-RESULT: Monica: You ready?
-SUBTITLE: No, how can I be ready?
-DIALOGUE_PAIR: (All right, you ready?, 0.170731707317), (No.  No, no, I'm not ready!  How can I be ready?  "Hey, Rach!  You ready to jump out the airplane without your parachute?"  Come on, I can't do this!, 0.128205128205)
-RESULT: Monica: No, how can I be ready?
-SUBTITLE: ''Ready to jump out of the plane with no parachute?''
-DIALOGUE_PAIR: (All right, you ready?, 0.0263157894737), (No.  No, no, I'm not ready!  How can I be ready?  "Hey, Rach!  You ready to jump out the airplane without your parachute?"  Come on, I can't do this!, 0.211764705882)
-RESULT: Rachel: ''Ready to jump out of the plane with no parachute?''
-SUBTITLE: I can't do this.
-DIALOGUE_PAIR: (No.  No, no, I'm not ready!  How can I be ready?  "Hey, Rach!  You ready to jump out the airplane without your parachute?"  Come on, I can't do this!, 0.0833333333333), (You can, I know you can!, 0.047619047619)
---CHECKING SUBSTRINGS--
-RESULT: Rachel: I can't do this.
-SUBTITLE: I know you can.
-DIALOGUE_PAIR: (No.  No, no, I'm not ready!  How can I be ready?  "Hey, Rach!  You ready to jump out the airplane without your parachute?"  Come on, I can't do this!, 0.037037037037), (You can, I know you can!, 0.387096774194)
-RESULT: Monica: I know you can.
-SUBTITLE: No.
-DIALOGUE_PAIR: (You can, I know you can!, 0.0), (I don't think so., 0.0909090909091)
---CHECKING SUBSTRINGS--
-RESULT: Rachel: No.
-SUBTITLE: You made coffee, you can do anything.
-DIALOGUE_PAIR: (I don't think so., 0.0740740740741), (Come on, you made coffee!   You can do anything!, 0.561403508772)
-RESULT: Ross: You made coffee, you can do anything.
-SUBTITLE: Cut. Cut. Cut.
-DIALOGUE_PAIR: (Come on, you made coffee!   You can do anything!, 0.0153846153846), (C'mon, cut. Cut, cut, cut,..., 0.175)
-RESULT: Ross: Cut. Cut. Cut.
-SUBTITLE: You know what? I think we can leave it at that.
-DIALOGUE_PAIR: (C'mon, cut. Cut, cut, cut,..., 0.0126582278481), (Cut, cut, cut, cut, cut, cut, cut..., 0.0116279069767)
---CHECKING SUBSTRINGS--
->>==MOVING TO NEXT DIALOGUE (fails: 1)
-SUBTITLE: You know what? I think we can leave it at that.
-DIALOGUE_PAIR: (Cut, cut, cut, cut, cut, cut, cut..., 0.0116279069767), (Y'know what?  I think we can just leave it at that.  It's kinda like a symbolic gesture..., 0.41)
-RESULT: Rachel: You know what? I think we can leave it at that.
-SUBTITLE: Kind of a symbolic gesture.
-DIALOGUE_PAIR: (Y'know what?  I think we can just leave it at that.  It's kinda like a symbolic gesture..., 0.19801980198), (Rachel!  That was a library card!, 0.015873015873)
-RESULT: Rachel: Kind of a symbolic gesture.
-SUBTITLE: Rachel, that was a library card.
-DIALOGUE_PAIR: (Y'know what?  I think we can just leave it at that.  It's kinda like a symbolic gesture..., 0.0769230769231), (Rachel!  That was a library card!, 0.604651162791)
-RESULT: Monica: Rachel, that was a library card.
-SUBTITLE: If you listen closely, you can hear a thousand retailers scream.
-DIALOGUE_PAIR: (Rachel!  That was a library card!, 0.030612244898), (Cut, cut, cut, cut, cut, cut, cut.., 0.00980392156863)
---CHECKING SUBSTRINGS--
->>==MOVING TO NEXT DIALOGUE (fails: 1)
-SUBTITLE: If you listen closely, you can hear a thousand retailers scream.
-DIALOGUE_PAIR: (Cut, cut, cut, cut, cut, cut, cut.., 0.00980392156863), (Y'know, if you listen closely, you can hear a thousand retailers scream., 0.818181818182)
-RESULT: Chandler: If you listen closely, you can hear a thousand retailers scream.
-SUBTITLE: Welcome to the real world!
-DIALOGUE_PAIR: (Y'know, if you listen closely, you can hear a thousand retailers scream., 0.030303030303), (Welcome to the real world! It sucks. You're gonna love it!, 0.44262295082)
-RESULT: Monica: Welcome to the real world!
-SUBTITLE: It sucks. You're gonna love it.
-DIALOGUE_PAIR: (Welcome to the real world! It sucks. You're gonna love it!, 0.430769230769), (Well, that's it  You gonna crash on the couch?, 0.109589041096)
-RESULT: Monica: It sucks. You're gonna love it.
-SUBTITLE: That's it. Are you going to crash on the couch?
-DIALOGUE_PAIR: (Welcome to the real world! It sucks. You're gonna love it!, 0.0792079207921), (Well, that's it  You gonna crash on the couch?, 0.426470588235)
-RESULT: Monica: That's it. Are you going to crash on the couch?
-SUBTITLE: No, I gotta go home sometime.
-DIALOGUE_PAIR: (Well, that's it  You gonna crash on the couch?, 0.0128205128205), (No. No, I gotta go home sometime., 0.885714285714)
-RESULT: Ross: No, I gotta go home sometime.
-SUBTITLE: Are you gonna be okay?
-DIALOGUE_PAIR: (No. No, I gotta go home sometime., 0.0172413793103), (You be okay?, 0.357142857143)
-RESULT: Monica: Are you gonna be okay?
-SUBTITLE: Look what I just found on the floor.
-DIALOGUE_PAIR: (You be okay?, 0.0), (Yeah., 0.0227272727273)
---CHECKING SUBSTRINGS--
->>==MOVING TO NEXT DIALOGUE (fails: 1)
-SUBTITLE: Look what I just found on the floor.
-DIALOGUE_PAIR: (Yeah., 0.0227272727273), (Hey Mon, look what I just found on the floor.  What?, 0.559322033898)
-RESULT: Rachel: Look what I just found on the floor.
-SUBTITLE: What?
-DIALOGUE_PAIR: (Hey Mon, look what I just found on the floor.  What?, 0.0892857142857), (That's Paul's watch. You just put it back where you found it. Oh boy. Alright. Goodnight, everybody., 0.00925925925926)
---CHECKING SUBSTRINGS--
-RESULT: Rachel: What?
-SUBTITLE: That's Paul's watch. Just put it back where you found it.
-DIALOGUE_PAIR: (Hey Mon, look what I just found on the floor.  What?, 0.0970873786408), (That's Paul's watch. You just put it back where you found it. Oh boy. Alright. Goodnight, everybody., 0.518867924528)
-RESULT: Monica: That's Paul's watch. Just put it back where you found it.
-SUBTITLE: Oh, boy! All right.
-DIALOGUE_PAIR: (That's Paul's watch. You just put it back where you found it. Oh boy. Alright. Goodnight, everybody., 0.0695652173913), (Goodnight., 0.178571428571)
-RESULT: Ross and Rachel: Oh, boy! All right.
-SUBTITLE: Good night, everybody.
-DIALOGUE_PAIR: (Goodnight., 0.285714285714), (Mmm.  Oh, no-, 0.0)
-RESULT: Ross and Rachel: Good night, everybody.
-SUBTITLE: Good night.
-DIALOGUE_PAIR: (Goodnight., 0.666666666667), (Mmm.  Oh, no-, 0.0)
-RESULT: Ross and Rachel: Good night.
-SUBTITLE: I'm sorry. Have it, I don't want it.
-DIALOGUE_PAIR: (Goodnight., 0.0416666666667), (Mmm.  Oh, no-, 0.0)
---CHECKING SUBSTRINGS--
->>==MOVING TO NEXT DIALOGUE (fails: 1)
-SUBTITLE: I'm sorry. Have it, I don't want it.
-DIALOGUE_PAIR: (Mmm.  Oh, no-, 0.0), (Sorry-, 0.0454545454545)
+SUBTITLE: You slept at the Grand Canyon.
+DIALOGUE_PAIR: (Would you look at her? She is so peaceful., 0.0704225352113), (Oh! What what what! ...Hi., 0.0344827586207)
 --CHECKING SUBSTRINGS--
 >>==MOVING TO NEXT DIALOGUE (fails: 2)
-SUBTITLE: I'm sorry. Have it, I don't want it.
-DIALOGUE_PAIR: (Sorry-, 0.0454545454545), (No no no, go-, 0.0)
+SUBTITLE: You slept at the Grand Canyon.
+DIALOGUE_PAIR: (Oh! What what what! ...Hi., 0.0344827586207), (It's okay, y'know, you just nodded off again., 0.0394736842105)
 --CHECKING SUBSTRINGS--
 >>==MOVING TO NEXT DIALOGUE (fails: 3)
-SUBTITLE: I'm sorry. Have it, I don't want it.
-DIALOGUE_PAIR: (No no no, go-, 0.0), (No, you have it, really, I don't want it-, 0.35)
-RESULT: Rachel: I'm sorry. Have it, I don't want it.
-SUBTITLE: Split it?
-DIALOGUE_PAIR: (No, you have it, really, I don't want it-, 0.0384615384615), (Split it?, 1.0)
-RESULT: Ross: Split it?
-SUBTITLE: You probably didn't know this, but in high school I had a major crush on you.
-DIALOGUE_PAIR: (Split it?, 0.0112359550562), (Okay., 0.0117647058824)
+SUBTITLE: You slept at the Grand Canyon.
+DIALOGUE_PAIR: (It's okay, y'know, you just nodded off again., 0.0394736842105), (What's going on with you?, 0.0)
+--CHECKING SUBSTRINGS--
+>>==MOVING TO NEXT DIALOGUE (fails: 4)
+SUBTITLE: You slept at the Grand Canyon.
+DIALOGUE_PAIR: (What's going on with you?, 0.0), (I got no sleep last night!, 0.0344827586207)
+--CHECKING SUBSTRINGS--
+>>==MOVING TO NEXT DIALOGUE (fails: 5)
+--GIVING UP ON SUBTITLE--
+SUBTITLE: Hello, Mom and Dad never took us to the Grand Canyon.
+DIALOGUE_PAIR: (I cannot sleep in a public place., 0.0112359550562), (Would you look at her? She is so peaceful., 0.0421052631579)
 --CHECKING SUBSTRINGS--
 >>==MOVING TO NEXT DIALOGUE (fails: 1)
-SUBTITLE: You probably didn't know this, but in high school I had a major crush on you.
-DIALOGUE_PAIR: (Okay., 0.0117647058824), (Okay.  You know you probably didn't know this, but back in high school, I had a, um, major crush on you., 0.637168141593)
-RESULT: Ross: You probably didn't know this, but in high school I had a major crush on you.
-SUBTITLE: I knew.
-DIALOGUE_PAIR: (Okay.  You know you probably didn't know this, but back in high school, I had a, um, major crush on you., 0.0176991150442), (I knew., 1.0)
-RESULT: Rachel: I knew.
-SUBTITLE: You did?
-DIALOGUE_PAIR: (I knew., 0.0), (You did! Oh.... I always figured you just thought I was Monica's geeky older brother., 0.0777777777778)
+SUBTITLE: Hello, Mom and Dad never took us to the Grand Canyon.
+DIALOGUE_PAIR: (Would you look at her? She is so peaceful., 0.0421052631579), (Oh! What what what! ...Hi., 0.0121951219512)
 --CHECKING SUBSTRINGS--
-RESULT: Ross: You did?
-SUBTITLE: I figured you thought I was Monica's geeky brother.
-DIALOGUE_PAIR: (You did! Oh.... I always figured you just thought I was Monica's geeky older brother., 0.521739130435), (I did., 0.051724137931)
-RESULT: Ross: I figured you thought I was Monica's geeky brother.
-SUBTITLE: I did.
-DIALOGUE_PAIR: (You did! Oh.... I always figured you just thought I was Monica's geeky older brother., 0.0326086956522), (I did., 1.0)
-RESULT: Rachel: I did.
-SUBTITLE: Listen, do you think...?
-DIALOGUE_PAIR: (I did., 0.0), (Oh. Listen, do you think- and try not to let my intense vulnerability become any kind of a factor here- but do you think it would be okay if I asked you out? Sometime? Maybe?, 0.103825136612)
+>>==MOVING TO NEXT DIALOGUE (fails: 2)
+SUBTITLE: Hello, Mom and Dad never took us to the Grand Canyon.
+DIALOGUE_PAIR: (Oh! What what what! ...Hi., 0.0121951219512), (It's okay, y'know, you just nodded off again., 0.02)
 --CHECKING SUBSTRINGS--
-RESULT: Ross: Listen, do you think...?
-SUBTITLE: Try not to let my vulnerability become a factor here.
-DIALOGUE_PAIR: (Oh. Listen, do you think- and try not to let my intense vulnerability become any kind of a factor here- but do you think it would be okay if I asked you out? Sometime? Maybe?, 0.262295081967), (Yeah, maybe..., 0.0142857142857)
-RESULT: Ross: Try not to let my vulnerability become a factor here.
-SUBTITLE: Do you think it would be okay if I asked you out sometime?
-DIALOGUE_PAIR: (Oh. Listen, do you think- and try not to let my intense vulnerability become any kind of a factor here- but do you think it would be okay if I asked you out? Sometime? Maybe?, 0.296703296703), (Yeah, maybe..., 0.0)
-RESULT: Ross: Do you think it would be okay if I asked you out sometime?
+>>==MOVING TO NEXT DIALOGUE (fails: 3)
+SUBTITLE: Hello, Mom and Dad never took us to the Grand Canyon.
+DIALOGUE_PAIR: (It's okay, y'know, you just nodded off again., 0.02), (What's going on with you?, 0.0)
+--CHECKING SUBSTRINGS--
+>>==MOVING TO NEXT DIALOGUE (fails: 4)
+SUBTITLE: Hello, Mom and Dad never took us to the Grand Canyon.
+DIALOGUE_PAIR: (What's going on with you?, 0.0), (I got no sleep last night!, 0.0)
+--CHECKING SUBSTRINGS--
+>>==MOVING TO NEXT DIALOGUE (fails: 5)
+--GIVING UP ON SUBTITLE--
+SUBTITLE: Mom and Dad took us to the Grand Canyon?
+DIALOGUE_PAIR: (I cannot sleep in a public place., 0.0), (Would you look at her? She is so peaceful., 0.0361445783133)
+--CHECKING SUBSTRINGS--
+>>==MOVING TO NEXT DIALOGUE (fails: 1)
+SUBTITLE: Mom and Dad took us to the Grand Canyon?
+DIALOGUE_PAIR: (Would you look at her? She is so peaceful., 0.0361445783133), (Oh! What what what! ...Hi., 0.0)
+--CHECKING SUBSTRINGS--
+>>==MOVING TO NEXT DIALOGUE (fails: 2)
+SUBTITLE: Mom and Dad took us to the Grand Canyon?
+DIALOGUE_PAIR: (Oh! What what what! ...Hi., 0.0), (It's okay, y'know, you just nodded off again., 0.0)
+--CHECKING SUBSTRINGS--
+>>==MOVING TO NEXT DIALOGUE (fails: 3)
+SUBTITLE: Mom and Dad took us to the Grand Canyon?
+DIALOGUE_PAIR: (It's okay, y'know, you just nodded off again., 0.0), (What's going on with you?, 0.0147058823529)
+--CHECKING SUBSTRINGS--
+>>==MOVING TO NEXT DIALOGUE (fails: 4)
+SUBTITLE: Mom and Dad took us to the Grand Canyon?
+DIALOGUE_PAIR: (What's going on with you?, 0.0147058823529), (I got no sleep last night!, 0.0)
+--CHECKING SUBSTRINGS--
+>>==MOVING TO NEXT DIALOGUE (fails: 5)
+--GIVING UP ON SUBTITLE--
+SUBTITLE: Would you look at her? She is so peaceful.
+DIALOGUE_PAIR: (I cannot sleep in a public place., 0.025974025974), (Would you look at her? She is so peaceful., 1.0)
+RESULT: Monica: Would you look at her? She is so peaceful.
 SUBTITLE: Yeah.
-DIALOGUE_PAIR: (Oh. Listen, do you think- and try not to let my intense vulnerability become any kind of a factor here- but do you think it would be okay if I asked you out? Sometime? Maybe?, 0.0), (Yeah, maybe..., 0.277777777778)
-RESULT: Rachel: Yeah.
-SUBTITLE: Maybe.
-DIALOGUE_PAIR: (Yeah, maybe..., 0.2), (Okay... okay, maybe I will..., 0.0833333333333)
-RESULT: Rachel: Maybe.
-SUBTITLE: Okay.
-DIALOGUE_PAIR: (Yeah, maybe..., 0.0454545454545), (Okay... okay, maybe I will..., 0.1875)
-RESULT: Ross: Okay.
-SUBTITLE: Okay, maybe I will.
-DIALOGUE_PAIR: (Okay... okay, maybe I will..., 0.625), (Goodnight., 0.03125)
-RESULT: Ross: Okay, maybe I will.
-SUBTITLE: Good night.
-DIALOGUE_PAIR: (Okay... okay, maybe I will..., 0.0232558139535), (Goodnight., 0.666666666667)
-RESULT: Rachel: Good night.
-SUBTITLE: Good night.
-DIALOGUE_PAIR: (Goodnight., 0.666666666667), (Goodnight., 0.666666666667)
-RESULT: Rachel: Good night.
-SUBTITLE: See you.
-DIALOGUE_PAIR: (Goodnight., 0.047619047619), (Goodnight., 0.047619047619)
+DIALOGUE_PAIR: (Would you look at her? She is so peaceful., 0.02), (Oh! What what what! ...Hi., 0.0294117647059)
 --CHECKING SUBSTRINGS--
 >>==MOVING TO NEXT DIALOGUE (fails: 1)
-SUBTITLE: See you.
-DIALOGUE_PAIR: (Goodnight., 0.047619047619), (See ya.... Waitwait, what's with you?, 0.166666666667)
-RESULT: Monica: See you.
-SUBTITLE: Wait, wait. What's with you?
-DIALOGUE_PAIR: (See ya.... Waitwait, what's with you?, 0.5), (I just grabbed a spoon., 0.0)
-RESULT: Monica: Wait, wait. What's with you?
-SUBTITLE: I just grabbed a spoon.
-DIALOGUE_PAIR: (See ya.... Waitwait, what's with you?, 0.0), (I just grabbed a spoon., 1.0)
-RESULT: Ross: I just grabbed a spoon.
-SUBTITLE: -I can't believe what I'm hearing.
--Can't believe what I'm hearing
-DIALOGUE_PAIR: (I just grabbed a spoon., 0.0), (Closing Credits, 0.0119047619048)
+SUBTITLE: Yeah.
+DIALOGUE_PAIR: (Oh! What what what! ...Hi., 0.0294117647059), (It's okay, y'know, you just nodded off again., 0.0188679245283)
+--CHECKING SUBSTRINGS--
+>>==MOVING TO NEXT DIALOGUE (fails: 2)
+SUBTITLE: Yeah.
+DIALOGUE_PAIR: (It's okay, y'know, you just nodded off again., 0.0188679245283), (What's going on with you?, 0.0)
+--CHECKING SUBSTRINGS--
+>>==MOVING TO NEXT DIALOGUE (fails: 3)
+SUBTITLE: Yeah.
+DIALOGUE_PAIR: (What's going on with you?, 0.0), (I got no sleep last night!, 0.0)
+--CHECKING SUBSTRINGS--
+>>==MOVING TO NEXT DIALOGUE (fails: 4)
+SUBTITLE: Yeah.
+DIALOGUE_PAIR: (I got no sleep last night!, 0.0), (Why?, 0.0)
+--CHECKING SUBSTRINGS--
+>>==MOVING TO NEXT DIALOGUE (fails: 5)
+--GIVING UP ON SUBTITLE--
+SUBTITLE: What? What? What?
+DIALOGUE_PAIR: (Would you look at her? She is so peaceful., 0.0161290322581), (Oh! What what what! ...Hi., 0.119047619048)
+--CHECKING SUBSTRINGS--
+RESULT: Phoebe: What? What? What?
+SUBTITLE: Hi.
+DIALOGUE_PAIR: (Oh! What what what! ...Hi., 0.1), (It's okay, y'know, you just nodded off again., 0.0196078431373)
+--CHECKING SUBSTRINGS--
+RESULT: Phoebe: Hi.
+SUBTITLE: It's okay. You just nodded off again.
+DIALOGUE_PAIR: (Oh! What what what! ...Hi., 0.0151515151515), (It's okay, y'know, you just nodded off again., 0.653846153846)
+RESULT: Ross: It's okay. You just nodded off again.
+SUBTITLE: What's going on?
+DIALOGUE_PAIR: (It's okay, y'know, you just nodded off again., 0.031746031746), (What's going on with you?, 0.551724137931)
+RESULT: Monica: What's going on?
+SUBTITLE: I got no sleep last night. My grandmother has a new boyfriend and they're both kind of insecure in bed, so-- And deaf.
+DIALOGUE_PAIR: (What's going on with you?, 0.0137931034483), (I got no sleep last night!, 0.20325203252)
+RESULT: Phoebe: I got no sleep last night. My grandmother has a new boyfriend and they're both kind of insecure in bed, so-- And deaf.
+SUBTITLE: They reassure each other that they're having a good time.
+DIALOGUE_PAIR: (I got no sleep last night!, 0.0116279069767), (Why?, 0.0)
 --CHECKING SUBSTRINGS--
 >>==MOVING TO NEXT DIALOGUE (fails: 1)
-SUBTITLE: -I can't believe what I'm hearing.
--Can't believe what I'm hearing
-DIALOGUE_PAIR: (Closing Credits, 0.0119047619048), (I can't believe what I'm hearing here., 0.402597402597)
-RESULT: Joey: -I can't believe what I'm hearing.
--Can't believe what I'm hearing
-SUBTITLE: -What? I said--
--What? I said
-DIALOGUE_PAIR: (I can't believe what I'm hearing here., 0.0142857142857), (I can't believe what I'm hearing here..., 0.0138888888889)
+SUBTITLE: They reassure each other that they're having a good time.
+DIALOGUE_PAIR: (Why?, 0.0), (My grandmother has this new boyfriend, and they're both kind of insecure in bed. Oh, and deaf. So they're constantly, like, having to reassure each other that they're having a good time. You have no idea how loud they are!, 0.230434782609)
+RESULT: Phoebe: They reassure each other that they're having a good time.
+SUBTITLE: You have no idea how loud they are.
+DIALOGUE_PAIR: (My grandmother has this new boyfriend, and they're both kind of insecure in bed. Oh, and deaf. So they're constantly, like, having to reassure each other that they're having a good time. You have no idea how loud they are!, 0.139737991266), (Well, if you want, you can stay with Rachel and me tonight., 0.0208333333333)
+--CHECKING SUBSTRINGS--
+RESULT: Phoebe: You have no idea how loud they are.
+SUBTITLE: You can stay with Rachel and me.
+DIALOGUE_PAIR: (My grandmother has this new boyfriend, and they're both kind of insecure in bed. Oh, and deaf. So they're constantly, like, having to reassure each other that they're having a good time. You have no idea how loud they are!, 0.0361445783133), (Well, if you want, you can stay with Rachel and me tonight., 0.439393939394)
+RESULT: Monica: You can stay with Rachel and me.
+SUBTITLE: Thanks.
+DIALOGUE_PAIR: (Well, if you want, you can stay with Rachel and me tonight., 0.0144927536232), (Thanks., 1.0)
+RESULT: Phoebe: Thanks.
+SUBTITLE: --95, 96, 97. See, I told you.
+DIALOGUE_PAIR: (Thanks., 0.025), (...Ninety-five, ninety-six, ninety-seven. See, I told you! Less than a hundred steps from our place to here., 0.126984126984)
+--CHECKING SUBSTRINGS--
+RESULT: Joey: --95, 96, 97. See, I told you.
+SUBTITLE: Less than 100 steps from our place to here.
+DIALOGUE_PAIR: (...Ninety-five, ninety-six, ninety-seven. See, I told you! Less than a hundred steps from our place to here., 0.324786324786), (You got waaaay too much free time., 0.0657894736842)
+RESULT: Joey: Less than 100 steps from our place to here.
+SUBTITLE: You got way too much free time, man.
+DIALOGUE_PAIR: (...Ninety-five, ninety-six, ninety-seven. See, I told you! Less than a hundred steps from our place to here., 0.034965034965), (You got waaaay too much free time., 0.681818181818)
+RESULT: Chandler: You got way too much free time, man.
+SUBTITLE: There's the birthday boy.
+DIALOGUE_PAIR: (You got waaaay too much free time., 0.0327868852459), (Hey! Here's the birthday boy! Ross, check it out: hockey tickets, Rangers-Penguins, tonight at the Garden, and we're taking you., 0.154411764706)
+RESULT: Joey: There's the birthday boy.
+SUBTITLE: Hockey tickets. Rangers-Penguins tonight and we're taking you.
+DIALOGUE_PAIR: (Hey! Here's the birthday boy! Ross, check it out: hockey tickets, Rangers-Penguins, tonight at the Garden, and we're taking you., 0.426470588235), (Happy birthday, pal!, 0.0117647058824)
+RESULT: Joey: Hockey tickets. Rangers-Penguins tonight and we're taking you.
+SUBTITLE: Happy birthday, pal!
+DIALOGUE_PAIR: (Hey! Here's the birthday boy! Ross, check it out: hockey tickets, Rangers-Penguins, tonight at the Garden, and we're taking you., 0.0629370629371), (Happy birthday, pal!, 1.0)
+RESULT: Chandler: Happy birthday, pal!
+SUBTITLE: We love you, man.
+DIALOGUE_PAIR: (Happy birthday, pal!, 0.0), (We love you, man., 1.0)
+RESULT: Joey: We love you, man.
+SUBTITLE: It's funny. My birthday was seven months ago.
+DIALOGUE_PAIR: (We love you, man., 0.0153846153846), (Funny, my birthday was seven months ago., 0.618181818182)
+RESULT: Ross: It's funny. My birthday was seven months ago.
+SUBTITLE: So?
+DIALOGUE_PAIR: (Funny, my birthday was seven months ago., 0.0), (So?, 1.0)
+RESULT: Joey: So?
+SUBTITLE: So you had an extra ticket and couldn't decide who got to bring a date?
+DIALOGUE_PAIR: (So?, 0.04), (So, I'm guessing you had an extra ticket and couldn't decide which one of you got to bring a date?, 0.647619047619)
+RESULT: Ross: So you had an extra ticket and couldn't decide who got to bring a date?
+SUBTITLE: Well, aren't we Mr. The-Glass-ls-Half-Empty?
+DIALOGUE_PAIR: (So, I'm guessing you had an extra ticket and couldn't decide which one of you got to bring a date?, 0.020979020979), (Well, aren't we Mr. "The glass is half empty.", 0.382352941176)
+RESULT: Chandler: Well, aren't we Mr. The-Glass-ls-Half-Empty?
+SUBTITLE: Oh, my God! Is today the 20th? October 20th?
+DIALOGUE_PAIR: (Well, aren't we Mr. "The glass is half empty.", 0.010752688172), (Oh my God, oh- is today the twentieth, October twentieth?, 0.363636363636)
+RESULT: Ross: Oh, my God! Is today the 20th? October 20th?
+SUBTITLE: I hoped you wouldn't remember.
+DIALOGUE_PAIR: (Oh my God, oh- is today the twentieth, October twentieth?, 0.0111111111111), (Oh, I was hoping you wouldn't remember., 0.520833333333)
+RESULT: Monica: I hoped you wouldn't remember.
+SUBTITLE: What's wrong with the 20th?
+DIALOGUE_PAIR: (Oh, I was hoping you wouldn't remember., 0.0144927536232), (Ohhh., 0.0)
 --CHECKING SUBSTRINGS--
 >>==MOVING TO NEXT DIALOGUE (fails: 1)
-SUBTITLE: -What? I said--
--What? I said
-DIALOGUE_PAIR: (I can't believe what I'm hearing here..., 0.0138888888889), (What? I-I said you had a-, 0.183673469388)
-RESULT: Monica: -What? I said--
--What? I said
-SUBTITLE: Would you stop?
-DIALOGUE_PAIR: (What? I-I said you had a-, 0.128205128205), (What I said you had..., 0.138888888889)
+SUBTITLE: What's wrong with the 20th?
+DIALOGUE_PAIR: (Ohhh., 0.0), (What's wrong with the twentieth?, 0.657894736842)
+RESULT: Joey: What's wrong with the 20th?
+SUBTITLE: Eleven days before Halloween. All the good costumes are gone?
+DIALOGUE_PAIR: (What's wrong with the twentieth?, 0.0430107526882), (Eleven days before Halloween.. all the good costumes are gone?, 0.867647058824)
+RESULT: Chandler: Eleven days before Halloween. All the good costumes are gone?
+SUBTITLE: Today's the day Carol and I first consummated our physical relationship.
+DIALOGUE_PAIR: (Eleven days before Halloween.. all the good costumes are gone?, 0.0454545454545), (Today's the day Carol and I first.. consummated our physical relationship.  Sex. ..You know what, I-I'd better pass on the game. I think I'm just gonna go home and think about my ex-wife and her lesbian lover., 0.338028169014)
+RESULT: Ross: Today's the day Carol and I first consummated our physical relationship.
+SUBTITLE: Sex.
+DIALOGUE_PAIR: (Today's the day Carol and I first.. consummated our physical relationship.  Sex. ..You know what, I-I'd better pass on the game. I think I'm just gonna go home and think about my ex-wife and her lesbian lover., 0.0140186915888), (The hell with hockey, let's all do that!, 0.0)
+--CHECKING SUBSTRINGS--
+RESULT: Ross: Sex.
+SUBTITLE: You told your sister that?
+DIALOGUE_PAIR: (Today's the day Carol and I first.. consummated our physical relationship.  Sex. ..You know what, I-I'd better pass on the game. I think I'm just gonna go home and think about my ex-wife and her lesbian lover., 0.034632034632), (The hell with hockey, let's all do that!, 0.044776119403)
 --CHECKING SUBSTRINGS--
 >>==MOVING TO NEXT DIALOGUE (fails: 1)
-SUBTITLE: Would you stop?
-DIALOGUE_PAIR: (What I said you had..., 0.138888888889), (Would you stop?, 1.0)
-RESULT: Monica: Would you stop?
-SUBTITLE: Was I doing it again?
-DIALOGUE_PAIR: (Would you stop?, 0.0526315789474), (Oh, was I doing it again?, 0.666666666667)
-RESULT: Phoebe: Was I doing it again?
-SUBTITLE: Yes!
-DIALOGUE_PAIR: (Oh, was I doing it again?, 0.0), (Yes!, 1.0)
-RESULT: All: Yes!
-SUBTITLE: I said you had a nice butt. It's just not a great butt.
-DIALOGUE_PAIR: (Yes!, 0.0), (I said that you had a nice butt, it's just not a great butt., 0.75)
-RESULT: Monica: I said you had a nice butt. It's just not a great butt.
-SUBTITLE: You won't know a butt if it bit you.
-DIALOGUE_PAIR: (I said that you had a nice butt, it's just not a great butt., 0.123595505618), (Oh, you wouldn't know a great butt if it came up and bit ya., 0.428571428571)
-RESULT: Joey: You won't know a butt if it bit you.
-SUBTITLE: There's an image.
-DIALOGUE_PAIR: (Oh, you wouldn't know a great butt if it came up and bit ya., 0.0253164556962), (There's an image., 1.0)
-RESULT: Ross: There's an image.
-SUBTITLE: Would anybody like more coffee?
-DIALOGUE_PAIR: (There's an image., 0.0196078431373), (Would anybody like more coffee?, 1.0)
-RESULT: Rachel: Would anybody like more coffee?
-SUBTITLE: You made it, or you're serving it?
-DIALOGUE_PAIR: (Would anybody like more coffee?, 0.0298507462687), (Did you make it, or are you just serving it?, 0.438596491228)
-RESULT: Chandler: You made it, or you're serving it?
-SUBTITLE: I'm just serving it.
-DIALOGUE_PAIR: (Did you make it, or are you just serving it?, 0.259259259259), (I'm just serving it., 1.0)
-RESULT: Rachel: I'm just serving it.
-SUBTITLE: I'll have a cup of coffee.
-DIALOGUE_PAIR: (I'm just serving it., 0.063829787234), (Yeah. Yeah, I'll have a cup of coffee., 0.619047619048)
-RESULT: All: I'll have a cup of coffee.
-SUBTITLE: Kids, new dream.
-DIALOGUE_PAIR: (Yeah. Yeah, I'll have a cup of coffee., 0.0175438596491), (Kids, new dream... I'm in Las Vegas., 0.435897435897)
-RESULT: Chandler: Kids, new dream.
-SUBTITLE: I'm in Las Vegas.
-DIALOGUE_PAIR: (Kids, new dream... I'm in Las Vegas., 0.425), (Ahh, miss?   More coffee?, 0.0)
-RESULT: Chandler: I'm in Las Vegas.
-SUBTITLE: Miss, more coffee?
-DIALOGUE_PAIR: (Kids, new dream... I'm in Las Vegas., 0.0175438596491), (Ahh, miss?   More coffee?, 0.382352941176)
-RESULT: Customer: Miss, more coffee?
-SUBTITLE: Could you give this to that guy over there?
-DIALOGUE_PAIR: (Ahh, miss?   More coffee?, 0.0285714285714), (Ugh.  Excuse me, could you give this to that guy over there?  Go ahead.  Thank you.  Sorry.  Okay, Las Vegas., 0.344827586207)
-RESULT: Rachel: Could you give this to that guy over there?
-SUBTITLE: Go ahead. Thank you.
-DIALOGUE_PAIR: (Ugh.  Excuse me, could you give this to that guy over there?  Go ahead.  Thank you.  Sorry.  Okay, Las Vegas., 0.15652173913), (Okay, so, I'm in Las Vegas... I'm Liza Minelli-, 0.0)
-RESULT: Rachel: Go ahead. Thank you.
-SUBTITLE: Sorry. Okay, Las Vegas.
-DIALOGUE_PAIR: (Ugh.  Excuse me, could you give this to that guy over there?  Go ahead.  Thank you.  Sorry.  Okay, Las Vegas., 0.19298245614), (Okay, so, I'm in Las Vegas... I'm Liza Minelli-, 0.213114754098)
-RESULT: Chandler: Sorry. Okay, Las Vegas.
-SUBTITLE: I'm in Las Vegas.
-DIALOGUE_PAIR: (Okay, so, I'm in Las Vegas... I'm Liza Minelli-, 0.283018867925), (Okay, so, I'm in Las Vegas... I'm Liza Minelli-, 0.283018867925)
-RESULT: Chandler: I'm in Las Vegas.
-SUBTITLE: I'm Liza Minnelli....
-DIALOGUE_PAIR: (Okay, so, I'm in Las Vegas... I'm Liza Minelli-, 0.241379310345), (Okay, so, I'm in Las Vegas... I'm Liza Minelli-, 0.241379310345)
-RESULT: Chandler: I'm Liza Minnelli....
-
-
+SUBTITLE: You told your sister that?
+DIALOGUE_PAIR: (The hell with hockey, let's all do that!, 0.044776119403), (C'mon, Ross! You, me, Joey, ice, guys' night out, c'mon, whaddya say, big guy,  Huh? Huh? Huh?, 0.016393442623)
+--CHECKING SUBSTRINGS--
+>>==MOVING TO NEXT DIALOGUE (fails: 2)
+SUBTITLE: You told your sister that?
+DIALOGUE_PAIR: (C'mon, Ross! You, me, Joey, ice, guys' night out, c'mon, whaddya say, big guy,  Huh? Huh? Huh?, 0.016393442623), (What are you doing?, 0.113636363636)
+--CHECKING SUBSTRINGS--
+>>==MOVING TO NEXT DIALOGUE (fails: 3)
+SUBTITLE: You told your sister that?
+DIALOGUE_PAIR: (What are you doing?, 0.113636363636), (I have no idea., 0.0)
+--CHECKING SUBSTRINGS--
+>>==MOVING TO NEXT DIALOGUE (fails: 4)
+SUBTITLE: You told your sister that?
+DIALOGUE_PAIR: (I have no idea., 0.0), (C'mon, Ross!, 0.0)
+--CHECKING SUBSTRINGS--
+>>==MOVING TO NEXT DIALOGUE (fails: 5)
+--GIVING UP ON SUBTITLE--
+SUBTITLE: Believe me, I told everyone.
+DIALOGUE_PAIR: (Today's the day Carol and I first.. consummated our physical relationship.  Sex. ..You know what, I-I'd better pass on the game. I think I'm just gonna go home and think about my ex-wife and her lesbian lover., 0.021186440678), (The hell with hockey, let's all do that!, 0.0)
+--CHECKING SUBSTRINGS--
+>>==MOVING TO NEXT DIALOGUE (fails: 1)
+SUBTITLE: Believe me, I told everyone.
+DIALOGUE_PAIR: (The hell with hockey, let's all do that!, 0.0), (C'mon, Ross! You, me, Joey, ice, guys' night out, c'mon, whaddya say, big guy,  Huh? Huh? Huh?, 0.0243902439024)
+--CHECKING SUBSTRINGS--
+>>==MOVING TO NEXT DIALOGUE (fails: 2)
+SUBTITLE: Believe me, I told everyone.
+DIALOGUE_PAIR: (C'mon, Ross! You, me, Joey, ice, guys' night out, c'mon, whaddya say, big guy,  Huh? Huh? Huh?, 0.0243902439024), (What are you doing?, 0.0)
+--CHECKING SUBSTRINGS--
+>>==MOVING TO NEXT DIALOGUE (fails: 3)
+SUBTITLE: Believe me, I told everyone.
+DIALOGUE_PAIR: (What are you doing?, 0.0), (I have no idea., 0.0444444444444)
+--CHECKING SUBSTRINGS--
+>>==MOVING TO NEXT DIALOGUE (fails: 4)
+SUBTITLE: Believe me, I told everyone.
+DIALOGUE_PAIR: (I have no idea., 0.0444444444444), (C'mon, Ross!, 0.0)
+--CHECKING SUBSTRINGS--
+>>==MOVING TO NEXT DIALOGUE (fails: 5)
+--GIVING UP ON SUBTITLE--
+SUBTITLE: I better pass on the game.
+DIALOGUE_PAIR: (Today's the day Carol and I first.. consummated our physical relationship.  Sex. ..You know what, I-I'd better pass on the game. I think I'm just gonna go home and think about my ex-wife and her lesbian lover., 0.111627906977), (The hell with hockey, let's all do that!, 0.0294117647059)
+--CHECKING SUBSTRINGS--
+RESULT: Ross: I better pass on the game.
+SUBTITLE: I'm just gonna go home and think about my ex-wife and her lesbian lover.
+DIALOGUE_PAIR: (Today's the day Carol and I first.. consummated our physical relationship.  Sex. ..You know what, I-I'd better pass on the game. I think I'm just gonna go home and think about my ex-wife and her lesbian lover., 0.338028169014), (The hell with hockey, let's all do that!, 0.0357142857143)
+RESULT: Ross: I'm just gonna go home and think about my ex-wife and her lesbian lover.
+SUBTITLE: The hell with hockey! Let's all do that!
+DIALOGUE_PAIR: (Today's the day Carol and I first.. consummated our physical relationship.  Sex. ..You know what, I-I'd better pass on the game. I think I'm just gonna go home and think about my ex-wife and her lesbian lover., 0.0284552845528), (The hell with hockey, let's all do that!, 0.787234042553)
+RESULT: Joey: The hell with hockey! Let's all do that!
+SUBTITLE: Come on, Ross! You, me, Joey, ice! Guys' night out!
+DIALOGUE_PAIR: (The hell with hockey, let's all do that!, 0.043956043956), (C'mon, Ross! You, me, Joey, ice, guys' night out, c'mon, whaddya say, big guy,  Huh? Huh? Huh?, 0.354545454545)
+RESULT: Chandler: Come on, Ross! You, me, Joey, ice! Guys' night out!
+SUBTITLE: Come on, what do you say, big guy?
+DIALOGUE_PAIR: (C'mon, Ross! You, me, Joey, ice, guys' night out, c'mon, whaddya say, big guy,  Huh? Huh? Huh?, 0.157894736842), (What are you doing?, 0.14)
+RESULT: Chandler: Come on, what do you say, big guy?
+SUBTITLE: What are you doing?
+DIALOGUE_PAIR: (C'mon, Ross! You, me, Joey, ice, guys' night out, c'mon, whaddya say, big guy,  Huh? Huh? Huh?, 0.00862068965517), (What are you doing?, 1.0)
+RESULT: Ross: What are you doing?
+SUBTITLE: I have no idea.
+DIALOGUE_PAIR: (What are you doing?, 0.0), (I have no idea., 1.0)
+RESULT: Chandler: I have no idea.
+SUBTITLE: Come on, Ross.
+DIALOGUE_PAIR: (I have no idea., 0.03125), (C'mon, Ross!, 0.304347826087)
+RESULT: Joey: Come on, Ross.
+SUBTITLE: Maybe it will take my mind off it.
+DIALOGUE_PAIR: (C'mon, Ross!, 0.0), (Alright, alright, maybe it'll take my mind off it. Do you promise to buy me a big thumb finger?, 0.242990654206)
+RESULT: Ross: Maybe it will take my mind off it.
+SUBTITLE: Promise to buy me a big foam finger?
+DIALOGUE_PAIR: (Alright, alright, maybe it'll take my mind off it. Do you promise to buy me a big thumb finger?, 0.27358490566), (You got it., 0.0)
+RESULT: Ross: Promise to buy me a big foam finger?
+SUBTITLE: You got it.
+DIALOGUE_PAIR: (Alright, alright, maybe it'll take my mind off it. Do you promise to buy me a big thumb finger?, 0.0280373831776), (You got it., 1.0)
+RESULT: Chandler: You got it.
+SUBTITLE: Look, look, look! My first paycheck!
+DIALOGUE_PAIR: (You got it., 0.0), (Look-look-look-look-look, my first pay check! Look at the window, there's my name! Hi, me!, 0.238095238095)
+RESULT: Rachel: Look, look, look! My first paycheck!
+SUBTITLE: Look at the window! There's my name! Hi, me!
+DIALOGUE_PAIR: (Look-look-look-look-look, my first pay check! Look at the window, there's my name! Hi, me!, 0.422680412371), (I remember the day I got my first pay check. There was a cave in in one of the mines, and eight people were killed., 0.0653594771242)
+RESULT: Rachel: Look at the window! There's my name! Hi, me!
+SUBTITLE: I remember when I got my first paycheck.
+DIALOGUE_PAIR: (Look-look-look-look-look, my first pay check! Look at the window, there's my name! Hi, me!, 0.116666666667), (I remember the day I got my first pay check. There was a cave in in one of the mines, and eight people were killed., 0.261904761905)
+RESULT: Phoebe: I remember when I got my first paycheck.
+SUBTITLE: There was a cave-in in a mine, and eight people were killed.
+DIALOGUE_PAIR: (I remember the day I got my first pay check. There was a cave in in one of the mines, and eight people were killed., 0.409448818898), (Wow, you worked in a mine?, 0.0975609756098)
+RESULT: Phoebe: There was a cave-in in a mine, and eight people were killed.
+SUBTITLE: You worked in a mine?
+DIALOGUE_PAIR: (I remember the day I got my first pay check. There was a cave in in one of the mines, and eight people were killed., 0.044776119403), (Wow, you worked in a mine?, 0.645161290323)
+RESULT: Monica: You worked in a mine?
+SUBTITLE: No, I worked at a Dairy Queen. Why?
+DIALOGUE_PAIR: (Wow, you worked in a mine?, 0.140350877193), (I worked in a Dairy Queen, why?, 0.458333333333)
+RESULT: Phoebe: No, I worked at a Dairy Queen. Why?
+SUBTITLE: Isn't this exciting? I earned this. I wiped tables for it. I steamed milk.
