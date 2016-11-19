@@ -128,7 +128,7 @@ class BatchLoader(object):
 			label_names = [lbl for lbl in label_names.strip('\n\r').split(' ')[2:]]
 			data = f.readlines()
 			data = [line.strip('\r\n').split(' ') for line in data]
-			data =[[line[0], line[1], [float(x) for x in line[2:]]] for line in data]
+			data =[[line[0], line[1], [float(x) >= 0.5 for x in line[2:]]] for line in data]
 			self._labels = [line[2] for line in data]
 			self._image_paths = [osp.join(image_root, line[0], line[0] + '_' + line[1] + '.jpg') for line in data]
 		if weights_file:
