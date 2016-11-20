@@ -37,6 +37,16 @@ def replace(sp_dict, word, log_file, log_info):
 	if sp_dict.check(lfix_word) or pos_tag([lfix_word]) == 'NNP':
 		return lfix_word
 
+	# Check if replacing 'lk' with 'k' works
+	lkfix_word = word.replace('lk', 'k')
+	if sp_dict.check(lkfix_word) or pos_tag([lkfix_word]) == 'NNP':
+		return lkfix_word
+
+	# Check if replacing 'Ik' with 'k' works
+	lkfix_word = word.replace('Ik', 'k')
+	if sp_dict.check(lkfix_word) or pos_tag([lkfix_word]) == 'NNP':
+		return lkfix_word
+
 	# If there is a possesive suffix, return true if the base word is valid
 	if word[-2:] == '\'s':
 		if word[:-2] == replace(sp_dict, word[:-2], log_file, log_info):
@@ -107,28 +117,19 @@ exclude.add('</i>')
 # Load the Amerian English dictionary
 spell_dict = enchant.Dict('en_US')
 
-if not osp.exists('edited'):
-	os.mkdir('edited')
-
-log_file = codecs.open(osp.join('logs', 'spell_check_log.txt'), 'w', encoding='utf-8')
+log_file = codecs.open(osp.join('..', 'logs', 'spell_check_log.txt'), 'w', encoding='utf-8')
 ital_regex = '|'.join(map(re.escape, ['<i>', '</i>']))
 
+season = 2
+
 # Go through each SRT file
-for f in os.listdir('subtitles'):
+for f in os.listdir('../subtitles/season' + str(season)):
 	if f.endswith('.srt'):
 
 		print f
 
 		# Open the subtitle files
-		subs = pysrt.open(osp.join('subtitles', f))
-
-		# Remove the titular subtitle
-#		del subs[0]
-
-		# Shift the timestamps
-#		subs.shift(milliseconds=-subs[0].start.milliseconds)
-#		subs.shift(seconds=-subs[0].start.seconds)
-#		subs.shift(minutes=-subs[0].start.minutes)
+		subs = pysrt.open(osp.join('..','subtitles', 'season' + str(season), f))
 
 		# Split any multi-speaker subtitles (denoted by '\n-') into multiple single-speaker subtitles
 		num_subs = len(subs)
@@ -190,4 +191,4 @@ for f in os.listdir('subtitles'):
 				del subs[i]
 
 		# Save modified SRT file
-		subs.save(osp.join('edited', 'edited_' + f), encoding='utf=8') 
+		subs.save(osp.join('..', 'edited', 'season' + str(season), 'edited_' + f)) 
