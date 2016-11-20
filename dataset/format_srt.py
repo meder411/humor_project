@@ -198,4 +198,6 @@ for season in seasons:
 
 			# Save modified SRT file
 			scene_dir = 'subtitles/edited/season' + str(season) # Scene output directory
-			subs.save(osp.join(scene_dir, 'edited_' + f)) 
+			if not osp.exists(scene_dir):
+				os.mkdir(scene_dir)
+			subs.save(osp.join(scene_dir, f)) 
