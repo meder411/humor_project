@@ -33,8 +33,6 @@ exclude = set(string.punctuation)
 # Season number
 seasons = [1, 2]
 
-# Scenes output directory
-scenes_dir = 'transcripts/scenes'
 
 # Go through each transcript file
 for season in seasons:
@@ -71,6 +69,10 @@ for season in seasons:
 
 				# Write all scenes to file
 				for i in xrange(len(scenes)):
-					with open(osp.join(scenes_dir, str(season) + '_' + str(ep) + '_' + str(i) + '.txt'), 'w') as fout:
+					# Scenes output directory
+					scenes_dir = osp.join('transcripts', 'scenes', 'season' + str(season))
+					if not osp.exists(scenes_dir):
+						os.mkdir(scenes_dir)
+					with open(osp.join(scenes_dir, 'ep' + str(ep) + '_' + str(i) + '.txt'), 'w') as fout:
 						fout.write(scenes[i])
 
