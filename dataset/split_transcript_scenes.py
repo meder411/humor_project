@@ -33,9 +33,12 @@ exclude = set(string.punctuation)
 # Season number
 seasons = [1, 2]
 
+# Scenes output directory
+scenes_dir = 'transcripts/scenes'
+
 # Go through each transcript file
 for season in seasons:
-	html_dir = '/home/meder/Research/humor/dataset/transcripts/html/season' + str(season)
+	html_dir = 'transcripts/html/season' + str(season)
 	for transcript in os.listdir(html_dir):
 		if transcript.endswith('.html'):
 			with codecs.open(osp.join(html_dir, transcript), 'r', 'latin-1') as f:
@@ -68,6 +71,6 @@ for season in seasons:
 
 				# Write all scenes to file
 				for i in xrange(len(scenes)):
-					with open(osp.join(html_dir, '..', '..', 'scenes', str(season) + '_' + str(ep) + '_' + str(i) + '.txt'), 'w') as fout:
+					with open(osp.join(scenes_dir, str(season) + '_' + str(ep) + '_' + str(i) + '.txt'), 'w') as fout:
 						fout.write(scenes[i])
 
