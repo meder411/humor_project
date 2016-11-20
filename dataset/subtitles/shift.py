@@ -1,7 +1,8 @@
 import pysrt
 
 ep = 24
-milli = 1436235 + 1399265
+
+milli = 1369235+1377243
 
 filename = 'ep' + str(ep) + '.srt'
 
