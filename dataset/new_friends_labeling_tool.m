@@ -64,6 +64,8 @@ handles.sub_idx = 1;
 handles.line_idx = 1;
 handles.episode = '';
 handles.scene = '';
+handles.subs = {};
+handles.lines = {};
 
 % Update handles structure
 guidata(hObject, handles);
@@ -225,9 +227,11 @@ end
 guidata(hObject, handles)
 
 function update_scene_display(hObject, handles)
-if handles.line_idx < length(handles.lines)
-    set(handles.remaining_lines, 'string', handles.lines(handles.line_idx+1:end))
-    set(handles.current_line, 'string', handles.lines(handles.line_idx))
+start = (handles.line_idx - 1) * 2 + 1;
+finish = (handles.line_idx) * 2;
+if finish < length(handles.lines)
+    set(handles.remaining_lines, 'string', handles.lines(finish+1:end))
+    set(handles.current_line, 'string', handles.lines(start:finish))
 end
 guidata(hObject, handles)
 
@@ -282,9 +286,11 @@ handles.scene = name;
 handles.lines = readScenes(handles.scenes_dropdown.String{get(handles.scenes_dropdown, 'Value')});
 
 % Update displays
+start = (handles.line_idx - 1) * 2 + 1;
+finish = (handles.line_idx) * 2;
 set(handles.results_display, 'string', handles.results_out_text)
-set(handles.remaining_lines, 'string', handles.lines(2:end))
-set(handles.current_line, 'string', handles.lines(1))
+set(handles.remaining_lines, 'string', handles.lines(finish+1:end))
+set(handles.current_line, 'string', handles.lines(start:finish))
 set(handles.next_line, 'Enable', 'on')
 set(handles.back, 'Enable', 'on')
 guidata(hObject, handles)
@@ -296,7 +302,7 @@ line_idx = 1;
 fid = fopen(path);
 tline = fgetl(fid);
 while ischar(tline)
-    lines{line_idx} = tline;
+    lines = {lines{:}, line_idx, tline};
     line_idx = line_idx + 1;
     tline = fgetl(fid);
 end
@@ -395,16 +401,21 @@ function figure1_KeyReleaseFcn(hObject, eventdata, handles)
 %	Character: character interpretation of the key(s) that was released
 %	Modifier: name(s) of the modifier key(s) (i.e., control, shift) released
 % handles    structure with handles and user data (see GUIDATA)
-if eventdata.Key == 's'
-    skip_sub_Callback(hObject, [], handles)
-elseif strcmp(eventdata.Key, 'leftarrow')
-    undo_Callback(hObject, [], handles)
-elseif eventdata.Key == 'b'
-    back_Callback(hObject, [], handles)
-elseif strcmp(eventdata.Key, 'space')
-    next_line_Callback(hObject, [], handles)
-elseif strcmp(eventdata.Key, 'rightarrow')
-    next_sub_Callback(hObject, [], handles)
+if ~isempty(handles.subs)
+    if eventdata.Key == 's'
+        skip_sub_Callback(hObject, [], handles)
+    elseif strcmp(eventdata.Key, 'leftarrow')
+        undo_Callback(hObject, [], handles)
+    elseif strcmp(eventdata.Key, 'rightarrow')
+        next_sub_Callback(hObject, [], handles)
+    end
+end
+if ~isempty(handles.lines)
+    if eventdata.Key == 'b'
+        back_Callback(hObject, [], handles)
+    elseif strcmp(eventdata.Key, 'space')
+        next_line_Callback(hObject, [], handles)
+    end
 end
 
 
