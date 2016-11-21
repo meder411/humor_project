@@ -203,7 +203,7 @@ function next_sub_Callback(hObject, eventdata, handles)
 % handles    structure with handles and user data (see GUIDATA)
 handles.sub_scene_pairs = [handles.sub_scene_pairs; [handles.sub_idx, handles.line_idx]];
 handles.sub_idx = handles.sub_idx + 1;
-handles.results_out_text = {handles.results_out_text{:}, sprintf('Sub %d --> Line %d', handles.sub_idx-1, handles.line_idx)};
+handles.results_out_text = {sprintf('Sub %d --> Line %d', handles.sub_idx-1, handles.line_idx), handles.results_out_text{:}};
 set(handles.results_display, 'string', handles.results_out_text)
 update_sub_display(hObject, handles)
 
@@ -218,13 +218,17 @@ update_scene_display(hObject, handles)
 function update_sub_display(hObject, handles)
 start = (handles.sub_idx - 1) * 3 + 1;
 finish = (handles.sub_idx) * 3;
-set(handles.remaining_subs, 'string', handles.subs(finish+1:end))
-set(handles.current_sub, 'string', handles.subs(start:finish))
+if finish < length(handles.subs)
+    set(handles.remaining_subs, 'string', handles.subs(finish+1:end))
+    set(handles.current_sub, 'string', handles.subs(start:finish))
+end
 guidata(hObject, handles)
 
 function update_scene_display(hObject, handles)
-set(handles.remaining_lines, 'string', handles.lines(handles.line_idx+1:end))
-set(handles.current_line, 'string', handles.lines(handles.line_idx))
+if handles.line_idx < length(handles.lines)
+    set(handles.remaining_lines, 'string', handles.lines(handles.line_idx+1:end))
+    set(handles.current_line, 'string', handles.lines(handles.line_idx))
+end
 guidata(hObject, handles)
 
 
@@ -235,7 +239,10 @@ function save_Callback(hObject, eventdata, handles)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
 matches = handles.sub_scene_pairs;
-save([handles.episode, '_', handles.scene, '.mat'], 'matches')
+fid = fopen([handles.episode, '_', handles.scene, '.txt'], 'w');
+fprintf(fid, 'SUB LINE\n', matches);
+fprintf(fid, '%d %d\n', matches);
+fclose(fid);
 
 % --- Executes on selection change in scenes_dropdown.
 function scenes_dropdown_Callback(hObject, eventdata, handles)
@@ -278,6 +285,8 @@ handles.lines = readScenes(handles.scenes_dropdown.String{get(handles.scenes_dro
 set(handles.results_display, 'string', handles.results_out_text)
 set(handles.remaining_lines, 'string', handles.lines(2:end))
 set(handles.current_line, 'string', handles.lines(1))
+set(handles.next_line, 'Enable', 'on')
+set(handles.back, 'Enable', 'on')
 guidata(hObject, handles)
 
 
@@ -338,6 +347,11 @@ handles.subs = readSRT(handles.subs_dropdown.String{get(handles.subs_dropdown, '
 % Update displays
 set(handles.remaining_subs, 'string', handles.subs(4:end))
 set(handles.current_sub, 'string', handles.subs(1:3))
+set(handles.next_sub, 'Enable', 'on')
+set(handles.undo, 'Enable', 'on')
+set(handles.next_sub, 'Enable', 'on')
+set(handles.skip_sub, 'Enable', 'on')
+set(handles.undo, 'Enable', 'on')
 guidata(hObject, handles)
 
 
@@ -368,9 +382,10 @@ function skip_sub_Callback(hObject, eventdata, handles)
 % hObject    handle to skip_sub (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
-handles.sub_idx = handles.sub_idx + 1;
-update_sub_display(hObject, handles)
-
+if handles.sub_idx < length(handles.subs)
+    handles.sub_idx = handles.sub_idx + 1;
+    update_sub_display(hObject, handles)
+end
 
 % --- Executes on key release with focus on figure1 and none of its controls.
 function figure1_KeyReleaseFcn(hObject, eventdata, handles)
@@ -401,7 +416,7 @@ function undo_Callback(hObject, eventdata, handles)
 if handles.sub_idx > 1
     handles.sub_scene_pairs = handles.sub_scene_pairs(1:end-1, :);
     handles.sub_idx = handles.sub_idx - 1;
-    handles.results_out_text = handles.results_out_text(1:end-1);
+    handles.results_out_text = handles.results_out_text(2:end);
     set(handles.results_display, 'string', handles.results_out_text)
     update_sub_display(hObject, handles)
 end
