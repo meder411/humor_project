@@ -31,1442 +31,1966 @@ I can't sleep now!
 You want me to sing?
 
 9
-00:00:27,260 --> 00:00:30,354
-That's it. I want you out of the apartment now!
+00:00:27,260 --> 00:00:28,807
+That's it. I want you
 
 10
+00:00:28,807 --> 00:00:30,354
+out of the apartment now!
+
+11
 00:00:30,397 --> 00:00:32,388
 What are you talking about?
 
-11
+12
 00:00:32,499 --> 00:00:34,490
 Hannibal Lecter.
 
-12
+13
 00:00:35,502 --> 00:00:37,493
 Better roommate than you.
 
-13
-00:00:38,371 --> 00:00:42,307
-You're not fair! One night you see me and you get scared.
-
 14
-00:00:42,375 --> 00:00:45,469
-What about the other nights when you don't see me?
+00:00:38,371 --> 00:00:40,339
+You're not fair! One night
 
 15
-00:00:46,379 --> 00:00:51,373
-Last night when you got water, I was nice enough to hide behind the door.
+00:00:40,339 --> 00:00:42,307
+you see me and you get scared.
 
 16
+00:00:42,375 --> 00:00:43,922
+What about the other nights
+
+17
+00:00:43,922 --> 00:00:45,469
+when you don't see me?
+
+18
+00:00:46,379 --> 00:00:48,876
+Last night when you got water, I was
+
+19
+00:00:48,876 --> 00:00:51,373
+nice enough to hide behind the door.
+
+20
 00:00:52,385 --> 00:00:54,512
 I didn't realize that.
 
-17
+21
 00:00:55,488 --> 00:00:57,479
 Get out now!
 
-18
+22
 00:00:57,524 --> 00:00:58,974
 You really want me out?
 
-19
+23
 00:00:58,974 --> 00:01:00,424
 Yes, please.
 
-20
-00:01:01,227 --> 00:01:03,422
-I wanna hear you say you want me out.
+24
+00:01:01,227 --> 00:01:02,324
+I wanna hear you say
 
-21
+25
+00:01:02,324 --> 00:01:03,421
+you want me out.
+
+26
 00:01:03,463 --> 00:01:05,346
 I want you out.
 
-22
+27
 00:01:05,346 --> 00:01:07,229
 I wanna hear it from your lips.
 
-23
+28
 00:01:08,368 --> 00:01:11,235
 Where did you hear it from before?
 
-24
-00:01:11,271 --> 00:01:15,367
-All right. Consider me gone. I'll move into my brother's basement.
+29
+00:01:11,271 --> 00:01:13,319
+All right. Consider me gone.
 
-25
-00:01:15,442 --> 00:01:19,276
-When he finds out, I'll go find someplace else.
+30
+00:01:13,319 --> 00:01:15,367
+I'll move into my brother's basement.
 
-26
-00:01:19,345 --> 00:01:23,372
-I'll be out by the time you get home from work tomorrow.
+31
+00:01:15,442 --> 00:01:17,359
+When he finds out,
 
-27
+32
+00:01:17,359 --> 00:01:19,276
+I'll go find someplace else.
+
+33
+00:01:19,345 --> 00:01:21,358
+I'll be out by the time
+
+34
+00:01:21,358 --> 00:01:23,371
+you get home from work tomorrow.
+
+35
 00:01:24,284 --> 00:01:25,381
 -Thank you.
 
-28
+36
 00:01:25,381 --> 00:01:26,478
 I heard that.
 
-29
+37
 00:02:16,436 --> 00:02:17,431
 Hey.
 
-30
+38
 00:02:17,431 --> 00:02:18,426
 Hey.
 
-31
+39
 00:02:19,239 --> 00:02:20,433
 Well, look at you!
 
-32
-00:02:21,241 --> 00:02:24,233
-Finally got that time machine working, huh?
+40
+00:02:21,241 --> 00:02:22,737
+Finally got that
 
-33
-00:02:24,344 --> 00:02:28,337
-This guy was selling them on 8th Avenue and I thought:
+41
+00:02:22,737 --> 00:02:24,233
+time machine working, huh?
 
-34
+42
+00:02:24,344 --> 00:02:26,340
+This guy was selling them
+
+43
+00:02:26,340 --> 00:02:28,336
+on 8th Avenue and I thought:
+
+44
 00:02:28,381 --> 00:02:29,865
 ''You know what I don't have?''
 
-35
+45
 00:02:29,865 --> 00:02:31,349
 A mirror?
 
-36
-00:02:32,385 --> 00:02:35,286
-Fine, make fun. I think it's jaunty.
+46
+00:02:32,385 --> 00:02:33,835
+Fine, make fun.
 
-37
-00:02:36,389 --> 00:02:40,257
-For a guy who just lost his job, you're in a good mood.
+47
+00:02:33,835 --> 00:02:35,285
+I think it's jaunty.
 
-38
-00:02:40,360 --> 00:02:43,454
-I'll be all right. I'm not starting from square one.
+48
+00:02:36,389 --> 00:02:38,323
+For a guy who just lost his job,
 
-39
-00:02:43,496 --> 00:02:47,489
-I was Dr. Drake Ramoray on Days of our Lives.
+49
+00:02:38,323 --> 00:02:40,257
+you're in a good mood.
 
-40
+50
+00:02:40,360 --> 00:02:41,907
+I'll be all right.
+
+51
+00:02:41,907 --> 00:02:43,454
+I'm not starting from square one.
+
+52
+00:02:43,496 --> 00:02:45,492
+I was Dr. Drake Ramoray
+
+53
+00:02:45,492 --> 00:02:47,488
+on Days of our Lives.
+
+54
 00:02:48,301 --> 00:02:51,361
 That's gotta have some kind of cachet.
 
-41
+55
 00:02:51,404 --> 00:02:53,372
 ''Cachet''? ''Jaunty''?
 
-42
-00:02:53,473 --> 00:02:57,307
-Chandler gave me word-of-the-day toilet paper.
+56
+00:02:53,473 --> 00:02:55,390
+Chandler gave me
 
-43
+57
+00:02:55,390 --> 00:02:57,307
+word-of-the-day toilet paper.
+
+58
 00:02:58,378 --> 00:03:00,312
 I'm gonna get some coffee.
 
-44
+59
 00:03:03,216 --> 00:03:06,310
 Go on. You know you want to.
 
-45
+60
 00:03:12,325 --> 00:03:13,320
 No.
 
-46
+61
 00:03:13,320 --> 00:03:14,315
 No?
 
-47
+62
 00:03:15,261 --> 00:03:15,841
 Hey.
 
-48
+63
 00:03:15,841 --> 00:03:16,421
 Hey.
 
-49
+64
 00:03:17,230 --> 00:03:18,424
 So? Did you read the book?
 
-50
-00:03:19,232 --> 00:03:21,257
-Oh, my God. It was incredible.
+65
+00:03:19,232 --> 00:03:20,244
+Oh, my God.
 
-51
+66
+00:03:20,244 --> 00:03:21,256
+It was incredible.
+
+67
 00:03:21,334 --> 00:03:23,427
 Didn't it totally speak to you?
 
-52
+68
 00:03:24,237 --> 00:03:25,334
 What book?
 
-53
+69
 00:03:25,334 --> 00:03:26,431
 You have to read this book.
 
-54
+70
 00:03:26,472 --> 00:03:29,441
 It's called Be Your Own Wind Keeper.
 
-55
-00:03:30,243 --> 00:03:33,337
-It's about how women need to become more empowered.
+71
+00:03:30,243 --> 00:03:31,790
+It's about how women need
 
-56
+72
+00:03:31,790 --> 00:03:33,337
+to become more empowered.
+
+73
 00:03:33,379 --> 00:03:35,472
 But there's wind.
 
-57
+74
 00:03:36,382 --> 00:03:39,351
 And the wind can make us goddesses.
 
-58
-00:03:39,385 --> 00:03:43,378
-But do you know who takes our wind? Men. They just take it.
+75
+00:03:39,385 --> 00:03:41,381
+But do you know who takes our wind?
 
-59
+76
+00:03:41,381 --> 00:03:43,377
+Men. They just take it.
+
+77
 00:03:45,258 --> 00:03:46,452
 Men just take our wind?
 
-60
-00:03:47,360 --> 00:03:51,262
-All the time. Because they are the lightning-bearers.
+78
+00:03:47,360 --> 00:03:49,311
+All the time. Because they
 
-61
+79
+00:03:49,311 --> 00:03:51,262
+are the lightning-bearers.
+
+80
 00:03:51,397 --> 00:03:53,365
 Wow.
 
-62
-00:03:54,300 --> 00:03:57,394
-That sounds kind of cool. It's like The Hobbit.
+81
+00:03:54,300 --> 00:03:55,847
+That sounds kind of cool.
 
-63
+82
+00:03:55,847 --> 00:03:57,394
+It's like The Hobbit.
+
+83
 00:03:57,470 --> 00:04:00,234
 It's nothing like The Hobbit.
 
-64
-00:04:00,306 --> 00:04:04,333
-It's like reading about all my relationships. Except Richard.
+84
+00:04:00,306 --> 00:04:02,319
+It's like reading about all my
 
-65
+85
+00:04:02,319 --> 00:04:04,332
+relationships. Except Richard.
+
+86
 00:04:04,444 --> 00:04:06,378
 Richard would never steal your wind.
 
-66
+87
 00:04:06,378 --> 00:04:08,312
 No.
 
-67
+88
 00:04:08,348 --> 00:04:09,781
 Because he's yummy.
 
-68
+89
 00:04:09,781 --> 00:04:11,214
 Yes.
 
-69
+90
 00:04:11,317 --> 00:04:13,217
 But all the other ones....
 
-70
-00:04:13,319 --> 00:04:17,346
-And how they're always drinking from our pool of inner power.
+91
+00:04:13,319 --> 00:04:15,332
+And how they're always drinking
 
-71
+92
+00:04:15,332 --> 00:04:17,345
+from our pool of inner power.
+
+93
 00:04:17,423 --> 00:04:19,840
 But God forbid we should take a sip.
 
-72
+94
 00:04:19,840 --> 00:04:22,257
 Anybody want a cruller?
 
-73
-00:04:22,362 --> 00:04:25,354
-This is a typical lightning-bearer thing.
+95
+00:04:22,362 --> 00:04:23,858
+This is a typical
 
-74
-00:04:25,431 --> 00:04:30,368
-It's like, ''Hello. Who wants one of my phallic-shaped man-cakes?''
+96
+00:04:23,858 --> 00:04:25,354
+lightning-bearer thing.
 
-75
+97
+00:04:25,431 --> 00:04:27,899
+It's like, ''Hello. Who wants one
+
+98
+00:04:27,899 --> 00:04:30,367
+of my phallic-shaped man-cakes?''
+
+99
 00:04:38,244 --> 00:04:40,269
 Who have you been dating?
 
-76
-00:04:46,452 --> 00:04:49,444
-Don't worry about it. Things happen.
+100
+00:04:46,452 --> 00:04:47,948
+Don't worry about it.
 
-77
-00:04:50,490 --> 00:04:54,483
-So you're not mad at me for getting fired and everything?
+101
+00:04:47,948 --> 00:04:49,444
+Things happen.
 
-78
+102
+00:04:50,490 --> 00:04:52,486
+So you're not mad at me
+
+103
+00:04:52,486 --> 00:04:54,482
+for getting fired and everything?
+
+104
 00:04:55,261 --> 00:04:57,286
 Joey, look at me.
 
-79
+105
 00:04:57,497 --> 00:04:59,294
 Look at me!
 
-80
+106
 00:05:01,234 --> 00:05:04,203
 Do I have lipstick on my teeth?
 
-81
+107
 00:05:06,439 --> 00:05:08,430
 No. Can we get back to me?
 
-82
-00:05:09,242 --> 00:05:13,338
-Look, honey. People get fired left and right in this business.
+108
+00:05:09,242 --> 00:05:11,290
+Look, honey. People get fired
 
-83
-00:05:13,413 --> 00:05:16,314
-I got you an audition for Another World.
+109
+00:05:11,290 --> 00:05:13,338
+left and right in this business.
 
-84
+110
+00:05:13,413 --> 00:05:14,863
+I got you an audition
+
+111
+00:05:14,863 --> 00:05:16,313
+for Another World.
+
+112
 00:05:17,216 --> 00:05:19,207
 All right.
 
-85
+113
 00:05:19,252 --> 00:05:20,412
 ''Cab Driver Number 2''?
 
-86
+114
 00:05:21,321 --> 00:05:22,413
 You're welcome.
 
-87
+115
 00:05:24,524 --> 00:05:26,424
 But I was Dr. Drake Ramoray.
 
-88
-00:05:27,226 --> 00:05:30,354
-How can I go from a neurosurgeon to driving a cab?
+116
+00:05:27,226 --> 00:05:28,790
+How can I go from
 
-89
-00:05:30,463 --> 00:05:36,265
-Hey. There was a time when I played tickle-pickle with Rex Harrison.
+117
+00:05:28,790 --> 00:05:30,354
+a neurosurgeon to driving a cab?
 
-90
+118
+00:05:30,463 --> 00:05:33,364
+Hey. There was a time when I played
+
+119
+00:05:33,364 --> 00:05:36,265
+tickle-pickle with Rex Harrison.
+
+120
 00:05:38,271 --> 00:05:41,331
 Things change. Roll with them.
 
-91
+121
 00:05:41,441 --> 00:05:43,432
 But this is a two-line part.
 
-92
-00:05:44,243 --> 00:05:49,237
-It's like taking a step backwards. I'm not gonna do this.
+122
+00:05:44,243 --> 00:05:46,740
+It's like taking a step backwards.
 
-93
-00:05:49,482 --> 00:05:57,345
-Joey I'll tell you the same thing I told AI Minser and his pyramid of dogs.
+123
+00:05:46,740 --> 00:05:49,237
+I'm not gonna do this.
 
-95
-00:05:58,291 --> 00:06:02,387
-Take any job you can get and don't make on the floor.
+124
+00:05:49,482 --> 00:05:54,364
+Joey I'll tell you the same thing I told
 
-96
+126
+00:05:54,364 --> 00:05:57,344
+AI Minser and his pyramid of dogs.
+
+127
+00:05:58,291 --> 00:06:00,339
+Take any job you can get
+
+128
+00:06:00,339 --> 00:06:02,387
+and don't make on the floor.
+
+129
 00:06:03,329 --> 00:06:05,388
 I'm sorry.
 
-97
+130
 00:06:05,431 --> 00:06:07,422
 See you.
 
-98
+131
 00:06:09,335 --> 00:06:10,393
 God!
 
-99
-00:06:11,237 --> 00:06:13,228
-Oh, God! I mean, it's just so....
+132
+00:06:11,237 --> 00:06:12,232
+Oh, God!
 
-100
+133
+00:06:12,232 --> 00:06:13,227
+I mean, it's just so....
+
+134
 00:06:13,339 --> 00:06:15,204
 Isn't it?
 
-101
+135
 00:06:15,408 --> 00:06:18,206
 It's like reading about my own life.
 
-102
-00:06:18,311 --> 00:06:22,407
-This book could have been called, ''Be Your Own Wind Keeper, Rachel.''
+136
+00:06:18,311 --> 00:06:20,359
+This book could have been called,
 
-103
-00:06:23,216 --> 00:06:27,448
-It wouldn't sell a million copies. But it would've made a nice gift for you.
+137
+00:06:20,359 --> 00:06:22,407
+''Be Your Own Wind Keeper, Rachel.''
 
-104
+138
+00:06:23,216 --> 00:06:25,332
+It wouldn't sell a million copies. But
+
+139
+00:06:25,332 --> 00:06:27,448
+it would've made a nice gift for you.
+
+140
 00:06:28,321 --> 00:06:28,867
 Hey, you guys.
 
-105
+141
 00:06:28,867 --> 00:06:29,413
 Hey.
 
-106
+142
 00:06:30,223 --> 00:06:31,520
 Sweetie, we've got to go.
 
-107
+143
 00:06:32,258 --> 00:06:33,247
 No!
 
-108
+144
 00:06:35,361 --> 00:06:36,350
 No?
 
-109
-00:06:36,429 --> 00:06:41,366
-Why do we always have to do everything according to your timetable?
+145
+00:06:36,429 --> 00:06:38,897
+Why do we always have to do everything
 
-110
-00:06:41,434 --> 00:06:45,370
-Actually, it's the movie theater that has the timetable.
+146
+00:06:38,897 --> 00:06:41,365
+according to your timetable?
 
-111
+147
+00:06:41,434 --> 00:06:43,402
+Actually, it's the movie theater
+
+148
+00:06:43,402 --> 00:06:45,370
+that has the timetable.
+
+149
 00:06:45,471 --> 00:06:48,338
 It's so you don't miss the beginning.
 
-112
-00:06:49,342 --> 00:06:54,279
-This isn't about the movie theater. This is about you stealing my wind.
+150
+00:06:49,342 --> 00:06:51,810
+This isn't about the movie theater.
 
-113
+151
+00:06:51,810 --> 00:06:54,278
+This is about you stealing my wind.
+
+152
 00:06:56,282 --> 00:06:57,476
 You go, girl!
 
-114
+153
 00:07:00,386 --> 00:07:04,220
 I can't pull that off, can I?
 
-115
+154
 00:07:04,390 --> 00:07:07,382
 Excuse me, your wind?
 
-116
+155
 00:07:07,427 --> 00:07:09,292
 Yes, my wind.
 
-117
-00:07:09,395 --> 00:07:13,388
-How do you expect me to grow if you won't let me blow?
+156
+00:07:09,395 --> 00:07:11,391
+How do you expect me to grow
 
-118
+157
+00:07:11,391 --> 00:07:13,387
+if you won't let me blow?
+
+158
 00:07:19,405 --> 00:07:27,211
 You know I don't...have a problem with that.
 
-120
-00:07:37,323 --> 00:07:41,419
-I just really need to be with myself right now.
+160
+00:07:37,323 --> 00:07:39,371
+I just really need to be
 
-121
+161
+00:07:39,371 --> 00:07:41,419
+with myself right now.
+
+162
 00:07:42,428 --> 00:07:44,328
 I'm sorry.
 
-122
-00:07:44,430 --> 00:07:47,365
-You're right. I don't have to apologize.
+163
+00:07:44,430 --> 00:07:45,897
+You're right.
 
-123
+164
+00:07:45,897 --> 00:07:47,364
+I don't have to apologize.
+
+165
 00:07:48,367 --> 00:07:50,232
 Sorry. Damn it!
 
-124
+166
 00:07:56,442 --> 00:07:57,392
 What is it?
 
-125
+167
 00:07:57,392 --> 00:07:58,342
 I don't know.
 
-126
-00:07:58,377 --> 00:08:03,178
-It's got all this stuff about wind and trees and a sacred pool.
+168
+00:07:58,377 --> 00:08:00,777
+It's got all this stuff about wind
 
-127
-00:08:03,282 --> 00:08:06,308
-I don't get it. But she's upset about it.
+169
+00:08:00,777 --> 00:08:03,177
+and trees and a sacred pool.
 
-128
-00:08:06,385 --> 00:08:10,185
-This is why I don't date women who read.
+170
+00:08:03,282 --> 00:08:04,795
+I don't get it.
 
-129
+171
+00:08:04,795 --> 00:08:06,308
+But she's upset about it.
+
+172
+00:08:06,385 --> 00:08:08,285
+This is why I don't date
+
+173
+00:08:08,285 --> 00:08:10,185
+women who read.
+
+174
 00:08:11,390 --> 00:08:12,402
 Uh-oh.
 
-130
+175
 00:08:12,402 --> 00:08:13,414
 What's that?
 
-131
-00:08:14,393 --> 00:08:19,194
-It's my Visa bill. Envelope one of two.
+176
+00:08:14,393 --> 00:08:16,793
+It's my Visa bill.
 
-132
+177
+00:08:16,793 --> 00:08:19,193
+Envelope one of two.
+
+178
 00:08:20,433 --> 00:08:22,316
 That can't be good.
 
-133
+179
 00:08:22,316 --> 00:08:24,199
 Open it, open it.
 
-134
+180
 00:08:26,439 --> 00:08:28,304
 Oh, my God.
 
-135
-00:08:29,208 --> 00:08:32,234
-Look at this. How did I spend so much money?
+181
+00:08:29,208 --> 00:08:30,721
+Look at this.
 
-136
-00:08:32,411 --> 00:08:36,404
-That's just the minimum amount due. That's your total due.
+182
+00:08:30,721 --> 00:08:32,234
+How did I spend so much money?
 
-137
-00:08:38,217 --> 00:08:41,482
-Thirty-five hundred dollars at ''Porcelain Safari''?
+183
+00:08:32,411 --> 00:08:34,407
+That's just the minimum amount due.
 
-138
+184
+00:08:34,407 --> 00:08:36,403
+That's your total due.
+
+185
+00:08:38,217 --> 00:08:39,849
+Thirty-five hundred dollars
+
+186
+00:08:39,849 --> 00:08:41,481
+at ''Porcelain Safari''?
+
+187
 00:08:42,255 --> 00:08:44,314
 My animals.
 
-139
-00:08:44,457 --> 00:08:49,417
-The guy said they suited me. He spoke with an accent. I was confused.
+188
+00:08:44,457 --> 00:08:46,937
+The guy said they suited me. He spoke
 
-140
+189
+00:08:46,937 --> 00:08:49,417
+with an accent. I was confused.
+
+190
 00:08:50,229 --> 00:08:51,321
 What am I gonna do?
 
-141
-00:08:51,430 --> 00:08:54,422
-Start by driving a cab on Another World.
+191
+00:08:51,430 --> 00:08:52,926
+Start by driving a cab
 
-142
+192
+00:08:52,926 --> 00:08:54,422
+on Another World.
+
+193
 00:08:54,467 --> 00:08:55,417
 What?
 
-143
+194
 00:08:55,417 --> 00:08:56,367
 That audition?
 
-144
+195
 00:08:56,469 --> 00:08:58,369
 That's a two-line part.
 
-145
-00:08:58,471 --> 00:09:02,407
-Joey, you owe $1 100 at ''I Love Lucite.''
+196
+00:08:58,471 --> 00:09:00,439
+Joey, you owe $1 100
 
-146
+197
+00:09:00,439 --> 00:09:02,407
+at ''I Love Lucite.''
+
+198
 00:09:03,276 --> 00:09:04,271
 So what?
 
-147
+199
 00:09:04,271 --> 00:09:05,266
 So suck it up, man.
 
-148
+200
 00:09:05,378 --> 00:09:07,278
 It's a job. It's money.
 
-149
-00:09:07,313 --> 00:09:12,182
-I don't need you getting judgmental and condescending and pedantic.
+201
+00:09:07,313 --> 00:09:09,747
+I don't need you getting judgmental
 
-150
+202
+00:09:09,747 --> 00:09:12,181
+and condescending and pedantic.
+
+203
 00:09:12,285 --> 00:09:13,382
 Toilet paper?
 
-151
+204
 00:09:13,382 --> 00:09:14,479
 Yeah.
 
-152
-00:09:16,389 --> 00:09:19,381
-I'm not any of those. I'm being realistic.
+205
+00:09:16,389 --> 00:09:17,885
+I'm not any of those.
 
-153
+206
+00:09:17,885 --> 00:09:19,381
+I'm being realistic.
+
+207
 00:09:19,425 --> 00:09:20,909
 You're supposed to be my friend.
 
-154
+208
 00:09:20,909 --> 00:09:22,393
 I am.
 
-155
-00:09:23,195 --> 00:09:26,392
-Then tell me things like, ''You'll be fine.''
+209
+00:09:23,195 --> 00:09:24,793
+Then tell me things like,
 
-156
+210
+00:09:24,793 --> 00:09:26,391
+''You'll be fine.''
+
+211
 00:09:26,432 --> 00:09:27,928
 ''Something big's coming. I know it!''
 
-157
+212
 00:09:27,928 --> 00:09:29,424
 I don't.
 
-158
-00:09:30,236 --> 00:09:34,434
-What I do know is you owe $2300 at ''Isn't It Chromantic?''
+213
+00:09:30,236 --> 00:09:32,335
+What I do know is you owe $2300
 
-159
+214
+00:09:32,335 --> 00:09:34,434
+at ''Isn't It Chromantic?''
+
+215
 00:09:35,308 --> 00:09:37,208
 I'm aware of what I owe.
 
-160
-00:09:37,310 --> 00:09:41,212
-Then get some sense. It took 10 years to get that job.
+216
+00:09:37,310 --> 00:09:39,261
+Then get some sense.
 
-161
+217
+00:09:39,261 --> 00:09:41,212
+It took 10 years to get that job.
+
+218
 00:09:41,314 --> 00:09:42,827
 How long till the next?
 
-162
+219
 00:09:42,827 --> 00:09:44,340
 I don't wanna hear it!
 
-163
+220
 00:09:44,417 --> 00:09:45,913
 I'm just saying--
 
-164
+221
 00:09:45,913 --> 00:09:47,409
 Well, don't just say!
 
-165
+222
 00:09:50,256 --> 00:09:51,803
 Maybe I should just go.
 
-166
+223
 00:09:51,803 --> 00:09:53,350
 Okay.
 
-167
+224
 00:09:53,426 --> 00:09:56,361
 Okay. I'll see you later.
 
-168
+225
 00:09:57,363 --> 00:09:59,314
 Just think about it.
 
-169
+226
 00:09:59,314 --> 00:10:01,265
 I don't need to think about it!
 
-170
-00:10:01,334 --> 00:10:05,430
-I was Dr. Drake Ramoray! That was huge!
+227
+00:10:01,334 --> 00:10:03,382
+I was Dr. Drake Ramoray!
 
-171
-00:10:06,238 --> 00:10:10,231
-Big things are gonna happen! You'll see! Ross?
+228
+00:10:03,382 --> 00:10:05,430
+That was huge!
 
-172
+229
+00:10:06,238 --> 00:10:08,234
+Big things are gonna happen!
+
+230
+00:10:08,234 --> 00:10:10,230
+You'll see! Ross?
+
+231
 00:10:10,276 --> 00:10:11,436
 You still there?
 
-173
+232
 00:10:34,400 --> 00:10:36,368
 Hey, pal!
 
-174
+233
 00:10:38,504 --> 00:10:40,938
 What are you still doing here?
 
-175
+234
 00:10:40,938 --> 00:10:43,372
 Dehydrating fruits and vegetables.
 
-176
+235
 00:10:43,476 --> 00:10:46,468
 Man alive, this thing's fantastic!
 
-177
+236
 00:10:47,380 --> 00:10:49,393
 Aren't you forgetting anything?
 
-178
+237
 00:10:49,393 --> 00:10:51,406
 Right. I got us a new goldfish.
 
-179
+238
 00:10:51,484 --> 00:10:54,282
 He's feistier than the last one.
 
-180
-00:10:54,320 --> 00:10:58,279
-Maybe because the last one was made by Pepperidge Farm.
+239
+00:10:54,320 --> 00:10:56,299
+Maybe because the last one
 
-181
-00:10:58,391 --> 00:11:02,225
-Isn't there something else you're supposed to be doing?
+240
+00:10:56,299 --> 00:10:58,278
+was made by Pepperidge Farm.
 
-182
-00:11:02,261 --> 00:11:09,258
-Not unless it's got to do with dehydrating. Right now I'm a dehydrating maniac!
+241
+00:10:58,391 --> 00:11:00,308
+Isn't there something else
 
-184
-00:11:10,436 --> 00:11:13,530
-Look, we had a deal. I thought by the time I got--
+242
+00:11:00,308 --> 00:11:02,225
+you're supposed to be doing?
 
-185
+243
+00:11:02,261 --> 00:11:03,859
+Not unless it's got to do
+
+244
+00:11:03,859 --> 00:11:09,258
+with dehydrating. Right now I'm a dehydrating maniac!
+
+246
+00:11:10,436 --> 00:11:11,983
+Look, we had a deal.
+
+247
+00:11:11,983 --> 00:11:13,530
+I thought by the time I got--
+
+248
 00:11:14,273 --> 00:11:15,467
 You know what that is?
 
-186
+249
 00:11:16,242 --> 00:11:19,234
 Your last roommate's kidney?
 
-187
+250
 00:11:19,345 --> 00:11:21,245
 That's a tomato.
 
-188
-00:11:21,347 --> 00:11:24,441
-This one definitely goes in the display.
+251
+00:11:21,347 --> 00:11:22,894
+This one definitely
 
-189
-00:11:33,292 --> 00:11:36,261
-Hey, Gunther. Let me get a lemonade to go.
+252
+00:11:22,894 --> 00:11:24,441
+goes in the display.
 
-190
+253
+00:11:33,292 --> 00:11:34,776
+Hey, Gunther.
+
+254
+00:11:34,776 --> 00:11:36,260
+Let me get a lemonade to go.
+
+255
 00:11:36,395 --> 00:11:39,387
 Lemonade? You okay, man?
 
-191
-00:11:40,366 --> 00:11:44,462
-It's career stuff. They killed off my character on the show.
+256
+00:11:40,366 --> 00:11:42,414
+It's career stuff. They killed off
 
-192
+257
+00:11:42,414 --> 00:11:44,462
+my character on the show.
+
+258
 00:11:45,304 --> 00:11:47,465
 That's too bad. How'd they do it?
 
-193
+259
 00:11:47,573 --> 00:11:50,474
 I fell down an elevator shaft.
 
-194
-00:11:51,277 --> 00:11:54,269
-That sucks. I was buried in an avalanche.
+260
+00:11:51,277 --> 00:11:52,773
+That sucks.
 
-195
+261
+00:11:52,773 --> 00:11:54,269
+I was buried in an avalanche.
+
+262
 00:11:55,514 --> 00:11:57,448
 What?
 
-196
+263
 00:11:57,448 --> 00:11:59,382
 I was Bryce on All My Children.
 
-197
+264
 00:12:21,373 --> 00:12:23,432
 Why must everybody watch me sleep?
 
-198
-00:12:23,476 --> 00:12:27,276
-No more watching me sleep! No more...watching!
+265
+00:12:23,476 --> 00:12:25,376
+No more watching me sleep!
 
-199
-00:12:38,357 --> 00:12:42,384
-I got new stuff to dehydrate. I got some grapes and apricots.
+266
+00:12:25,376 --> 00:12:27,276
+No more...watching!
 
-200
-00:12:42,461 --> 00:12:46,295
-I thought it'd be cool to do water balloons.
+267
+00:12:38,357 --> 00:12:40,370
+I got new stuff to dehydrate.
 
-201
+268
+00:12:40,370 --> 00:12:42,383
+I got some grapes and apricots.
+
+269
+00:12:42,461 --> 00:12:44,378
+I thought it'd be cool
+
+270
+00:12:44,378 --> 00:12:46,295
+to do water balloons.
+
+271
 00:12:46,398 --> 00:12:49,390
 Get out. Get out, get out, get out!
 
-202
+272
 00:12:51,303 --> 00:12:51,900
 What?
 
-203
+273
 00:12:51,900 --> 00:12:52,497
 You. Move out!
 
-204
-00:12:53,272 --> 00:12:57,265
-Take your fruit. Your stupid small fruit and get out!
+274
+00:12:53,272 --> 00:12:55,268
+Take your fruit.
 
-205
+275
+00:12:55,268 --> 00:12:57,264
+Your stupid small fruit and get out!
+
+276
 00:12:57,376 --> 00:12:59,310
 You want me to move out?
 
-206
-00:13:08,354 --> 00:13:12,222
-I gotta tell you, that's kind of out of the blue.
+277
+00:13:08,354 --> 00:13:10,288
+I gotta tell you,
 
-207
-00:13:13,425 --> 00:13:18,419
-This is not out of the blue. This is smack-dab in the middle of the blue!
+278
+00:13:10,288 --> 00:13:12,222
+that's kind of out of the blue.
 
-208
+279
+00:13:13,425 --> 00:13:15,922
+This is not out of the blue. This is
+
+280
+00:13:15,922 --> 00:13:18,419
+smack-dab in the middle of the blue!
+
+281
 00:13:20,232 --> 00:13:22,223
 Relax! Take it easy, buddy!
 
-209
+282
 00:13:22,334 --> 00:13:25,235
 You don't have to tell me twice.
 
-210
+283
 00:13:25,337 --> 00:13:28,238
 Someone will be by for my stuff.
 
-211
-00:13:32,444 --> 00:13:37,279
-If you think I'm leaving you alone with my fish, you're insane!
+284
+00:13:32,444 --> 00:13:34,861
+If you think I'm leaving you
 
-212
+285
+00:13:34,861 --> 00:13:37,278
+alone with my fish, you're insane!
+
+286
 00:13:37,349 --> 00:13:38,896
 You want some help?
 
-213
+287
 00:13:38,896 --> 00:13:40,443
 No help required, chico!
 
-214
+288
 00:13:48,260 --> 00:13:50,251
 You don't see that every day.
 
-215
-00:13:53,499 --> 00:13:57,299
-''All the way to the airport? That's over 30 miles.''
+289
+00:13:53,499 --> 00:13:55,399
+''All the way to the airport?
 
-216
-00:13:57,403 --> 00:14:00,395
-''That's gonna cost you about so bucks.''
+290
+00:13:55,399 --> 00:13:57,299
+That's over 30 miles.''
 
-217
+291
+00:13:57,403 --> 00:13:58,899
+''That's gonna cost you
+
+292
+00:13:58,899 --> 00:14:00,395
+about so bucks.''
+
+293
 00:14:01,207 --> 00:14:03,232
 Excuse me, that's 50 bucks.
 
-218
+294
 00:14:04,310 --> 00:14:05,806
 What?
 
-219
+295
 00:14:05,806 --> 00:14:07,302
 Five-O dollars.
 
-220
-00:14:08,347 --> 00:14:12,340
-You know what it is? It's smudgy because they're fax pages.
+296
+00:14:08,347 --> 00:14:10,343
+You know what it is?
 
-221
-00:14:12,418 --> 00:14:19,449
-When I was on Days of our Lives as Dr. Drake Ramoray they'd send over the whole script on real paper.
+297
+00:14:10,343 --> 00:14:12,339
+It's smudgy because they're fax pages.
 
-223
+298
+00:14:12,418 --> 00:14:14,335
+When I was on Days of our Lives
+
+299
+00:14:14,335 --> 00:14:17,902
+as Dr. Drake Ramoray they'd send over
+
+301
+00:14:17,902 --> 00:14:19,449
+the whole script on real paper.
+
+302
 00:14:20,259 --> 00:14:21,453
 That's great.
 
-224
-00:14:22,261 --> 00:14:31,531
-If you wanted to expand this scene, like have the cab crash I could attend to the victims. I have a background in medical acting.
+303
+00:14:22,261 --> 00:14:24,758
+If you wanted to expand this scene,
 
-226
+304
+00:14:24,758 --> 00:14:29,432
+like have the cab crash I could attend to the victims.
+
+306
+00:14:29,432 --> 00:14:31,531
+I have a background in medical acting.
+
+307
 00:14:32,271 --> 00:14:34,250
 Thanks for coming in.
 
-227
+308
 00:14:34,250 --> 00:14:36,229
 Don't thank me for coming in.
 
-228
+309
 00:14:36,442 --> 00:14:38,467
 At least let me finish.
 
-229
+310
 00:14:42,381 --> 00:14:44,372
 ''We could take the expressway.''
 
-230
-00:14:44,450 --> 00:14:48,443
-''But this time of day, you're better off taking the budge.''
+311
+00:14:44,450 --> 00:14:46,446
+''But this time of day,
 
-231
-00:14:51,290 --> 00:14:54,259
-You were going for ''bridge,'' weren't you?
+312
+00:14:46,446 --> 00:14:48,442
+you're better off taking the budge.''
 
-232
+313
+00:14:51,290 --> 00:14:52,774
+You were going for ''bridge,''
+
+314
+00:14:52,774 --> 00:14:54,258
+weren't you?
+
+315
 00:14:55,294 --> 00:14:57,285
 I'll have a good day.
 
-233
-00:15:00,432 --> 00:15:04,300
-Honey, I know you didn't mean to. I know, me too.
+316
+00:15:00,432 --> 00:15:02,366
+Honey, I know you didn't mean to.
 
-234
-00:15:04,403 --> 00:15:08,237
-Hang up. You're supposed to be taking a goddess quiz.
+317
+00:15:02,366 --> 00:15:04,300
+I know, me too.
 
-235
-00:15:08,407 --> 00:15:13,310
-You should lose 100 points for calling your boyfriend in the middle of it.
+318
+00:15:04,403 --> 00:15:06,320
+Hang up. You're supposed to be
 
-236
+319
+00:15:06,320 --> 00:15:08,237
+taking a goddess quiz.
+
+320
+00:15:08,407 --> 00:15:10,858
+You should lose 100 points for calling
+
+321
+00:15:10,858 --> 00:15:13,309
+your boyfriend in the middle of it.
+
+322
 00:15:18,350 --> 00:15:19,408
 Question 28.
 
-237
-00:15:19,518 --> 00:15:23,454
-''Have you ever allowed a lightning-bearer to take your wind?''
+323
+00:15:19,518 --> 00:15:21,486
+''Have you ever allowed
 
-238
+324
+00:15:21,486 --> 00:15:23,454
+a lightning-bearer to take your wind?''
+
+325
 00:15:24,423 --> 00:15:26,323
 I would have to say no.
 
-239
+326
 00:15:28,527 --> 00:15:30,427
 And I would have to say:
 
-240
+327
 00:15:31,463 --> 00:15:32,947
 What?
 
-241
+328
 00:15:32,947 --> 00:15:34,431
 You don't remember the puppet guy?
 
-242
-00:15:34,466 --> 00:15:39,460
-You totally let him wash his feet in the pool of your inner power.
+329
+00:15:34,466 --> 00:15:36,963
+You totally let him wash his feet
 
-243
+330
+00:15:36,963 --> 00:15:39,460
+in the pool of your inner power.
+
+331
 00:15:41,340 --> 00:15:43,240
 And his puppet too!
 
-244
-00:15:43,375 --> 00:15:49,474
-At least I didn't let a guy into the forest of my righteous truth on the first date!
+332
+00:15:43,375 --> 00:15:45,457
+At least I didn't let a guy into
 
-246
+333
+00:15:45,457 --> 00:15:49,474
+the forest of my righteous truth on the first date!
+
+335
 00:15:53,252 --> 00:15:53,798
 Who?
 
-247
+336
 00:15:53,798 --> 00:15:54,344
 Paul!
 
-248
+337
 00:15:54,386 --> 00:15:55,478
 Oh.
 
-249
+338
 00:15:57,256 --> 00:15:59,349
 Moving on. Next question.
 
-250
+339
 00:15:59,458 --> 00:16:01,187
 Okay, number 29.
 
-251
-00:16:01,293 --> 00:16:07,299
-''Have you ever betrayed another goddess for a lightning-bearer?'' Number 30.
+340
+00:16:01,293 --> 00:16:02,789
+''Have you ever betrayed
 
-253
-00:16:07,333 --> 00:16:10,302
-Whoa, whoa, whoa! Let's go back to 29.
+341
+00:16:02,789 --> 00:16:05,814
+another goddess for a lightning-bearer?''
 
-254
+343
+00:16:05,814 --> 00:16:07,298
+Number 30.
+
+344
+00:16:07,333 --> 00:16:08,817
+Whoa, whoa, whoa!
+
+345
+00:16:08,817 --> 00:16:10,301
+Let's go back to 29.
+
+346
 00:16:14,406 --> 00:16:16,306
 Not to my recollection.
 
-255
-00:16:18,243 --> 00:16:22,441
-Danny Arshak, ninth grade. You know the bottle was pointing at me.
+347
+00:16:18,243 --> 00:16:20,342
+Danny Arshak, ninth grade. You know
 
-256
-00:16:23,315 --> 00:16:27,217
-Only because you took up half the circle.
+348
+00:16:20,342 --> 00:16:22,441
+the bottle was pointing at me.
 
-257
-00:16:29,455 --> 00:16:33,357
-Listen to you two. It's so sad.
+349
+00:16:23,315 --> 00:16:25,266
+Only because you took up
 
-258
-00:16:33,459 --> 00:16:37,361
-Looks like I'll be going to the goddess meetings alone.
+350
+00:16:25,266 --> 00:16:27,217
+half the circle.
 
-259
-00:16:37,429 --> 00:16:44,430
-Not if they find out you slept with Jason Hurley an hour after he broke up with Monica.
+351
+00:16:29,455 --> 00:16:31,406
+Listen to you two.
 
-261
+352
+00:16:31,406 --> 00:16:33,357
+It's so sad.
+
+353
+00:16:33,459 --> 00:16:35,410
+Looks like I'll be going
+
+354
+00:16:35,410 --> 00:16:37,361
+to the goddess meetings alone.
+
+355
+00:16:37,429 --> 00:16:38,942
+Not if they find out you slept
+
+356
+00:16:38,942 --> 00:16:42,831
+with Jason Hurley an hour after he broke up
+
+358
+00:16:42,831 --> 00:16:44,429
+with Monica.
+
+359
 00:16:45,471 --> 00:16:47,268
 Only an hour?
 
-262
+360
 00:16:47,439 --> 00:16:50,272
 You are such a leaf-blower!
 
-263
+361
 00:16:50,542 --> 00:16:51,907
 Pool-drainer.
 
-264
+362
 00:16:51,907 --> 00:16:53,272
 Twig-snapper.
 
-265
+363
 00:16:53,379 --> 00:16:54,368
 Monkey butt.
 
-266
+364
 00:16:57,282 --> 00:16:58,266
 That isn't in the book.
 
-267
+365
 00:16:58,266 --> 00:16:59,250
 No.
 
-268
+366
 00:16:59,284 --> 00:17:01,309
 But that's what you are.
 
-269
-00:17:13,332 --> 00:17:18,201
-Careful with that 3-D Last Supper. Judas is a little loose.
+367
+00:17:13,332 --> 00:17:15,766
+Careful with that 3-D Last Supper.
 
-270
+368
+00:17:15,766 --> 00:17:18,200
+Judas is a little loose.
+
+369
 00:17:22,441 --> 00:17:24,432
 Oh, my God! What's going on?
 
-271
-00:17:25,444 --> 00:17:29,244
-They're taking all my stuff back. You were right.
+370
+00:17:25,444 --> 00:17:27,344
+They're taking all my stuff back.
 
-272
-00:17:29,348 --> 00:17:33,250
-I wasn't right. That's what I came here to tell you.
+371
+00:17:27,344 --> 00:17:29,244
+You were right.
 
-273
-00:17:33,419 --> 00:17:37,253
-I was hung up on my own stuff the other day.
+372
+00:17:29,348 --> 00:17:31,299
+I wasn't right.
 
-274
-00:17:37,356 --> 00:17:41,258
-No, listen. I need the whole security thing, you know?
+373
+00:17:31,299 --> 00:17:33,250
+That's what I came here to tell you.
 
-275
-00:17:41,326 --> 00:17:45,422
-To know where my next paycheck is coming from. You don't need that.
+374
+00:17:33,419 --> 00:17:35,336
+I was hung up on my own stuff
 
-276
-00:17:46,265 --> 00:17:50,258
-That's amazing to me. I could never do what you do.
+375
+00:17:35,336 --> 00:17:37,253
+the other day.
 
-277
+376
+00:17:37,356 --> 00:17:39,307
+No, listen. I need the whole
+
+377
+00:17:39,307 --> 00:17:41,258
+security thing, you know?
+
+378
+00:17:41,326 --> 00:17:43,374
+To know where my next paycheck
+
+379
+00:17:43,374 --> 00:17:45,422
+is coming from. You don't need that.
+
+380
+00:17:46,265 --> 00:17:48,261
+That's amazing to me.
+
+381
+00:17:48,261 --> 00:17:50,257
+I could never do what you do.
+
+382
 00:17:51,303 --> 00:17:52,383
 Thanks.
 
-278
+383
 00:17:52,383 --> 00:17:53,463
 Hold out for something bigger.
 
-279
-00:17:54,273 --> 00:17:59,301
-I have so much respect for you for not going to that cab driver audition.
+384
+00:17:54,273 --> 00:17:56,787
+I have so much respect for you for not
 
-280
+385
+00:17:56,787 --> 00:17:59,301
+going to that cab driver audition.
+
+386
 00:17:59,378 --> 00:18:00,293
 I went.
 
-281
+387
 00:18:00,293 --> 00:18:01,208
 Great! How was it?
 
-282
+388
 00:18:01,480 --> 00:18:03,345
 I didn't get it.
 
-283
+389
 00:18:03,345 --> 00:18:05,210
 Good! You're living the dream!
 
-284
+390
 00:18:05,284 --> 00:18:06,376
 Huh?
 
-285
+391
 00:18:07,186 --> 00:18:08,414
 All right, then!
 
-286
+392
 00:18:10,189 --> 00:18:11,486
 Not my parrot.
 
-287
+393
 00:18:12,424 --> 00:18:15,291
 I can't watch this.
 
-288
+394
 00:18:16,195 --> 00:18:17,389
 Hey, hold on, hold on.
 
-289
-00:18:18,330 --> 00:18:22,198
-How much for the--? How much to save the bird?
+395
+00:18:18,330 --> 00:18:20,264
+How much for the--?
 
-290
+396
+00:18:20,264 --> 00:18:22,198
+How much to save the bird?
+
+397
 00:18:22,301 --> 00:18:22,898
 Twelve hundred.
 
-291
+398
 00:18:22,898 --> 00:18:23,495
 Dollars?
 
-292
+399
 00:18:24,336 --> 00:18:26,497
 You spent $1 200 on a plastic bird?
 
-293
-00:18:27,306 --> 00:18:30,207
-It was an impulse buy near the register.
+400
+00:18:27,306 --> 00:18:28,756
+It was an impulse buy
 
-294
+401
+00:18:28,756 --> 00:18:30,206
+near the register.
+
+402
 00:18:30,409 --> 00:18:33,207
 Go ahead with the bird.
 
-295
+403
 00:18:33,312 --> 00:18:36,338
 Do you have anything for around $200?
 
-296
+404
 00:18:38,250 --> 00:18:39,308
 The dog.
 
-297
+405
 00:18:40,252 --> 00:18:41,412
 Yeah.
 
-298
+406
 00:18:43,422 --> 00:18:46,414
 I'll take it. My gift to you, man.
 
-299
+407
 00:18:49,261 --> 00:18:50,319
 Thanks, Ross!
 
-300
+408
 00:18:50,429 --> 00:18:53,227
 I really liked that bird, though.
 
-301
+409
 00:18:53,332 --> 00:18:55,232
 But the dog!
 
-302
+410
 00:19:04,276 --> 00:19:05,772
 Here are your cakes.
 
-303
+411
 00:19:05,772 --> 00:19:07,268
 We didn't order cake.
 
-304
+412
 00:19:07,479 --> 00:19:11,210
 No, I know. They're from me.
 
-305
-00:19:11,316 --> 00:19:18,279
-This isn't good. We have enough trouble with guys stealing our wind without taking each other's.
+413
+00:19:11,316 --> 00:19:13,750
+This isn't good. We have enough
 
-307
+414
+00:19:13,750 --> 00:19:18,279
+trouble with guys stealing our wind without taking each other's.
+
+416
 00:19:18,423 --> 00:19:20,220
 You're right.
 
-308
+417
 00:19:21,193 --> 00:19:22,387
 I love you goddesses.
 
-309
-00:19:25,330 --> 00:19:28,299
-I don't ever want to suck your wind again.
+418
+00:19:25,330 --> 00:19:26,814
+I don't ever want
 
-310
+419
+00:19:26,814 --> 00:19:28,298
+to suck your wind again.
+
+420
 00:19:29,201 --> 00:19:30,264
 Thank you. So are we good?
 
-311
+421
 00:19:30,264 --> 00:19:31,327
 We're good.
 
-312
+422
 00:19:31,436 --> 00:19:32,368
 We're good?
 
-313
+423
 00:19:32,368 --> 00:19:33,300
 Yes.
 
-314
-00:19:33,405 --> 00:19:37,398
-Let me take these back. They'll take it out of my paycheck.
+424
+00:19:33,405 --> 00:19:35,401
+Let me take these back.
 
-315
+425
+00:19:35,401 --> 00:19:37,397
+They'll take it out of my paycheck.
+
+426
 00:19:39,411 --> 00:19:41,402
 Ding-dong, the psycho's gone!
 
-316
+427
 00:19:46,318 --> 00:19:48,269
 Are you sure this time?
 
-317
+428
 00:19:48,269 --> 00:19:50,220
 Yes. I actually saw him leave.
 
-318
-00:19:50,322 --> 00:19:55,350
-That guy is standing in the window holding a human head!
+429
+00:19:50,322 --> 00:19:52,836
+That guy is standing in the window
 
-319
-00:19:58,330 --> 00:20:02,323
-I tore it off some mannequin in the alley behind Macy's.
+430
+00:19:52,836 --> 00:19:55,350
+holding a human head!
 
-320
+431
+00:19:58,330 --> 00:20:00,326
+I tore it off some mannequin
+
+432
+00:20:00,326 --> 00:20:02,322
+in the alley behind Macy's.
+
+433
 00:20:02,367 --> 00:20:04,232
 There's no alley there.
 
-321
-00:20:04,269 --> 00:20:07,363
-I got in the junior miss department. Big diff.
+434
+00:20:04,269 --> 00:20:05,816
+I got in the junior miss department.
 
-322
+435
+00:20:05,816 --> 00:20:07,363
+Big diff.
+
+436
 00:20:07,472 --> 00:20:10,441
 It can be at our next cocktail party.
 
-323
+437
 00:20:10,475 --> 00:20:13,444
 ''Our next cocktail party''?
 
-324
-00:20:14,279 --> 00:20:17,442
-We'll put chips in it. We'll make it a chip chick.
+438
+00:20:14,279 --> 00:20:15,860
+We'll put chips in it.
 
-325
+439
+00:20:15,860 --> 00:20:17,441
+We'll make it a chip chick.
+
+440
 00:20:20,352 --> 00:20:22,343
 Do you remember yesterday?
 
-326
+441
 00:20:22,454 --> 00:20:25,548
 Yes, I think I vaguely recall it.
 
-327
-00:20:29,494 --> 00:20:32,486
-Do you remember talking to me yesterday?
+442
+00:20:29,494 --> 00:20:30,990
+Do you remember
 
-328
+443
+00:20:30,990 --> 00:20:32,486
+talking to me yesterday?
+
+444
 00:20:34,266 --> 00:20:35,494
 Yes.
 
-329
+445
 00:20:39,471 --> 00:20:40,984
 What happened?
 
-330
+446
 00:20:40,984 --> 00:20:42,497
 We took a road trip to Las Vegas.
 
-331
+447
 00:20:43,308 --> 00:20:45,367
 Oh, sweet Moses!
 
-332
-00:20:46,411 --> 00:20:49,312
-On this road trip, you win any money?
+448
+00:20:46,411 --> 00:20:47,861
+On this road trip,
 
-333
-00:20:49,381 --> 00:20:53,374
-I crapped out. But Mr. 21 here! He cleans up! $300!
+449
+00:20:47,861 --> 00:20:49,311
+you win any money?
 
-334
+450
+00:20:49,381 --> 00:20:51,377
+I crapped out. But Mr. 21 here!
+
+451
+00:20:51,377 --> 00:20:53,373
+He cleans up! $300!
+
+452
 00:20:53,418 --> 00:20:54,464
 He buys me these new shoes.
 
-335
+453
 00:20:54,464 --> 00:20:55,510
 Nice.
 
-336
+454
 00:20:57,322 --> 00:21:00,257
 See you upstairs. See you, pals.
 
-337
-00:21:03,228 --> 00:21:06,254
-Is anyone else starting to really like him?
+455
+00:21:03,228 --> 00:21:04,741
+Is anyone else starting
 
-338
+456
+00:21:04,741 --> 00:21:06,254
+to really like him?
+
+457
 00:21:26,251 --> 00:21:27,479
 May I help you?
 
-339
-00:21:28,453 --> 00:21:32,355
-Why doesn't my key work, and why's my stuff downstairs?
+458
+00:21:28,453 --> 00:21:30,404
+Why doesn't my key work,
 
-340
+459
+00:21:30,404 --> 00:21:32,355
+and why's my stuff downstairs?
+
+460
 00:21:32,391 --> 00:21:34,256
 I'm sorry.
 
-341
+461
 00:21:35,260 --> 00:21:36,352
 Have we met?
 
-342
-00:21:36,461 --> 00:21:39,396
-It's Eddie, you freak! Your roommate.
+462
+00:21:36,461 --> 00:21:37,928
+It's Eddie, you freak!
 
-343
+463
+00:21:37,928 --> 00:21:39,395
+Your roommate.
+
+464
 00:21:39,564 --> 00:21:44,358
 I'm sorry I already have a roommate.
 
-345
+466
 00:21:46,471 --> 00:21:47,460
 Hello.
 
-346
-00:21:51,376 --> 00:21:55,574
-He's lived here for years. I don't know what you're talking about.
+467
+00:21:51,376 --> 00:21:53,475
+He's lived here for years. I don't
 
-347
+468
+00:21:53,475 --> 00:21:55,574
+know what you're talking about.
+
+469
 00:21:58,517 --> 00:22:02,248
 No. He moved out and I moved in.
 
-348
-00:22:03,422 --> 00:22:07,256
-Well, I think we'd remember something like that.
+470
+00:22:03,422 --> 00:22:05,339
+Well, I think we'd remember
 
-349
+471
+00:22:05,339 --> 00:22:07,256
+something like that.
+
+472
 00:22:07,326 --> 00:22:09,351
 I know I would.
 
-350
+473
 00:22:10,362 --> 00:22:12,353
 That's a good point.
 
-351
+474
 00:22:13,231 --> 00:22:14,220
 Okay, wow.
 
-352
+475
 00:22:14,333 --> 00:22:18,235
 I guess I got the wrong apartment.
 
-353
+476
 00:22:19,438 --> 00:22:20,837
 I'm terribly sorry.
 
-354
+477
 00:22:20,837 --> 00:22:22,236
 Hey, no problem.
 
-355
+478
 00:22:22,341 --> 00:22:23,330
 See you.
 
-356
+479
 00:22:29,481 --> 00:22:33,474
 Goodbye, you fruit-drying psychopath.
 
-357
+480
 00:22:34,486 --> 00:22:36,465
 You want me to help you unpack?
 
-358
+481
 00:22:36,465 --> 00:22:38,444
 No, I'm okay.
 
-359
-00:22:38,490 --> 00:22:42,449
-Just so you know, I'm not moving back because I have to.
+482
+00:22:38,490 --> 00:22:40,469
+Just so you know, I'm not
 
-360
+483
+00:22:40,469 --> 00:22:42,448
+moving back because I have to.
+
+484
 00:22:42,494 --> 00:22:45,395
 I mean, I do have to, but....
 
-361
-00:22:45,497 --> 00:22:48,489
-It's just that that place, it wasn't really....
+485
+00:22:45,497 --> 00:22:46,993
+It's just that that place,
 
-362
+486
+00:22:46,993 --> 00:22:48,489
+it wasn't really....
+
+487
 00:22:49,301 --> 00:22:51,360
 I mean, this is....
 
-363
+488
 00:22:52,371 --> 00:22:54,362
 Welcome home, man.
 
-364
+489
 00:23:03,315 --> 00:23:04,811
 A little foos?
 
-365
+490
 00:23:04,811 --> 00:23:06,307
 Absolutely.
 
-366
+491
 00:23:08,320 --> 00:23:10,345
 What happened to the foosball?
 
-367
+492
 00:23:10,455 --> 00:23:12,252
 It's a cantaloupe.
 
-368
-00:23:17,329 --> 00:23:20,355
-Are we bringing this out every time Ross comes?
+493
+00:23:17,329 --> 00:23:18,842
+Are we bringing this out
 
-369
+494
+00:23:18,842 --> 00:23:20,355
+every time Ross comes?
+
+495
 00:23:20,432 --> 00:23:23,367
 He paid a lot of money for it.
 
-370
+496
 00:23:28,473 --> 00:23:31,374
 I'm gonna hold him a different way.
 
-371
-00:23:32,344 --> 00:23:35,541
-If you hated it so much, why did you buy it?
+497
+00:23:32,344 --> 00:23:33,942
+If you hated it so much,
 
-372
-00:23:36,281 --> 00:23:39,478
-I had a whole ceramic zoo thing going over there.
+498
+00:23:33,942 --> 00:23:35,540
+why did you buy it?
 
-373
-00:23:40,285 --> 00:23:42,480
-But without the others, it looks tacky.
+499
+00:23:36,281 --> 00:23:37,879
+I had a whole ceramic
 
-374
-00:23:43,288 --> 00:23:47,247
-Yeah. With things like this, more is always better.
+500
+00:23:37,879 --> 00:23:39,477
+zoo thing going over there.
 
-375
-00:23:48,393 --> 00:23:53,262
-Is he housetrained or will he leave little bathroom tiles all over?
+501
+00:23:40,285 --> 00:23:41,382
+But without the others,
 
-376
+502
+00:23:41,382 --> 00:23:42,479
+it looks tacky.
+
+503
+00:23:43,288 --> 00:23:45,267
+Yeah. With things like this,
+
+504
+00:23:45,267 --> 00:23:47,246
+more is always better.
+
+505
+00:23:48,393 --> 00:23:50,827
+Is he housetrained or will he leave
+
+506
+00:23:50,827 --> 00:23:53,261
+little bathroom tiles all over?
+
+507
 00:23:53,298 --> 00:23:54,356
 Stay.
 
-377
+508
 00:23:55,500 --> 00:23:57,297
 Stay!
 
-378
+509
 00:23:57,369 --> 00:23:59,462
 Good fake dog.
 

@@ -3,1355 +3,1834 @@
 Okay, I checked.
 
 2
-00:00:04,471 --> 00:00:12,343
-We have Earl Grey, English Breakfast, Cinnamon Stick Chamomile, Mint Medley, Blackberry and--
+00:00:04,471 --> 00:00:06,405
+We have Earl Grey, English Breakfast,
 
-4
-00:00:12,445 --> 00:00:15,346
-Wait, there's one more. Lemon Soother!
+3
+00:00:06,405 --> 00:00:10,392
+Cinnamon Stick Chamomile, Mint Medley,
 
 5
-00:00:17,283 --> 00:00:20,377
-You're not the guy that asked for tea, are you?
+00:00:10,392 --> 00:00:12,343
+Blackberry and--
 
 6
-00:01:12,372 --> 00:01:15,239
-Mail call! Rachel Greene, bunk seven.
+00:00:12,445 --> 00:00:13,895
+Wait, there's one more.
 
 7
+00:00:13,895 --> 00:00:15,345
+Lemon Soother!
+
+8
+00:00:17,283 --> 00:00:18,830
+You're not the guy that asked
+
+9
+00:00:18,830 --> 00:00:20,377
+for tea, are you?
+
+10
+00:01:12,372 --> 00:01:13,805
+Mail call!
+
+11
+00:01:13,805 --> 00:01:15,238
+Rachel Greene, bunk seven.
+
+12
 00:01:15,341 --> 00:01:16,467
 Thank you.
 
-8
-00:01:18,244 --> 00:01:21,338
-Oh, cool! A free sample of coffee.
+13
+00:01:18,244 --> 00:01:19,791
+Oh, cool!
 
-9
-00:01:21,381 --> 00:01:25,340
-Oh, good. Because where else would we get any?
+14
+00:01:19,791 --> 00:01:21,338
+A free sample of coffee.
 
-10
+15
+00:01:21,381 --> 00:01:23,360
+Oh, good. Because where else
+
+16
+00:01:23,360 --> 00:01:25,339
+would we get any?
+
+17
 00:01:26,352 --> 00:01:28,252
 Oh, right.
 
-11
+18
 00:01:29,456 --> 00:01:30,855
 Oh, great.
 
-12
+19
 00:01:30,855 --> 00:01:32,254
 What is it?
 
-13
+20
 00:01:32,292 --> 00:01:34,260
 Country club newsletter.
 
-14
-00:01:34,360 --> 00:01:39,263
-My mother sends me the engagement notices for inspiration.
+21
+00:01:34,360 --> 00:01:36,811
+My mother sends me the engagement
 
-15
+22
+00:01:36,811 --> 00:01:39,262
+notices for inspiration.
+
+23
 00:01:40,266 --> 00:01:43,463
 Oh, my God! It's Barry and Mindy!
 
-16
+24
 00:01:44,270 --> 00:01:45,498
 Barry, who you almost--
 
-17
+25
 00:01:46,272 --> 00:01:47,466
 And Mindy, your maid of--
 
-18
+26
 00:01:47,507 --> 00:01:50,374
 Let me see. That's Mindy?
 
-19
+27
 00:01:50,477 --> 00:01:51,501
 She is pretty!
 
-20
+28
 00:01:54,380 --> 00:02:00,343
 Lucky...to have had a friend like you.
 
-22
+30
 00:02:01,321 --> 00:02:03,448
 Now it's quiet time.
 
-23
+31
 00:02:09,362 --> 00:02:12,331
 Marcel, bring me the rice. Come on.
 
-24
+32
 00:02:12,398 --> 00:02:14,332
 Good boy. Give me the rice.
 
-25
+33
 00:02:14,400 --> 00:02:16,265
 Thank you. Good boy.
 
-26
-00:02:16,402 --> 00:02:21,430
-He's mastered the difference between ''bring me the'' and ''pee in the.''
+34
+00:02:16,402 --> 00:02:18,916
+He's mastered the difference between
 
-27
-00:02:24,344 --> 00:02:27,245
-''Bring me the'' and-- Rach?
+35
+00:02:18,916 --> 00:02:21,430
+''bring me the'' and ''pee in the.''
 
-28
+36
+00:02:24,344 --> 00:02:25,794
+''Bring me the'' and--
+
+37
+00:02:25,794 --> 00:02:27,244
+Rach?
+
+38
 00:02:29,349 --> 00:02:30,475
 Oh, I'm sorry.
 
-29
+39
 00:02:31,484 --> 00:02:33,384
 This is so stupid!
 
-30
+40
 00:02:33,486 --> 00:02:35,477
 I mean, I gave Barry up, right?
 
-31
+41
 00:02:36,289 --> 00:02:38,280
 I should be happy for them.
 
-32
+42
 00:02:38,358 --> 00:02:40,258
 I am. I'm happy for them.
 
-33
+43
 00:02:40,460 --> 00:02:41,859
 Really?
 
-34
+44
 00:02:41,859 --> 00:02:43,258
 No.
 
-35
-00:02:43,463 --> 00:02:47,365
-I guess it would be different if I were with somebody.
+45
+00:02:43,463 --> 00:02:45,414
+I guess it would be different
 
-36
+46
+00:02:45,414 --> 00:02:47,365
+if I were with somebody.
+
+47
 00:02:47,400 --> 00:02:48,492
 Whoa, what....
 
-37
-00:02:50,303 --> 00:02:54,364
-What happened to ''Forget relationships! I'm done with men!''
+48
+00:02:50,303 --> 00:02:52,333
+What happened to ''Forget
 
-38
+49
+00:02:52,333 --> 00:02:54,363
+relationships! I'm done with men!''
+
+50
 00:02:54,407 --> 00:02:57,376
 The whole penis embargo?
 
-39
+51
 00:03:01,447 --> 00:03:02,436
 I don't know.
 
-40
-00:03:03,249 --> 00:03:07,310
-It's not about no guys. It's about the right guy.
+52
+00:03:03,249 --> 00:03:05,279
+It's not about no guys.
 
-41
-00:03:07,420 --> 00:03:11,413
-With Barry it was safe and easy, but there was no heat.
+53
+00:03:05,279 --> 00:03:07,309
+It's about the right guy.
 
-42
+54
+00:03:07,420 --> 00:03:09,416
+With Barry it was safe and easy,
+
+55
+00:03:09,416 --> 00:03:11,412
+but there was no heat.
+
+56
 00:03:12,225 --> 00:03:15,319
 With Paolo, all there was, was heat.
 
-43
+57
 00:03:15,461 --> 00:03:17,895
 It was this raw, animal, sexual--
 
-44
+58
 00:03:17,895 --> 00:03:20,329
 Right. I got it.
 
-45
+59
 00:03:21,234 --> 00:03:22,326
 I was there.
 
-46
+60
 00:03:23,336 --> 00:03:25,327
 Do you think you can have both?
 
-47
-00:03:25,438 --> 00:03:30,341
-Someone who's your best friend but also can make your toes curl.
+61
+00:03:25,438 --> 00:03:27,889
+Someone who's your best friend
 
-48
+62
+00:03:27,889 --> 00:03:30,340
+but also can make your toes curl.
+
+63
 00:03:30,443 --> 00:03:32,434
 Yes.
 
-49
+64
 00:03:32,545 --> 00:03:35,343
 Yes, I do. I really do.
 
-50
+65
 00:03:36,249 --> 00:03:37,546
 In fact, it's funny.
 
-51
-00:03:38,284 --> 00:03:49,257
-Often, someone you wouldn't think could curl your toes might just be the one who...gets interrupted.
+66
+00:03:38,284 --> 00:03:39,780
+Often, someone
 
-55
+67
+00:03:39,780 --> 00:03:49,257
+you wouldn't think could curl your toes might just be the one who...gets interrupted.
+
+71
 00:03:49,362 --> 00:03:50,488
 How was the movie?
 
-56
+72
 00:03:51,264 --> 00:03:51,861
 Wonderful!
 
-57
+73
 00:03:51,861 --> 00:03:52,458
 So good!
 
-58
+74
 00:03:53,266 --> 00:03:54,381
 Suck fest.
 
-59
+75
 00:03:54,381 --> 00:03:55,496
 Total chick flick.
 
-60
-00:03:58,271 --> 00:04:05,206
-I'm sorry it wasn't one of those movies with guns and bombs and buses going really fast!
+76
+00:03:58,271 --> 00:04:00,336
+I'm sorry it wasn't one of those
 
-62
-00:04:07,313 --> 00:04:12,443
-I don't need violence in a movie as long as there's a little nudity.
+77
+00:04:00,336 --> 00:04:05,206
+movies with guns and bombs and buses going really fast!
 
-64
+79
+00:04:07,313 --> 00:04:08,763
+I don't need violence
+
+80
+00:04:08,763 --> 00:04:11,379
+in a movie as long as
+
+82
+00:04:11,379 --> 00:04:12,442
+there's a little nudity.
+
+83
 00:04:13,319 --> 00:04:14,866
 There was nudity.
 
-65
+84
 00:04:14,866 --> 00:04:16,413
 I meant female nudity.
 
-66
-00:04:16,522 --> 00:04:20,253
-I don't need to see Lou Grant frolicking.
+85
+00:04:16,522 --> 00:04:18,387
+I don't need to see
 
-67
+86
+00:04:18,387 --> 00:04:20,252
+Lou Grant frolicking.
+
+87
 00:04:20,360 --> 00:04:22,328
 Hugh! Hugh Grant!
 
-68
+88
 00:04:24,364 --> 00:04:26,332
 All right, I've got to go.
 
-69
+89
 00:04:26,432 --> 00:04:28,229
 Come on, Marcel.
 
-70
-00:04:28,334 --> 00:04:32,236
-We're gonna go take a bath. Yes, we are, aren't we?
+90
+00:04:28,334 --> 00:04:30,285
+We're gonna go take a bath.
 
-71
+91
+00:04:30,285 --> 00:04:32,236
+Yes, we are, aren't we?
+
+92
 00:04:32,372 --> 00:04:35,364
 They're still just friends, right?
 
-72
+93
 00:04:38,478 --> 00:04:40,537
 And I will see you tomorrow.
 
-73
-00:04:41,281 --> 00:04:44,273
-You're gonna spend tomorrow at Aunt Rachel's.
+94
+00:04:41,281 --> 00:04:42,777
+You're gonna spend
 
-74
+95
+00:04:42,777 --> 00:04:44,273
+tomorrow at Aunt Rachel's.
+
+96
 00:04:44,384 --> 00:04:47,285
 Does Aunt Monica get a say in this?
 
-75
+97
 00:04:47,553 --> 00:04:50,351
 Please, Aunt Monica, please?
 
-76
-00:04:50,390 --> 00:04:53,484
-Unclench. You're not even gonna be here.
+98
+00:04:50,390 --> 00:04:51,937
+Unclench. You're not even
 
-77
+99
+00:04:51,937 --> 00:04:53,484
+gonna be here.
+
+100
 00:04:59,365 --> 00:05:02,300
 I can't believe we're discussing this.
 
-78
+101
 00:05:02,300 --> 00:05:05,235
 I agree. I'm, like, in disbelief.
 
-79
-00:05:05,438 --> 00:05:09,238
-If it was gonna happen, wouldn't it have happened already?
+102
+00:05:05,438 --> 00:05:07,338
+If it was gonna happen,
 
-80
-00:05:09,409 --> 00:05:14,210
-She said she wants a relationship with someone exactly like me.
+103
+00:05:07,338 --> 00:05:09,238
+wouldn't it have happened already?
 
-81
+104
+00:05:09,409 --> 00:05:11,809
+She said she wants a relationship
+
+105
+00:05:11,809 --> 00:05:14,209
+with someone exactly like me.
+
+106
 00:05:14,314 --> 00:05:15,338
 She said that?
 
-82
+107
 00:05:15,448 --> 00:05:19,214
 I added the ''exactly like me'' part.
 
-83
-00:05:19,352 --> 00:05:23,516
-But she's looking for someone. And someone will be there tonight.
+108
+00:05:19,352 --> 00:05:21,434
+But she's looking for someone.
 
-84
+109
+00:05:21,434 --> 00:05:23,516
+And someone will be there tonight.
+
+110
 00:05:24,257 --> 00:05:25,349
 ''Tonight'' tonight?
 
-85
-00:05:25,458 --> 00:05:28,359
-It's perfect. It'll just be the two of us.
+111
+00:05:25,458 --> 00:05:26,908
+It's perfect.
 
-86
-00:05:28,428 --> 00:05:32,330
-She spent all day taking care of my monkey.
+112
+00:05:26,908 --> 00:05:28,358
+It'll just be the two of us.
 
-87
-00:05:34,334 --> 00:05:38,327
-I can't remember the last time a girl took care of my monkey.
+113
+00:05:28,428 --> 00:05:30,379
+She spent all day
 
-88
-00:05:42,342 --> 00:05:50,348
-Anyway, I figured after work, I'd pick up some wine go over there and try to woo her.
+114
+00:05:30,379 --> 00:05:32,330
+taking care of my monkey.
 
-90
+115
+00:05:34,334 --> 00:05:36,330
+I can't remember the last time
+
+116
+00:05:36,330 --> 00:05:38,326
+a girl took care of my monkey.
+
+117
+00:05:42,342 --> 00:05:44,338
+Anyway, I figured after work,
+
+118
+00:05:44,338 --> 00:05:50,348
+I'd pick up some wine go over there and try to woo her.
+
+120
 00:05:51,484 --> 00:05:53,349
 Know what you should do?
 
-91
-00:05:53,453 --> 00:05:57,480
-Take her back to the 1890s when that phrase was last used.
+121
+00:05:53,453 --> 00:05:55,466
+Take her back to the 1890s
 
-92
-00:06:01,394 --> 00:06:05,387
-If you keep this up, you'll be finished by the weekend.
+122
+00:05:55,466 --> 00:05:57,479
+when that phrase was last used.
 
-93
-00:06:06,232 --> 00:06:09,292
-The one in the feathered boa is Dr. Francis.
+123
+00:06:01,394 --> 00:06:03,390
+If you keep this up, you'll be
 
-94
+124
+00:06:03,390 --> 00:06:05,386
+finished by the weekend.
+
+125
+00:06:06,232 --> 00:06:07,762
+The one in the feathered boa
+
+126
+00:06:07,762 --> 00:06:09,292
+is Dr. Francis.
+
+127
 00:06:09,335 --> 00:06:11,428
 Now, she used to be a man.
 
-95
+128
 00:06:12,405 --> 00:06:13,429
 Look, there's Raven.
 
-96
+129
 00:06:14,240 --> 00:06:17,334
 We hate her. We're glad she's dying.
 
-97
-00:06:17,443 --> 00:06:20,241
-And then-- What? Marcel!
+130
+00:06:17,443 --> 00:06:18,842
+And then--
 
-98
-00:06:20,413 --> 00:06:24,349
-Are you playing with Monica's shoes? You're not supposed to--
+131
+00:06:18,842 --> 00:06:20,241
+What? Marcel!
 
-99
+132
+00:06:20,413 --> 00:06:22,381
+Are you playing with Monica's shoes?
+
+133
+00:06:22,381 --> 00:06:24,349
+You're not supposed to--
+
+134
 00:06:26,452 --> 00:06:30,320
 Marcel, did you poo in the shoe?
 
-100
+135
 00:06:30,356 --> 00:06:33,257
 Oh, Marcel! Bad monkey!
 
-101
+136
 00:06:33,426 --> 00:06:36,327
 Oh, God!
 
-102
+137
 00:06:40,433 --> 00:06:42,367
 Sorry, Barry.
 
-103
+138
 00:06:43,236 --> 00:06:45,227
 A little engagement gift.
 
-104
-00:06:45,338 --> 00:06:48,330
-I'm sure you didn't register for that.
+139
+00:06:45,338 --> 00:06:46,834
+I'm sure you didn't
 
-105
+140
+00:06:46,834 --> 00:06:48,330
+register for that.
+
+141
 00:06:55,481 --> 00:06:58,279
 Who died? Who died?
 
-106
-00:06:58,351 --> 00:07:01,184
-Roll him over! Come on, roll him over!
+142
+00:06:58,351 --> 00:06:59,767
+Roll him over!
 
-107
-00:07:02,221 --> 00:07:06,282
-Well, we know it wasn't Dexter, right, Marcel? Because--
+143
+00:06:59,767 --> 00:07:01,183
+Come on, roll him over!
 
-108
+144
+00:07:02,221 --> 00:07:04,251
+Well, we know it wasn't Dexter,
+
+145
+00:07:04,251 --> 00:07:06,281
+right, Marcel? Because--
+
+146
 00:07:06,392 --> 00:07:07,324
 Marcel?
 
-109
+147
 00:07:11,397 --> 00:07:12,796
 How could you lose him?
 
-110
+148
 00:07:12,796 --> 00:07:14,195
 I don't know!
 
-111
-00:07:14,233 --> 00:07:17,396
-We were watching TV, he pooped in Monica's shoe....
+149
+00:07:14,233 --> 00:07:15,814
+We were watching TV,
 
-112
-00:07:17,437 --> 00:07:20,406
-Wait. He pooped in my shoe? Which one?
+150
+00:07:15,814 --> 00:07:17,395
+he pooped in Monica's shoe....
 
-113
+151
+00:07:17,437 --> 00:07:18,921
+Wait. He pooped in my shoe?
+
+152
+00:07:18,921 --> 00:07:20,405
+Which one?
+
+153
 00:07:21,207 --> 00:07:23,437
 I don't know. The left one!
 
-114
+154
 00:07:24,210 --> 00:07:25,199
 Which ones?
 
-115
-00:07:25,311 --> 00:07:29,407
-Those little clunky Amish things you think go with everything.
+155
+00:07:25,311 --> 00:07:27,359
+Those little clunky Amish things
 
-116
+156
+00:07:27,359 --> 00:07:29,407
+you think go with everything.
+
+157
 00:07:33,319 --> 00:07:36,345
 Why is the air in here so negative?
 
-117
+158
 00:07:37,356 --> 00:07:39,256
 Rachel lost Marcel.
 
-118
+159
 00:07:39,358 --> 00:07:40,347
 Oh, no! How?
 
-119
+160
 00:07:40,426 --> 00:07:41,421
 He pooped in my shoe.
 
-120
+161
 00:07:41,421 --> 00:07:42,416
 Which one?
 
-121
+162
 00:07:43,229 --> 00:07:45,254
 The cute black ones I always wear.
 
-122
+163
 00:07:45,364 --> 00:07:47,355
 No, which one?
 
-123
+164
 00:07:47,433 --> 00:07:50,266
 The right or left?
 
-124
+165
 00:07:50,436 --> 00:07:52,427
 Because the left one is lucky.
 
-125
-00:07:53,239 --> 00:07:54,433
-Come on! What am I gonna do?
+166
+00:07:53,239 --> 00:07:53,836
+Come on!
 
-126
-00:07:55,241 --> 00:07:58,369
-All right. You're a monkey. You're loose in the city.
+167
+00:07:53,836 --> 00:07:54,433
+What am I gonna do?
 
-127
+168
+00:07:55,241 --> 00:07:56,805
+All right. You're a monkey.
+
+169
+00:07:56,805 --> 00:07:58,369
+You're loose in the city.
+
+170
 00:07:58,478 --> 00:08:00,378
 Where do you go?
 
-128
-00:08:01,180 --> 00:08:04,411
-It's his first time out, so he'll do touristy things.
+171
+00:08:01,180 --> 00:08:02,795
+It's his first time out,
 
-129
-00:08:08,187 --> 00:08:11,418
-I'll go to Cats. You go to the Russian Tea Room.
+172
+00:08:02,795 --> 00:08:04,410
+so he'll do touristy things.
 
-130
-00:08:12,291 --> 00:08:15,192
-Oh, my God! Come on, you guys!
+173
+00:08:08,187 --> 00:08:09,802
+I'll go to Cats.
 
-131
-00:08:15,294 --> 00:08:17,387
-He'll be home any minute. He's gonna kill me!
+174
+00:08:09,802 --> 00:08:11,417
+You go to the Russian Tea Room.
 
-132
-00:08:18,197 --> 00:08:22,224
-Search the building. Take the first floor. We'll take the rest.
+175
+00:08:12,291 --> 00:08:13,741
+Oh, my God!
 
-133
+176
+00:08:13,741 --> 00:08:15,191
+Come on, you guys!
+
+177
+00:08:15,294 --> 00:08:16,340
+He'll be home any minute.
+
+178
+00:08:16,340 --> 00:08:17,386
+He's gonna kill me!
+
+179
+00:08:18,197 --> 00:08:20,210
+Search the building. Take the first
+
+180
+00:08:20,210 --> 00:08:22,223
+floor. We'll take the rest.
+
+181
 00:08:22,301 --> 00:08:23,393
 What am I gonna do?
 
-134
-00:08:24,203 --> 00:08:26,330
-You stay here and wait by the phone.
+182
+00:08:24,203 --> 00:08:25,266
+You stay here
 
-135
-00:08:26,405 --> 00:08:30,239
-Spray Lysol in my shoe and wait for Ross to kill you.
+183
+00:08:25,266 --> 00:08:26,329
+and wait by the phone.
 
-136
+184
+00:08:26,405 --> 00:08:28,322
+Spray Lysol in my shoe
+
+185
+00:08:28,322 --> 00:08:30,239
+and wait for Ross to kill you.
+
+186
 00:08:30,343 --> 00:08:32,436
 Does anybody want to trade?
 
-137
+187
 00:08:40,253 --> 00:08:41,413
 What do you want?
 
-138
+188
 00:08:41,454 --> 00:08:45,254
 Mr. Heckles, have you seen a monkey?
 
-139
-00:08:45,324 --> 00:08:48,418
-I left a Belgian waffle out here. Did you take it?
+189
+00:08:45,324 --> 00:08:46,871
+I left a Belgian waffle out here.
 
-140
+190
+00:08:46,871 --> 00:08:48,418
+Did you take it?
+
+191
 00:08:49,328 --> 00:08:51,324
 Why'd you leave it in the hall?
 
-141
+192
 00:08:51,324 --> 00:08:53,320
 I wasn't ready for it.
 
-142
+193
 00:08:53,466 --> 00:08:55,434
 Have you seen a monkey?
 
-143
+194
 00:08:57,236 --> 00:08:58,430
 I saw Regis Philbin once.
 
-144
+195
 00:08:59,472 --> 00:09:01,372
 Thank you, Mr. Heckles.
 
-145
+196
 00:09:02,375 --> 00:09:04,309
 You owe me a waffle.
 
-146
-00:09:06,279 --> 00:09:15,176
-He's a black capuchin monkey with a white face with Russian dressing and pickles on the side.
+197
+00:09:06,279 --> 00:09:07,826
+He's a black capuchin monkey
 
-148
+198
+00:09:07,826 --> 00:09:12,679
+with a white face with Russian dressing
+
+200
+00:09:12,679 --> 00:09:15,176
+and pickles on the side.
+
+201
 00:09:15,288 --> 00:09:16,277
 Thanks.
 
-149
+202
 00:09:18,224 --> 00:09:19,316
 How did it go today?
 
-150
-00:09:19,425 --> 00:09:22,394
-Oh, great! It went great. Really great.
+203
+00:09:19,425 --> 00:09:20,909
+Oh, great!
 
-151
+204
+00:09:20,909 --> 00:09:22,393
+It went great. Really great.
+
+205
 00:09:22,495 --> 00:09:24,224
 Is that wine?
 
-152
+206
 00:09:25,197 --> 00:09:26,323
 You want some?
 
-153
+207
 00:09:26,399 --> 00:09:28,299
 Oh, I would love some.
 
-154
+208
 00:09:28,401 --> 00:09:31,199
 But let's not drink it here.
 
-155
-00:09:31,304 --> 00:09:34,432
-I'm feeling crazy. You wanna go to Newark?
+209
+00:09:31,304 --> 00:09:32,868
+I'm feeling crazy.
 
-156
-00:09:38,444 --> 00:09:47,409
-Okay, but before we head off to the murder capital of the Northeast I kind of wanted to run something by you.
+210
+00:09:32,868 --> 00:09:34,432
+You wanna go to Newark?
 
-158
-00:09:48,220 --> 00:09:53,357
-You know how we were talking before about relationships, and stuff.
+211
+00:09:38,444 --> 00:09:41,345
+Okay, but before we head off to
 
-160
+212
+00:09:41,345 --> 00:09:45,913
+the murder capital of the Northeast I kind of wanted
+
+214
+00:09:45,913 --> 00:09:47,409
+to run something by you.
+
+215
+00:09:48,220 --> 00:09:49,283
+You know how we
+
+216
+00:09:49,283 --> 00:09:53,357
+were talking before about relationships, and stuff.
+
+218
 00:09:53,459 --> 00:09:55,859
 Oh, God, Ross, I cannot do this!
 
-161
+219
 00:09:55,859 --> 00:09:58,259
 Okay, quick and painful.
 
-162
+220
 00:10:06,439 --> 00:10:07,463
 Oh, God!
 
-163
-00:10:08,341 --> 00:10:11,276
-Okay, all right. All right, okay.
+221
+00:10:08,341 --> 00:10:09,808
+Okay, all right.
 
-164
+222
+00:10:09,808 --> 00:10:11,275
+All right, okay.
+
+223
 00:10:11,377 --> 00:10:13,368
 Please don't hate me.
 
-165
+224
 00:10:13,446 --> 00:10:14,435
 What?
 
-166
+225
 00:10:17,450 --> 00:10:19,350
 You know Marcel?
 
-167
+226
 00:10:23,255 --> 00:10:26,349
 I kind of lost him.
 
-168
+227
 00:10:40,506 --> 00:10:44,272
 I can't believe this.
 
-169
-00:10:44,377 --> 00:10:47,369
-All I asked you to do was keep him in here!
+228
+00:10:44,377 --> 00:10:45,873
+All I asked you to do was
 
-170
+229
+00:10:45,873 --> 00:10:47,369
+keep him in here!
+
+230
 00:10:47,480 --> 00:10:48,469
 I know. I'm sorry.
 
-171
+231
 00:10:48,581 --> 00:10:50,515
 It's partially my fault.
 
-172
-00:10:51,283 --> 00:10:53,478
-I shouldn't have had you start with a monkey.
+232
+00:10:51,283 --> 00:10:52,380
+I shouldn't have had you
 
-173
-00:10:54,286 --> 00:10:57,278
-You should have started with a pencil.
+233
+00:10:52,380 --> 00:10:53,477
+start with a monkey.
 
-174
-00:10:57,390 --> 00:11:02,225
-I'm doing everything I can. Everyone's looking for him and I got--
+234
+00:10:54,286 --> 00:10:55,782
+You should have started
 
-175
-00:11:04,330 --> 00:11:06,264
--Who is it?
+235
+00:10:55,782 --> 00:10:57,278
+with a pencil.
+
+236
+00:10:57,390 --> 00:10:59,807
+I'm doing everything I can.
+
+237
+00:10:59,807 --> 00:11:02,224
+Everyone's looking for him and I got--
+
+238
+00:11:04,330 --> 00:11:05,297
+Who is it?
+
+239
+00:11:05,297 --> 00:11:06,264
 -Animal Control.
 
-176
+240
 00:11:06,365 --> 00:11:08,845
 I've even got Animal Control.
 
-177
+241
 00:11:08,845 --> 00:11:11,325
 You called Animal Control?
 
-178
+242
 00:11:13,339 --> 00:11:16,240
 Why? Do you not like them?
 
-179
+243
 00:11:18,444 --> 00:11:22,437
 Marcel is an illegal exotic animal.
 
-180
-00:11:25,551 --> 00:11:30,545
-I'm not allowed to have him. If they find him, they'll take him away.
+244
+00:11:25,551 --> 00:11:28,048
+I'm not allowed to have him. If they
 
-181
-00:11:31,290 --> 00:11:34,384
-Well, now, see, you never ever told us that.
+245
+00:11:28,048 --> 00:11:30,545
+find him, they'll take him away.
 
-182
-00:11:35,361 --> 00:11:39,354
-Because I never expected you to invite them to the apartment!
+246
+00:11:31,290 --> 00:11:32,837
+Well, now, see,
 
-183
+247
+00:11:32,837 --> 00:11:34,384
+you never ever told us that.
+
+248
+00:11:35,361 --> 00:11:37,357
+Because I never expected you
+
+249
+00:11:37,357 --> 00:11:39,353
+to invite them to the apartment!
+
+250
 00:11:44,470 --> 00:11:46,267
 Thanks for coming.
 
-184
+251
 00:11:46,372 --> 00:11:48,363
 Somebody called about a monkey?
 
-185
-00:11:48,474 --> 00:11:52,308
-You know, that was a complete misunderstanding.
+252
+00:11:48,474 --> 00:11:50,391
+You know, that was
 
-186
-00:11:52,378 --> 00:11:55,279
-We thought we had a monkey, but we didn't.
+253
+00:11:50,391 --> 00:11:52,308
+a complete misunderstanding.
 
-187
+254
+00:11:52,378 --> 00:11:53,828
+We thought we had a monkey,
+
+255
+00:11:53,828 --> 00:11:55,278
+but we didn't.
+
+256
 00:11:55,314 --> 00:11:56,298
 Turned out it was a hat.
 
-188
+257
 00:11:56,298 --> 00:11:57,282
 Cat!
 
-189
+258
 00:11:59,385 --> 00:12:02,218
 We checked, no one's seen Marcel.
 
-190
+259
 00:12:02,254 --> 00:12:04,302
 My uncle Marcel.
 
-191
+260
 00:12:04,302 --> 00:12:06,350
 Is that who the monkey's named after?
 
-192
-00:12:07,359 --> 00:12:14,263
-Possession of an illegal exotic is punishable by two years in prison and confiscation of the animal.
+261
+00:12:07,359 --> 00:12:08,855
+Possession of an illegal exotic
 
-194
+262
+00:12:08,855 --> 00:12:12,346
+is punishable by two years in prison
+
+264
+00:12:12,346 --> 00:12:14,263
+and confiscation of the animal.
+
+265
 00:12:14,333 --> 00:12:15,322
 Oh, my God!
 
-195
-00:12:16,268 --> 00:12:19,328
-You'd put that poor little creature in jail?
+266
+00:12:16,268 --> 00:12:17,798
+You'd put that poor
 
-196
-00:12:24,243 --> 00:12:29,271
-Remember how we talked about saying things quietly to yourself first?
+267
+00:12:17,798 --> 00:12:19,328
+little creature in jail?
 
-197
+268
+00:12:24,243 --> 00:12:26,757
+Remember how we talked about saying
+
+269
+00:12:26,757 --> 00:12:29,271
+things quietly to yourself first?
+
+270
 00:12:29,381 --> 00:12:33,249
 Yes, but there isn't always time.
 
-198
-00:12:35,354 --> 00:12:40,257
-I'm sure there's some friendly way to reconcile this. Have a seat.
+271
+00:12:35,354 --> 00:12:37,805
+I'm sure there's some friendly way
 
-199
+272
+00:12:37,805 --> 00:12:40,256
+to reconcile this. Have a seat.
+
+273
 00:12:40,359 --> 00:12:42,452
 We haven't met. I'm Monica Geller.
 
-200
+274
 00:12:43,295 --> 00:12:45,456
 Oh, my God, you are!
 
-201
+275
 00:12:46,265 --> 00:12:47,391
 And you're Rachel Greene!
 
-202
+276
 00:12:49,368 --> 00:12:51,495
 Luisa Gianetti! Lincoln High?
 
-203
+277
 00:12:52,304 --> 00:12:55,398
 I sat behind you guys in homeroom.
 
-204
+278
 00:12:56,308 --> 00:12:59,368
 Luisa! Oh, my God!
 
-205
+279
 00:12:59,478 --> 00:13:01,412
 Monica! It's Luisa!
 
-206
+280
 00:13:04,316 --> 00:13:05,408
 I went there too!
 
-207
+281
 00:13:06,218 --> 00:13:07,515
 Luisa! From homeroom!
 
-208
+282
 00:13:10,222 --> 00:13:12,452
 You have no idea who I am, do you?
 
-209
+283
 00:13:13,225 --> 00:13:13,788
 No.
 
-210
+284
 00:13:13,788 --> 00:13:14,351
 Not at all.
 
-211
-00:13:14,527 --> 00:13:19,362
-Well, maybe that's because you spent four years ignoring me.
+285
+00:13:14,527 --> 00:13:16,944
+Well, maybe that's because
 
-212
-00:13:19,431 --> 00:13:26,233
-Would it have been hard to say, ''Morning, Luisa'' or ''Nice overalls''?
+286
+00:13:16,944 --> 00:13:19,361
+you spent four years ignoring me.
 
-214
+287
+00:13:19,431 --> 00:13:21,399
+Would it have been hard to say,
+
+288
+00:13:21,399 --> 00:13:26,233
+''Morning, Luisa'' or ''Nice overalls''?
+
+290
 00:13:30,442 --> 00:13:32,273
 Oh, I'm so sorry!
 
-215
-00:13:32,344 --> 00:13:36,440
-It's not so much you. You were fat. You had your own problems.
+291
+00:13:32,344 --> 00:13:34,392
+It's not so much you. You were fat.
 
-216
+292
+00:13:34,392 --> 00:13:36,440
+You had your own problems.
+
+293
 00:13:38,450 --> 00:13:40,475
 But you. What a bitch!
 
-217
+294
 00:13:42,488 --> 00:13:44,251
 What?
 
-218
-00:13:44,356 --> 00:13:50,553
-You know what? Be that as it may could you help us with the monkey thing, for old times' sake?
+295
+00:13:44,356 --> 00:13:48,522
+You know what? Be that as it may could you help us with the
 
-220
+297
+00:13:48,522 --> 00:13:50,552
+monkey thing, for old times' sake?
+
+298
 00:13:51,297 --> 00:13:53,265
 Go, Bobcats!
 
-221
+299
 00:13:53,465 --> 00:13:56,457
 I could. But I won't.
 
-222
+300
 00:13:56,502 --> 00:14:00,233
 If I find that monkey, he's mine.
 
-223
+301
 00:14:05,311 --> 00:14:07,245
 Sorry.
 
-224
+302
 00:14:10,349 --> 00:14:11,338
 Marcel?
 
-225
+303
 00:14:12,318 --> 00:14:13,307
 Marcel?
 
-226
+304
 00:14:21,460 --> 00:14:23,428
 Hi, can I help you?
 
-227
-00:14:27,466 --> 00:14:32,233
-We're having an emergency, and we were looking for something.
+305
+00:14:27,466 --> 00:14:29,849
+We're having an emergency,
 
-228
+306
+00:14:29,849 --> 00:14:32,232
+and we were looking for something.
+
+307
 00:14:33,272 --> 00:14:34,369
 A monkey.
 
-229
+308
 00:14:34,369 --> 00:14:35,466
 Yes, have you seen any?
 
-230
+309
 00:14:36,242 --> 00:14:38,369
 No, I haven't seen a monkey.
 
-231
+310
 00:14:38,444 --> 00:14:40,435
 Can you fix radiators?
 
-232
-00:14:40,479 --> 00:14:44,347
-Sure! Did you try turning the knob back the other way?
+311
+00:14:40,479 --> 00:14:42,413
+Sure! Did you try turning the knob
 
-233
+312
+00:14:42,413 --> 00:14:44,347
+back the other way?
+
+313
 00:14:44,450 --> 00:14:45,900
 Of course!
 
-234
+314
 00:14:45,900 --> 00:14:47,350
 Oh. Then, no.
 
-235
+315
 00:14:51,457 --> 00:14:53,453
 Taste this. Is there too much rum?
 
-236
+316
 00:14:53,453 --> 00:14:55,449
 Just a second.
 
-237
+317
 00:14:55,494 --> 00:14:56,927
 Hope you find your monkey.
 
-238
+318
 00:14:56,927 --> 00:14:58,360
 No, wait!
 
-239
-00:14:59,498 --> 00:15:07,328
-We may not know about radiators but we do have expertise in the heating and cooling milieu.
+319
+00:14:59,498 --> 00:15:04,831
+We may not know about radiators but we do have expertise
 
-241
+321
+00:15:04,831 --> 00:15:07,328
+in the heating and cooling milieu.
+
+322
 00:15:11,210 --> 00:15:13,303
 Aren't we in the middle of something?
 
-242
-00:15:13,412 --> 00:15:17,314
-But these women are very hot, and they need our help.
+323
+00:15:13,412 --> 00:15:15,363
+But these women are very hot,
 
-243
+324
+00:15:15,363 --> 00:15:17,314
+and they need our help.
+
+325
 00:15:18,250 --> 00:15:20,309
 And they're very hot!
 
-244
+326
 00:15:22,421 --> 00:15:24,252
 We can't, all right?
 
-245
+327
 00:15:24,356 --> 00:15:25,448
 We're sorry.
 
-246
-00:15:26,225 --> 00:15:29,524
-You don't know how sorry. We promised to find this monkey.
+328
+00:15:26,225 --> 00:15:27,874
+You don't know how sorry.
 
-247
-00:15:30,262 --> 00:15:33,322
-He's this high and answers to the name Marcel.
+329
+00:15:27,874 --> 00:15:29,523
+We promised to find this monkey.
 
-248
-00:15:33,365 --> 00:15:37,461
-So if we could get pictures of you, it'd help us out.
+330
+00:15:30,262 --> 00:15:31,792
+He's this high
 
-249
-00:15:45,477 --> 00:15:49,379
-From now on, you don't get to talk to other people.
+331
+00:15:31,792 --> 00:15:33,322
+and answers to the name Marcel.
 
-250
+332
+00:15:33,365 --> 00:15:35,413
+So if we could get pictures of you,
+
+333
+00:15:35,413 --> 00:15:37,461
+it'd help us out.
+
+334
+00:15:45,477 --> 00:15:47,428
+From now on, you don't get
+
+335
+00:15:47,428 --> 00:15:49,379
+to talk to other people.
+
+336
 00:15:58,257 --> 00:15:58,751
 Oh, my God!
 
-251
+337
 00:15:58,751 --> 00:15:59,245
 What?
 
-252
-00:15:59,358 --> 00:16:02,293
-Something brushed up against my right leg.
+338
+00:15:59,358 --> 00:16:00,825
+Something brushed up
 
-253
-00:16:03,295 --> 00:16:06,287
-Oh, it's okay. It was just my left leg.
+339
+00:16:00,825 --> 00:16:02,292
+against my right leg.
 
-254
+340
+00:16:03,295 --> 00:16:04,791
+Oh, it's okay.
+
+341
+00:16:04,791 --> 00:16:06,287
+It was just my left leg.
+
+342
 00:16:08,200 --> 00:16:08,427
 Look, Phoebe!
 
-255
+343
 00:16:09,401 --> 00:16:11,392
 Oh, Marcel! Come here!
 
-256
+344
 00:16:12,204 --> 00:16:13,330
 Step aside, ladies.
 
-257
+345
 00:16:15,240 --> 00:16:16,736
 What are you gonna do?
 
-258
+346
 00:16:16,736 --> 00:16:18,232
 Just a tranquilizer.
 
-259
+347
 00:16:34,259 --> 00:16:36,227
 Run, Marcel, run!
 
-260
+348
 00:16:36,328 --> 00:16:37,317
 Damn!
 
-261
+349
 00:16:37,429 --> 00:16:38,942
 Are you okay?
 
-262
+350
 00:16:38,942 --> 00:16:40,455
 I think so.
 
-263
+351
 00:16:49,341 --> 00:16:50,330
 Oh, gosh!
 
-264
-00:17:01,420 --> 00:17:05,379
-We've been all over the neighborhood! He's just gone!
+352
+00:17:01,420 --> 00:17:03,399
+We've been all over the neighborhood!
 
-265
+353
+00:17:03,399 --> 00:17:05,378
+He's just gone!
+
+354
 00:17:05,424 --> 00:17:07,307
 You don't know that.
 
-266
+355
 00:17:07,307 --> 00:17:09,190
 It's cold, it's dark.
 
-267
+356
 00:17:09,228 --> 00:17:11,287
 He doesn't know the Village!
 
-268
-00:17:11,397 --> 00:17:16,334
-And now I have a broken foot. I have no monkey and a broken foot!
+357
+00:17:11,397 --> 00:17:13,865
+And now I have a broken foot.
 
-269
+358
+00:17:13,865 --> 00:17:16,333
+I have no monkey and a broken foot!
+
+359
 00:17:16,435 --> 00:17:18,198
 Thank you very much!
 
-270
+360
 00:17:18,270 --> 00:17:21,205
 I've said I'm sorry a million times.
 
-271
+361
 00:17:21,306 --> 00:17:23,206
 What do you want me to do?
 
-272
-00:17:23,308 --> 00:17:27,244
-You want me to break my foot too? I'll break it right now.
+362
+00:17:23,308 --> 00:17:25,276
+You want me to break my foot too?
 
-273
-00:17:27,312 --> 00:17:30,440
-Oh, my God! There, are you happy now?
+363
+00:17:25,276 --> 00:17:27,244
+I'll break it right now.
 
-274
+364
+00:17:27,312 --> 00:17:28,876
+Oh, my God!
+
+365
+00:17:28,876 --> 00:17:30,440
+There, are you happy now?
+
+366
 00:17:31,216 --> 00:17:38,348
 Yeah, now that you kicked the sign I don't miss Marcel anymore!
 
-276
-00:17:39,458 --> 00:17:42,359
-It's not like I did this on purpose.
+368
+00:17:39,458 --> 00:17:40,908
+It's not like
 
-277
+369
+00:17:40,908 --> 00:17:42,358
+I did this on purpose.
+
+370
 00:17:42,428 --> 00:17:44,453
 No, this is just vintage Rachel.
 
-278
+371
 00:17:45,230 --> 00:17:47,460
 Things just sort of happen around you!
 
-279
-00:17:48,233 --> 00:17:56,298
-You're off in ''Rachel Land,'' doing your ''Rachel Thing'' oblivious to people's monkeys or to people's feelings and--
+372
+00:17:48,233 --> 00:17:49,831
+You're off in ''Rachel Land,''
 
-281
-00:17:56,375 --> 00:17:59,435
-I don't want to hear it! Forget it, okay?
+373
+00:17:49,831 --> 00:17:54,267
+doing your ''Rachel Thing'' oblivious to people's monkeys
 
-282
+375
+00:17:54,267 --> 00:17:56,297
+or to people's feelings and--
+
+376
+00:17:56,375 --> 00:17:57,905
+I don't want to hear it!
+
+377
+00:17:57,905 --> 00:17:59,435
+Forget it, okay?
+
+378
 00:18:00,379 --> 00:18:02,370
 What?
 
-283
+379
 00:18:05,250 --> 00:18:07,411
 Hey, banana man!
 
-284
+380
 00:18:13,425 --> 00:18:15,222
 This is so intense!
 
-285
-00:18:15,294 --> 00:18:20,288
-One side of my butt is totally asleep and the other side has no idea.
+381
+00:18:15,294 --> 00:18:17,791
+One side of my butt is totally asleep
 
-286
+382
+00:18:17,791 --> 00:18:20,288
+and the other side has no idea.
+
+383
 00:18:23,202 --> 00:18:24,851
 What's with Phoebe?
 
-287
+384
 00:18:24,851 --> 00:18:26,500
 Tranquilizer dart.
 
-288
+385
 00:18:28,340 --> 00:18:30,399
 Hi! Did you order some bananas?
 
-289
+386
 00:18:31,210 --> 00:18:32,256
 What about it?
 
-290
+387
 00:18:32,256 --> 00:18:33,302
 Give me my monkey back!
 
-291
+388
 00:18:33,412 --> 00:18:35,312
 I don't have a monkey.
 
-292
+389
 00:18:35,312 --> 00:18:37,212
 Then what's with the bananas?
 
-293
+390
 00:18:37,249 --> 00:18:39,240
 Potassium.
 
-294
+391
 00:18:43,222 --> 00:18:44,450
 Okay, where is he?
 
-295
+392
 00:18:46,358 --> 00:18:48,451
 You're wasting your time.
 
-296
+393
 00:18:50,362 --> 00:18:52,421
 What?
 
-297
+394
 00:19:01,373 --> 00:19:03,369
 What have you done to him?
 
-298
+395
 00:19:03,369 --> 00:19:05,365
 That's my monkey. That's Patty.
 
-299
+396
 00:19:07,379 --> 00:19:10,280
 Are you insane? Come here, Marcel.
 
-300
+397
 00:19:11,316 --> 00:19:12,374
 Come here, Patty.
 
-301
+398
 00:19:12,417 --> 00:19:14,282
 Come here, Marcel.
 
-302
+399
 00:19:14,419 --> 00:19:15,408
 Come here, Patty.
 
-303
+400
 00:19:16,188 --> 00:19:17,416
 Here, monkey.
 
-304
+401
 00:19:18,290 --> 00:19:19,279
 Here, monkey!
 
-305
+402
 00:19:19,391 --> 00:19:21,291
 Gotcha!
 
-306
+403
 00:19:22,194 --> 00:19:23,291
 Give me my monkey back!
 
-307
+404
 00:19:23,291 --> 00:19:24,388
 It's mine.
 
-308
+405
 00:19:24,429 --> 00:19:26,420
 Take this up with the judge.
 
-309
-00:19:27,199 --> 00:19:31,329
-That's not my monkey. The dress is mine. Send it back whenever.
+406
+00:19:27,199 --> 00:19:29,264
+That's not my monkey. The dress
 
-310
+407
+00:19:29,264 --> 00:19:31,329
+is mine. Send it back whenever.
+
+408
 00:19:31,436 --> 00:19:33,404
 All right, I want my monkey!
 
-311
+409
 00:19:33,505 --> 00:19:34,972
 Oh, come on, Luisa.
 
-312
+410
 00:19:34,972 --> 00:19:36,439
 Sorry, prom queen.
 
-313
-00:19:37,242 --> 00:19:40,302
-You had to be a bitch in school, instead of fat.
+411
+00:19:37,242 --> 00:19:38,772
+You had to be a bitch in school,
 
-314
+412
+00:19:38,772 --> 00:19:40,302
+instead of fat.
+
+413
 00:19:42,414 --> 00:19:50,518
 In high school, I was prom queen and the homecoming queen and you were also there.
 
-317
-00:19:51,456 --> 00:19:55,415
-But this isn't high school. We're all adults here!
+416
+00:19:51,456 --> 00:19:53,435
+But this isn't high school.
 
-318
+417
+00:19:53,435 --> 00:19:55,414
+We're all adults here!
+
+418
 00:19:56,228 --> 00:19:58,458
 Heckles! Can I have this?
 
-319
+419
 00:19:59,431 --> 00:20:01,262
 For the most part.
 
-320
-00:20:01,333 --> 00:20:05,463
-If you take this monkey, I'll lose an important person in my life.
+420
+00:20:01,333 --> 00:20:03,398
+If you take this monkey, I'll lose
 
-321
-00:20:06,271 --> 00:20:10,264
-You can hate me if you want, but please do not punish him.
+421
+00:20:03,398 --> 00:20:05,463
+an important person in my life.
 
-322
-00:20:10,375 --> 00:20:13,435
-You have a chance to be the bigger person here.
+422
+00:20:06,271 --> 00:20:08,267
+You can hate me if you want,
 
-323
+423
+00:20:08,267 --> 00:20:10,263
+but please do not punish him.
+
+424
+00:20:10,375 --> 00:20:11,905
+You have a chance
+
+425
+00:20:11,905 --> 00:20:13,435
+to be the bigger person here.
+
+426
 00:20:13,478 --> 00:20:15,446
 Take it!
 
-324
+427
 00:20:18,483 --> 00:20:19,472
 No.
 
-325
-00:20:20,385 --> 00:20:28,258
-All right. Then I'll call your supervisor and tell her you shot my friend with a dart!
+428
+00:20:20,385 --> 00:20:22,819
+All right. Then I'll call
 
-327
-00:20:35,367 --> 00:20:38,268
-It'll be nice to get this off, won't it?
+429
+00:20:22,819 --> 00:20:28,258
+your supervisor and tell her you shot my friend with a dart!
 
-328
+431
+00:20:35,367 --> 00:20:36,817
+It'll be nice to get this off,
+
+432
+00:20:36,817 --> 00:20:38,267
+won't it?
+
+433
 00:20:38,370 --> 00:20:41,362
 Or we can leave it on. That's fine.
 
-329
-00:20:41,406 --> 00:20:45,502
-With the right pumps, that would be a great little outfit.
+434
+00:20:41,406 --> 00:20:43,454
+With the right pumps,
 
-330
-00:20:49,381 --> 00:20:53,477
-Listen, I'm sorry I was so hard on you before--
+435
+00:20:43,454 --> 00:20:45,502
+that would be a great little outfit.
 
-331
-00:20:53,585 --> 00:20:57,282
-No, it was my fault. I almost lost your--
+436
+00:20:49,381 --> 00:20:51,429
+Listen, I'm sorry I was so hard
 
-332
-00:20:57,389 --> 00:21:00,517
-Yeah, but you got him back. You were great.
+437
+00:20:51,429 --> 00:20:53,477
+on you before--
 
-333
+438
+00:20:53,585 --> 00:20:55,433
+No, it was my fault.
+
+439
+00:20:55,433 --> 00:20:57,281
+I almost lost your--
+
+440
+00:20:57,389 --> 00:20:58,953
+Yeah, but you got him back.
+
+441
+00:20:58,953 --> 00:21:00,517
+You were great.
+
+442
 00:21:05,330 --> 00:21:08,527
 We still have that bottle of wine.
 
-334
-00:21:09,268 --> 00:21:13,227
-Are you in the mood for something grape?
+443
+00:21:09,268 --> 00:21:11,247
+Are you in the mood
 
-335
+444
+00:21:11,247 --> 00:21:13,226
+for something grape?
+
+445
 00:21:13,338 --> 00:21:14,851
 Sure, that would be good.
 
-336
+446
 00:21:14,851 --> 00:21:16,364
 All right.
 
-337
+447
 00:21:26,451 --> 00:21:29,443
 The neighbors must be vacuuming.
 
-338
+448
 00:21:36,261 --> 00:21:43,268
 Well, as long as we're here...and not on the subject....
 
-340
-00:21:44,369 --> 00:21:52,266
-I was thinking about...how mad we got at each other before.
+450
+00:21:44,369 --> 00:21:50,770
+I was thinking about...how mad we got
 
-342
-00:21:55,514 --> 00:21:59,280
-And maybe it was partially because of how we--
+452
+00:21:50,770 --> 00:21:52,266
+at each other before.
 
-343
+453
+00:21:55,514 --> 00:21:57,397
+And maybe it was partially
+
+454
+00:21:57,397 --> 00:21:59,280
+because of how we--
+
+455
 00:21:59,518 --> 00:22:00,433
 Rachel?
 
-344
+456
 00:22:00,433 --> 00:22:01,348
 Barry?
 
-345
-00:22:01,520 --> 00:22:06,321
-I can't do it. I can't marry Mindy.
+457
+00:22:01,520 --> 00:22:03,920
+I can't do it.
 
-346
+458
+00:22:03,920 --> 00:22:06,320
+I can't marry Mindy.
+
+459
 00:22:06,425 --> 00:22:09,223
 I think I'm still in love with you.
 
-347
-00:22:14,266 --> 00:22:18,225
-We have got to start locking that door!
+460
+00:22:14,266 --> 00:22:16,245
+We have got to start
 
-348
+461
+00:22:16,245 --> 00:22:18,224
+locking that door!
+
+462
 00:22:26,244 --> 00:22:27,336
 Show us! Come on!
 
-349
+463
 00:22:27,446 --> 00:22:29,414
 It was such a long time ago.
 
-350
+464
 00:22:29,414 --> 00:22:31,382
 Okay, fine. All right.
 
-351
-00:22:31,450 --> 00:22:35,477
-This is me in The Sound of Music. See the von Trapp kids?
+465
+00:22:31,450 --> 00:22:33,463
+This is me in The Sound of Music.
 
-352
+466
+00:22:33,463 --> 00:22:35,476
+See the von Trapp kids?
+
+467
 00:22:36,355 --> 00:22:39,256
 That's because I'm in front of them.
 
-353
+468
 00:22:39,358 --> 00:22:41,258
 Big nun!
 
-354
+469
 00:22:41,493 --> 00:22:44,257
 I thought that was an alp.
 
-355
-00:22:44,296 --> 00:22:46,355
-High school wasn't my favorite time.
+470
+00:22:44,296 --> 00:22:45,325
+High school wasn't
 
-356
+471
+00:22:45,325 --> 00:22:46,354
+my favorite time.
+
+472
 00:22:46,465 --> 00:22:48,490
 I loved high school.
 
-357
-00:22:49,267 --> 00:22:52,464
-It was four years of parties, dating and sex and--
+473
+00:22:49,267 --> 00:22:50,865
+It was four years of parties,
 
-358
-00:22:53,271 --> 00:22:56,365
-Well, I went to boarding school with 400 boys.
+474
+00:22:50,865 --> 00:22:52,463
+dating and sex and--
 
-359
-00:22:56,475 --> 00:23:01,208
-Any sex I had would've involved a major lifestyle choice.
+475
+00:22:53,271 --> 00:22:54,818
+Well, I went to boarding school
 
-360
-00:23:02,447 --> 00:23:06,213
-Doesn't it seem like a million years ago?
+476
+00:22:54,818 --> 00:22:56,365
+with 400 boys.
 
-361
+477
+00:22:56,475 --> 00:22:58,841
+Any sex I had would've involved
+
+478
+00:22:58,841 --> 00:23:01,207
+a major lifestyle choice.
+
+479
+00:23:02,447 --> 00:23:04,330
+Doesn't it seem like
+
+480
+00:23:04,330 --> 00:23:06,213
+a million years ago?
+
+481
 00:23:10,322 --> 00:23:13,257
 My butt cheek is waking up!
 

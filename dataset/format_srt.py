@@ -133,6 +133,8 @@ for season in seasons:
 		if f.endswith('.srt'):
 
 			print f
+			basename = osp.splitext(f)[0]
+			ep = int(basename[2:])
 
 			# Open the subtitle files
 			subs = pysrt.open(osp.join(srt_dir, f))
@@ -142,9 +144,9 @@ for season in seasons:
 			for i in reversed(xrange(num_subs)):
 				if subs[i].text.startswith('The One '):
 					del subs[i]
-				if '\n-' in subs[i].text:
+				if '\n' in subs[i].text:
 					# Split the subtitle at the hyphen and format the list
-					lines = [line[1:] if line[0] == '-' else line for line in subs[i].text.split('\n-')]
+					lines = [line[1:] if line[0] == '-' else line for line in subs[i].text.split('\n')]
 					length_milli = 1000 * abs(float((subs[i].end.seconds - subs[i].start.seconds - 60) % 60)) + float(subs[i].end.milliseconds - subs[i].start.milliseconds)
 					interval_milli = int(length_milli / len(lines))
 					dummy = pysrt.SubRipItem(0, start=str(subs[i].start), end=str(subs[i].end), text="") # Use this just to get the right formatting for the time
@@ -200,4 +202,4 @@ for season in seasons:
 			scene_dir = 'subtitles/edited/season' + str(season) # Scene output directory
 			if not osp.exists(scene_dir):
 				os.mkdir(scene_dir)
-			subs.save(osp.join(scene_dir, f)) 
+			subs.save(osp.join(scene_dir, 'ep{0:02d}.srt'.format(ep))) 
