@@ -32,6 +32,7 @@ exclude = set(string.punctuation)
 
 # Season number
 seasons = [1, 2]
+scenes_dir = osp.join('transcripts', 'scenes')
 
 
 # Go through each transcript file
@@ -42,7 +43,7 @@ for season in seasons:
 			with codecs.open(osp.join(html_dir, transcript), 'r', 'latin-1') as f:
 
 				# Episode number
-				ep = osp.splitext(transcript)[0][-2:]
+				ep = int(osp.splitext(transcript)[0][-2:])
 
 				# Read the HTML file and parse it
 				html = f.read()
@@ -68,11 +69,7 @@ for season in seasons:
 					scenes[i] = '\n'.join(lines)
 
 				# Write to file with SCENE markers
-				# Scenes output directory
-				scenes_dir = osp.join('transcripts', 'scenes', 'season' + str(season))
-				if not osp.exists(scenes_dir):
-					os.mkdir(scenes_dir)
 				scenes_output = '\n\nSCENE BREAK\n\n'.join(scenes)
-				with open(osp.join(scenes_dir, 'ep' + str(ep) + '.txt'), 'w') as fout:
+				with open(osp.join(scenes_dir, '{0:02d}_{1:02d}.txt'.format(season, ep)), 'w') as fout:
 					fout.write(scenes_output)
 

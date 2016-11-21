@@ -21,6 +21,7 @@ seasons = [1,2]
 
 # Logs directory
 logs_dir = 'logs'
+scene_dir = 'subtitles/edited/' # Scene output directory
 
 # Functiion to verify that each word is valid (i.e. in the dictionary or a proper noun)
 def replace(sp_dict, word, log_file, log_info):
@@ -135,7 +136,6 @@ for season in seasons:
 			print f
 			basename = osp.splitext(f)[0]
 			ep = int(basename[2:])
-
 			# Open the subtitle files
 			subs = pysrt.open(osp.join(srt_dir, f))
 
@@ -199,7 +199,4 @@ for season in seasons:
 					del subs[i]
 
 			# Save modified SRT file
-			scene_dir = 'subtitles/edited/season' + str(season) # Scene output directory
-			if not osp.exists(scene_dir):
-				os.mkdir(scene_dir)
-			subs.save(osp.join(scene_dir, 'ep{0:02d}.srt'.format(ep))) 
+			subs.save(osp.join(scene_dir, '{0:02d}_{1:02d}.srt'.format(season, ep))) 
