@@ -56,7 +56,11 @@ function friends_labeling_tool_OpeningFcn(hObject, eventdata, handles, varargin)
 % varargin   command line arguments to friends_labeling_tool (see VARARGIN)
 
 % Choose default command line output for friends_labeling_tool
-handles.file_dropdown.String = getAllFiles('.', 'srt');
+handles.input_dir = fullfile('subtitles', 'edited', 'season1');
+handles.output_dir = '.';
+files = dir(fullfile(handles.input_dir, '*.srt'));
+files = {files(:).name};
+handles.file_dropdown.String = files;
 handles.output = hObject;
 handles.speakers = {};
 handles.srt_idx = 1;
@@ -64,7 +68,8 @@ handles.scene_breaks = [];
 handles.episode = '';
 handles.subs = {};
 handles.sub_output_text = {};
-handles.other_dropdown.String = {};
+
+
 
 
 % Update handles structure
@@ -250,7 +255,7 @@ function save_button_Callback(hObject, eventdata, handles)
 % handles    structure with handles and user data (see GUIDATA)
 speakers = handles.speakers;
 scene_breaks = handles.scene_breaks;
-save([handles.episode, '.mat'], 'speakers', 'scene_breaks')
+save(fullfile(handles.output_dir, [handles.episode, '.mat']), 'speakers', 'scene_breaks')
 
 
 % --- Executes on selection change in file_dropdown.
@@ -291,7 +296,7 @@ handles.other_dropdown.String = {''};
 handles.sub_output_text = {};
 [~, name, ~] = fileparts(handles.file_dropdown.String{get(handles.file_dropdown, 'Value')});
 handles.episode = name;
-handles.subs = readSRT(handles.file_dropdown.String{get(handles.file_dropdown, 'Value')});
+handles.subs = readSRT(fullfile(handles.input_dir, handles.file_dropdown.String{get(handles.file_dropdown, 'Value')}));
 set(handles.sub_display, 'string', handles.subs{handles.srt_idx})
 set(handles.scene_output, 'string', {})
 set(handles.sub_output, 'string', {})

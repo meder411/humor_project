@@ -67,12 +67,12 @@ for season in seasons:
 					# Rejoin list into a string
 					scenes[i] = '\n'.join(lines)
 
-				# Write all scenes to file
-				for i in xrange(len(scenes)):
-					# Scenes output directory
-					scenes_dir = osp.join('transcripts', 'scenes', 'season' + str(season))
-					if not osp.exists(scenes_dir):
-						os.mkdir(scenes_dir)
-					with open(osp.join(scenes_dir, 'ep' + str(ep) + '_' + str(i) + '.txt'), 'w') as fout:
-						fout.write(scenes[i])
+				# Write to file with SCENE markers
+				# Scenes output directory
+				scenes_dir = osp.join('transcripts', 'scenes', 'season' + str(season))
+				if not osp.exists(scenes_dir):
+					os.mkdir(scenes_dir)
+				scenes_output = '\n\nSCENE BREAK\n\n'.join(scenes)
+				with open(osp.join(scenes_dir, 'ep' + str(ep) + '.txt'), 'w') as fout:
+					fout.write(scenes_output)
 
