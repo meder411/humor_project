@@ -197,6 +197,7 @@ for season in seasons:
 					subs[i-1].end.seconds = subs[i].end.seconds
 					subs[i-1].end.minutes = subs[i].end.minutes
 					del subs[i]
+			subs.clean_indexes()
 
 			# Save modified SRT file
 			subs.save(osp.join(scene_dir, '{0:02d}_{1:02d}.srt'.format(season, ep))) 
