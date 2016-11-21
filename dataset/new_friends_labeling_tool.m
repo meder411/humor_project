@@ -22,7 +22,7 @@ function varargout = new_friends_labeling_tool(varargin)
 
 % Edit the above text to modify the response to help new_friends_labeling_tool
 
-% Last Modified by GUIDE v2.5 21-Nov-2016 00:40:46
+% Last Modified by GUIDE v2.5 21-Nov-2016 16:22:59
 
 % Begin initialization code - DO NOT EDIT
 gui_Singleton = 1;
@@ -55,8 +55,14 @@ function new_friends_labeling_tool_OpeningFcn(hObject, eventdata, handles, varar
 % Choose default command line output for new_friends_labeling_tool
 handles.output = hObject;
 
-handles.subs_dropdown.String = getAllFiles('.', 'srt');
-handles.scenes_dropdown.String = getAllFiles('.', 'txt');
+sub_files = loadFiles('subtitles','srt');
+scene_files = loadFiles('transcripts','txt');
+handles.subs_folder = 'subtitles';
+handles.scene_folder = 'transcripts';
+handles.sub_files = sub_files;
+handles.scene_files = scene_files;
+handles.subs_dropdown.String = sub_files;
+handles.scenes_dropdown.String = scene_files;
 handles.output = hObject;
 handles.sub_scene_pairs = [];
 handles.results_out_text = {};
@@ -72,6 +78,11 @@ guidata(hObject, handles);
 
 % UIWAIT makes new_friends_labeling_tool wait for user response (see UIRESUME)
 % uiwait(handles.figure1);
+
+function files = loadFiles(folder, type)
+    loaded = dir([folder, filesep, '*.', type]);
+    files = {loaded(:).name};
+   
 
 
 % --- Outputs from this function are returned to the command line.
@@ -203,9 +214,17 @@ function next_sub_Callback(hObject, eventdata, handles)
 % hObject    handle to next_sub (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
+if ~isempty(handles.sub_scene_pairs)
+    if any(handles.sub_scene_pairs(:,1) == handles.sub_idx)
+        err = errordlg('This subtitle already has a match');
+        set(err, 'WindowStyle', 'modal');
+        uiwait(err);
+        return
+    end
+end
 handles.sub_scene_pairs = [handles.sub_scene_pairs; [handles.sub_idx, handles.line_idx]];
+handles.results_out_text = {sprintf('Sub %d --> Line %d', handles.sub_idx, handles.line_idx), handles.results_out_text{:}};
 handles.sub_idx = handles.sub_idx + 1;
-handles.results_out_text = {sprintf('Sub %d --> Line %d', handles.sub_idx-1, handles.line_idx), handles.results_out_text{:}};
 set(handles.results_display, 'string', handles.results_out_text)
 update_sub_display(hObject, handles)
 
@@ -243,9 +262,9 @@ function save_Callback(hObject, eventdata, handles)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
 matches = handles.sub_scene_pairs;
-fid = fopen([handles.episode, '_', handles.scene, '.txt'], 'w');
+fid = fopen([handles.episode, '.matches'], 'w');
 fprintf(fid, 'SUB LINE\n', matches);
-fprintf(fid, '%d %d\n', matches);
+fprintf(fid, '%d %d\n', matches');
 fclose(fid);
 
 % --- Executes on selection change in scenes_dropdown.
@@ -280,10 +299,11 @@ handles.sub_scene_pairs = [];
 handles.line_idx = 1;
 handles.results_out_text = {};
 
-% Load subtitles
-[~, name, ~] = fileparts(handles.scenes_dropdown.String{get(handles.scenes_dropdown, 'Value')});
+% Load scene
+idx = get(handles.scenes_dropdown, 'Value');
+[~, name, ext] = fileparts(handles.scenes_dropdown.String{idx});
 handles.scene = name;
-handles.lines = readScenes(handles.scenes_dropdown.String{get(handles.scenes_dropdown, 'Value')});
+handles.lines = readScenes(fullfile(handles.scene_folder, [name, ext]));
 
 % Update displays
 start = (handles.line_idx - 1) * 2 + 1;
@@ -337,24 +357,24 @@ function load_subs_Callback(hObject, eventdata, handles)
 % hObject    handle to load_subs (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
-if ~isempty(handles.episode)
-    save_Callback(hObject, eventdata, handles)
-end
 
 % Reset variables
 handles.sub_scene_pairs = [];
 handles.sub_idx = 1;
 
 % Load subtitles
-[~, name, ~] = fileparts(handles.subs_dropdown.String{get(handles.subs_dropdown, 'Value')});
+idx = get(handles.subs_dropdown, 'Value');
+[~, name, ext] = fileparts(handles.subs_dropdown.String{idx});
 handles.episode = name;
-handles.subs = readSRT(handles.subs_dropdown.String{get(handles.subs_dropdown, 'Value')});
+set(handles.episode_label, 'string', sprintf('Episode: %s', name))
+handles.subs = readSRT(fullfile(handles.subs_folder, [name, ext]));
 
 % Update displays
 set(handles.remaining_subs, 'string', handles.subs(4:end))
 set(handles.current_sub, 'string', handles.subs(1:3))
 set(handles.next_sub, 'Enable', 'on')
 set(handles.undo, 'Enable', 'on')
+set(handles.undo_skip, 'Enable', 'on')
 set(handles.next_sub, 'Enable', 'on')
 set(handles.skip_sub, 'Enable', 'on')
 set(handles.undo, 'Enable', 'on')
@@ -406,6 +426,8 @@ if ~isempty(handles.subs)
         skip_sub_Callback(hObject, [], handles)
     elseif strcmp(eventdata.Key, 'leftarrow')
         undo_Callback(hObject, [], handles)
+    elseif strcmp(eventdata.Key, 'u')
+        undo_skip_Callback(hObject, [], handles)
     elseif strcmp(eventdata.Key, 'rightarrow')
         next_sub_Callback(hObject, [], handles)
     end
@@ -441,4 +463,63 @@ function back_Callback(hObject, eventdata, handles)
 if handles.line_idx > 1
     handles.line_idx = handles.line_idx - 1;
     update_scene_display(hObject, handles)
+end
+
+
+% --- Executes on button press in load_matches.
+function load_matches_Callback(hObject, eventdata, handles)
+% hObject    handle to load_matches (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+[fname, path] = uigetfile('*.matches','Select the matches file');
+
+% Load the data from file
+fid = fopen(fullfile(path, fname));
+fgetl(fid);
+matches = reshape(fscanf(fid, '%d %d\n'), 2, [])';
+fclose(fid);
+
+% Set all the variables to the loaded values
+[~, basename, ~] = fileparts(fname);
+handles.episode = basename;
+set(handles.episode_label, 'string', sprintf('Episode: %s', basename))
+handles.scene = basename;
+handles.sub_scene_pairs = matches;
+
+% Update results display
+num_matches = size(matches,1);
+for i = 1 : num_matches
+    handles.results_out_text{i} = sprintf('Sub %d --> Line %d', matches(num_matches+1-i,1),matches(num_matches+1-i,2));
+end
+set(handles.results_display, 'string', handles.results_out_text);
+
+% Load SRT and transcripts and find progress
+idx = not(cellfun('isempty', strfind(handles.sub_files, handles.episode)));
+handles.subs = readSRT(fullfile(handles.subs_folder, [basename, '.srt']));
+idx = not(cellfun('isempty', strfind(handles.scene_files, handles.scene)));
+handles.lines = readScenes(fullfile(handles.scene_folder, [basename, '.txt']));
+handles.sub_idx = max(matches(:,1)) + 1;
+handles.line_idx = max(matches(:,2));
+update_sub_display(hObject, handles)
+update_scene_display(hObject, handles)
+guidata(hObject, handles)
+
+% Make sure buttons are enabled
+set(handles.next_line, 'Enable', 'on')
+set(handles.back, 'Enable', 'on')
+set(handles.next_sub, 'Enable', 'on')
+set(handles.undo, 'Enable', 'on')
+set(handles.next_sub, 'Enable', 'on')
+set(handles.skip_sub, 'Enable', 'on')
+set(handles.undo, 'Enable', 'on')
+
+
+% --- Executes on button press in undo_skip.
+function undo_skip_Callback(hObject, eventdata, handles)
+% hObject    handle to undo_skip (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+if handles.sub_idx > 1
+    handles.sub_idx = handles.sub_idx - 1;
+    update_sub_display(hObject, handles)
 end
