@@ -380,7 +380,6 @@ set(handles.remaining_subs, 'string', handles.subs(4:end))
 set(handles.current_sub, 'string', handles.subs(1:3))
 set(handles.next_sub, 'Enable', 'on')
 set(handles.undo, 'Enable', 'on')
-set(handles.undo_skip, 'Enable', 'on')
 set(handles.next_sub, 'Enable', 'on')
 set(handles.skip_sub, 'Enable', 'on')
 set(handles.undo, 'Enable', 'on')
@@ -415,7 +414,13 @@ function skip_sub_Callback(hObject, eventdata, handles)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
 if handles.sub_idx < length(handles.subs)
+    handles.sub_scene_pairs = [handles.sub_scene_pairs; [handles.sub_idx, -1]];
+    handles.results_out_text = {sprintf('Sub %d skipped', handles.sub_idx), handles.results_out_text{:}};
+    set(handles.results_display, 'string', handles.results_out_text)
     handles.sub_idx = handles.sub_idx + 1;
+    if handles.sub_idx > length(handles.subs)
+        handles.sub_idx = length(handles.subs);
+    end
     update_sub_display(hObject, handles)
 end
 
@@ -432,8 +437,6 @@ if ~isempty(handles.subs)
         skip_sub_Callback(hObject, [], handles)
     elseif strcmp(eventdata.Key, 'leftarrow')
         undo_Callback(hObject, [], handles)
-    elseif strcmp(eventdata.Key, 'u')
-        undo_skip_Callback(hObject, [], handles)
     elseif strcmp(eventdata.Key, 'rightarrow')
         next_sub_Callback(hObject, [], handles)
     end
@@ -495,7 +498,11 @@ handles.sub_scene_pairs = matches;
 % Update results display
 num_matches = size(matches,1);
 for i = 1 : num_matches
-    handles.results_out_text{i} = sprintf('Sub %d --> Line %d', matches(num_matches+1-i,1),matches(num_matches+1-i,2));
+    if matches(num_matches+1-i,2) < 0
+        handles.results_out_text{i} = sprintf('Line %d skipped', matches(num_matches+1-i,1));
+    else
+        handles.results_out_text{i} = sprintf('Sub %d --> Line %d', matches(num_matches+1-i,1),matches(num_matches+1-i,2));
+    end
 end
 set(handles.results_display, 'string', handles.results_out_text);
 
@@ -518,14 +525,3 @@ set(handles.undo, 'Enable', 'on')
 set(handles.next_sub, 'Enable', 'on')
 set(handles.skip_sub, 'Enable', 'on')
 set(handles.undo, 'Enable', 'on')
-
-
-% --- Executes on button press in undo_skip.
-function undo_skip_Callback(hObject, eventdata, handles)
-% hObject    handle to undo_skip (see GCBO)
-% eventdata  reserved - to be defined in a future version of MATLAB
-% handles    structure with handles and user data (see GUIDATA)
-if handles.sub_idx > 1
-    handles.sub_idx = handles.sub_idx - 1;
-    update_sub_display(hObject, handles)
-end
