@@ -22,7 +22,7 @@ function varargout = new_friends_labeling_tool(varargin)
 
 % Edit the above text to modify the response to help new_friends_labeling_tool
 
-% Last Modified by GUIDE v2.5 21-Nov-2016 16:22:59
+% Last Modified by GUIDE v2.5 21-Nov-2016 21:09:10
 
 % Begin initialization code - DO NOT EDIT
 gui_Singleton = 1;
@@ -55,10 +55,10 @@ function new_friends_labeling_tool_OpeningFcn(hObject, eventdata, handles, varar
 % Choose default command line output for new_friends_labeling_tool
 handles.output = hObject;
 
-handles.subs_folder = 'subtitles/edited';
-handles.scene_folder = 'transcripts/scenes';
-sub_files = loadFiles(handles.subs_folder,'srt');
-scene_files = loadFiles(handles.scene_folder,'txt');
+sub_files = loadFiles('subtitles','srt');
+scene_files = loadFiles('transcripts','txt');
+handles.subs_folder = 'subtitles';
+handles.scene_folder = 'transcripts';
 handles.sub_files = sub_files;
 handles.scene_files = scene_files;
 handles.subs_dropdown.String = sub_files;
@@ -225,6 +225,9 @@ end
 handles.sub_scene_pairs = [handles.sub_scene_pairs; [handles.sub_idx, handles.line_idx]];
 handles.results_out_text = {sprintf('Sub %d --> Line %d', handles.sub_idx, handles.line_idx), handles.results_out_text{:}};
 handles.sub_idx = handles.sub_idx + 1;
+if handles.sub_idx > length(handles.subs)
+    handles.sub_idx = length(handles.subs);
+end
 set(handles.results_display, 'string', handles.results_out_text)
 update_sub_display(hObject, handles)
 
@@ -234,12 +237,15 @@ function next_line_Callback(hObject, eventdata, handles)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
 handles.line_idx = handles.line_idx + 1;
+if handles.line_idx > length(handles.lines)/2
+    handles.line_idx = length(handles.lines)/2;
+end
 update_scene_display(hObject, handles)
 
 function update_sub_display(hObject, handles)
 start = (handles.sub_idx - 1) * 3 + 1;
 finish = (handles.sub_idx) * 3;
-if finish < length(handles.subs)
+if start < length(handles.subs)
     set(handles.remaining_subs, 'string', handles.subs(finish+1:end))
     set(handles.current_sub, 'string', handles.subs(start:finish))
 end
@@ -248,7 +254,7 @@ guidata(hObject, handles)
 function update_scene_display(hObject, handles)
 start = (handles.line_idx - 1) * 2 + 1;
 finish = (handles.line_idx) * 2;
-if finish < length(handles.lines)
+if start < length(handles.lines)
     set(handles.remaining_lines, 'string', handles.lines(finish+1:end))
     set(handles.current_line, 'string', handles.lines(start:finish))
 end
