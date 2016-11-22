@@ -499,7 +499,7 @@ handles.sub_scene_pairs = matches;
 num_matches = size(matches,1);
 for i = 1 : num_matches
     if matches(num_matches+1-i,2) < 0
-        handles.results_out_text{i} = sprintf('Line %d skipped', matches(num_matches+1-i,1));
+        handles.results_out_text{i} = sprintf('Sub %d skipped', matches(num_matches+1-i,1));
     else
         handles.results_out_text{i} = sprintf('Sub %d --> Line %d', matches(num_matches+1-i,1),matches(num_matches+1-i,2));
     end
