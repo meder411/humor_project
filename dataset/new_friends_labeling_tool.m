@@ -55,10 +55,10 @@ function new_friends_labeling_tool_OpeningFcn(hObject, eventdata, handles, varar
 % Choose default command line output for new_friends_labeling_tool
 handles.output = hObject;
 
-sub_files = loadFiles('subtitles','srt');
-scene_files = loadFiles('transcripts','txt');
 handles.subs_folder = 'subtitles';
 handles.scene_folder = 'transcripts';
+sub_files = loadFiles(handles.subs_folder,'srt');
+scene_files = loadFiles(handles.scene_folder,'txt');
 handles.sub_files = sub_files;
 handles.scene_files = scene_files;
 handles.subs_dropdown.String = sub_files;
