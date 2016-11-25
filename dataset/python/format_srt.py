@@ -20,8 +20,9 @@ import string
 seasons = [1,2]
 
 # Logs directory
-logs_dir = 'logs'
-scene_dir = 'subtitles/edited/' # Scene output directory
+project_root = '..'
+logs_dir = osp.join(project_root, 'logs')
+scene_dir = osp.join(project_root, 'subtitles', 'edited') # Scene output directory
 
 # Functiion to verify that each word is valid (i.e. in the dictionary or a proper noun)
 def replace(sp_dict, word, log_file, log_info):
@@ -129,7 +130,7 @@ ital_regex = '|'.join(map(re.escape, ['<i>', '</i>']))
 
 # Go through each SRT file
 for season in seasons:
-	srt_dir = 'subtitles/original/season' + str(season)
+	srt_dir = osp.join(project_root, 'subtitles', 'original', 'season' + str(season))
 	for f in os.listdir(srt_dir):
 		if f.endswith('.srt'):
 

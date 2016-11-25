@@ -3,6 +3,7 @@ Terry: An advance?
 Rachel: It's so that I can spend Thanksgiving with my family. See, every year we go skiing in Vail, and normally my father pays for my ticket, but I sort of started the whole independence thing, you know, which is actually why I took this job.
 Terry: Rachel, Rachel, sweetheart. You're a terrible, terrible waitress. Really, really awful.
 Rachel: Ok, I, I hear what you're sayin'. I'm with you. Um, but I, but I'm trying really hard. And I think I'm doing better. I really do. Does anybody need coffee?  Oh, look at that.
+### Opening Credits
 
 SCENE BREAK
 
@@ -28,7 +29,7 @@ Joey: You know those posters for the city free clinic?
 Monica: Oh, wow, so you're gonna be one of those "healthy, healthy, healthy guys"?
 Phoebe: You know, the asthma guy was really cute.
 Chandler: Do you know which one you're gonna be?
-Joey: No, but I hear lyme disease is open, so...
+Joey: No, but I hear lyme disease is open, so... 
 Chandler: Good luck, man. I hope you get it.
 Joey: Thanks.
 Ross:  Well, you were right. How can they do this to us, huh? It's Thanksgiving.
@@ -116,7 +117,6 @@ Girl: I just remembered, I have to do something.
 Joey: Oh. What?
 Girl: Um, leave.
 Joey: Wait, wait, wait!
-says: What Mario isn't telling you...V.D., you never know who might have it. A
 
 SCENE BREAK
 
@@ -128,6 +128,7 @@ SCENE BREAK
 
 Joey: Set another place for Thanksgiving. My entire family thinks I have VD.
 Chandler: Tonight, on a very special Blossom.
+### Commercial Break
 
 SCENE BREAK
 
@@ -199,7 +200,7 @@ Ross: And everyone's telling me, you gotta pick a major, you gotta pick a major.
 Carol: Look, you don't have to talk to it. You can sing to it if you want.
 Ross: Oh, please. I am not singing to your stomach, ok?
 Susan: Hi, how's it goin?
-Ross: Shh!  _Here we come, walkin' down the street, get the funniest looks from, everyone we meet. Hey, hey_!  Hey, uh, did you just feel that?
+Ross: Shh!  Hey, uh, did you just feel that?
 Carol: I did.
 Ross: Does it always, uh--?
 Carol: No, no that was the first.
@@ -215,7 +216,7 @@ Monica: Can you go any faster with that?
 Joey: Hey, I got one keyhole and about a zillion keys. You do the math.
 Monica: Why do you guys have so many keys in there anyway?
 Chandler:  For an emergency just like this.
-Rachel:  All right, listen, smirky. If it wasn't for you and your stupid balloon, I would be on a plane watching a woman do this  right now. But I'm not.
+Rachel:  right now. But I'm not.
 Monica: I swear you said you had the keys.
 Rachel: No, I didn't. I wouldn't say I had the keys unless I had the keys, and I obviously didn't have the keys.
 Phoebe: Ooh, ok, that's it. Enough with the keys. No one say keys.
@@ -259,7 +260,10 @@ All: That's so sweet.
 Ross: And hey, here's to a lousy Christmas.
 Rachel: And a crappy New Year.
 Chandler: Here, here!
+### Closing Credits
 
 SCENE BREAK
 
-poster, revealing more posters underneath. The captions read, as follows:
+[Scene: The Subway, Joey sees his poster and he peels off the caption on his poster, revealing more posters underneath. The captions read, as follows:
+> > Bladder Control Problem   Stop Wife Beating   Hemorrhoids?   Winner of 3 Tony Awards...
+He's finally happy with that and walks away.]

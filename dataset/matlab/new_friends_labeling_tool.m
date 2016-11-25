@@ -55,8 +55,8 @@ function new_friends_labeling_tool_OpeningFcn(hObject, eventdata, handles, varar
 % Choose default command line output for new_friends_labeling_tool
 handles.output = hObject;
 
-handles.subs_folder = 'subtitles';
-handles.scene_folder = 'transcripts';
+handles.subs_folder = '../subtitles/edited';
+handles.scene_folder = '../transcripts/scenes';
 sub_files = loadFiles(handles.subs_folder,'srt');
 scene_files = loadFiles(handles.scene_folder,'txt');
 handles.sub_files = sub_files;
@@ -225,8 +225,8 @@ end
 handles.sub_scene_pairs = [handles.sub_scene_pairs; [handles.sub_idx, handles.line_idx]];
 handles.results_out_text = {sprintf('Sub %d --> Line %d', handles.sub_idx, handles.line_idx), handles.results_out_text{:}};
 handles.sub_idx = handles.sub_idx + 1;
-if handles.sub_idx > length(handles.subs)
-    handles.sub_idx = length(handles.subs);
+if handles.sub_idx > length(handles.subs) / 3
+    handles.sub_idx = length(handles.subs) /3;
 end
 set(handles.results_display, 'string', handles.results_out_text)
 update_sub_display(hObject, handles)

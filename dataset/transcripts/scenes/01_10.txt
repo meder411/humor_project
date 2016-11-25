@@ -34,9 +34,13 @@ All: Woooo! Yeah!
 Rachel: Phoebe, you're on.
 Phoebe: Oh, oh, good.
 Rachel:  Okay, hi. Ladies and gentlemen, back by popular demand, Miss Phoebe Buffay. Wooh!
-Phoebe:  Thanks, hi. Um, I wanna start with a song that means a lot to me this time of year.
-Phoebe:
-Phoebe:
+Phoebe: 
+> _I made a man with eyes of coal   And a smile so bewitchin',   How was I supposed to know   That my mom was dead in the kitchen?_    _La lalala la la la la lalala la la..._
+Phoebe: 
+> _...My mother's ashes   Even her eyelashes   Are resting in a little yellow jar,   And sometimes when it's breezy..._
+Phoebe: 
+> _...I feel a little sneezy   And now I-_ 
+Excuse me, excuse me! Yeah, noisy boys!  Is it something that you would like to share with the entire group?
 Max: No. No, that's- that's okay.
 Phoebe: Well, c'mon, if it's important enough to discuss while I'm playing, then I assume it's important enough for everyone else to hear!
 Chandler:  That guy's going home with a note!
@@ -46,13 +50,13 @@ David:  Sorry, I wa- I was just saying to my friend that I thought you were the 
 Max: Daryl Hannah.
 David: Daryl Hannah was the most beautiful woman that he'd ever seen in his life and I said yeah, I liked her in Splash, a lot, but not so much in- in Wall Street, I thought she had kind of a
 Max: Hard quality.
-David: -hard quality. And uh, while Daryl Hannah is beautiful in a conventional way, you are luminous with a kind of a delicate grace. Then, uh, that-that-that's when you started yelling.
-Phoebe: Okay, we're gonna take a short break.
+David: -hard quality. And uh, while Daryl Hannah is beautiful in a conventional way, you are luminous with a kind of a delicate grace. Then, uh, that-that-that's when you started yelling. 
+Phoebe: Okay, we're gonna take a short break. 
 Joey: Hey, that guy's going home with more than a note!
 
 SCENE BREAK
 
-Ross: Come here, Marcel. Sit here.
+Ross: Come here, Marcel. Sit here. 
 Rachel: Pheebs, I can't believe he hasn't kissed you yet. I mean God, by my sixth date with Paolo, I mean he had already named both my breasts! ...Ooh. Did I just share too much?
 Ross: Just a smidge.
 Phoebe: David's like, y'know, Scientist Guy. He's very methodical.
@@ -70,7 +74,7 @@ Monica: Yeah, but Janice? That-that was like the worst breakup in history!
 Chandler: I'm not saying it was a good idea, I'm saying I snapped!
 Joey: Hi. Hi, sorry I'm late.
 Chandler: Too many jokes... must mock Joey!
-Joey: Nice shoes, huh?
+Joey: Nice shoes, huh? 
 Chandler: Aah, y'killing me!
 Monica: Ross! He's playing with my spatulas again!
 Ross: Okay, look, he's not gonna hurt them, right?
@@ -94,10 +98,10 @@ David: Rrrreally.
 Phoebe: Oh, yeah, oh, I'm sure of it. You should just do it, just sweep and throw me.
 David: ...Now? Now?
 Phoebe: Oh yeah, right now.
-David: Okay, okay, okay.  Y'know what, this was just really expensive.  And I'll take- this was a gift.
+David: Okay, okay, okay. 
 Phoebe: Okay, now you're just kinda tidying.
 David: Okay, what the hell, what the hell.  You want me to actually throw you or you-you wanna just hop?
-Phoebe: I can hop.
+Phoebe: I can hop. 
 
 SCENE BREAK
 
@@ -114,7 +118,7 @@ Ross: Okay, so on our no-date evening, three of you now have dates.
 Joey: Uh, four.
 Ross: Four.
 Rachel: Five.
-Ross: Five.
+Ross: Five. 
 Rachel: Sorry. Paolo's catching an earlier flight.
 Joey: Yeah, and I met this really hot single mom at the store. What's an elf to do?
 Ross: Okay, so I'm gonna be the only one standing there alone when the ball drops?
@@ -150,7 +154,7 @@ David: Hi!  What-what're you doing here?
 Phoebe: Um, well, Max told me about Minsk, so  congratulations! This is so exciting!
 Max: It'd be even more exciting if we were going.
 Phoebe: Oh, you're not going?  Oh, why?
-Max: Tell her, David. 'I don't wanna go to Minsk and work with Lifson and Yamaguchi and Flench, on nonononononono. I wanna stay here and make out with my girlfriend!!'
+Max: Tell her, David. 'I don't wanna go to Minsk and work with Lifson and Yamaguchi and Flench, on nonononononono. I wanna stay here and make out with my girlfriend!!' 
 David: Thank you, Max. Thank you.
 Phoebe: So-so you're really not going?
 David: I don't know. I don't know what I'm gonna do. I just- you decide.
@@ -165,12 +169,12 @@ David: -make the decision-
 Phoebe: Okay, um, stay.
 David: Stay.
 Phoebe: Stay.
-Phoebe: Getting so good at that!
-David: It was Max's stuff.
+Phoebe: Getting so good at that! 
+David: It was Max's stuff. 
 
 SCENE BREAK
 
-Janice: I love this artichoke thing! Oh, don't tell me what's in it, the diet starts tomorrow!
+Janice: I love this artichoke thing! Oh, don't tell me what's in it, the diet starts tomorrow! 
 Chandler: You remember Janice.
 Monica: Vividly.
 Monica: Hi.
@@ -183,7 +187,7 @@ Ross: 'That thing'? This is how you greet guests at a party? Let me ask you some
 Monica: I'm guessing your new girlfriend wouldn't urinate on my coffee table.
 Ross: Okay. He was more embarrassed about that than anyone. Okay? And for him to have the courage to walk back in here like nothing happened...
 Monica: Alright. Just keep him away from me.
-Ross: Thank you.  C'mon, Marcel, whaddya say you and I do a little mingling?  Alright, I'll, uh... catch up with you later.
+Ross: Thank you.  Alright, I'll, uh... catch up with you later.
 Monica: Oh my gosh! Rachel, honey.. are you okay? Where-where's Paolo?
 Rachel: Rome. Jerk missed his flight.
 Phoebe: And then... your face is bloated?
@@ -205,8 +209,8 @@ Janice:  Oh, I'm gonna blow this one up, and I'm gonna write 'Reunited' in glitt
 Chandler: Alright, Janice, that's it! Janice... Janice... Hey, Janice, when I invited you to this party I didn't necessarily think that it meant that we-
 Janice: Oh, no. Oh, no.
 Chandler: I'm sorry you misunderstood...
-Janice: Oh my God. You listen to me, Chandler, you listen to me. One of these times is just gonna be your last chance with me.
-Chandler: Oh, will you give me the thing.
+Janice: Oh my God. You listen to me, Chandler, you listen to me. One of these times is just gonna be your last chance with me. 
+Chandler: Oh, will you give me the thing. 
 Phoebe: Hi, Max!
 Max: Yoko.  I've decided to go to Minsk without you.
 David: Wow.
@@ -224,7 +228,7 @@ David: I'll never forget you.
 Phoebe: And then you say that it's almost midnight and you have to go because you don't wanna start the new year with me if you can't finish it.  I'm gonna miss you. You scientist guy.
 Dick Clark:  Hi, this is Dick Clark, live in Times Square. We're in a virtual snowstorm of confetti here in Times Square...
 Joey: There y'go, kids.
-Chandler:  And then the peacock bit me.  Please kiss me at midnight.
+Chandler: 
 Joey: You seen Sandy?
 Chandler: Ooh. Uh, I don't know how to tell you this, but she's in Monica's bedroom, getting it on with Max, that scientist geek. Ooh, look at that, I did know how to tell you.
 Rachel: Vrrbddy, the bll is drrbing.
@@ -235,7 +239,7 @@ Chandler: And the moment of joy is upon us.
 Joey: Looks like that no date pact thing worked out.
 Phoebe: Everybody looks so happy. I hate that.
 Monica: Not everybody's happy. Hey Bobby!
-Chandler: Y'know, I uh.. just thought I'd throw this out here. I'm no math whiz, but I do believe there are three girls and three guys right here.
+Chandler: Y'know, I uh.. just thought I'd throw this out here. I'm no math whiz, but I do believe there are three girls and three guys right here. 
 Phoebe: I dunno. I don't feel like kissing anyone tonight.
 Rachel: I can't kiss anyone.
 Monica: So I'm kissing everyone?

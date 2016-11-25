@@ -1,550 +1,2016 @@
-_
+1
+00:00:09,298 --> 00:00:12,290
 COMMERCIAL VOICEOVER: Can't get the monkey off your back? Then put it in your mouth...
+
+2
+00:00:12,401 --> 00:00:19,338
 COMMERCIAL VOICEOVER: ...With MonkeyShine Beer. _
+
+3
+00:00:20,409 --> 00:00:22,343
+Get it, get it, monkey
+
+4
+00:00:24,413 --> 00:00:25,505
+Monkey, monkey
+
+5
+00:00:25,614 --> 00:00:27,411
+Monkeyshine Beer.
+
+6
+00:00:27,450 --> 00:00:29,509
+'Cause it's a jungle out there.
+
+7
+00:00:30,319 --> 00:00:32,446
 ROSS: That commercial always makes me so sad.
-JOEY: Yeah, but then the guy opens his beer and those girls run at him, so, everything seems to work out OK.
+
+8
+00:00:32,555 --> 00:00:38,359
+JOEY: Yeah, but then the guy opens his beer and those girls run at him, so, everything seems to work out OK. LAUGH
+
+9
+00:00:38,561 --> 00:00:41,529
 ROSS: I meant because the monkey in it reminds me of Marcel.
+
+10
+00:00:42,331 --> 00:00:50,564
 PHOEBE: I can see that, 'cause they both have those big brown eyes and, ya know, the little pouty chin.   MONICA: And the fact that they're both monkeys.
-ROSS: Sometimes I wonder if I did the right thing, ya know, giving him away.
+
+11
+00:00:51,540 --> 00:00:54,474
+ROSS: Sometimes I wonder if I did the right thing, ya know, giving him away. LAUGH
+
+12
+00:00:54,543 --> 00:01:02,510
 RACHEL: Oh, Ross, you had to, I mean, he was humping everything in sight. I mean, I have a Malibu Barbi that will no longer be wearing white to her wedding.
-ROSS: Remember when sometimes he'd borrow your hat, and, and when you got it back there'd be little monkey raisins in it.
-CHANDLER: Yeah, well sure, when he did it, it was funny. When I did it to my boss's hat. . . all of the sudden I have this big attitude problem.
-OPENING TITLES
 
-SCENE BREAK
+13
+00:01:05,354 --> 00:01:14,419
+ROSS: Remember when sometimes he'd borrow your hat, and, and when you got it back there'd be little monkey raisins in it. LAUGH
 
+14
+00:01:14,497 --> 00:01:22,494
+CHANDLER: Yeah, well sure, when he did it, it was funny. When I did it to my boss's hat. . . all of the sudden I have this big attitude problem. LAUGH
+
+15
+00:02:11,320 --> 00:02:13,446
 JOEY: Hey, hey, check it out, guess what I got.
-CHANDLER: Rhythm?
+
+16
+00:02:13,522 --> 00:02:15,285
+CHANDLER: Rhythm? LAUGH
+
+17
+00:02:16,325 --> 00:02:18,316
 JOEY: No, my first fan mail.
-ALL: Alright!
+
+18
+00:02:20,396 --> 00:02:35,537
 MONICA:  'Dear Dr. Remore, know that I love you and would do anything to have you.' Gosh. 'Your not-so-secretive admirer, Erica Ford.' Ooh wait, 'PS enclosed please find 14 of my eyelashes.'
-RACHEL: Ya know, in crazy world, that means you're married.
+
+19
+00:02:37,413 --> 00:02:40,405
+RACHEL: Ya know, in crazy world, that means you're married. LAUGH
+
+20
+00:02:42,551 --> 00:02:49,019
 MONICA: This wasn't addressed to _Days of Our Lives_, this is, this came to your apartment. There's no stamp on it, this woman was in our building.
-JOEY: Oh my god, I got my very own stalker.
+
+21
+00:02:49,019 --> 00:02:53,428
+JOEY: Oh my god, I got my very own stalker. LAUGH
+
+22
+00:02:55,531 --> 00:02:57,448
+You're so lucky.
+
+23
+00:02:57,448 --> 00:02:59,365
+I have to share with guys at work. LAUGH
+
+24
+00:03:00,502 --> 00:03:03,403
+Remember we talked about ''good thing,
+
+25
+00:03:03,403 --> 00:03:06,304
+bad thing''? This is a bad thing. LAUGH
+
+26
+00:03:07,276 --> 00:03:08,271
 ROSS: Hey guys.
+
+27
+00:03:08,271 --> 00:03:09,266
 ALL: Hey.
+
+28
+00:03:09,378 --> 00:03:10,504
 PHOEBE: Ooh, where are you off to, Travelin' Jake?
+
+29
+00:03:11,280 --> 00:03:18,275
 ROSS: Well, there's this, uh, paleontology conference in L.A. so I figured I'd go and then drive down to the zoo and surprise Marcel.
-CHANDLER: You know I think he will be surprised, 'till he realizes he's a monkey, and uh, you know, isn't capable of that emotion.
+
+30
+00:03:18,320 --> 00:03:25,519
+CHANDLER: You know I think he will be surprised, 'till he realizes he's a monkey, and uh, you know, isn't capable of that emotion. LAUGH
+
+31
+00:03:28,297 --> 00:03:30,491
 RACHEL: Oh, Phoebe, that really cute guy is here again.
+
+32
+00:03:32,301 --> 00:03:39,329
 PHOEBE: Oh, oh, OK, so everyone, pretend like I'm telling you a story, OK. And, and it's really funny. So everyone just laugh, now.
-PHOEBE: I know, I know.  Hello.
+
+33
+00:03:40,509 --> 00:03:44,509
+PHOEBE: I know, I know.  Hello. LAUGH
+
+34
+00:03:44,509 --> 00:03:47,428
 ROB: Hi. I'm Rob Dohnen.
+
+35
+00:03:47,428 --> 00:03:48,508
 PHOEBE: Hi Rob Dohnen.
+
+36
+00:03:48,550 --> 00:03:53,316
 ROB: I don't know anything about music, but I think you're really, really great.
+
+37
+00:03:53,455 --> 00:03:55,514
 PHOEBE: Oh, wow.
+
+38
+00:03:55,557 --> 00:04:04,460
 ROB: Anyway, I schedule performers for the childrens libraries around the city and I was just thinking, have you ever thought about playing your songs for kids?
-PHOEBE: Oh, I would love to have kids. . . you're, you're the, you're, me play the songs that I will write for them.
 
-SCENE BREAK
+39
+00:04:05,267 --> 00:04:14,374
+PHOEBE: Oh, I would love to have kids. . . you're, you're the, you're, me play the songs that I will write for them. LAUGH
 
+40
+00:04:16,378 --> 00:04:18,278
 JOEY: Hey, whaddya wanna do for dinner?
+
+41
+00:04:18,380 --> 00:04:20,371
 CHANDLER: Well we could just stay in and cook for ourselves. 
-CHANDLER: Hello.
+
+42
+00:04:26,322 --> 00:04:27,351
+CHANDLER: Hello. LAUGH
+
+43
+00:04:27,351 --> 00:04:28,380
 ERICA: It's Erica.
+
+44
+00:04:28,524 --> 00:04:30,321
 JOEY: Ah, the stalker.
+
+45
+00:04:30,426 --> 00:04:31,484
 ERICA: Never mind, it's open.
-CHANDLER:  Yes, hitting her with a frying pan's a good idea. We might wanna have a backup plan, though, just in case she isn't a cartoon.
-JOEY: Let's get out of here.
+
+46
+00:04:34,330 --> 00:04:40,490
+CHANDLER:  Yes, hitting her with a frying pan's a good idea. We might wanna have a backup plan, though, just in case she isn't a cartoon. LAUGH
+
+47
+00:04:42,304 --> 00:04:43,498
+JOEY: Let's get out of here. LAUGH
+
+48
+00:04:46,542 --> 00:04:48,533
 CHANDLER: The one time they're not home.
-JOEY: OK, we'll just leave, and when we pass her on the stairs, she won't know it's me 'cause we've never met.   CHANDLER: That's how radio stars escape stalkers.
-JOEY: She's comin'.
-ERICA: It's me.
+
+49
+00:04:50,412 --> 00:04:59,617
+JOEY: OK, we'll just leave, and when we pass her on the stairs, she won't know it's me 'cause we've never met.   CHANDLER: That's how radio stars escape stalkers. LAUGH
+
+50
+00:05:01,290 --> 00:05:02,450
+JOEY: She's comin'. LAUGH
+
+51
+00:05:08,464 --> 00:05:10,261
+ERICA: It's me. LAUGH
+
+52
+00:05:10,466 --> 00:05:15,394
 JOEY: Uhh, this is it, this is how we're gonna die. Ready?
+
+53
+00:05:16,271 --> 00:05:17,363
 CHANDLER: Wait, wait, wait. 
-ERICA: Hi.
-JOEY: Erica.
 
-SCENE BREAK
+54
+00:05:26,315 --> 00:05:27,373
+JOEY: Erica. LAUGH
 
-LIPSON: Hi, Dean Lipson, zoo administrator. I was told you had a question.
+55
+00:05:37,426 --> 00:05:43,525
+LIPSON: Hi, Dean Lipson, zoo administrator. I was told you had a question. LAUGH
+
+56
+00:05:44,433 --> 00:05:50,495
 ROSS: Well, I uh, I can't seem to find the monkey I donated last year. He's a capuchan, answers to the name Marcel.
+
+57
+00:05:51,407 --> 00:05:56,603
 LIPSON: Ahh, I'm afraid I have some bad news. Marcel has passed on.
+
+58
+00:05:58,514 --> 00:06:01,347
 ROSS: Oh my God, what happened?
+
+59
+00:06:01,450 --> 00:06:08,382
 LIPSON: Well he got sick, and then he got sicker, and then he got a little better but then he died.
-ROSS: I can't believe this.
-LIPSON: I'm sorry Mr. Geller. But ya know, there's an old saying, 'Sometimes monkeys die.' It's not a great saying but it certainly is fitting today.
+
+60
+00:06:11,260 --> 00:06:12,386
+ROSS: I can't believe this. LAUGH
+
+61
+00:06:12,494 --> 00:06:27,468
+LIPSON: I'm sorry Mr. Geller. But ya know, there's an old saying, 'Sometimes monkeys die.' It's not a great saying but it certainly is fitting today. LAUGH
+
+62
+00:06:28,277 --> 00:06:29,392
 ROSS: Well, ya know, someone should have called me.
+
+63
+00:06:29,392 --> 00:06:36,308
 LIPSON: I'm sorry. Look, I know this can't bring him back but here, it's just a gesture.
+
+64
+00:06:37,519 --> 00:06:39,316
 ROSS: Zoo dollars?
-LIPSON: Yes, and come see the bird show at 4. The macaws wear hats. Well it's a lot cuter if your monkey hasn't just died.
 
-SCENE BREAK
+65
+00:06:39,421 --> 00:06:48,386
+LIPSON: Yes, and come see the bird show at 4. The macaws wear hats. Well it's a lot cuter if your monkey hasn't just died. LAUGH
 
-KIDS: Ooohhh.
+66
+00:06:57,339 --> 00:06:58,431
 PHOEBE: I know.
-MONICA: I can't believe Joey's having lunch with his stalker. What i-, what is she like.
+
+67
+00:06:59,508 --> 00:07:04,376
+MONICA: I can't believe Joey's having lunch with his stalker. What i-, what is she like. LAUGH
+
+68
+00:07:04,446 --> 00:07:07,279
 CHANDLER: Well, you remember Cathy Bates in _Misery_?
-RACHEL AND MONICA: Yeah.
-CHANDLER: Well, she looks the exact opposite of that.
+
+69
+00:07:07,349 --> 00:07:10,375
+CHANDLER: Well, she looks the exact opposite of that. LAUGH
+
+70
+00:07:11,386 --> 00:07:13,354
 RACHEL: And she's not crazy?
+
+71
+00:07:13,455 --> 00:07:20,350
 CHANDLER: Oh no no no, she's a total wack job. Yeah, she thinks that Joey is actually Dr. Drake Remore.
-RACHEL: Oh my God.
+
+72
+00:07:20,462 --> 00:07:22,293
+RACHEL: Oh my God. LAUGH
+
+73
+00:07:22,364 --> 00:07:26,300
 MONICA: Ah, and I mean, he's going out with her? He can not persue this.
+
+74
+00:07:26,368 --> 00:07:41,471
 CHANDLER: Hey, just because this woman thinks she can actually see Joey through the magical box in her living room doesn't mean she's not a person. I mean, does she not deserve happiness, does she not deserve love? What're you lookin' at me for? He's the one who wants to boff the maniac.
-ROB: You OK?
+
+75
+00:07:42,584 --> 00:07:44,313
+ROB: You OK? LAUGH
+
+76
+00:07:44,386 --> 00:07:49,481
 PHOEBE: No, uh-uh, I'm just, I'm nervous. So, you know what, maybe if I just, if I picture them all in their underwear.
-ROB: That's not a good idea, that's kinda the reason the last guy got fired.
-PHOEBE: I'm just, I'm, I'm, I'm used to playing for grown-ups. Ya know, they just, grown-ups drink their coffee and do their grown-up thing, ya know, and kids listen. This is a huge responsibility. What? Are you gonna kiss me?
-ROSS: I was thinkin' about it.
-PHOEBE: OK.  OK, alrighty, let's play some tunes. Hi everybody, I'm Phoebe
+
+77
+00:07:50,292 --> 00:07:54,284
+ROB: That's not a good idea, that's kinda the reason the last guy got fired. LAUGH
+
+78
+00:07:58,300 --> 00:08:14,281
+PHOEBE: I'm just, I'm, I'm, I'm used to playing for grown-ups. Ya know, they just, grown-ups drink their coffee and do their grown-up thing, ya know, and kids listen. This is a huge responsibility. What? Are you gonna kiss me? LAUGH
+
+79
+00:08:15,250 --> 00:08:16,444
+ROSS: I was thinkin' about it. LAUGH
+
+80
+00:08:17,386 --> 00:08:24,357
+PHOEBE: OK.  OK, alrighty, let's play some tunes. Hi everybody, I'm Phoebe LAUGH
+
+81
+00:08:26,295 --> 00:08:27,791
+Let's go find our seats.
+
+82
+00:08:27,791 --> 00:08:29,287
+Chandler?
+
+83
+00:08:29,364 --> 00:08:31,355
+Hold on a second.
+
+84
+00:08:32,267 --> 00:08:33,359
+He thinks he can.
+
+85
+00:08:35,304 --> 00:08:37,295
+He thinks he can. LAUGH
+
+86
+00:08:38,407 --> 00:08:40,398
+Oh, what the hell?
+
+87
+00:08:40,509 --> 00:08:42,409
+He can. LAUGH
+
+88
+00:08:44,413 --> 00:08:46,392
+Hi, everybody. I'm Phoebe.
+
+89
+00:08:46,392 --> 00:08:48,371
 ALL: Hi Phoebe.
-PHOEBE: OK, um, I'm gonna play, um, some songs about grandparents, OK.    _Now, grandma's a person who everyone likes,   she bought you a train and a bright, shiny bike.   But lately she hasn't been coming to dinner,   And last time you saw her she looked so much thinner.   Now, your mom and your dad said she moved to Peru,   but the truth is she died and some day you will too.   La-la-la la la-la-la la la-la-la la..._
 
-SCENE BREAK
+90
+00:08:51,386 --> 00:09:18,472
+PHOEBE: OK, um, I'm gonna play, um, some songs about grandparents, OK.    _Now, grandma's a person who everyone likes,   she bought you a train and a bright, shiny bike.   But lately she hasn't been coming to dinner,   And last time you saw her she looked so much thinner.   Now, your mom and your dad said she moved to Peru,   but the truth is she died and some day you will too.   La-la-la la la-la-la la la-la-la la..._ LAUGH
 
+91
+00:09:29,491 --> 00:09:32,255
+I'll have the grilled salmon. LAUGH
+
+92
+00:09:32,361 --> 00:09:35,455
+And the doctor will have the risotto. LAUGH
+
+93
+00:09:36,498 --> 00:09:38,881
 ERICA: Oh, Drake, isn't it amazing?
-JOEY: Yeah it is. . . what?
+
+94
+00:09:38,881 --> 00:09:43,463
+JOEY: Yeah it is. . . what? LAUGH
+
+95
+00:09:44,473 --> 00:09:51,401
 ERICA: Well, here we sit, devil may care, just a little while ago you were reattaching someone's spinal cord.
-JOEY: Yeah, that was a tricky one. In reality, that operation takes like, over 10 hours, but they only showed it for 2 minites.
+
+96
+00:09:51,513 --> 00:10:00,413
+JOEY: Yeah, that was a tricky one. In reality, that operation takes like, over 10 hours, but they only showed it for 2 minites. LAUGH
+
+97
+00:10:01,390 --> 00:10:03,290
 ERICA: Who's they?
+
+98
+00:10:04,593 --> 00:10:06,390
 JOEY: No one.
-ERICA: Oh Drake, you are so talented, let me see those hands. Oh these hands, these beautiful hands, oh I could just eat them. . . but I won't.
+
+99
+00:10:07,596 --> 00:10:19,330
+ERICA: Oh Drake, you are so talented, let me see those hands. Oh these hands, these beautiful hands, oh I could just eat them. . . but I won't. LAUGH
+
+100
+00:10:20,308 --> 00:10:22,401
 JOEY: Good, otherwise my watch would fall off. 
-ERICA: No, seriously. These hands. These miracle, magical, life-giving hands. Oh, just to be near them, touch them, maybe even lick one?
-JOEY: Alright, just one.  Wow, you're good at that.
+
+101
+00:10:28,417 --> 00:10:39,416
+ERICA: No, seriously. These hands. These miracle, magical, life-giving hands. Oh, just to be near them, touch them, maybe even lick one? LAUGH
+
+102
+00:10:40,529 --> 00:10:54,341
+JOEY: Alright, just one.  Wow, you're good at that. LAUGH
+
+103
+00:10:55,644 --> 00:11:00,308
 WAITER: Oh my God! Someone, he's choking. Is anyone here a doctor?
+
+104
+00:11:01,416 --> 00:11:05,408
 ERICA: Well, yes, yes, the best doctor in all of Salem, Dr. Drake Remore.
 
-SCENE BREAK
-
+105
+00:11:21,503 --> 00:11:25,529
 JANITOR: Meet me in the nocturnal house in 15 minutes.
+
+106
+00:11:28,410 --> 00:11:36,340
 ROSS: Uhh, hey look, I don't really enjoy being with other men _that_ way. But, um, zoo dollars?
+
+107
+00:11:37,419 --> 00:11:41,617
 JANITOR: It's about your monkey. It's alive.
 
-SCENE BREAK
-
+108
+00:11:56,371 --> 00:11:59,431
 ERICA: I don't understand, why didn't you help that man?
+
+109
+00:12:00,308 --> 00:12:15,312
 JOEY: Uhh, cause, uhh, I'm a neurosurgeon and that was clearly a case of, uh, uh, foodal chokage. Alright, look, I got to tell you something.
+
+110
+00:12:15,390 --> 00:12:23,521
 ERICA: No, no no no, you don't have to tell me anything. You don't have to explain yourself to me. Ooh, who am I to question the great Dr. Drake Remore?
-JOEY: But that's what...
+
+111
+00:12:24,299 --> 00:12:25,846
 ERICA: I should just be happy to be near you.
+
+112
+00:12:25,846 --> 00:12:27,393
 JOEY: Hey I- 
+
+113
+00:12:31,406 --> 00:12:32,498
 ERICA: Hey what?
+
+114
+00:12:33,308 --> 00:12:38,403
 JOEY: That's it, just hey. Like at the end of a dance, HEY!  Hey. He-hey.
 
-SCENE BREAK
-
+115
+00:12:46,321 --> 00:13:05,404
 PHOEBE:  _There'll be times when you get older   when you'll want to sleep with people   just to make them like you. . .   But don't.   Cause that's another thing that you don't wanna do, everybody   That's another thing that you don't wanna do._
+
+116
+00:13:07,275 --> 00:13:08,270
 MONICA: Excellent!
+
+117
+00:13:08,270 --> 00:13:09,265
 CHANDLER: Very informative!
+
+118
+00:13:09,311 --> 00:13:11,472
 RACHEL: Not at all inappropriate!
+
+119
+00:13:12,280 --> 00:13:16,272
 PHOEBE: Thank you for coming everybody. There're cookies in the back.
+
+120
+00:13:17,419 --> 00:13:21,380
 ROB: That was great, the kids loved you.
+
+121
+00:13:21,489 --> 00:13:23,423
 PHOEBE: Yay, I rock.
+
+122
+00:13:24,392 --> 00:13:31,396
 ROB: And you know why? Because you told the truth, and nobody ever tells kids the truth.You were incredible.
+
+123
+00:13:32,500 --> 00:13:33,489
 PHOEBE: But.
+
+124
+00:13:34,336 --> 00:13:35,883
 ROB: How did you know there was a but?
+
+125
+00:13:35,883 --> 00:13:40,303
 PHOEBE: I sense these things. It was either but or butter.
+
+126
+00:13:41,610 --> 00:13:49,340
 ROB: The thing is, I think some of the parents, they were kinda hopin' that you'd play more songs about like, barnyard animals.
+
+127
+00:13:49,451 --> 00:13:50,509
 PHOEBE: I can do that.
+
+128
+00:13:51,319 --> 00:13:53,315
 ROB: Really?
-PHOEBE: Yeah.
+
+129
+00:13:53,315 --> 00:13:58,451
 ROB: Because that would be fantastic. What? You wanna kiss me?
+
+130
+00:13:58,560 --> 00:14:00,357
 PHOEBE: Thinkin' about it.
 
-SCENE BREAK
+131
+00:14:03,498 --> 00:14:05,449
+If I get a library card,
 
+132
+00:14:05,449 --> 00:14:07,400
+can I take you out some time?
+
+133
+00:14:12,374 --> 00:14:13,870
+What?
+
+134
+00:14:13,870 --> 00:14:15,366
+I'm unemployed.
+
+135
+00:14:20,382 --> 00:14:32,385
 JANITOR: Ahh, the bat. Ambassador of darkness, flitting out of his cave like a winged messenger, sightless spectre of the macabe.
+
+136
+00:14:33,495 --> 00:14:34,519
 ROSS: Buddy, my monkey?
+
+137
+00:14:35,530 --> 00:14:46,331
 JANITOR: Oh, yeah, right. There was a break-in, few months back, inside job. Your monkey was taken.
+
+138
+00:14:46,408 --> 00:14:47,955
+Along with a snowy egret,
+
+139
+00:14:47,955 --> 00:14:51,476
+a two-toed sloth and three sweatshirts
+
+140
+00:14:51,476 --> 00:14:53,341
+from the zoo gift shop.
+
+141
+00:14:53,515 --> 00:14:56,507
 ROSS: Oh my God. But the zoo told me that my monkey was dead.
+
+142
+00:14:57,352 --> 00:15:01,352
 JANITOR: The zoo! Do you believe everything the zoo tells ya?
+
+143
+00:15:04,259 --> 00:15:07,285
 ROSS: That, that's the only thing the zoo's ever told me.
+
+144
+00:15:07,462 --> 00:15:16,462
 JANITOR: Of course they're gonna say he's dead. They don't want the bad publicity. It's all a great big cover-up. Do you have any idea how high up this thing goes?
+
+145
+00:15:17,272 --> 00:15:18,466
 ROSS: That guy Lipson?
+
+146
+00:15:19,307 --> 00:15:22,923
 JANITOR: Lipson knows. Do you have any idea who else knows?
+
+147
+00:15:22,923 --> 00:15:24,470
 ROSS: No, I, I only know Lipson.
+
+148
+00:15:26,414 --> 00:15:36,907
 JANITOR: Hmm, Lipson knows huh? Ahh, hello Mr. Opossum, enigma of the trees, upside-down denizen of the night, taunting gravity with...
+
+149
+00:15:36,907 --> 00:15:38,391
 ROSS: Buddy, my monkey, my monkey.
+
+150
+00:15:40,395 --> 00:15:46,422
 JANITOR: Word on the street - well, when I say street, I mean those little pretend streets they have here at the zoo.
+
+151
+00:15:46,501 --> 00:15:48,298
 ROSS: Of course.
+
+152
+00:15:50,338 --> 00:15:56,340
 JANITOR: Your monkey found a new career, in the entertainment field. That's all I know.
+
+153
+00:15:57,412 --> 00:15:59,312
 ROSS: This is unbelievable.
+
+154
+00:15:59,414 --> 00:16:04,248
 JANITOR: So, what is this information worth to you, my friend?
+
+155
+00:16:04,486 --> 00:16:07,386
 ROSS: Are you trying to get me to bribe you?
+
+156
+00:16:07,489 --> 00:16:09,354
 JANITOR: Maybe.
+
+157
+00:16:10,458 --> 00:16:13,291
 ROSS: But you already told me everything.
 
-SCENE BREAK
-
+158
+00:16:23,271 --> 00:16:27,373
 ROSS: Check it out, he actually is the MonkeyShine monkey.
+
+159
+00:16:29,511 --> 00:16:31,274
 RACHEL: Well, so what're you gonna do?
+
+160
+00:16:31,312 --> 00:16:34,406
 ROSS: Well, I guess I'm gonna call the beer company and try to find out where he is.
+
+161
+00:16:34,482 --> 00:16:37,508
 CHANDLER: That's what I did when I lost my Clydesdales.
+
+162
+00:16:38,520 --> 00:16:40,317
 PHOEBE: OK, hi again.
+
+163
+00:16:40,422 --> 00:16:43,289
 ALL: Hi Phoebe.
+
+164
+00:16:44,325 --> 00:17:05,274
 PHOEBE: Today we're gonna start with some songs about barnyard animals.    _Oh, the cow in the meadow goes moo,   Oh, the cow in the meadow goes moo.   Then the farmer hits him on the head and grinds him up,   And that's how we get hamburgers.   Nooowww, chickens!_
 
-SCENE BREAK
-
+165
+00:17:06,281 --> 00:17:08,812
 _TV DOCTOR: You're the only one who can save her Drake.
+
+166
+00:17:08,812 --> 00:17:11,343
 JOEY ON TV: Damnit, I'm a doctor, I'm not God._
+
+167
+00:17:11,453 --> 00:17:13,478
 ROSS: Well, there goes my whole belief system.
+
+168
+00:17:16,291 --> 00:17:17,349
 ERICA: It's Erica.
+
+169
+00:17:17,392 --> 00:17:19,326
 JOEY: Oh my God, quick turn off the TV.
+
+170
+00:17:19,326 --> 00:17:21,260
 RACHEL: No no no, wait, I wanna see what happens.
+
+171
+00:17:21,362 --> 00:17:23,454
 JOEY: Uh, I get Leslie out of the coma and then we make out.
+
+172
+00:17:24,265 --> 00:17:26,290
 RACHEL: Well how can that be, you were just kissing Sabrina?
+
+173
+00:17:26,401 --> 00:17:30,303
 MONICA: Rachel, it's a world where Joey is a neuro-surgeon.
+
+174
+00:17:33,475 --> 00:17:35,272
 JOEY: Hey Erica, c'mon in.
+
+175
+00:17:35,343 --> 00:17:38,471
 ERICA: How did you get here so fast, I just saw you in Salem?
+
+176
+00:17:38,513 --> 00:17:43,409
 JOEY: Right, they uh, they choppered me in. What's up?
+
+177
+00:17:43,485 --> 00:17:47,299
 ERICA: Ohh, and I see you're having a little party too. Is she here, huh, huh?
+
+178
+00:17:47,299 --> 00:17:48,311
 JOEY: Who?
+
+179
+00:17:48,423 --> 00:17:53,522
 ERICA: Sabrina. I know about you two. I saw you today kissing in the doctor's lounge.
+
+180
+00:17:55,396 --> 00:17:57,330
 JOEY: It's not what you think, that was...
+
+181
+00:17:57,398 --> 00:17:59,593
 ERICA: You told me I was the only one. 
+
+182
+00:18:03,371 --> 00:18:16,383
 JOEY: Alright look, that's it. I don't think we should see each other anymore, alright. Look, I know I should have told you this a long time ago but I am not Drake Remore, OK. I'm not even a doctor, I'm an actor. I just pretend to be a doctor.
+
+183
+00:18:16,451 --> 00:18:20,251
 ERICA: Oh my God. Do the people at the hospital know about this?
+
+184
+00:18:23,458 --> 00:18:25,483
 JOEY: Somebody wanna help me out here?
+
+185
+00:18:26,261 --> 00:18:28,252
 RACHEL: Oh, I know, I know. 
+
+186
+00:18:28,463 --> 00:18:30,260
+Where am I?
+
+187
+00:18:30,298 --> 00:18:34,394
+University Hospital  where you've been for 18 years.
+
+188
+00:18:35,470 --> 00:18:37,495
 ERICA: How, how can you be here and there.
+
+189
+00:18:38,373 --> 00:18:40,273
 JOEY: 'Cause it's a television show.
+
+190
+00:18:40,475 --> 00:18:42,375
 ERICA: Drake, what're you getting at?
+
+191
+00:18:44,379 --> 00:18:47,314
+Nice girl. Not great with concepts.
+
+192
+00:18:48,383 --> 00:18:49,475
 JOEY: I'm not Drake.
+
+193
+00:18:50,285 --> 00:18:55,515
 ROSS: That's right, he's not Drake, he's Hans Remore, Drake's evil twin.
+
+194
+00:19:01,329 --> 00:19:03,320
 ERICA: Is this true?
+
+195
+00:19:03,464 --> 00:19:11,330
 RACHEL: Yes, yes it is true. And I know this because, because he pretended to be Drake to, to sleep with me. 
+
+196
+00:19:17,478 --> 00:19:22,244
 MONICA: And then he told me he would run away with me, and he didn't. 
+
+197
+00:19:24,285 --> 00:19:27,345
 CHANDLER: And you left the toilet seat up, you bastard. 
+
+198
+00:19:32,460 --> 00:19:34,451
 ERICA: Is all this true?
+
+199
+00:19:37,498 --> 00:19:52,479
 JOEY: Yes, I'm afraid it is. You deserve much better than me Erica. You deserve to be with the real Drake, he's the one you fell in love with. Go to Salem, find him, he's the guy for you.
+
+200
+00:19:53,281 --> 00:19:54,407
 ERICA: Oh Hans. 
+
+201
+00:19:57,418 --> 00:20:03,323
 ROSS: Hans...Hans...Yo evil twin.
+
+202
+00:20:03,524 --> 00:20:12,398
 JOEY: Right. Goodbye Erica, good luck in Salem. Take care
+
+203
+00:20:12,433 --> 00:20:15,334
 ERICA: I'll never forget you Hans. 
+
+204
+00:20:19,507 --> 00:20:21,975
 JOEY: OK, alright, the people who threw the water.
 
-SCENE BREAK
+205
+00:20:21,975 --> 00:20:24,443
+Helping you out.
 
+206
+00:20:24,512 --> 00:20:27,505
 PHOEBE: Fired! Why?
+
+207
+00:20:28,316 --> 00:20:33,310
 ROB: The library board has had a lot of complaints from parents about some of the stuff in your songs.
+
+208
+00:20:33,521 --> 00:20:47,432
 PHOEBE: I can't believe it. Did you tell your board about how kids want to hear the truth?
+
+209
+00:20:48,436 --> 00:20:49,528
 ROB: No.
+
+210
+00:20:51,572 --> 00:20:53,369
 PHOEBE: I see.
+
+211
+00:20:53,441 --> 00:20:57,433
 ROB: Maybe if you just played some regular kiddie songs.
+
+212
+00:20:57,478 --> 00:21:04,479
 PHOEBE: No. What do you, what do you want me to be, like some stupid, big, like, purple dinosaur?
+
+213
+00:21:05,486 --> 00:21:07,386
 ROB: I'm not saying you have to be Barney.
+
+214
+00:21:07,386 --> 00:21:09,286
 PHOEBE: Who's Barney.
 
-SCENE BREAK
+215
+00:21:15,396 --> 00:21:16,522
+You'll never believe it.
 
+216
+00:21:17,332 --> 00:21:17,878
+Let me guess.
+
+217
+00:21:17,878 --> 00:21:18,424
+What?
+
+218
+00:21:18,533 --> 00:21:22,299
+Some Weebles actually do fall down?
+
+219
+00:21:22,503 --> 00:21:24,471
+A stitch in time now only saves seven?
+
+220
+00:21:24,471 --> 00:21:26,439
+What do you got?
+
+221
+00:21:27,508 --> 00:21:31,410
+Well never mind.
+
+222
+00:21:31,546 --> 00:21:32,535
+What? What?
+
+223
+00:21:33,348 --> 00:21:40,509
 ROSS: Well, I tracked down Marcel and get this, he's healthy, he's happy, and he's right here in New York filming _Outbreak II - The Virus Takes Manhattan_.
+
+224
+00:21:40,555 --> 00:21:42,318
 RACHEL: You're kidding.
+
+225
+00:21:42,457 --> 00:21:43,407
 JOEY: This is amazing.
+
+226
+00:21:43,407 --> 00:21:44,357
 ROSS: I know.
+
+227
+00:21:44,459 --> 00:21:47,621
 JOEY: I finally get a part on TV and the monkey's makin' movies.
+
+228
+00:21:49,564 --> 00:21:51,327
 PHOEBE: OK, Rachel, I'm ready.
-RACHEL: OK.
+
+229
+00:21:55,536 --> 00:22:00,302
 KID: Excuse me. Is this where the singing lady is that tells the truth?
+
+230
+00:22:00,575 --> 00:22:02,304
 PHOEBE: Um, yeah I guess that's me.
+
+231
+00:22:04,278 --> 00:22:06,269
 KID:  She's here.
+
+232
+00:22:14,322 --> 00:22:26,299
 PHOEBE:  _Sometimes men love women,   sometimes men love men,   and then there are bisexuals,   though some just say they're kidding themselves.   la la-la-la la-la-la-la-la-la-la..._
 
-SCENE BREAK
-
+233
+00:22:35,443 --> 00:22:38,310
 ROSS: This is so exciting, I haven't seen my monkey in almost a year.
+
+234
+00:22:38,413 --> 00:22:45,508
 CHANDLER: What, you never look down in the shower? Oh please. I'm not allowed to make one joke in the monkey-is-penis genre?
+
+235
+00:22:46,354 --> 00:22:49,353
 SECURITY GUARD: C'mon people, back up please, back up, c'mon, c'mon, c'mon, c'mon.
+
+236
+00:22:49,424 --> 00:22:51,618
 ROSS: Uh, excuse me, uh, where can we find the monkey?
+
+237
+00:22:52,360 --> 00:22:53,520
 SECURITY GUARD: I'm sorry guys, closed set.
+
+238
+00:22:53,561 --> 00:22:59,424
 ROSS: Uh, I'm sorry, you don't understand, I'm, I'm, I'm a friend of his. We uh, we used to live together.
+
+239
+00:22:59,467 --> 00:23:02,459
 SECURITY GUARD: Yeah, and I have a time share in the Pocanos with Flipper.
+
+240
+00:23:05,473 --> 00:23:06,462
 MONICA: Ross, there he is.
+
+241
+00:23:07,375 --> 00:23:11,470
 ROSS: Hey, hey buddy, Marcel. Marcel. 
 
-SCENE BREAK
+242
+00:23:18,386 --> 00:23:19,478
+In the jungle
 
+243
+00:23:20,288 --> 00:23:21,516
+The mighty jungle
+
+244
+00:23:22,290 --> 00:23:24,485
+The lion sleeps tonight
+
+245
+00:23:27,528 --> 00:23:29,012
+In the jungle
+
+246
+00:23:29,012 --> 00:23:30,496
+The mighty jungle
+
+247
+00:23:30,531 --> 00:23:33,500
+The lion sleeps tonight
+
+248
+00:24:04,265 --> 00:24:05,459
 SECURITY GUARD: Uh, excuse me folks this is a uhh...
+
+249
+00:24:05,500 --> 00:24:09,300
 JOEY: Closed set. We know but we're friends with the monkey. 
+
+250
+00:24:11,405 --> 00:24:16,402
 ROSS: Good morning. Hey pal, look who I brought. It's your old friend Harry Elefante. 
+
+251
+00:24:20,314 --> 00:24:23,283
 JOEY: Woah, dude, burn.
+
+252
+00:24:23,384 --> 00:24:27,286
 ROSS: I don't get it, he seemed so happy to see me yesterday.
+
+253
+00:24:27,388 --> 00:24:31,484
 TRAINER: Hey don't take it personal, he's under a lot of pressure, ya know, starring in a movie and all.
+
+254
+00:24:33,394 --> 00:24:35,385
 RACHEL: Now just how big of a star is Marcel?
+
+255
+00:24:35,429 --> 00:24:40,430
 TRAINER: In human terms, I'd say Cybill Shepard.
-ALL: Woah.
+
+256
+00:24:43,504 --> 00:24:47,440
 CHANDLER:  So, are you guys in the movie, or are you just really paranoid.
+
+257
+00:24:49,310 --> 00:24:51,891
 DIRECTOR'S ASSISTANT: Hey Sal, Jerry wants to know if the monkey's ready for the subway set?
+
+258
+00:24:51,891 --> 00:24:56,448
 JOEY: Uh, excuse me. Jerry is the director, which one's he?
+
+259
+00:24:56,517 --> 00:24:58,610
 DIRECTOR'S ASSISTANT: The one in the director's chair.
+
+260
+00:24:59,420 --> 00:25:02,369
 JOEY: Gotcha. Phoebs, walk with me.
+
+261
+00:25:02,369 --> 00:25:06,358
 PHOEBE: OK. Um, how come I'm walking with you?
+
+262
+00:25:06,460 --> 00:25:17,460
 JOEY: Well, we're, we're just goin' over here so that we can get away from the horrible flesh eating virus, for the love of God woman, listen to me. Is he lookin', is he lookin'?
+
+263
+00:25:24,412 --> 00:25:25,458
 SUSIE: We've got a problem.
+
+264
+00:25:25,458 --> 00:25:26,504
 DIRECTOR'S ASSISTANT: Tell me.
+
+265
+00:25:27,281 --> 00:25:30,579
 SUSIE: I can't do Chris's makeup. She refuses to acknowledge that she has a moustasche.
+
+266
+00:25:31,319 --> 00:25:32,849
 DIRECTOR'S ASSISTANT: Is it bad?
+
+267
+00:25:32,849 --> 00:25:39,482
 SUSIE: It looks like one of her eyebrows fell down. Now unless someone convinces her to let me bleach it, Jean-Claude Van Damme is gonna be making out with Gabe Kaplan.
+
+268
+00:25:41,295 --> 00:25:42,489
 DIRECTOR'S ASSISTANT: I'll talk to her.
+
+269
+00:25:43,331 --> 00:25:44,593
 SUSIE: I hate actors.
+
+270
+00:25:45,533 --> 00:25:49,491
 CHANDLER:  Nice camoflauge man, for a minute there I almost didn't see ya.
+
+271
+00:25:52,540 --> 00:25:53,529
 SUSIE: Excuse me.
-CHANDLER: Ahhhh.
+
+272
+00:25:56,611 --> 00:25:58,442
 SUSIE: Uh, is your name Chandler?
+
+273
+00:25:58,546 --> 00:25:59,945
 CHANDLER: Uh, yes, yes it is.
+
+274
+00:25:59,945 --> 00:26:01,344
 SUSIE: Chandler Bing?
+
+275
+00:26:01,382 --> 00:26:05,250
 CHANDLER: Do you know me or are you just really good at this game?
+
+276
+00:26:05,386 --> 00:26:21,291
 SUSIE: I'm Susie Moss. Fourth grade, glasses, I used to carry around a box of animal crackers like a purse.   CHANDLER: Susie Moss, right, yeah, wow, you look. . . great job growing up.
+
+277
+00:26:21,402 --> 00:26:25,498
 SUSIE: It's nice to see you're not still wearing that denim cap with all the little mirrors on it.
+
+278
+00:26:26,273 --> 00:26:29,503
 CHANDLER: Oh, right, well yeah, I graduated fourth grade and realized I wasn't a pimp.
+
+279
+00:26:30,277 --> 00:26:36,414
 SUSIE: Remember the class play? You, you pulled up my skirt and the entire auditorium saw my underpants.
+
+280
+00:26:37,518 --> 00:26:44,483
 CHANDLER: Yes, back then I, uh, used humor as a defense mechanism. Thank God I don't do that anymore.
+
+281
+00:26:46,527 --> 00:26:48,506
+So? What have you
+
+282
+00:26:48,506 --> 00:26:50,485
+been doing since childhood?
+
+283
+00:26:51,298 --> 00:26:54,290
+Well, I got a new belt.
+
+284
+00:26:54,502 --> 00:26:55,491
+I wondered.
+
+285
+00:27:00,274 --> 00:27:00,854
 MONICA: Oh my God, oh my God, oh my God.
+
+286
+00:27:00,854 --> 00:27:01,434
 RACHEL: What what what what?
+
+287
+00:27:02,276 --> 00:27:07,279
 MONICA: Jean-Claude Van Damme. I didn't know he was in this movie, he is so hot.
+
+288
+00:27:07,448 --> 00:27:08,472
 RACHEL: Ya think?
+
+289
+00:27:09,350 --> 00:27:14,250
 MONICA: The muscles from Brussels, wham bam Van Damme, did you see _Time Cop_?
+
+290
+00:27:14,355 --> 00:27:16,403
 RACHEL: No, was he any good in it?
+
+291
+00:27:16,403 --> 00:27:18,451
 MONICA: Rachel, he like, totally changed time.
+
+292
+00:27:20,394 --> 00:27:22,453
 RACHEL: Wow, so why don't you go talk to him?
-MONICA: Oh, yeah.
+
+293
+00:27:23,497 --> 00:27:27,263
 RACHEL: What, so you go over there, you tell him you think he's cute, what's the worst that could happen?
+
+294
+00:27:27,301 --> 00:27:28,359
 MONICA: He could hear me.
+
+295
+00:27:29,470 --> 00:27:30,966
 RACHEL: OK, I'm doin' it for ya.
+
+296
+00:27:30,966 --> 00:27:36,273
 MONICA: Oh Rachel don't, don't you dare, don't, don't. Tell him I cook.
+
+297
+00:27:37,378 --> 00:27:38,845
 RACHEL: Excuse me. Hi.
+
+298
+00:27:38,845 --> 00:27:40,312
 VAN DAMME: Hi.
+
+299
+00:27:41,282 --> 00:27:52,391
 RACHEL: Um, this is gonna sound kinda goofy but uhhm, my friend over there, who cooks by the way, um, she thinks you're cute.
+
+300
+00:27:52,426 --> 00:27:54,394
 VAN DAMME: You don't think I'm cute?
+
+301
+00:27:56,297 --> 00:28:10,231
 RACHEL: I, I don't know, um, do you think you're cute? OK, we're kinda gettin' off the track here. Um, I was supposed to come here and tell you my friend thinks you're cute. So what should I tell her?
+
+302
+00:28:11,345 --> 00:28:15,475
 VAN DAMME: You can tell her I think her friend is cute.
+
+303
+00:28:23,457 --> 00:28:28,485
 CHANDLER: No, Stephen Hurs was the kid who would eat anything for money, David Stein was the guy who had no elbows.
+
+304
+00:28:29,263 --> 00:28:31,458
 SUSIE: OK, well then who was the kid that got caught masturbating?
+
+305
+00:28:31,499 --> 00:28:36,299
 CHANDLER: OK that's not what he was doing. Alright, he was looking for his bus money.
+
+306
+00:28:37,571 --> 00:28:39,021
+Makeup!
+
+307
+00:28:39,021 --> 00:28:40,471
 SUSIE: Oh that's me, I gotta go.
+
+308
+00:28:42,376 --> 00:28:43,468
 CHANDLER: Oh uh, o, OK.
+
+309
+00:28:44,411 --> 00:28:49,371
 SUSIE: Um, so listen, how many times am I gonna have to touch you on the arm before you ask me on a date.
+
+310
+00:28:51,385 --> 00:28:57,313
 CHANDLER: Well, uh, let's try one more. . . there you go, say Ernie's, 8 o'clock.
+
+311
+00:28:57,424 --> 00:29:03,457
 SUSIE: I'll be there, and who knows, if things go well, maybe this time I'll get to see your underwear.
+
+312
+00:29:10,237 --> 00:29:12,262
 CHANDLER: No one was around to hear that?
+
+313
+00:29:17,344 --> 00:29:18,470
 MONICA: So what'd he say?
+
+314
+00:29:19,280 --> 00:29:29,455
 RACHEL: Agh, what a jerk. I kept talking about you and he kept asking me out. I mean, naturally, you know, I said no.
+
+315
+00:29:32,459 --> 00:29:34,256
 MONICA: Well, thanks anyway.
+
+316
+00:29:34,295 --> 00:29:38,356
 RACHEL: He just kept asking, and asking, and asking, and asking, and asking, and asking.
+
+317
+00:29:38,399 --> 00:29:44,462
 MONICA: Rachel if you, if you want to go out with him, you can. Sound like a big jerk to me but if that's what you want to do...
+
+318
+00:29:44,572 --> 00:29:48,302
 RACHEL: Jean-Claude she said yes, I'll see you tonight. Thank you.
 
-SCENE BREAK
+319
+00:29:50,511 --> 00:29:52,376
+Thank you.
 
+320
+00:29:58,485 --> 00:30:04,514
 RACHEL: And then Jean-Claude took me to that place Crossroads and that's where we hung out with Drew Barrymore.
+
+321
+00:30:05,292 --> 00:30:14,528
 JOEY: Oh man, she's so smokin, she has got the greatest set of. . . no guys around, huh.
+
+322
+00:30:16,403 --> 00:30:17,870
 RACHEL: Does anybody need anything?
+
+323
+00:30:17,870 --> 00:30:23,500
 MONICA: Oh, I'll have an espresso. Oh acutally, I'll get it. If I ask you to, you'll probably end up drinking it yourself.
+
+324
+00:30:26,513 --> 00:30:27,525
 RACHEL: That is so unfair.
+
+325
+00:30:27,525 --> 00:30:33,412
 PHOEBE: I know. Oh, like you would drink her coffee after what you did to her with Van Damme.
+
+326
+00:30:34,421 --> 00:30:40,418
 ROSS: Hey Joey I have to cancel racketball for tonight, that was Marcel's trainer. He's gonna let me have him for a couple of hours.
+
+327
+00:30:40,527 --> 00:30:42,478
 JOEY: You're blowin' me off for a monkey?
+
+328
+00:30:42,478 --> 00:30:44,429
 ROSS: Hey, we can rescedule for Saturday.
+
+329
+00:30:45,466 --> 00:30:48,434
 JOEY: Yeah, unless you hook up with a bunch of pigeons.
+
+330
+00:30:49,536 --> 00:30:53,431
 CHANDLER: Hey, stick a fork in me, I am done.
+
+331
+00:30:54,541 --> 00:30:56,492
 PHOEBE: Stick a fork what?
+
+332
+00:30:56,492 --> 00:30:58,443
 CHANDLER: Like, when you're cooking a steak.
+
+333
+00:30:58,479 --> 00:31:00,310
 PHOEBE: Oh, OK, I don't eat meat.
+
+334
+00:31:01,415 --> 00:31:03,575
 CHANDLER: Well then, how do you know when vegetables are done?
+
+335
+00:31:04,318 --> 00:31:07,310
 PHOEBE: Well you know, you juist, you eat them and you can tell.
+
+336
+00:31:07,421 --> 00:31:09,321
 CHANDLER: OK, then, eat me, I'm done.
+
+337
+00:31:12,526 --> 00:31:23,299
 CHANDLER: I've met the perfect woman. OK, we're sitting on her couch, we're fooling around, and then suddenly she turns to me and says, 'Do you ever want to do it in an elevator?'
+
+338
+00:31:24,338 --> 00:31:25,885
 MONICA: What did you say?
+
+339
+00:31:25,885 --> 00:31:32,009
 CHANDLER: Ahh, I believe my exact words were, 'Flaign,en - sten'. I mean I didn't know what to say, how do you know if you wanna do it on an elevator?
+
+340
+00:31:32,009 --> 00:31:33,607
 PHOEBE: Oh, you just know.
 
-SCENE BREAK
-
+341
+00:31:43,424 --> 00:31:46,416
 SUSIE: Oh, shoot, we gotta go, got a reservation in 30 minutes.
+
+342
+00:31:47,428 --> 00:31:52,456
 CHANDLER: Oh no no no no, no no no no no no, you see, what I had planned shouldn't take more that 2, 3 minutes tops.
+
+343
+00:31:53,434 --> 00:31:56,528
 SUSIE: Oh, 200 seconds of passion. We gotta go.
+
+344
+00:31:58,439 --> 00:32:06,310
 SUSIE: But um, here's an idea, have you ever worn women's underwear?
+
+345
+00:32:07,314 --> 00:32:16,288
 CHANDLER: Well, ye, yes, actually, but, uh, they were my Aunt Edna's, and there were three of us in there.
+
+346
+00:32:17,291 --> 00:32:23,386
 SUSIE: Well I was thinking it would be um, kind of sexy if you wore mine tonight, at dinner.
+
+347
+00:32:28,302 --> 00:32:30,395
 CHANDLER: You want me to wear your panties?
+
+348
+00:32:30,504 --> 00:32:31,528
 SUSIE: Could ya?
+
+349
+00:32:32,406 --> 00:32:46,309
 CHANDLER: Well, if I was wearing your underwear then, uh, what would you be wearing?. . . You're swell.
 
-SCENE BREAK
-
+350
+00:32:49,556 --> 00:32:54,043
 ROSS: OK, got the music, got the dinner. Oh and check it out, I made Marcel's favorite dish, banannacake.
-JOEY: Oooh.
+
+351
+00:32:54,043 --> 00:32:57,556
 ROSS: With mealworms.
+
+352
+00:33:02,503 --> 00:33:08,365
 JOEY: Yaaahhh. Ahhh, candles. What'dya thinks gonna happen here tonight?
+
+353
+00:33:12,413 --> 00:33:37,497
 ROSS: Hello. Oh hi, are you on your way ove-. Oh. No, no, I, I understand, I mean a monkey's gotta work. No it, it's no big deal, it' not like I uh, had anything special planned. Yeah OK, OK. OK, OK, bye.
 
-SCENE BREAK
+354
+00:33:48,415 --> 00:33:50,508
+I'm sorry, man.
 
+355
+00:33:53,520 --> 00:33:54,435
+Feel that?
+
+356
+00:33:54,435 --> 00:33:55,350
+What?
+
+357
+00:33:55,422 --> 00:33:56,969
+The moment we should have
+
+358
+00:33:56,969 --> 00:33:58,516
+stopped holding hands?
+
+359
+00:34:01,562 --> 00:34:05,464
 PHOEBE: OK, Rachel, why don't you start talking first.
+
+360
+00:34:05,499 --> 00:34:17,266
 RACHEL: Alright, I feel that this is totally unjustified.  She gave me the green light, I did nothing but-. Do you think I can't see you in the TV set?
+
+361
+00:34:20,414 --> 00:34:23,382
 PHOEBE: Alright Monica, if there is something that you would like to share...
+
+362
+00:34:23,450 --> 00:34:25,315
 MONICA: Ya know, you had no right to go out with him.
+
+363
+00:34:25,419 --> 00:34:26,915
 RACHEL: That is the most ridiculous.
+
+364
+00:34:26,915 --> 00:34:28,411
 MONICA: You sold me out.
+
+365
+00:34:28,489 --> 00:34:29,456
 RACHEL: I did not sell you out.
+
+366
+00:34:29,456 --> 00:34:30,423
 MONICA: Yes you did. Absolutely.
+
+367
+00:34:30,491 --> 00:34:32,482
 RACHEL: Would you let me talk. 
+
+368
+00:34:35,496 --> 00:34:37,396
 MONICA: Did you just flick me?
+
+369
+00:34:39,299 --> 00:34:41,529
 RACHEL: OK, well, you wouldn't let me finish and I was jus- 
+
+370
+00:34:43,403 --> 00:34:45,337
+That hurt.
+
+371
+00:34:45,539 --> 00:34:46,597
 MONICA: Quit flicking 
+
+372
+00:34:47,341 --> 00:34:48,825
 RACHEL: Ow, you stop flicking.
+
+373
+00:34:48,825 --> 00:34:50,309
 MONICA: You flicked me first.
+
+374
+00:34:56,483 --> 00:34:57,609
+Let's not do this.
+
+375
+00:35:01,388 --> 00:35:04,255
+Happy thoughts. Happy thoughts.
+
+376
+00:35:12,266 --> 00:35:14,257
 PHOEBE: OK, now I'm gonna kick some ass.
-MONICA AND RACHEL: Ow. Ow. Ow.
+
+377
+00:35:23,310 --> 00:35:26,506
 PHOEBE: Alright, now I will let go if you both stop.
+
+378
+00:35:27,514 --> 00:35:30,278
 RACHEL: Oh, what do you, you want me to stop seeing him, is that what you want?
-MONICA: Uh-huh.
+
+379
+00:35:31,385 --> 00:35:36,284
 RACHEL: You want me to just call him up and tell him that you're seeing him instead? That's what you want?
+
+380
+00:35:36,284 --> 00:35:37,279
 MONICA: OK.
+
+381
+00:35:39,393 --> 00:35:41,327
 RACHEL: Oh that's what you want.
+
+382
+00:35:41,395 --> 00:35:43,295
 MONICA: Yes.
+
+383
+00:35:43,497 --> 00:35:44,896
 RACHEL: Fine.
+
+384
+00:35:44,896 --> 00:35:46,295
 MONICA: Fine,
+
+385
+00:35:46,400 --> 00:35:52,403
 PHOEBE: There we go.You know what, if we were in prison, you guys would be, like, my bitches.
 
-SCENE BREAK
-
+386
+00:36:00,347 --> 00:36:02,298
 ROSS: Thanks for letting me tag along tonight you guys.
+
+387
+00:36:02,298 --> 00:36:04,249
 JOEY: Forget about it.
+
+388
+00:36:05,252 --> 00:36:07,243
 SUSIE: How you doin there squirmy?
+
+389
+00:36:07,387 --> 00:36:10,481
 CHANDLER: I'm hangin in. . . and a little out.
+
+390
+00:36:14,294 --> 00:36:21,266
 JOEY: So, assistant to the director. That's a really exciting job, I mean, you must have a ton of cool responsibilities.
+
+391
+00:36:21,301 --> 00:36:22,427
 DIRECTOR'S ASSISTANT: I have nothing to do with casting.
+
+392
+00:36:22,502 --> 00:36:25,266
 JOEY: So what're you guys gonna eat?
+
+393
+00:36:26,473 --> 00:36:33,575
 SUSIE: How come all I can think about is putting that ice in my mouth and licking you all over?
+
+394
+00:36:35,515 --> 00:36:40,417
 CHANDLER: Because I went to an all boys high school and God is making up for it.
+
+395
+00:36:48,495 --> 00:36:52,430
 SUSIE: I want you right here, right now.
+
+396
+00:36:52,499 --> 00:37:02,535
 CHANDLER: Right now, right here. Don't ya think we're in kind of a public plaaaa  They do have the shrimp.
+
+397
+00:37:04,444 --> 00:37:06,435
 SUSIE: Meet me in the bathroom. 
+
+398
+00:37:13,253 --> 00:37:16,245
 CHANDLER: I'm going to the bathroom now. 
-SUSIE: C'mon.
+
+399
+00:37:23,497 --> 00:37:26,489
+He likes to keep us in the loop.
+
+400
+00:37:33,473 --> 00:37:34,497
+Come on.
+
+401
+00:37:37,411 --> 00:37:39,504
 CHANDLER: I can't believe we're doing this.
+
+402
+00:37:40,280 --> 00:37:43,506
 SUSIE: Alright mister, let's see those panties.
+
+403
+00:37:45,285 --> 00:37:46,411
 CHANDLER: Alrighty. 
+
+404
+00:37:50,324 --> 00:37:53,384
 SUSIE: Ooh. Ooh. But ya know what would be even sexier?
+
+405
+00:37:53,493 --> 00:37:54,482
 CHANDLER: What?
+
+406
+00:37:55,295 --> 00:37:58,491
 SUSIE: If you didn't have your shirt tucked into them.
-CHANDLER: Oh.
+
+407
+00:38:01,234 --> 00:38:08,237
 SUSIE: Alright. Now I would like to see you wearing nothing but them. Take your clothes off.
+
+408
+00:38:08,342 --> 00:38:12,472
 CHANDLER: OK, but uh, I hope you realize this means we're gonna miss hearing about the specials.
+
+409
+00:38:14,381 --> 00:38:15,370
 SUSIE: C'mon hurry, hurry.
+
+410
+00:38:15,482 --> 00:38:18,450
 CHANDLER: Hey, do you want this done quick, or do you want this done right?
+
+411
+00:38:19,286 --> 00:38:22,448
 SUSIE: Alright, turn around. Time to see you from behind.
-CHANDLER: OK.
+
+412
+00:38:23,457 --> 00:38:27,449
 SUSIE: Oh, somebody's been doing his buns of steel video.
+
+413
+00:38:28,261 --> 00:38:38,463
 CHANDLER: Well, you want me to uh, clench anything, or-... Susie? Susie.
+
+414
+00:38:38,505 --> 00:38:41,269
 SUSIE: This is for the fourth grade.
+
+415
+00:38:44,411 --> 00:38:45,941
 CHANDLER: Huh? Where, whaddya mean?
+
+416
+00:38:45,941 --> 00:38:50,380
 SUSIE: Whaddo I mean. Whaddya mean, whaddo I mean? I mean underpants, mister, that's what I mean.
+
+417
+00:38:51,385 --> 00:38:53,285
 CHANDLER: What, what's what you mean?
+
+418
+00:38:53,387 --> 00:39:00,324
 SUSIE: My skirt, you lifted, kids laughing. I was Susie Underpants 'till I was 18.
+
+419
+00:39:02,229 --> 00:39:05,357
 CHANDLER: That was in the fourth grade. How could you still be upset about that?
+
+420
+00:39:06,433 --> 00:39:11,267
 SUSIE: Well um, why don't you call me in 20 years and tell me if you're still upset about this. 
+
+421
+00:39:16,343 --> 00:39:20,335
 CHANDLER: Alright, I hope you realize you're not getting these underpants back.
 
-SCENE BREAK
-
+422
+00:39:29,456 --> 00:39:43,432
 MONICA: I can't believe this, just like 2 weeks ago I was watching _Sudden Death_, now I'm on a date with Jean-Claude Van Damme. Can you beat up that guy?  Can you beat up that guy?
+
+423
+00:39:43,432 --> 00:39:44,495
 VAN DAMME: Sure.
+
+424
+00:39:45,272 --> 00:39:52,468
 MONICA: This is so wild. Ya know, I gotta admit, I was kinda surprised that you agreed to go on a blind date.
+
+425
+00:39:52,512 --> 00:39:54,480
 VAN DAMME: Normally, I would not do it.
+
+426
+00:39:56,383 --> 00:39:59,317
 MONICA: Well, what made you make the exception for me?
+
+427
+00:39:59,386 --> 00:40:07,517
 VAN DAMME: 'Cause Rachel told me uh, you were dying to have a threesome with me and uh, Drew Barrymore. By the way, Drew has some groundrules and...
 
-SCENE BREAK
+428
+00:40:11,398 --> 00:40:12,365
+MONICA: Say you're sorry.
 
-MONICA: Say you're sorry.
+429
+00:40:12,365 --> 00:40:13,332
 RACHEL: No. 
+
+430
+00:40:14,434 --> 00:40:15,930
 MONICA: Say it.
+
+431
+00:40:15,930 --> 00:40:17,426
 RACHEL: No. 
+
+432
+00:40:19,339 --> 00:40:20,419
+Say it. Say it.
+
+433
+00:40:20,419 --> 00:40:21,499
+Oh, great.
+
+434
+00:40:23,543 --> 00:40:26,535
 MONICA: Rachel, you say you're sorry or your sweater gets it.
+
+435
+00:40:28,348 --> 00:40:31,510
 RACHEL: OK, OK, that is my favorite sweater, that is my third date sweater.
+
+436
+00:40:33,420 --> 00:40:35,513
 MONICA: Say you're sorry.
+
+437
+00:40:36,456 --> 00:40:41,527
 RACHEL: OK, you wanna play? OK, let's play, let's play. 
+
+438
+00:40:46,433 --> 00:40:47,457
 MONICA: What're you gonna do?
+
+439
+00:40:47,567 --> 00:40:50,535
 RACHEL: You give me back my sweater or it's handbag marinara.
+
+440
+00:40:53,540 --> 00:40:55,371
 MONICA: You don't have the guts.
+
+441
+00:40:55,642 --> 00:40:59,544
 RACHEL: Oh yeah. Well, at least I wasn't too chicken to tell some guy I thought he was cute.
+
+442
+00:41:10,290 --> 00:41:21,423
 PHOEBE: Oh alright, stop, STOP THE MADNESS. This is crazy. Who can even remember why this even started in the first place?
+
+443
+00:41:26,339 --> 00:41:39,451
 PHOEBE: Yes that's right. But still, I-, look at your purse, look at your sweater, look at yourselves.
+
+444
+00:41:43,523 --> 00:41:46,424
 MONICA: I'll help you fix your sweater.
+
+445
+00:41:47,360 --> 00:41:50,462
 RACHEL: I'll help you throw out your purse.
+
+446
+00:41:52,332 --> 00:41:54,459
 MONICA: I'm sorry that I made you stop seeing him.
+
+447
+00:41:55,535 --> 00:41:59,471
 RACHEL: Well, I'm sorry I went out with him when I knew you liked him.
+
+448
+00:42:01,408 --> 00:42:04,377
 MONICA: I'm sorry that I borrowed your gloves 
 
-SCENE BREAK
-
+449
+00:42:25,298 --> 00:42:26,344
 CHANDLER: Joey?
+
+450
+00:42:26,344 --> 00:42:27,390
 JOEY: Ma?
+
+451
+00:42:30,303 --> 00:42:31,395
 CHANDLER: Joey!
+
+452
+00:42:31,504 --> 00:42:36,502
 JOEY: Chandler? What're you still doin' here, I though you guys took off.
+
+453
+00:42:36,543 --> 00:42:39,307
 CHANDLER: Oh, no no no, she took off with my clothes.
+
+454
+00:42:40,313 --> 00:42:41,428
 JOEY: Are you naked in there?
+
+455
+00:42:41,428 --> 00:42:46,351
 CHANDLER: Not exactly. . . I'm wearin panties.
+
+456
+00:42:50,557 --> 00:42:52,525
 JOEY: Huh, you uh, you always wear panties?
+
+457
+00:42:54,327 --> 00:42:57,319
 CHANDLER: No, no, this is the first time.
+
+458
+00:42:58,331 --> 00:43:06,370
 JOEY: Wow, talk about your bad luck, I mean, the first time you try panties and someone walks off with your clothes.
+
+459
+00:43:07,307 --> 00:43:11,265
 CHANDLER: I was not trying them out, Susie asked me to wear them.
+
+460
+00:43:11,378 --> 00:43:12,470
 JOEY: Well, let me see.
+
+461
+00:43:12,512 --> 00:43:16,380
 CHANDLER: No. I'm not letting you or anybody else see, ever.
+
+462
+00:43:16,483 --> 00:43:25,481
 JOEY: Alright, alright.  Woah, someone's flossing.
+
+463
+00:43:31,498 --> 00:43:34,399
 ROSS:  Joey, some people don't like that.
+
+464
+00:43:35,535 --> 00:43:37,503
 JOEY: Chandler's wearing panties.
+
+465
+00:43:37,604 --> 00:43:40,004
 ROSS: What? Let me see. 
+
+466
+00:43:40,004 --> 00:43:42,404
 CHANDLER: No, no, you don't have to see.
+
+467
+00:43:43,510 --> 00:43:45,341
 ROSS: Hi Tushie.
+
+468
+00:43:46,613 --> 00:43:49,411
 CHANDLER: Alright, one of you give me your underpants.
+
+469
+00:43:50,350 --> 00:43:52,511
 JOEY: Can't help you, I'm not wearing any.
+
+470
+00:43:53,553 --> 00:43:56,317
 CHANDLER: How can you not be wearing any underwear?
+
+471
+00:43:56,423 --> 00:44:00,291
 JOEY: Oh, I'm gettin' heat from the guy in the hot pink thong.
+
+472
+00:44:01,294 --> 00:44:05,286
 CHANDLER: Alright look Ross I'll give you 50 dollars for your underpants.
-ALL: Hi.
 
-SCENE BREAK
-
+473
+00:44:32,325 --> 00:44:33,422
 CHANDLER: Hey Phoebs, can I have the milk after you?
+
+474
+00:44:33,422 --> 00:44:36,488
 PHOEBE: I'm almost done with it, keep your panties on.
+
+475
+00:44:43,336 --> 00:44:45,327
 JOEY: Hey, hey, and I'm in the movie.
+
+476
+00:44:45,438 --> 00:44:46,871
 ROSS: What happened?
+
+477
+00:44:46,871 --> 00:44:57,538
 JOEY: One of the virus victims called in sick, so Cathy recommended me and boom, I'm dying on the gurney. Oh Ross, Marcel just finished his last scene if you want to go down there and say goodbye.
+
+478
+00:44:59,419 --> 00:45:09,360
 ROSS: Ahh, oh that's OK, I mean, he's probably got, you know, parties to go to and stuff. But, ya know, he's moved on. Hey, that, that's the way it goes right.
+
+479
+00:45:11,297 --> 00:45:12,394
 PHOEBE:  Oh my God.
+
+480
+00:45:12,394 --> 00:45:13,491
 ROSS: What?
 
-SCENE BREAK
-
+481
+00:46:02,248 --> 00:46:08,386
 VAN DAMME:  or you and me. Drew was very disappointed.
+
+482
+00:46:10,290 --> 00:46:12,383
 RACHEL: OK, well, bye. 
+
+483
+00:46:17,363 --> 00:46:18,352
 VAN DAMME: Goodbye.
+
+484
+00:46:20,366 --> 00:46:22,493
 MONICA: Well, bye for me too. 
+
+485
+00:46:30,410 --> 00:46:32,401
 RACHEL: OK, well, bye-bye again. 
+
+486
+00:46:35,515 --> 00:46:37,278
 MONICA: OK.
+
+487
+00:46:38,484 --> 00:46:41,385
 VAN DAMME: Perhaps, uh, the three of us, just could. . .
+
+488
+00:46:41,487 --> 00:46:43,421
 MONICA AND RACHEL: Oh, no no no no no.
+
+489
+00:46:44,290 --> 00:46:47,316
 VAN DAMME: Are you sure, I can crush a walnut with my butt.
-MONICA AND RACHEL: No no no no.
+
+490
+00:46:47,393 --> 00:46:48,940
 RACHEL: Impressive.
+
+491
+00:46:48,940 --> 00:46:52,491
 MONICA: But no. Maybe if I were baking.
+
+492
+00:46:53,399 --> 00:46:55,492
 MONICA AND RACHEL: Bye-bye.
 
-SCENE BREAK
-
+493
+00:47:00,373 --> 00:47:18,349
 ROSS: Bye Marcel. See ya on the big screen. You keep people drinkin' that beer, OK. I miss you buddy.
+
+494
+00:47:32,405 --> 00:47:35,465
 PHOEBE: You know, I think I want to write a song about all this.
-RACHEL: Oh yeah.
+
+495
+00:47:37,277 --> 00:47:43,472
 PHOEBE: Yeah. Oh, except one of the strings on my guitar is broken. Hey, Chandler, can I borrow your G-string?
+
+496
+00:47:43,583 --> 00:47:45,534
 CHANDLER: How long you been waitin' to say that?
+
+497
+00:47:45,534 --> 00:47:47,485
 PHOEBE: About 20 minutes. CLOSING CREDITS
 
-SCENE BREAK
+498
+00:47:54,294 --> 00:47:57,422
+_VAN DAMME: Can't you see what's going on here, this man is dying.
 
-_VAN DAMME: Can't you see what's going on here, this man is dying.
-JOEY: Aaaaagggghhhhh._
+499
+00:47:59,332 --> 00:48:00,264
 DIRECTOR: Cut.
+
+500
+00:48:01,234 --> 00:48:04,430
 _VAN DAMME: Can't you see what's going on here, this man is dying.
-JOEY: Aaaaagggghhhhh._
+
+501
+00:48:06,372 --> 00:48:07,430
 DIRECTOR: Cut.
+
+502
+00:48:09,242 --> 00:48:12,472
 _VAN DAMME: Can't you see what's going on here, this man is dying.
+
+503
+00:48:14,380 --> 00:48:16,280
 JOEY: Aaaaagggghhhhh. Mommy_
-DIRECTOR: Cut.
-_VAN DAMME: Can't you see what's going on here, this man is dead._
-* * *
-!
+
+504
+00:48:17,250 --> 00:48:20,344
+_VAN DAMME: Can't you see what's going on here, this man is dead._ LAUGH
+

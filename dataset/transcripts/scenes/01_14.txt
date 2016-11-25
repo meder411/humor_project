@@ -5,7 +5,7 @@ Ross: She lent me an egg once.
 Joey: You're in!
 Ross: Aw, right.
 Woman: Hi, Ross.
-Ross: Hey.
+Ross: Hey. 
 Chandler: Come on, Ross, you gotta get back in the game here, ok? The Rachel thing's not happening, your ex-wife is a lesbianI don't think we need a third...
 Joey: Excuse me, could we get an egg over here, still in the shell? Thanks.
 Ross: An egg?
@@ -15,6 +15,7 @@ Ross: I think it's insane.
 Chandler: She'll love it. Go with the egg, my friend.
 Joey: Think it'll work?
 Chandler: No, it's suicide. The man's got an egg.
+### Opening Credits
 
 SCENE BREAK
 
@@ -105,12 +106,14 @@ Chandler: That's right, each. Oh, and a uh Rob Roy.  I've always wanted to know.
 SCENE BREAK
 
 Janice: Happy Valentine's Day!
+### Commercial Break
 
 SCENE BREAK
 
 Janice: Oh, I miss you already. Can you believe this happened?
 Chandler: No... no! And yet it did. Good-bye, Janice.
 Janice: Kiss me!
+(Janice kisses him. Monica comes out for the newspaper.}
 Monica: Oh, Chandler, sorry.
 Monica: Ohhh, Chandler, sorry! Hey, Janice.
 Janice: Hi, Monica.
@@ -124,7 +127,7 @@ Joey:  Whoa.
 Chandler: Oh, good, Joey's home now.
 Janice: This is so fun. This is like a reunion in the hall.
 Monica: Oh, hi, Ross. Yeah. There's someone I want you to say hi to.  He just happened to call.
-Janice: Hi, Ross. Yes, it's me. How did you know?
+Janice: Hi, Ross. Yes, it's me. How did you know? 
 
 SCENE BREAK
 
@@ -169,7 +172,7 @@ SCENE BREAK
 Ross: So, um, what do you do for a living?
 Kristin: Well, um, for the past few years I've been working.....which is funny because, that wasn't even my major.
 Carol: Oh no. I thought you said they could shoot the spot without you.
-Susan: I thought they could...I'll try to get back as soon as I can. I'm sorry.
+Susan: I thought they could...I'll try to get back as soon as I can. I'm sorry. 
 Ross: Now that is funny. Hey, do you think...would it be too weird if I invited Carol over to join us? 'Cause she's, she's alone now, and pregnant, and, and sad.
 Kristin:  I guess.
 Ross: Are you sure? Great. Carol? Wanna come over and join us?
@@ -210,7 +213,7 @@ Ross: You did so. I swear, I swear How long has she been in the bathroom?
 Carol: Uh, I don't think she's in the bathroom. Her coat is gone.
 Ross: Well maybe it's cold in there. Or maybe I screwed up the first date I had in 9 years.
 Carol: That could be it.
-Ross: Oh, god.  You know, this is still pretty hot.
+Ross: Oh, god. 
 Carol: Mushroom. Smile. They won't all be like this. Some women might even stay through dinner. Sorry, that's not funny
 Ross: No, it's just...you know the whole "getting on with your life" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.
 Carol: Oh, I love you too. But...
@@ -219,6 +222,7 @@ Carol: You know that thing you put over here with the pin in it? It's time to ta
 Ross: That's easy for you to say, you found one already.
 Carol: All you need is a woman who likes men and you'll be set.
 Carol: Not her.
+### Closing Credits
 
 SCENE BREAK
 
