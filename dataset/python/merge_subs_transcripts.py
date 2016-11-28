@@ -1,7 +1,7 @@
 import os.path as osp
 import os
 import pysrt
-
+from nltk.tag import pos_tag
 import datetime
 
 project_root = '..' 

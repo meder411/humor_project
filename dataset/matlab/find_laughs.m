@@ -1,5 +1,5 @@
 
-plot_sig = 0;
+plot_sig = 0; % Whether to plot the signal and peaks
 peak_radius = 6;  % Number of seconds between laughs
 sampling_rate = 100; % How much to downsample the signal by
 peak_upper_bound = 0.3; % Upper bound on normalized peak amplitude
@@ -47,10 +47,12 @@ for i = 1 : length(files)
         xlabel('Seconds')
     end
 
+    % Write the laugh times to file
     fprintf(fid, '%s %d ', files{i}(1:5), tds(loc));
     fprintf(fid, '\n');
     
 
 end
 
-fclose(fid)
+% Close output file
+fclose(fid);
