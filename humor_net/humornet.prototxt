@@ -1,0 +1,136 @@
+layer {
+	name: "data"
+	type: "Python"
+	top: "frame_data"
+	top: "word_data"
+	top: "speaker_vec"
+	top: "cont_sequence"
+	top: "gt_laugh"
+	python_param {
+		module: "humornet_data_layer"
+		layer: "HumorNetDataLayer"
+		param_str: "{\'batch_size\': 1, \'phase\': \'test\', \'image_root\': \'../frames\', \'label_file\':\'amfed_test_labels.txt\'}"
+	}
+}
+
+layer {
+	name: "word_embedding"
+	type: "Embed"
+	bottom: "word_data"
+	top: "embedded_word"
+	param {
+		lr_mult: 1
+	}
+	embed_param {
+		bias_term: false
+		input_dim: 12594 #youtube_vocab+1
+		num_output: 500
+		weight_filler {
+			type: "uniform"
+			min: -0.08
+			max: 0.08
+		}
+	}
+}
+
+layer {
+	name: "frame_embedding"
+	type: "InnerProduct"
+	bottom: "frame_data"
+	top: "embedded_frame"
+	param {
+		lr_mult: 1
+		decay_mult: 1
+	}
+	param {
+		lr_mult: 2
+		decay_mult: 0
+	}
+	inner_product_param {
+		num_output: 500
+		weight_filler {
+			type: "xavier"
+		}
+		bias_filler {
+			type: "constant"
+			value: 0.2
+		}
+	}
+}
+
+layer {
+	name: "lstm1"
+	type: "LSTM"
+	bottom: "embedded_frame"
+	bottom: "cont_sequence"
+	top: "lstm1"
+	recurrent_param {
+		num_output: 1000
+		weight_filler {
+			type: "uniform"
+			min: -0.08
+			max: 0.08
+		}
+		bias_filler {
+			type: "constant"
+			value: 0
+		}
+	}
+}
+
+layer {
+	name: "concat1"
+	type: "Concat"
+	concat_param { concat_dim: 2 } # concat along h
+	bottom: "speaker_vec"
+	bottom: "embedded_word"
+	bottom: "lstm1"
+	top: "lstm2_input"
+}
+
+layer {
+	name: "lstm2"
+	type: "LSTM"
+	bottom: "lstm2_input"
+	bottom: "cont_sequence"
+	top: "lstm2"
+	recurrent_param {
+		num_output: 1000
+		weight_filler {
+			type: "uniform"
+			min: -0.08
+			max: 0.08
+		}
+		bias_filler {
+			type: "constant"
+			value: 0
+		}
+	}
+}
+
+layer {
+	name: "loss"
+	type: "SigmoidCrossEntropyLoss"
+	bottom: "lstm2"
+	bottom: "gt_laugh"
+	top: "loss"
+	include { phase: TRAIN }
+}
+
+layer {
+	name: "sigmoid"
+	type: "Sigmoid"
+	bottom: "lstm2"
+	bottom: "gt_laugh"
+	top: "sigmoid"
+	include { phase: TEST }
+}
+
+layer {
+	name: "accuracy"
+	type: "Accuracy"
+	bottom: "sigmoid"
+	bottom: "target_sequence"
+	top: "accuracy"
+	include { phase: TEST }
+}
