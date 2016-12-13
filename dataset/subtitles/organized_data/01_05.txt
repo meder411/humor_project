@@ -1,0 +1,250 @@
+Frame_Start Frame_End Laugh Speaker Dialogue
+54,166,0,Monica,Would you let it go? It's not that big a deal.
+166,414,1,Ross,Not that big a deal? It's amazing. Ok, you just reach in there, there's one little maneuver, and bam, a bra right out the sleeve. All right, as far as I'm concerned, there is nothing a guy can do that even comes close. Am I right?
+416,488,0,Rachel,Come on! You guys can pee standing up.
+490,558,0,Chandler,We can? All right, I'm tryin' that.
+586,894,0,Joey,Ok, you know what blows my mind? Women can see breasts any time they want. You just look down and there they are. How you get any work done is beyond me.
+920,1064,0,Phoebe,Oh, ok, you know what I don't get? The way guys can do so many mean things, and then not even care.
+1206,1280,1,Ross,Multiple orgasms!
+2549,2692,1,UNKNOWN,
+2719,2744,0,Chandler,So, Saturday night, the big night, date night, Saturday night, Sat-ur-day night!
+2744,2769,1,Joey,No plans, huh?
+2793,2841,0,Chandler,Not a one.
+2843,2931,0,Ross,Not even, say, breaking up with Janice?
+2955,3172,1,Chandler,Oh, right, right, shut up.
+3172,3629,1,Monica,Chandler, nobody likes breaking up with someone. You just gotta do it.
+3632,3775,0,Chandler,No, I know, but it's just so hard, you know? I mean, you're sitting there with her, she has no idea what's happening, and then you finally get up the courage to do it, and there's the horrible awkward moment when you've handed her the note.
+3819,3867,0,Joey,Why do you have to break up with her? Be a man, just stop calling.
+3870,3962,0,Phoebe,You know, if you want, I'll do it with you.
+3963,4016,0,Chandler,Oh, thanks, but I think she'd feel like we're gangin' up on her.
+4035,4085,0,Ross,Tony?
+4085,4251,0,Monica,Oh, you're breaking up with Tony?
+4277,4322,0,Phoebe,Yeah, I know, he's sweet, but it's just not fun anymore, you know? I don't know if it's me, or his hunger strike, or, I don't know.
+4323,4537,1,Rachel,Does anybody want anything else?
+4564,4614,0,Ross,Oh, yeah, last week you had a wonderful, nutty, chocolatey kind of a cakey pie thing.  Nothing, just, just, I'm fine.
+4634,4728,0,Phoebe,What's the matter? Why so scrunchy?
+4731,4804,0,Rachel,It's my father. He wants to give me a Mercedes convertible.
+4806,4969,0,Ross,That guy, he burns me up.
+4971,5042,1,Rachel,Yeah, well, it's a Mercedes if I move back home. Oh, it was horrible. He called me _young lady_.
+5046,5137,0,Chandler,Ooh, I hate when my father calls me that.
+5139,5285,0,Monica,Did he give you that whole "You're-not-up-to-this" thing again?
+5379,5406,1,Phoebe,Uh-huh, uh-huh.
+5449,5475,0,Angela,Hi, Joey.
+5476,5549,0,Joey,My god, Angela.
+5552,5611,0,Monica,Wow, being dumped by you obviously agrees with her.
+5611,6086,0,Phoebe,Are you gonna go over there?
+6086,6120,0,Joey,No, yeah, no, ok, but not yet. I don't wanna seem too eager. One Mississippi, two Mississippi, three Mississippi. That seems pretty cool.  Hey, Angela.
+6122,6148,0,Angela,Joey.
+6168,6266,1,Joey,You look good.
+6412,6479,0,Angela,That's because I'm wearing a dress that accents my boobs.
+6485,6554,0,Joey,You don't say.
+6556,6653,0,Ross,So, uh, Rachel, what are you, uh, what're you doing tonight?
+6676,6816,0,Rachel,Oh, big glamour night. Me and Monica at Laundorama.
+6821,6845,0,Ross,Oh, you uh, you wanna hear a freaky coincidence? Guess who's doing laundry there too?
+6845,7127,0,Rachel,Who?
+7128,7200,0,Ross,Me. Was that not clear? Hey, why don't, um, why don't I just join you both, here?
+7224,7763,0,Rachel,Don't you have a laundry room in your building?
+7763,7797,0,Ross,Yes, I do have a laundry room in my building, um, but there's a.... rat problem. Apparently they're attracted to the dryer sheets, and they're goin' in fine, but they're comin' out all.... fluffy. Anyway, say, sevenish?
+7870,7922,0,Rachel,Sure.
+7922,7973,0,Angela,Forget it Joey. I'm with Bob now.
+7990,8189,0,Joey,Bob? Who the hell's Bob?
+8206,8400,1,Angela,Bob is great. He's smart, he's sophisticated, and he has a real job. You, you go on three auditions a month and you call yourself an actor, but Bob...
+8472,8570,0,Joey,Come on, we were great together. And not just at the fun stuff, but like, talking too.
+8590,8613,0,Angela,Yeah, well, sorry, Joe. You said let's just be friends, so guess what?
+8613,8637,0,Joey,What?
+8641,8780,0,Angela,We're just friends.
+8782,8809,0,Joey,Fine, fine, so, why don't the four of us go out and have dinner together tonight? You know, as friends?
+8810,8973,1,Angela,What four of us?
+8975,9045,0,UNKNOWN,
+9047,9142,0,Joey,Monica, I'm tellin' you, this guy is perfect for you.
+9165,9483,1,Monica,Forget it. Not after your cousin who could belch the alphabet.
+9501,9515,0,Joey,Come on. This guy's great. His name's Bob. He's Angela's... brother. He's smart, he's sophisticated, and he has a real job. Me, I go on three auditions a month and call myself an actor, but Bob is...
+9515,9529,0,Monica,Oh, god help us.
+9530,9599,0,Joey,What?
+9693,9863,1,Monica,Ugly Naked Guy's laying kitchen tile. Eww!
+9865,9939,0,Joey,Eww! Look, I'm asking a favor here. If I do this for her brother, maybe Angela will come back to me.
+9957,10461,0,Monica,What's going on here? You go out with tons of girls.
+10651,10700,0,UNKNOWN,
+10700,10749,1,UNKNOWN,
+10770,10915,0,UNKNOWN,
+10963,11035,0,Ross,Well, Monica's not coming, it's just gonna be me and Rachel.
+11038,11130,1,Chandler,Oh. Well, hold on camper, are you sure you've thought this thing through?
+11136,11279,0,Ross,It's laundry. The thinking through is minimal.
+11301,11361,1,Chandler,It's just you and Rachel, just the two of you? This is a date. You're going on a date.
+11361,11502,1,Ross,Nuh-uh.
+11502,11561,0,UNKNOWN,
+11563,11622,0,UNKNOWN,
+11622,11681,1,UNKNOWN,
+11683,11778,0,Chandler,Yuh-huh.
+11779,11997,1,Ross,So what're you saying here? I should shave again, pick up some wine, what?
+12092,12140,1,Chandler,Well, you may wanna rethink the dirty underwear. This is basically the first time she's gonna see your underwearyou want it to be dirty?
+12163,12211,0,Ross,No.
+12214,12561,1,Chandler,Oh, and uh, the fabric softener?
+12561,12597,1,Ross,Ok, ok, now what is wrong with my _Snuggles_? What, it says I'm a sensitive, warm kinda guy, you know, like a warm, fuzzy bear. Ok, I can pick something else up on the way.
+12694,12809,1,UNKNOWN,
+12814,12861,0,Monica,Thank you. So what does this Bob guy look like? Is he tall? Short?
+12883,12909,0,Joey,Yep.
+12909,12934,0,Monica,Which?
+12978,13015,0,Joey,Which what?
+13015,13052,0,Monica,You've never met Bob, have you?
+13054,13111,1,Joey,No, but he's...
+13111,13168,0,Monica,Oh my god, Joey, for all we know this guy could be horribly...
+13170,13266,0,Angela,Hey, Joey.
+13364,13431,0,UNKNOWN,
+13434,13510,0,Chandler,Where are they? Where are they?
+13528,13628,1,Phoebe,This is nice. We never do anything just the two of us.
+13629,13698,1,Chandler,It's great. Maybe tomorrow we can rent a car and run over some puppies.
+13726,13760,0,Phoebe,Eww, I don't wanna do that.
+13760,13794,0,Chandler,Here we go.
+13842,13888,0,Phoebe,Ok, have a good break-up.
+13888,14032,1,Chandler,Hey, Janice.
+14036,14178,0,Janice,Oh, my god, I am so glad you called me. I had the most supremely awful day.
+14180,14610,1,Chandler,Hey, that's not good. Can I get an espresso and a latte over here, please?
+14610,14631,1,Janice,We got the proofs back from that photo shoot, you know, the one with the little vegetables. Anyway, they pretty much sucked, so, I blew off the rest of the day, and I went shopping...... and I got you, I'm looking, I'm looking, I'm looking, I got you...
+14634,14672,0,Chandler,What?
+14672,14710,0,Janice,What?
+14730,14848,1,Chandler,What... did you get me there?
+14850,14897,0,Janice,I got you...these.
+14898,15209,1,Chandler,Bullwinkle socks. That's so sweet.
+15285,15399,0,Chandler,That's great.
+15428,15502,0,Chandler,Well, I'm gonna get another espresso. Can I get you another latte?
+15618,15653,1,Janice,No, no, I'm still working on mine.
+15653,15687,0,Chandler,That's it?
+15690,15749,0,Phoebe,Yeah, it was really hard.
+15749,15808,1,Chandler,Oh, yeah, that hug looked pretty brutal.
+15880,15915,0,UNKNOWN,
+15915,15950,0,UNKNOWN,
+15950,15987,0,UNKNOWN,
+15987,16024,0,UNKNOWN,
+16026,16087,0,UNKNOWN,
+16087,16147,0,UNKNOWN,
+16459,16531,0,UNKNOWN,
+16648,16723,0,Woman,Comin' through. Move, move.
+16742,16792,0,Rachel,Oh, 'scuse me. I was kinda using that machine.
+16818,16889,0,Woman,Yeah, well, now you're kinda not.
+16891,17061,1,Rachel,But I saved it. I put my basket on top.
+17102,17125,0,Woman,Oh, I'm sorry, is that your basket? It's really pretty. Unfortunately, I don't see suds.
+17150,17224,0,Rachel,What?
+17294,17321,1,Woman,No suds, no save. Ok?
+17323,17417,0,Ross,What's goin' on?
+17436,17462,0,Rachel,Hi, uh, nothing. That horrible woman just took my machine.
+17465,17489,0,Ross,Was your basket on top?
+17489,17513,0,Rachel,Yeah, but, there were no suds.
+17533,17571,0,Ross,So?
+17571,17724,0,Rachel,Well, you know, no suds, no save.
+17726,17775,0,Ross,No suds? Excuse me, hold on a second.  That's my friend's machine.
+17778,17872,0,Woman,Hey, hey, hey, her stuff wasn't in it.
+18134,18399,1,Ross,Hey, hey, hey, that's not the rule and you know it.
+18402,18496,1,Ross,Ok, let's do laundry.
+18498,18759,0,Rachel,That was amazing. I can't even send back soup.
+18854,18888,1,Ross,Well, that's because you're such a sweet, gentle, uh...Do you, uh, do you...Oh, hey, uh you must need detergent.
+18888,18999,0,Rachel,What's that?
+19047,19139,1,Ross,_Uberveiss_. It's new, it's German, it's extra-tough.
+19141,19381,0,Ross,Rach, do you uh, are you gonna separate those?
+19432,19504,0,Rachel,Oh god. Oh, am I being like a total laundry spaz? I mean, am I supposed to use like one machine for shirts and another machine for pants?
+19522,19719,1,Ross,Rach, have you never done this before?
+19743,20385,1,Rachel,Well, not myself, but I know other people that have. Ok, you caught me. I'm a laundry virgin.
+20434,20579,1,Ross,Uh, well, don't worry, I'll use the gentle cycle. Ok, um, basically you wanna use one machine for all your whites, a whole nother machine for colors, and a third for your uh, your uh, delicates, and that would be your bras and your under-panty things.
+20580,20650,0,Rachel,Ok, Well, what about these are white cotton panties. Would they go with whites or delicates?
+20750,20889,1,UNKNOWN,
+20892,20918,0,Monica,So, where did you guys grow up?
+20918,20944,0,Angela,Brooklyn Heights.
+20986,21001,0,Bob,Cleveland.
+21001,21016,0,Monica,How, how did that happen?
+21035,21061,0,Joey,Oh my god.
+21083,21253,0,Monica,What?
+21443,21492,0,UNKNOWN,
+21494,21541,0,UNKNOWN,
+21541,21896,1,Joey,So, you and Angela, huh?
+21922,21970,0,Bob,Yep. Pretty much.
+21970,22017,0,Joey,You're a lucky man. You know what I miss the most about her? That cute nibbly noise when she eats. Like a happy little squirrel, or a weasel.
+22042,22088,0,Bob,Huh, I never really noticed.
+22090,22378,1,Joey,Oh, yeah, yeah, listen for it.
+22448,22501,0,UNKNOWN,
+22519,22546,0,UNKNOWN,
+22548,22690,0,Monica,I've gotta tell you, Bob is terrific.
+22690,22809,0,Angela,Yeah, isn't he?
+22880,22978,1,Monica,It is so great to meet a guy who is smart and funny, and has an emotional age beyond, like eight.
+23025,23074,0,Angela,You know what else? He's unbelievable in bed.
+23173,23408,1,UNKNOWN,
+23699,23862,1,UNKNOWN,
+24032,24318,1,Phoebe,Ok, you can do this. It's just like pulling off a Band-aid. Just do it really fast, and then the wound is exposed.
+24368,24395,1,UNKNOWN,
+24414,24451,0,UNKNOWN,
+24451,24487,0,UNKNOWN,
+24489,24534,0,UNKNOWN,
+24537,24558,0,UNKNOWN,
+24558,24580,0,UNKNOWN,
+24581,24629,0,UNKNOWN,
+24629,24677,1,UNKNOWN,
+24700,24969,0,UNKNOWN,
+24988,25316,1,UNKNOWN,
+25316,25373,0,Rachel,Ok, I know this is gonna sound really stupid, but I feel that if I can do this, you know, if I can actually do my own laundry, there isn't anything I can't do.
+25374,25684,0,Ross,That does not sound stupid to me. You know, it's like the first time I had to make dinner for myself, after Carol left me?  Uh-oh.
+25690,25723,0,Rachel,What uh-oh?
+25723,25785,0,Ross,Uh-oh the laundry's done, uh-oh, uh-oh.
+25804,25828,1,Rachel,Ross, what's the matter?
+25830,26066,1,Ross,Nothing, nothing. Lee-lo, the laundry's done.
+26071,26115,0,Rachel,Come on, show me.
+26117,26259,0,Ross,All right, all right, it's just that you left a red sock in with all your whites, and now, everything's kinda pink.
+26261,26599,0,Rachel,Oh, everything's pink.
+26864,27409,1,UNKNOWN,
+27464,27485,1,UNKNOWN,
+27485,27507,0,Monica,Something went wrong with Underdog, and they couldn't get his head to inflate. So anyway, um, his head is like flopping down Broadway, right, and I'm just thinking... how inappropriate this is. Um, I've got something in my eye, uh, Joey, could we check it in the light, please?
+27510,27651,0,Monica,Oh my god.
+27747,27795,0,Joey,What?
+27795,27843,0,Monica,Hello! Were we at the same table? It's like... cocktails in Appalachia.
+27867,27963,1,Joey,Come on, they're close.
+27988,28133,0,Monica,Close? She's got her tongue in his ear.
+28153,28181,0,Joey,Oh, like you've never gotten a little rambunctious with Ross.
+28184,28231,0,Monica,Joey, this is sick, it's disgusting, it's, it'snot really true, is it?
+28231,28368,1,Joey,Well, who's to say what's true? I mean...
+28372,28396,0,Monica,Oh!
+28396,28513,0,Joey,Ow!
+28537,28551,0,Monica,I'm outta here.
+28551,28732,0,Joey,Wait, wait, wait. You want him, I want her. He likes you.
+28784,28949,1,Monica,Really?
+29091,29185,0,Joey,Yeah. I'm thinking, if we put our heads together, between the two of us, we can break them up.
+29329,29453,1,UNKNOWN,
+29473,29524,1,Chandler,Here's the thing, Janice. You know, I mean, it's like we're different. I'm like the bing, bing, bing. You're like the boom, boom, ... boom.
+29545,29716,0,Janice,Ow!
+29763,29907,1,Chandler,Oh, my god, I'm so sorry. Are you ok?
+29910,30052,0,Janice,Ow. Um, it's just my lens. It's just my lens. I'll be right back.
+30052,30099,1,Chandler,I hit her in the eye! I hit her in the eye! This is the worst break-up in the history of the world.
+30123,30218,0,Phoebe,Oh my god.  How many of those have you had?
+30288,30313,1,Chandler,Oh, I don't know, a million?
+30313,30338,0,Phoebe,Chandler, easy, easy. Go to your happy place. La la la la la la la.
+30340,30400,0,Chandler,I'm fine.
+30400,30460,0,Phoebe,All right.
+30892,30938,1,Chandler,I'm not fine. Here she comes.
+30938,30984,1,Phoebe,Wait here. Breathe.
+31037,31104,0,Chandler,How do you do that?
+31106,31156,0,Phoebe,It's like a gift.
+31180,31252,0,UNKNOWN,
+31271,31373,0,UNKNOWN,
+31490,31588,1,Ross,You got the clothes clean. Now that's the important part.
+31607,31726,1,Rachel,Oh, I guess. Except everything looks like jammies now.
+31728,31822,0,Rachel,Whoa, I'm sorry. Excuse me. We had this cart.
+31824,31870,0,Woman,Yeah, well, I had a 24-inch waist. You lose things. Now come on, get outta my way.
+31873,31942,0,Rachel,I'm sorry, you know, maybe I wasn't being clear. Uh, this is our cart.
+31944,32016,0,Woman,Hey, hey, hey there aren't any clothes in it.
+32038,32158,0,Rachel,Hey, hey, hey, hey, quit making up rules!
+32326,32363,1,Woman,Let go!
+32363,32472,0,Rachel,All right, listen, missy. If you want this cart, you're gonna have to take me with it!
+32473,32565,0,Rachel,Yes! Did you see that?
+32739,32870,0,Ross,You were incredible! Brand new woman, ladies and gentlemen.
+32870,32904,0,Rachel,I could not have done this without you.
+32981,33014,0,UNKNOWN,
+33014,33048,0,UNKNOWN,
+33049,33085,0,Rachel,Oh, are you sure you're ok?
+33085,33120,1,Ross,Yeah.
+33165,33265,0,Rachel,Does it still hurt?
+33315,33348,0,Phoebe,What a neat idea. All your clothes match. I'm gonna do this.
+33348,33381,0,Monica,Hi.
+33383,33483,0,Phoebe,Hey, how'd it go?
+33505,33656,0,Joey,Excellent.
+33656,33692,0,Monica,We ripped that couple apart, and kept the pieces for ourselves.
+33693,33729,0,Ross,What a beautiful story. Hey, I'm fine by the way.
+33729,33764,0,Monica,Oh, I'm sorry.
+33766,33817,0,Rachel,Where's Chandler?
+33865,33912,0,Phoebe,Oh, he needed some time to grieve.

@@ -1,0 +1,262 @@
+Frame_Start Frame_End Laugh Speaker Dialogue
+56,173,0,Monica,What you guys don't understand is, for us, kissing is as important as any part of it.
+176,298,0,Joey,Yeah, right!.......Y'serious?
+322,345,0,Phoebe,Oh, yeah!
+347,393,0,Rachel,Everything you need to know is in that first kiss.
+393,438,0,Monica,Absolutely.
+441,632,0,Chandler,Yeah, I think for us, kissing is pretty much like an opening act, y'know? I mean it's like the stand-up comedian you have to sit through before Pink Floyd comes out.
+707,920,0,Ross,Yeah, and-and it's not that we don't like the comedian, it's that-that... that's not why we bought the ticket.
+968,1280,0,Chandler,The problem is, though, after the concert's over, no matter how great the show was, you girls are always looking for the comedian again, y'know? I mean, we're in the car, we're fighting traffic... basically just trying to stay awake.
+1328,1517,0,Rachel,Yeah, well, word of advice  Bring back the comedian. Otherwise next time you're gonna find yourself sitting at home, listening to that album alone.
+1617,1686,0,Joey,....Are we still talking about sex?
+2912,3053,0,Ross,No, it's good, it is good, it's just that- mm- doesn't she seem a little angry?
+3056,3098,0,Marsha,Well, she has issues.
+3146,3170,0,Ross,Does she.
+3173,3410,1,Marsha,He's out banging other women over the head with a club, while she sits at home trying to get the mastodon smell out of the carpet!
+3413,3655,0,Ross,Marsha, these are cave people. Okay? They have issues like 'Gee, that glacier's getting kinda close.' See?
+3656,3747,0,Marsha,Speaking of issues, isn't that your ex-wife?
+3749,3772,0,Ross,No. No.
+3772,3795,0,Marsha,Yes, it is. Carol! Hi!
+3797,3893,0,Ross,Okay, okay, yes, it is.  How about I'll, uh, catch up with you in the Ice Age.
+3896,3919,0,UNKNOWN,
+3919,3941,0,UNKNOWN,
+4299,4313,1,Ross,Hi.
+4313,4326,0,Carol,So.
+4517,4552,1,UNKNOWN,
+4552,4638,0,UNKNOWN,
+4705,4782,0,Ross,You look great. I, uh... I hate that.
+4805,4897,0,Carol,Sorry. You look good too.
+4899,5151,1,Ross,Ah, well, in here, anyone who... stands erect... So what's new? Still, uh...
+5151,5187,0,Carol,A lesbian?
+5233,5310,0,Ross,Well... you never know. How's, um.. how's the family?
+5331,5391,0,Carol,Marty's still totally paranoid. Oh, and, uh-
+5391,5451,0,Ross,Why- why are you here, Carol?
+5497,5524,0,Carol,I'm pregnant.
+5524,5550,0,Ross,Pregnant?!
+5740,5785,0,UNKNOWN,
+5785,5831,0,UNKNOWN,
+5832,5933,0,Chandler,Oh, I think this is the episode of Three's Company where there's some kind of misunderstanding.
+6004,6074,1,Phoebe,...Then I've already seen this one!
+6100,6145,0,Monica,Are you through with that?
+6148,6217,0,Joey,Yeah, sorry, the swallowing slowed me down.
+6244,6290,0,Monica,Whose little ball of paper is this?!
+6292,6460,0,Chandler,Oh, uh, that would be mine. See, I wrote a note to myself, and then I realised I didn't need it, so I balled it up and...  ...now I wish I was dead.
+6506,6625,0,Phoebe,She's already fluffed that pillow... Monica, you know, you've already fluffed that-  -but, it's fine!
+6647,6724,0,Monica,Look , I'm sorry, guys, I just don't wanna give them any more ammunition than they already have.
+6725,6820,0,Chandler,Yes, and we all know how cruel a parent can be about the flatness of a child's pillow.
+6868,6913,0,UNKNOWN,
+6913,6959,0,UNKNOWN,
+6960,6998,0,UNKNOWN,
+6998,7082,0,UNKNOWN,
+7157,7443,0,Phoebe,Monica- Hi! Um, Monica, you're scaring me. I mean, you're like, you're like all chaotic and twirly. And not-not in a good way.
+7491,7633,0,Joey,Yeah, calm down. You don't see Ross getting all chaotic and twirly every time they come.
+7635,7872,0,Monica,That's because as far as my parents are concerned, Ross can do no wrong. Y'see, he's the Prince. Apparently they had some big ceremony before I was born.
+7965,7992,1,Monica,What?
+7992,8018,0,Chandler,Ugly Naked Guy got a Thighmaster!
+8138,8184,1,Rachel,Has anybody seen my engagement ring?
+8184,8229,0,Phoebe,Yeah, it's beautiful.
+8349,8422,0,Rachel,Oh God, oh God, oh God oh God oh God oh God....
+8424,8470,0,Phoebe,No, look, don't touch that!
+8522,8924,1,Rachel,Oh, like I wasn't dreading tomorrow enough, having to give it back to him... 'Hi Barry! Remember me? I'm the girl in the veil who stomped on your heart in front of your entire family!' Oh God and now I'm gonna have to return the ring, without the ring, which makes it so much harder...
+8929,8977,0,Monica,Easy Rach, we'll find it.  Won't we!
+9020,9047,0,UNKNOWN,
+9047,9141,0,UNKNOWN,
+9141,9188,0,UNKNOWN,
+9191,9227,0,UNKNOWN,
+9227,9263,0,UNKNOWN,
+9313,9361,1,Joey,Alright, when'd'ya have it on last?
+9361,9408,0,Phoebe,Doy! Probably right before she lost it!
+9477,9529,0,Chandler,You don't get a lot of 'doy' these days...
+9577,9718,0,Rachel,I know I had it this morning, and I know I had it when I was in the kitchen with...
+9721,9764,0,Chandler,...Dinah?
+9836,9873,0,Rachel,Ohhhhh, don't be mad...
+9873,9910,0,Monica,You didn't.
+9913,9961,0,Rachel,Oh, I am sorry...
+9961,10009,0,Monica,I gave you one job!
+10053,10104,0,Rachel,Oh, but look how straight those noodles are!
+10127,10245,0,Chandler,Now, Monica, you know that's not how you look for an engagement ring in a lasagne...
+10295,10339,0,Monica,I just... can't do it.
+10365,10458,0,Chandler,Boys? We're going in.
+10653,10677,1,Ross,.....Hi.
+10725,10763,1,Monica,Wow. That is not a happy hi.
+10763,10800,0,Ross,Carol's pregnant.
+10818,10844,0,Phoebe,Ooh! I found it!
+10895,10968,1,Monica,W-w-wh-... wha-... w-w-w-...
+10989,11155,1,Ross,Yeah. Do that for another two hours, you might be where I am right about now.
+11179,11252,0,Chandler,Kinda puts that whole pillow thing in perspective, huh, Mon?
+11303,11371,0,Rachel,Well now, how-how do you fit into this whole thing?
+11373,11611,0,Ross,Well, Carol says she and Susan want me to be involved, but if I'm not comfortable with it, I don't have to be involved.. basically it's entirely up to me.
+11611,11660,0,Phoebe,She is so great! I miss her.
+11781,11831,0,Monica,What does she mean by 'involved'?
+11831,11880,0,Chandler,I mean presumably, the biggest part of your job is done.
+11945,11974,1,UNKNOWN,
+12021,12069,0,UNKNOWN,
+12072,12209,0,Ross,Anyway, they want me to go down to this- sonogram thing with them tomorrow.
+12211,12329,0,UNKNOWN,
+12353,12404,0,UNKNOWN,
+12425,12463,0,Rachel,So what are you gonna do?
+12463,12597,0,Ross,I have no idea. No matter what I do, though, I'm still gonna be a father.
+12837,12886,1,Joey,.....Well, this is still ruined, right?
+13027,13220,0,Mrs. Geller,Oh, Martha Ludwin's daughter is gonna call you.  Mmm! What's that curry taste?
+13220,13266,0,Monica,Curry.
+13364,13436,0,Ross,I- I think they're great! I, I really do.
+13455,13527,0,Mr. Geller,Do you remember the Ludwins? The big one had a thing for you, didn't she?
+13530,13568,0,Mrs. Geller,They all had a thing for him.
+13568,13606,0,Ross,Aw, Mom...
+13623,13673,0,Monica,I'm sorry, why is this girl going to call me?
+13675,13887,0,Mrs. Geller,Oh, she just graduated, and she wants to be something in cooking, or food, or.... I don't know. Anyway, I told her you had a restaurant-
+13889,13948,0,Monica,No Mom, I don't have a restaurant, I work in a restaurant.
+13948,14006,0,Mrs. Geller,Well, they don't have to know that...
+14102,14140,1,Monica,Ross, could you come and help me with the spaghetti, please?
+14140,14177,0,Ross,Yeah.
+14179,14273,1,Mrs. Geller,Oh, we're having spaghetti! That's.... easy.
+14299,14346,0,UNKNOWN,
+14347,14383,0,UNKNOWN,
+14383,14419,0,UNKNOWN,
+14443,14515,1,UNKNOWN,
+14582,14801,0,Monica,I know this is going to sound unbelievably selfish, but, were you planning on bringing up the whole baby/lesbian thing? Because I think it might take some of the heat off me.
+14874,15017,1,Mrs. Geller,What that Rachel did to her life.... We ran into her parents at the club, they were not playing very well.
+15019,15139,0,Mr. Geller,I'm not gonna tell you what they spent on that wedding... but forty thousand dollars is a lot of money!
+15211,15306,1,Mrs. Geller,Well, at least she had the chance to leave a man at the altar...
+15378,15413,0,Monica,What's that supposed to mean?
+15413,15488,0,Mrs. Geller,Nothing! It's an expression.
+15488,15524,0,Monica,No it's not.
+15542,15860,0,Mr. Geller,Don't listen to your mother. You're independent, and you always have been! Even when you were a kid... and you were chubby, and you had no friends, you were just fine! And you would read alone in your room, and your puzzles...
+15954,16266,0,Mr. Geller,Look, there are people like Ross who need to shoot for the stars, with his museum, and his papers getting published. Other people are satisfied with staying where they are- I'm telling you, these are the people who never get cancer.
+16309,16345,0,UNKNOWN,
+16345,16429,1,UNKNOWN,
+16477,16504,0,UNKNOWN,
+16525,16578,0,UNKNOWN,
+16647,16912,1,Mr. Geller,...And I read about these women trying to have it all, and I thank God 'Our Little Harmonica' doesn't seem to have that problem.
+16912,16962,0,UNKNOWN,
+16986,17077,0,UNKNOWN,
+17149,17344,1,Monica,No news, no little anecdotes to share with the folks?
+17435,18061,1,Ross,Look, I, uh- I realise you guys have been wondering what exactly happened between Carol and me, and, so, well, here's the deal. Carol's a lesbian. She's living with a woman named Susan. She's pregnant with my child, and she and Susan are going to raise the baby.
+18158,18186,0,Mrs. Geller,And you knew about this?!
+18396,18424,0,Joey,Your folks are really that bad, huh?
+18467,18709,1,Ross,Well, y'know, these people are pros. They know what they're doing, they take their time, they get the job done.
+18755,18901,1,Monica,Boy, I know they say you can't change your parents,... boy, if you could-  -I'd want yours.
+18948,18972,0,Ross,Must pee.
+19019,19066,0,Phoebe,Y'know, it's even worse when you're twins.
+19067,19090,0,Rachel,You're twins?
+19090,19188,0,Phoebe,Yeah. We don't speak. She's like this high-powered, driven career type.
+19190,19225,0,Chandler,What does she do?
+19225,19260,1,Phoebe,She's a waitress.
+19287,19322,0,UNKNOWN,
+19322,19356,0,UNKNOWN,
+19358,19385,0,UNKNOWN,
+19426,19497,0,Rachel,All right, you guys, I kinda gotta clean up now.
+19500,19570,0,Monica,Chandler, you're an only child, right? You don't have any of this.
+19572,19694,0,Chandler,Well, no, although I did have an imaginary friend, who... my parents actually preferred.
+19762,19809,1,Rachel,The lights, please..
+19980,20026,1,Ross,...How long was I in there?
+20051,20100,0,Rachel,I'm just cleaning up.
+20100,20149,0,Ross,D'ya.. uh.. d'ya need any help?
+20195,20240,0,Rachel,Uh.. okay, sure! Thanks!
+20365,20504,1,Ross,Anyway.. um..  So, you- uh- you nervous about Barry tomorrow?
+20507,20533,0,Rachel,Oh.. a little..
+20581,20624,0,Rachel,A lot.
+20651,20794,0,Rachel,So, got any advice? Y'know, as someone who's recently been- dumped?
+20819,21442,1,Ross,Well, you may wanna steer clear of the word 'dumped'. Chances are he's gonna be this, this broken shell of a man, y'know, so you should try not to look too terrific, I know it'll be hard. Or, y'know, uh, hey!, I'll go down there, and I'll give Barry back his ring, and you can go with Carol and Susan to the OB/GYN...
+21491,21611,1,Rachel,Oh, you've got Carol tomorrow.. When did it get so complicated?
+21611,21657,0,Ross,Got me.
+21679,21705,1,Rachel,Remember when we were in high school together?
+21705,21731,0,Ross,Yeah.
+21750,22016,1,Rachel,I mean, didn't you think you were just gonna meet somone, fall in love- and that'd be it?  ..Ross?
+22016,22041,1,Ross,Yes, yes!
+22110,22188,0,Rachel,Oh! Man, I never thought I'd be here..
+22353,22379,1,Ross,Me either...
+22807,22951,0,Ross,Sorry I'm late, I was stuck at work. There was this big dinosaur.. thing.. anyway.
+22974,22982,0,Susan,Hi.
+23022,23059,0,Carol,Ross, you remember Susan.
+23059,23096,0,Ross,How could I forget?
+23123,23311,1,Ross,Good shake. Good shake. So, uh, we're just waiting for...?
+23312,23337,0,Carol,Dr. Oberman.
+23337,23362,0,Ross,..Dr. Oberman. Okay. And is he-
+23381,23405,0,Susan,She.
+23405,23553,0,Ross,-she, of course, she- uh- familiar with our.. special situation?
+23573,23621,0,Carol,Yes, and she's very supportive.
+23621,23721,0,Ross,Okay, that's great.  No, I'm- Oh.
+23767,23792,1,Carol,Thanks.
+24275,24320,1,Carol,Ross? That opens my cervix.
+24484,24508,0,Rachel,Barry?
+24508,24532,0,Barry,C'mon in.
+24555,24579,0,Rachel,Are you sure?
+24579,24654,0,Barry,Yeah! It's fine, it's fine. Robbie's gonna be here for hours.
+24748,24777,1,Barry,So, how ya doin?
+24819,24966,0,Rachel,I'm- uh- I'm okay... You look great!
+24966,24992,0,Barry,Yeah, well..
+25014,25066,0,Bernice,Dr. Farber, Jason Greenstein's gagging.
+25084,25155,1,Barry,Be back in a sec.
+25277,25305,0,Rachel,I dumped him.
+25757,26116,1,Ross,So, um- so how's this, uh, how's this gonna work? Y'know, with us? Y'know, when, like, important decisions have to be made?
+26119,26164,0,Carol,Give me a 'for instance'.
+26164,26249,0,Ross,Well, uh, uh, I don't know, okay, okay, how about with the, uh, with the baby's name?
+26249,26286,0,Carol,Marlon-
+26306,26357,0,Carol,-if it's a boy, Minnie if it's a girl.
+26406,26450,0,Ross,...As in Mouse?
+26479,26522,0,Carol,As in my grandmother.
+26546,26742,0,Ross,Still, you- you say Minnie, you hear Mouse. Um, how about, um.. how about Julia?
+26766,26800,0,Carol,Julia..
+26800,26834,0,Susan,We agreed on Minnie.
+26836,27030,0,Ross,'S'funny, um, uh, we agreed we'd spend the rest of our lives together. Things change, roll with the punches. I believe Julia's on the table..?
+27102,27270,0,Barry,Sorry about that. So. What have you been up to?
+27290,27386,0,Rachel,Oh, not much. I-I got a job.
+27386,27411,0,Barry,Oh, that's great.
+27438,27482,0,Rachel,Why are- why are you so tanned?
+27554,27601,0,Barry,Oh, I, uh- I went to Aruba.
+27603,27673,0,Rachel,Oh no. You went on our honeymoon alone?
+27675,27889,0,Barry,No. I went with, uh.. Now, this may hurt.
+27889,27912,0,Robbie,Me?!
+27913,28034,0,Barry,No!  I went with Mindy.
+28056,28133,0,Rachel,Mindy?! My maid of honour, Mindy?!
+28153,28224,0,Barry,Yeah, well, uh, we're kind of a thing now.
+28323,28370,0,Rachel,Oh! Well, um..  You've got plugs!
+28371,28442,0,Barry,Careful! They haven't quite taken yet.
+28446,28586,0,Rachel,And you've got lenses! But you hate sticking your finger in your eye!
+28587,28778,0,Barry,Not for her. Listen, I really wanted to thank you.
+28800,28827,0,Rachel,Okay..
+28850,29018,0,Barry,See, about a month ago, I wanted to hurt you. More than I've ever wanted to hurt anyone in my life. And I'm an orthodontist.
+29066,29368,0,Barry,You know, you were right? I mean, I thought we were happy. We weren't happy. But with Mindy, now I'm happy. Spit.
+29368,29381,0,Rachel,What?
+29382,29426,0,Robbie,Me.
+29478,30075,0,Rachel,Anyway, um,  I guess this belongs to you. And thank you for giving it to me.
+30098,30149,0,Barry,Well, thank you for giving it back.
+30215,30241,0,Robbie,Hello?!
+30334,30372,0,Susan,Oh, please! What's wrong with Helen?
+30372,30482,0,Ross,Helen Geller? I don't think so.
+30482,30529,0,Carol,Hello? It's not gonna be Helen Geller.
+30531,30568,0,Ross,Thank you!
+30568,30604,0,Carol,No, I mean it's not Geller.
+30627,30671,0,Ross,What, it's gonna be Helen Willick?
+30675,30795,0,Carol,No, actually, um, we talked about Helen Willick-Bunch.
+30839,30892,0,Ross,Well, wait a minute, wha- why is she in the title?
+30911,30937,0,Susan,It's my baby too.
+30939,31012,0,Ross,Oh, 's'funny, really? Um, I don't remember you making any sperm.
+31083,31151,0,Susan,Yeah, and we all know what a challenge that is!
+31174,31213,0,Carol,All right, you two, stop it!
+31213,31252,0,Ross,No no no, she gets a credit, hey, I'm in there too.
+31270,31395,0,Carol,Ross. You're not actually suggesting Helen Willick-Bunch-Geller? 'Cause I think that borders on child abuse.
+31414,31492,0,Ross,Of course not, I'm... suggesting Geller-Willick-Bunch.
+31510,31678,0,Susan,Oh, no, nonononono, you see what he's doing? He knows no-one's gonna say all those names, so they'll wind up calling her Geller, then he gets his way!
+31679,31918,0,Ross,My way?! You-you think this is my way? Believe me, of all the ways I ever imagined this moment in my life being, this is not my way- y'know what? Uh, um, this is too hard. I'm not, I can't do-
+31920,31990,0,Dr. Oberman,Knock knock!How are we today? Any nausea?
+31991,32038,0,All,Yeah. Yeah. A little.
+32085,32243,0,Dr. Oberman,Well, I was just wondering about the mother-to-be, but.. thanks for sharing.  Uh, lie back..
+32243,32397,0,Ross,You- uh- y'know what, I'm gonna go. I don't- I don't think I can be involved in this particular thing right now.
+32661,32687,0,Ross,Oh my God.
+32687,32713,0,Susan,Look at that.
+32714,32759,0,Carol,I know.
+33002,33052,0,Ross,Well? Isn't that amazing?
+33142,33192,0,Joey,What are we supposed to be seeing here?
+33218,33334,0,Chandler,I dunno, but.. I think it's about to attack the Enterprise.
+33409,33553,0,Phoebe,You know, if you tilt your head to the left, and relax your eyes, it kinda looks like an old potato.
+33574,33626,0,Ross,Then don't do that, alright?
+33673,33745,0,Ross,Monica. Whaddya think?
+33816,33840,0,Ross,Wh- are you welling up?
+33840,33865,0,Monica,No.
+33883,33920,0,Ross,You are, you're welling up.
+33920,33957,0,Monica,Am not!
+33958,33993,0,Ross,You're gonna be an aunt.
+33993,34027,0,Monica,Oh shut up!
+34056,34940,1,Rachel,Okay, I know it was a cheap shot, but I feel so much better now.

@@ -1,0 +1,304 @@
+Frame_Start Frame_End Laugh Speaker Dialogue
+34,104,0,Phoebe,Do you think they have yesterday's daily news?
+106,196,0,Phoebe,Just wanna check my horoscope, see if it was right.
+223,415,1,Monica,Oh my God.  Phoebe. Don't look now, but behind us is a guy who has the potential to break our hearts and plunge us into a pit of depression.
+442,488,1,Phoebe,Where?  Ooh, come to Momma.
+509,561,0,Monica,He's coming. Be cool, be cool, be cool.
+562,595,0,Guy,Nice hat.
+595,628,0,Monica and Phoebe,Thanks.
+633,668,0,Phoebe,We should do something. Whistle.
+668,703,0,Monica,We are not going to whistle.
+704,727,0,Phoebe,Come on, do it.
+729,779,0,Phoebe,Do it do it do it!
+919,969,1,Phoebe,I can't believe you did that!
+2118,2152,0,UNKNOWN,
+2152,2187,0,UNKNOWN,
+2189,2360,1,Monica,Why did I 'woo-hoo'? I mean, what was I hoping would happen? That-that he'd turn round and say 'I love that sound, I must have you now'?
+2384,2643,0,Phoebe,I just wish there was something we could do.  Hello. Hello, Coma Guy. GET UP, YOU GIRL SCOUT! UP! UP! UP!
+2645,2670,0,Monica,Phoebe, what are you doing?
+2672,2720,1,Phoebe,Maybe nobody's tried this.
+2790,2884,0,Monica,I wish we at least knew his name... Look at that face. I mean, even sleeping, he looks smart. I bet he's a lawyer.
+2884,2910,0,UNKNOWN,
+2912,2958,0,UNKNOWN,
+2958,3004,0,UNKNOWN,
+3026,3075,1,UNKNOWN,
+3121,3217,0,Monica,I wish we at least knew his name... Look at that face. I mean, even sleeping, he looks smart. I bet he's a lawyer.
+3220,3294,0,Phoebe,Yeah, but did you see the dents in his knuckles? That means he's artistic.
+3316,3458,1,Monica,Okay, he's a lawyer, who teaches sculpting on the side. And- he can dance!
+3481,3700,1,Phoebe,Oh! And, he's the kinda guy who, when you're talking, he's listening, y'know, and not saying 'Yeah, I understand' but really wondering what you look like naked.
+3769,3822,0,Monica,I wish all guys could be like him.
+3868,3892,0,Phoebe,I know.
+4014,4060,0,UNKNOWN,
+4063,4156,0,Chandler,Are there no conscious men in the city for you two?
+4180,4206,0,Monica,He doesn't have anyone.
+4208,4273,0,Phoebe,Yeah, we-we feel kinda responsible.
+4278,4394,1,Joey,I can't believe you said woowoo. I don't even say woowoo.
+4396,4440,0,Rachel,Oh, she's coming up! She's coming up!
+4442,4610,0,Jay Leno,Folks, when we come back we'll be talking about her new book, 'Euphoria Unbound'  the always interesting Nora Tyler Bing. You might wanna put the kids to bed for this one.
+4612,4704,0,Chandler,Y'know, we don't have to watch this. _Weekend At Bernie's_ is on _Showtime_, _HBO_, and _Cinemax_.
+4706,4730,1,Rachel,No way, forget it.
+4733,4780,0,Joey,C'mon, she's your mom!
+4780,4922,1,Chandler,Exactly. _Weekend At Bernie's_! Dead guy getting hit in the groin twenty, thirty times! No?
+4948,5092,0,Rachel,Chandler, I gotta tell you, I love your mom's books! I love her books! I cannot get on a plane without one! I mean, this is so cool!
+5112,5280,1,Chandler,Yeah, well, you wouldn't think it was cool if you're eleven years old and all your friends are passing around page 79 of 'Mistress Bitch.'
+5282,5333,0,UNKNOWN,
+5352,5402,0,UNKNOWN,
+5402,5451,0,UNKNOWN,
+5520,5568,1,Ross,C'mon, Chandler, I love your mom. I think she's a blast.
+5571,5618,0,Chandler,You can say that because she's not your mom.
+5620,5645,0,Ross,Oh, please...
+5664,5695,0,Rachel,Oh, hi sweetie.
+5741,5811,1,Ross,When did Rigatoni get back from Rome?
+5854,5867,0,Monica,Last night.
+5867,5880,0,UNKNOWN,
+5883,6048,1,Ross,Ah, so then his plane didn't explode in a big ball of fire?... Just a dream I had- but, phew.
+6076,6118,0,Phoebe,Hey hey hey! She's on!
+6191,6219,0,Paolo,Ah! Nora Bing!
+6264,6363,1,Jay Leno,...Now what is this about you-you being arrested i-in London? What is that all about?
+6383,6411,0,Phoebe,Your mom was arrested?
+6413,6460,0,Chandler,Shhh, busy beaming with pride.
+6483,6627,1,Mrs. Bing,...This is kind of embarrassing, but occasionally after I've been intimate with a man...
+6648,6699,1,Chandler,Now why would she say that's embarrassing?
+6723,6795,0,Mrs. Bing,...I just get this craving for Kung Pow Chicken.
+6815,6863,0,Chandler,THAT'S TOO MUCH INFORMATION!!
+6960,7056,0,UNKNOWN,
+7127,7155,0,UNKNOWN,
+7156,7221,0,UNKNOWN,
+7248,7317,0,Jay Leno,Alright, so now you're doing this whole book tour thing, how is that going?
+7320,7467,0,Mrs. Bing,Oh, fine. I'm leaving for New York tomorrow, which I hate- but I get to see my son, who I love...
+7514,7608,1,Chandler,This is the way that I find out. Most moms use the phone.
+7612,7764,0,Jay Leno,Y'know, don't take this wrong, I-I just don't see you a-as a mom, somehow.. I don't mean that, I don't mean that bad...
+7764,7872,0,Mrs. Bing,Oh no, I am a fabulous mom! I bought my son his first condoms.
+8017,8067,1,Chandler,...And then he burst into flames.
+8281,8589,1,Monica,Let's see. Congress is debating a new deficit reduction bill... the mayor wants to raise subway fares again... the high today was forty-five... and- oh, teams played sports.
+9216,9288,1,Phoebe,What about Glen? He could be a Glen.
+9307,9336,0,Monica,Nah... not-not special enough.
+9358,9405,0,Phoebe,Ooh! How about Agamemnon?
+9410,9475,0,Monica,Waaay too special.
+9667,9717,0,Mrs. Bing,I am famished. What do I want...
+9720,9792,0,Chandler,Please God don't let it be Kung Pow Chicken.
+9812,9883,0,Mrs. Bing,Oh, you watched the show! What'd you think?
+9884,9936,0,Chandler,Well, I think you need to come out of your shell just a little.
+10008,10103,0,Ross,What is this dive? Only you could've picked this place.
+10124,10198,0,Mrs. Bing,Oooh, c'mon, shut up, it's fun. Gimme a hug.  Well, I think we're ready for some tequila.
+10218,10256,0,UNKNOWN,
+10256,10295,0,UNKNOWN,
+10337,10397,0,Well, you know what they say,
+10397,10457,0,UNKNOWN,
+10508,10543,0,Mrs. Bing,Oooh, c'mon, shut up, it's fun. Gimme a hug.  Well, I think we're ready for some tequila.
+10543,10578,0,Chandler,I know I am.
+10580,10604,0,Mrs. Bing,Who's doing shots?
+10604,10627,0,Monica,Yeah.
+10628,10654,0,Mrs. Bing,There y'go. Ross?
+10676,10726,0,Ross,Uh, I'm not really a shot drinking kinda guy.
+10745,10868,0,Rachel,Hi! Sorry- sorry we're late, we, uh, kinda just, y'know, lost track of time.
+10918,10964,0,Ross,...But a man can change.
+11108,11159,0,Ross,Anyone want me to appraise anything?
+11422,11492,0,UNKNOWN,
+11494,11679,0,Rachel,Mrs. Bing, I have to tell you, I've read everything you've ever written. No, I mean it! I mean, when I read Euphoria at Midnight, all I wanted to do was become a writer.
+11682,11944,0,Mrs. Bing,Oh, please, honey, listen, if I can do it, anybody can. You just start with half a dozen European cities, throw in thirty euphemisms for male genitalia, and bam! You have got yourself a book.
+11971,12040,0,Chandler,Myyy mother, ladies and gentlemen.
+12112,12183,0,Mrs. Bing,Yeah, any messages for room 226?
+12211,12248,0,Mrs. Bing,You okay there, slugger?
+12248,12284,0,Ross,Yeah, I'm fine, I'm fine.
+12594,12640,0,Mrs. Bing,What is with you tonight?
+12640,12693,0,Ross,Nothing. Nothing nothing nothing.
+12716,12760,0,UNKNOWN,
+12832,12886,0,Mrs. Bing,It's the Italian Hand-Licker, isn't it.
+12906,12955,0,Ross,No. It's the one he's licking.
+12980,13027,0,Mrs. Bing,She's supposed to be with you.
+13049,13075,0,Ross,You're good.
+13099,13216,0,Mrs. Bing,Oh, Ross, listen to me. I have sold a hundred million copies of my books, and y'know why?
+13221,13292,0,Ross,The girl on the cover with her nipples showing?
+13340,13768,0,Mrs. Bing,No. Because I know how to write men that women fall in love with. Believe me, I cannot sell a Paolo. People will not turn three hundred twenty-five pages for a Paolo. C'mon, the guy's a secondary character, a, y'know, complication you eventually kill off.
+13795,13819,0,Ross,When?
+13886,13987,0,Mrs. Bing,He's not a hero. ...You know who our hero is.
+14006,14057,0,Ross,The guy on the cover with his nipples showing?
+14080,14107,0,Mrs. Bing,No, it's you!
+14126,14139,0,Ross,Please.
+14139,14222,0,Mrs. Bing,No, really, c'mon. You're smart, you're sexy...
+14227,14250,0,Ross,Right.
+14250,14272,0,UNKNOWN,
+14275,14321,0,UNKNOWN,
+14321,14367,0,UNKNOWN,
+14368,14416,0,UNKNOWN,
+14416,14464,0,Mrs. Bing,You are gonna be fine, believe me.
+14942,14973,0,Joey,Uhhhh.... I'll just pee in the street.
+15207,15231,0,Ross,Hey, is Chandler here?
+15236,15278,0,UNKNOWN,
+15307,15447,0,Ross,Okay, uh, about last night, um, Chandler.. you didn't tell...  Okay, 'cause I'm thinking- we don't need to tell Chandler, I mean, it was just a kiss, right? One kiss? No big deal? Right?
+15449,15498,0,UNKNOWN,
+15498,15547,0,Joey,Right. No big deal.
+15566,15595,0,UNKNOWN,
+15615,15760,0,Joey,In Bizarro World!! You broke the code!
+15763,15797,0,Ross,What code?
+15797,15979,0,Joey,You don't kiss your friend's mom! Sisters are okay, maybe a hot-lookin' aunt... but not a mom, never a mom!
+16050,16097,0,Chandler,What are you guys doing out here?
+16116,16309,0,Ross,Uh.. uh.. Well, Joey and I had discussed getting in an early morning racquetball game. But, um, apparently, somebody overslept.
+16356,16388,0,Joey,Yeah, well, you don't have your racket.
+16405,16527,0,Ross,No, no I don't, because it's being restrung, somebody was supposed to bring me one.
+16552,16623,0,Joey,Yeah, well you didn't call and leave your grip size.
+16674,16745,0,Chandler,Okay, you guys spend waaaay too much time together.
+16817,16861,0,Ross,Okay, I'm scum, I'm scum.
+16864,16889,0,Joey,Ross, how could you let this happen?
+16889,17028,0,Ross,I don't know, God, I... well, it's not like she's a regular mom, y'know? She's, she's sexy, she's...
+17031,17079,0,Joey,You don't think my mom's sexy?
+17106,17175,0,Ross,Well... not in the same way...
+17177,17389,0,Joey,I'll have you know that Gloria Tribbiani was a handsome woman in her day, alright? You think it's easy giving birth to seven children?
+17437,17509,0,Ross,Okay, I think we're getting into a weird area here...
+17560,17603,0,Rachel,What're you guys doing out here?
+17632,17677,0,Ross,Well, not playing raquetball!
+17728,17775,0,Joey,He forgot to leave his grip size!
+17775,17823,0,Ross,He didn't get the goggles!
+17872,17940,0,Rachel,Well,sounds like you two have issues.
+18013,18038,0,Rachel,Goodbye, baby.
+18090,18155,0,Ross,Do they wait for me to do this?
+18301,18337,0,Joey,So are you gonna tell him?
+18337,18373,0,Ross,Why would I tell him?
+18376,18443,0,Joey,How about 'cause if you don't, his mother might.
+18469,18519,0,Monica,What are you guys doing here?
+18541,18591,0,Joey,Uhhhh.... he's not even wearing a jockstrap!
+18730,18778,0,Monica,...What did I ask?
+19118,19162,0,Monica,What are you doing here?
+19164,19329,0,Phoebe,Nothing, I just thought I'd stop by.. y'know, after the uh... that I.. y'know, so what are you doing here?
+19354,19689,0,Monica,I'm not really here. Just thought I'd drop these off...on the way.. my way... Do you come here a lot? Without me?
+19692,19905,0,Phoebe,No.  No! No! ...So, um, do you think he's doing any better than he was this morning?
+19934,20001,0,Monica,How would I know? I-I wasn't here.
+20004,20078,0,Phoebe,Really? Not even to, um, change his PAJAMAS?!
+20173,20196,0,Chandler,Oh my God.
+20216,20268,0,Ross,You're my friend. I-I had to tell you.
+20288,20384,0,Chandler,I can't believe it. Paolo kissed my mom?
+20410,20701,0,Ross,Yeah, um, I don't know if you noticed, but he had a lot to drink, and you know how he gets when he's drun..uh...  I can't do this, I did it, it was me, I'm sorry, I kissed your mom.
+20722,20746,0,Chandler,What?
+20751,21097,0,Ross,I was really upset about Rachel and Paolo, and I think I had too much tequila, and Nora- um, Mrs. Mom- your Bing- was just being nice, y'know, and- But nothing happened, nothing- Ask Joey, Joey, uh, came in-
+21097,21132,0,Chandler,You knew about this?
+21152,21204,0,Joey,Uh... y'know, knowledge is a tricky thing.
+21227,21277,0,Chandler,I spent the entire day with you, why didn't you tell me?!
+21296,21373,0,Joey,Hey, hey, hey, you're lucky I caught them when I did, or else who knows what woulda happened.
+21392,21419,0,Ross,Thanks, man, big help.
+21442,21490,0,Chandler,I can't believe this! What the hell were you thinking?
+21492,21540,0,Ross,I wasn't- I mean, I-
+21541,21631,0,Chandler,Y'know, of all my friends, no-one knows the crap I go through with my mom more than you.
+21632,21657,0,Ross,I know-
+21657,21681,0,Chandler,I can't believe you did this.
+21684,21717,0,UNKNOWN,
+21717,21750,0,Chandler,I'm still mad at you for not telling me.
+21752,21787,0,Joey,What are you mad at me for?!
+21787,21822,0,Chandler,You gotta let me slam the door!
+21848,21944,0,Joey,See what happens when you break the code?
+22260,22331,0,Monica,'A Woman Undone, by Rachel Karen Green'.
+22350,22547,0,Rachel,Yeah. Thought I'd give it a shot. I'm still on the first chapter. Now, do you think his 'love stick can be liberated from its denim prison'?
+22592,22734,0,Monica,Yeah, I'd say so. And there's no 'j' in 'engorged'.
+22857,22892,0,Phoebe,Going to the hospital tonight?
+22892,22926,0,Monica,No, you?
+22931,22955,0,Phoebe,No, you?
+23024,23071,0,Monica,You just asked me.
+23073,23218,0,Phoebe,Okay, maybe it was a trick question.  Um, Rachel can we do this now?
+23265,23313,0,Rachel,Okay.  I am so hot!
+23359,23503,0,Joey,Now, here's a picture of my mother and father on their wedding day. Now you tell me she's not a knockout.
+23548,23612,0,Ross,I cannot believe we're having this conversation.
+23612,23676,0,Joey,C'mon! Just try to picture her not pregnant, that's all.
+23697,23815,0,Rachel,Central Perk is proud to present Miss Phoebe Buffay.
+23840,24104,0,Phoebe,Thanks. Hi, um, 'kay. I'd like to start with a song that's about a man that I recently met, who's, um, come to be very important to me.  _
+24226,24675,0,UNKNOWN,
+24700,24735,0,UNKNOWN,
+24735,24771,0,UNKNOWN,
+24824,24915,0,Rachel,Okay, that was Phoebe Buffay, everybody. Woo!
+24940,24976,0,Chandler,What was that?
+24976,25011,0,Ross,Oh, uh, Phoebe just started a...
+25012,25110,0,Chandler,Yeah, I believe I was talking to Joey, alright there, Mother-Kisser?
+25228,25255,0,UNKNOWN,
+25301,25326,0,Joey,I'll shut up.
+25328,25508,0,Ross,Chandler, can I just say something? I-I know you're still mad at me, I just wanna say that there were two people there that night. Okay? Two sets of lips.
+25508,25616,0,Chandler,Yes, well, I expect this from her. Okay? She's always been a Freudian nightmare.
+25635,25707,0,Ross,Okay, well, if she always behaves like this, why don't you say something?
+25709,25827,0,Chandler,Because it's complicated, it's complex- Hey, you kissed my mom!
+25904,25969,0,Ross,We're rehearsing a Greek play.
+25996,26043,0,Chandler,That's very funny. We done now?
+26044,26118,0,Ross,No! Okay, you mean, you're not gonna talk to her, you're not gonna tell her how you feel?
+26137,26284,0,Chandler,That would be no. Look, just because you played tonsil tennis with my mom doesn't mean you know her. Alright? Trust me, you can't talk to her.
+26287,26353,0,Ross,Okay, 'you' can't, or  Still doing the play. Aaah!
+26380,26407,0,UNKNOWN,
+26426,26478,0,UNKNOWN,
+26497,26523,0,UNKNOWN,
+26737,26764,0,Phoebe,Alright, whadyou do with him?
+26863,26886,0,Monica,Oh! You're awake!
+26886,26959,0,Phoebe,Look at you! How, how do you feel?
+26978,27026,0,Coma Guy,Uh, a little woozy, but basically okay.
+27028,27075,0,Monica,You look good!
+27076,27174,0,Coma Guy,I feel good! ...Who are you?
+27175,27198,0,Monica,Oh, sorry.
+27198,27220,0,Phoebe,I'm Phoebe Buffay.
+27222,27290,0,Monica,I'm Monica Geller. I've been taking care of you.
+27292,27316,0,Phoebe,Well, we both have.
+27319,27354,0,Coma Guy,So, the Etch-a-Sketch is from you guys?
+27354,27388,0,Phoebe,Well, actually it's just from me.
+27408,27434,0,Monica,I got you the foot massager.
+27434,27460,0,Phoebe,You know who shaved you? That was me.
+27463,27496,0,Monica,I read to you.
+27496,27528,0,Phoebe,I sang.  Hah!
+27578,27604,0,Coma Guy,Well,... thanks.
+27624,27649,0,Monica,Oh, my pleasure.
+27649,27674,0,Phoebe,You're welcome.
+27675,27746,0,Coma Guy,So. I guess I'll see you around.
+27772,27818,0,Phoebe,What, that's it?
+27840,27867,0,Monica,"See you around?"
+27869,27905,0,Coma Guy,Well, what do you want me to say?
+27905,28130,0,Monica,Oh, I don't know. Maybe, um, "That was nice?" Admit something to me? "I'll call you?"
+28155,28192,0,Coma Guy,Alright, I'll call you.
+28192,28229,0,Phoebe,I don't think you mean that.
+28320,28728,0,Monica,This is so typical. Y'know, we give, and we give, and we give. And then- we just get nothing back! And then one day, y'know, it's just, you wake up, and "See you around!" Let's go, Phoebe.
+28776,28903,0,Phoebe,Y'know what? We thought you were different. But I guess it was just the coma.
+29162,29258,0,Mrs. Bing,Car's waiting downstairs, I just wanted to drop off these copies of my book for your friends. Anything you want from Lisbon?
+29259,29306,0,UNKNOWN,
+29306,29352,0,UNKNOWN,
+29355,29390,0,UNKNOWN,
+29390,29426,0,UNKNOWN,
+29429,29487,0,Mrs. Bing,Car's waiting downstairs, I just wanted to drop off these copies of my book for your friends. Anything you want from Lisbon?
+29487,29544,0,Chandler,No, just knowing you're gonna be there is enough.
+29548,29640,0,Mrs. Bing,Alright, well, be good, I love you.
+29712,29880,0,Chandler,You kissed my best Ross! ...Or something to that effect.
+30026,30072,0,Mrs. Bing,O-kay. Look, it, it was stupid.
+30074,30098,0,Chandler,Really stupid.
+30098,30359,0,Mrs. Bing,Really stupid. And I don't even know how it happened. I'm sorry, honey, I promise it will never happen again. Are we okay now?
+30361,30407,0,UNKNOWN,
+30409,30459,0,UNKNOWN,
+30502,30528,0,Mrs. Bing,Really stupid. And I don't even know how it happened. I'm sorry, honey, I promise it will never happen again. Are we okay now?
+30528,30598,0,Chandler,Yeah. No. No...
+30720,30793,0,Ross,Ah, the forbidden love of a man and his door.
+30840,30915,0,Joey,Shh. He did it. He told her off, and not just about the kiss, about everything.
+30916,30939,0,Ross,You're kidding.
+30959,31033,0,Joey,No, no. He said "When are you gonna grow up and start being a mom?"
+31035,31177,0,Joey,Then she came back with "The question is, when are you gonna grow up and realise I have a bomb?"
+31227,31393,0,Ross,'Kay, wait a minute, are you sure she didn't say "When are you gonna grow up and realise I am your mom?"
+31445,31480,0,Joey,That makes more sense.
+31480,31515,0,UNKNOWN,
+31559,31585,0,Ross,So, what's going on now?
+31607,31700,0,Joey,I dunno, I've been standing here spelling it out for you!
+31729,31775,0,UNKNOWN,
+31777,31801,0,Ross,Whaddya see?
+31820,32087,0,Joey,Hard to tell, they're so tiny and upside-down. Wait, wait. They're walking away... they're walking away... No, no they're not, they're coming right at us! Run! Run!
+32138,32172,0,Mrs. Bing,You okay, kiddo?
+32172,32207,0,Chandler,Yeah, okay.
+32209,32255,0,Mrs. Bing,Alright.
+32257,32301,0,Chandler,Nice save.
+32349,32374,0,Ross,Mrs. Bing.
+32374,32399,0,Mrs. Bing,Mr. Geller.
+32615,32641,0,Ross,You mean that?
+32664,32807,0,Chandler,Yeah, why not.  So I told her.
+32809,32832,0,Ross,Yeah? How'd it go?
+32832,32904,0,Chandler,Awful. Awful. Couldn'ta gone worse.
+32929,32964,0,Ross,Well, howdya feel?
+32964,33073,0,Chandler,Pretty good! I told her.
+33092,33312,0,Ross,Well, see? So, maybe it wasn't such a bad idea, y'know, me kissing your mom, uh? Huh?  But.. we don't have to go down that road.
+33456,33741,0,Rachel,Okay. Now this is just the first chapter, and I want your absolute honest opinion. Oh, oh, and on page two, he's not 'reaching for her heaving beasts'.
+33787,33818,0,UNKNOWN,
+33840,33911,0,UNKNOWN,
+33933,33957,0,Monica,What's a 'niffle'?
+33960,33995,0,UNKNOWN,
+33995,34030,0,UNKNOWN,
+34080,34128,0,Rachel,Alright, alright, so I'm not a great typist...
+34148,34343,0,Ross,Wait, did you get to the part about his 'huge throbbing pens'? Tell ya, you don't wanna be around when he starts writing with those!
+34366,34414,0,Rachel,Alright, that's it! Give it back! That's it!
+34436,34485,0,UNKNOWN,
+34485,34535,1,UNKNOWN,

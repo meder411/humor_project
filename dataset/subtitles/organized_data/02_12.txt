@@ -1,0 +1,505 @@
+Frame_Start Frame_End Laugh Speaker Dialogue
+223,295,0,COMMERCIAL VOICEOVER,Can't get the monkey off your back? Then put it in your mouth...
+297,464,0,COMMERCIAL VOICEOVER,...With MonkeyShine Beer. _
+489,536,0,UNKNOWN,
+585,612,0,UNKNOWN,
+614,657,0,UNKNOWN,
+658,708,0,UNKNOWN,
+727,778,0,ROSS,That commercial always makes me so sad.
+781,920,1,JOEY,Yeah, but then the guy opens his beer and those girls run at him, so, everything seems to work out OK.
+925,996,0,ROSS,I meant because the monkey in it reminds me of Marcel.
+1015,1212,0,PHOEBE,I can see that, 'cause they both have those big brown eyes and, ya know, the little pouty chin.   MONICA  And the fact that they're both monkeys.
+1236,1306,1,ROSS,Sometimes I wonder if I did the right thing, ya know, giving him away.
+1308,1499,0,RACHEL,Oh, Ross, you had to, I mean, he was humping everything in sight. I mean, I have a Malibu Barbi that will no longer be wearing white to her wedding.
+1567,1784,1,ROSS,Remember when sometimes he'd borrow your hat, and, and when you got it back there'd be little monkey raisins in it.
+1786,1978,1,CHANDLER,Yeah, well sure, when he did it, it was funny. When I did it to my boss's hat. . . all of the sudden I have this big attitude problem.
+3149,3200,0,JOEY,Hey, hey, check it out, guess what I got.
+3201,3244,1,CHANDLER,Rhythm?
+3269,3316,0,JOEY,No, my first fan mail.
+3366,3729,0,MONICA,'Dear Dr. Remore, know that I love you and would do anything to have you.' Gosh. 'Your not-so-secretive admirer, Erica Ford.' Ooh wait, 'PS enclosed please find 14 of my eyelashes.'
+3774,3846,1,RACHEL,Ya know, in crazy world, that means you're married.
+3897,4052,0,MONICA,This wasn't addressed to _Days of Our Lives_, this is, this came to your apartment. There's no stamp on it, this woman was in our building.
+4052,4158,1,JOEY,Oh my god, I got my very own stalker.
+4209,4254,0,UNKNOWN,
+4254,4300,1,UNKNOWN,
+4328,4397,0,UNKNOWN,
+4397,4467,1,UNKNOWN,
+4490,4514,0,ROSS,Hey guys.
+4514,4538,0,ALL,Hey.
+4541,4568,0,PHOEBE,Ooh, where are you off to, Travelin' Jake?
+4586,4754,0,ROSS,Well, there's this, uh, paleontology conference in L.A. so I figured I'd go and then drive down to the zoo and surprise Marcel.
+4755,4928,1,CHANDLER,You know I think he will be surprised, 'till he realizes he's a monkey, and uh, you know, isn't capable of that emotion.
+4994,5047,0,RACHEL,Oh, Phoebe, that really cute guy is here again.
+5090,5259,0,PHOEBE,Oh, oh, OK, so everyone, pretend like I'm telling you a story, OK. And, and it's really funny. So everyone just laugh, now.
+5287,5383,1,PHOEBE,I know, I know.  Hello.
+5383,5453,0,ROB,Hi. I'm Rob Dohnen.
+5453,5479,0,PHOEBE,Hi Rob Dohnen.
+5480,5594,0,ROB,I don't know anything about music, but I think you're really, really great.
+5597,5647,0,PHOEBE,Oh, wow.
+5648,5861,0,ROB,Anyway, I schedule performers for the childrens libraries around the city and I was just thinking, have you ever thought about playing your songs for kids?
+5881,6099,1,PHOEBE,Oh, I would love to have kids. . . you're, you're the, you're, me play the songs that I will write for them.
+6147,6192,0,JOEY,Hey, whaddya wanna do for dinner?
+6195,6243,0,CHANDLER,Well we could just stay in and cook for ourselves.
+6385,6410,1,CHANDLER,Hello.
+6410,6435,0,ERICA,It's Erica.
+6438,6481,0,JOEY,Ah, the stalker.
+6484,6509,0,ERICA,Never mind, it's open.
+6577,6725,1,CHANDLER,Yes, hitting her with a frying pan's a good idea. We might wanna have a backup plan, though, just in case she isn't a cartoon.
+6769,6797,1,JOEY,Let's get out of here.
+6870,6918,0,CHANDLER,The one time they're not home.
+6963,7184,1,JOEY,OK, we'll just leave, and when we pass her on the stairs, she won't know it's me 'cause we've never met.   CHANDLER  That's how radio stars escape stalkers.
+7224,7252,1,JOEY,She's comin'.
+7396,7439,1,ERICA,It's me.
+7444,7562,0,JOEY,Uhh, this is it, this is how we're gonna die. Ready?
+7583,7609,0,CHANDLER,Wait, wait, wait.
+7824,7849,1,JOEY,Erica.
+8090,8236,1,LIPSON,Hi, Dean Lipson, zoo administrator. I was told you had a question.
+8258,8403,0,ROSS,Well, I uh, I can't seem to find the monkey I donated last year. He's a capuchan, answers to the name Marcel.
+8425,8550,0,LIPSON,Ahh, I'm afraid I have some bad news. Marcel has passed on.
+8596,8664,0,ROSS,Oh my God, what happened?
+8666,8832,0,LIPSON,Well he got sick, and then he got sicker, and then he got a little better but then he died.
+8901,8928,1,ROSS,I can't believe this.
+8931,9290,1,LIPSON,I'm sorry Mr. Geller. But ya know, there's an old saying, 'Sometimes monkeys die.' It's not a great saying but it certainly is fitting today.
+9309,9336,0,ROSS,Well, ya know, someone should have called me.
+9336,9502,0,LIPSON,I'm sorry. Look, I know this can't bring him back but here, it's just a gesture.
+9531,9574,0,ROSS,Zoo dollars?
+9577,9791,1,LIPSON,Yes, and come see the bird show at 4. The macaws wear hats. Well it's a lot cuter if your monkey hasn't just died.
+10006,10032,0,PHOEBE,I know.
+10058,10175,1,MONICA,I can't believe Joey's having lunch with his stalker. What i-, what is she like.
+10177,10244,0,CHANDLER,Well, you remember Cathy Bates in _Misery_?
+10246,10319,1,CHANDLER,Well, she looks the exact opposite of that.
+10343,10390,0,RACHEL,And she's not crazy?
+10393,10558,0,CHANDLER,Oh no no no, she's a total wack job. Yeah, she thinks that Joey is actually Dr. Drake Remore.
+10561,10604,1,RACHEL,Oh my God.
+10606,10700,0,MONICA,Ah, and I mean, he's going out with her? He can not persue this.
+10702,11064,0,CHANDLER,Hey, just because this woman thinks she can actually see Joey through the magical box in her living room doesn't mean she's not a person. I mean, does she not deserve happiness, does she not deserve love? What're you lookin' at me for? He's the one who wants to boff the maniac.
+11091,11132,1,ROB,You OK?
+11134,11256,0,PHOEBE,No, uh-uh, I'm just, I'm nervous. So, you know what, maybe if I just, if I picture them all in their underwear.
+11276,11371,1,ROB,That's not a good idea, that's kinda the reason the last guy got fired.
+11468,11851,1,PHOEBE,I'm just, I'm, I'm, I'm used to playing for grown-ups. Ya know, they just, grown-ups drink their coffee and do their grown-up thing, ya know, and kids listen. This is a huge responsibility. What? Are you gonna kiss me?
+11874,11903,1,ROSS,I was thinkin' about it.
+11925,12092,1,PHOEBE,OK.  OK, alrighty, let's play some tunes. Hi everybody, I'm Phoebe
+12139,12175,0,UNKNOWN,
+12175,12211,0,UNKNOWN,
+12213,12260,0,UNKNOWN,
+12282,12308,0,UNKNOWN,
+12355,12403,1,UNKNOWN,
+12429,12477,0,UNKNOWN,
+12480,12525,1,UNKNOWN,
+12573,12621,0,UNKNOWN,
+12621,12668,0,ALL,Hi Phoebe.
+12741,13390,1,PHOEBE,OK, um, I'm gonna play, um, some songs about grandparents, OK.    _Now, grandma's a person who everyone likes,   she bought you a train and a bright, shiny bike.   But lately she hasn't been coming to dinner,   And last time you saw her she looked so much thinner.   Now, your mom and your dad said she moved to Peru,   but the truth is she died and some day you will too.   La-la-la la la-la-la la la-la-la la..._
+13654,13720,1,UNKNOWN,
+13723,13797,1,UNKNOWN,
+13822,13879,0,ERICA,Oh, Drake, isn't it amazing?
+13879,13989,1,JOEY,Yeah it is. . . what?
+14013,14179,0,ERICA,Well, here we sit, devil may care, just a little while ago you were reattaching someone's spinal cord.
+14182,14396,1,JOEY,Yeah, that was a tricky one. In reality, that operation takes like, over 10 hours, but they only showed it for 2 minites.
+14419,14464,0,ERICA,Who's they?
+14496,14539,0,JOEY,No one.
+14568,14849,1,ERICA,Oh Drake, you are so talented, let me see those hands. Oh these hands, these beautiful hands, oh I could just eat them. . . but I won't.
+14873,14923,0,JOEY,Good, otherwise my watch would fall off.
+15067,15331,1,ERICA,No, seriously. These hands. These miracle, magical, life-giving hands. Oh, just to be near them, touch them, maybe even lick one?
+15357,15688,1,JOEY,Alright, just one.  Wow, you're good at that.
+15720,15832,0,WAITER,Oh my God! Someone, he's choking. Is anyone here a doctor?
+15858,15954,0,ERICA,Well, yes, yes, the best doctor in all of Salem, Dr. Drake Remore.
+16340,16436,0,JANITOR,Meet me in the nocturnal house in 15 minutes.
+16505,16695,0,ROSS,Uhh, hey look, I don't really enjoy being with other men _that_ way. But, um, zoo dollars?
+16721,16822,0,JANITOR,It's about your monkey. It's alive.
+17176,17249,0,ERICA,I don't understand, why didn't you help that man?
+17270,17630,0,JOEY,Uhh, cause, uhh, I'm a neurosurgeon and that was clearly a case of, uh, uh, foodal chokage. Alright, look, I got to tell you something.
+17632,17827,0,ERICA,No, no no no, you don't have to tell me anything. You don't have to explain yourself to me. Ooh, who am I to question the great Dr. Drake Remore?
+17845,17882,0,ERICA,I should just be happy to be near you.
+17882,17919,0,JOEY,Hey I-
+18016,18042,0,ERICA,Hey what?
+18061,18183,0,JOEY,That's it, just hey. Like at the end of a dance, HEY!  Hey. He-hey.
+18373,18831,0,PHOEBE,_There'll be times when you get older   when you'll want to sleep with people   just to make them like you. . .   But don't.   Cause that's another thing that you don't wanna do, everybody   That's another thing that you don't wanna do._
+18876,18900,0,MONICA,Excellent!
+18900,18923,0,CHANDLER,Very informative!
+18925,18976,0,RACHEL,Not at all inappropriate!
+18996,19091,0,PHOEBE,Thank you for coming everybody. There're cookies in the back.
+19119,19214,0,ROB,That was great, the kids loved you.
+19217,19263,0,PHOEBE,Yay, I rock.
+19286,19454,0,ROB,And you know why? Because you told the truth, and nobody ever tells kids the truth.You were incredible.
+19481,19504,0,PHOEBE,But.
+19525,19562,0,ROB,How did you know there was a but?
+19562,19668,0,PHOEBE,I sense these things. It was either but or butter.
+19699,19884,0,ROB,The thing is, I think some of the parents, they were kinda hopin' that you'd play more songs about like, barnyard animals.
+19887,19912,0,PHOEBE,I can do that.
+19932,19980,0,ROB,Really?
+19980,20103,0,ROB,Because that would be fantastic. What? You wanna kiss me?
+20105,20148,0,PHOEBE,Thinkin' about it.
+20224,20270,0,UNKNOWN,
+20270,20317,0,UNKNOWN,
+20437,20472,0,UNKNOWN,
+20472,20508,0,UNKNOWN,
+20629,20916,0,JANITOR,Ahh, the bat. Ambassador of darkness, flitting out of his cave like a winged messenger, sightless spectre of the macabe.
+20943,20967,0,ROSS,Buddy, my monkey?
+20992,21251,0,JANITOR,Oh, yeah, right. There was a break-in, few months back, inside job. Your monkey was taken.
+21253,21290,0,UNKNOWN,
+21290,21374,0,UNKNOWN,
+21374,21419,0,UNKNOWN,
+21423,21495,0,ROSS,Oh my God. But the zoo told me that my monkey was dead.
+21515,21611,0,JANITOR,The zoo! Do you believe everything the zoo tells ya?
+21681,21753,0,ROSS,That, that's the only thing the zoo's ever told me.
+21757,21973,0,JANITOR,Of course they're gonna say he's dead. They don't want the bad publicity. It's all a great big cover-up. Do you have any idea how high up this thing goes?
+21993,22021,0,ROSS,That guy Lipson?
+22041,22128,0,JANITOR,Lipson knows. Do you have any idea who else knows?
+22128,22165,0,ROSS,No, I, I only know Lipson.
+22212,22463,0,JANITOR,Hmm, Lipson knows huh? Ahh, hello Mr. Opossum, enigma of the trees, upside-down denizen of the night, taunting gravity with...
+22463,22499,0,ROSS,Buddy, my monkey, my monkey.
+22547,22691,0,JANITOR,Word on the street - well, when I say street, I mean those little pretend streets they have here at the zoo.
+22693,22736,0,ROSS,Of course.
+22785,22929,0,JANITOR,Your monkey found a new career, in the entertainment field. That's all I know.
+22955,23000,0,ROSS,This is unbelievable.
+23003,23119,0,JANITOR,So, what is this information worth to you, my friend?
+23125,23194,0,ROSS,Are you trying to get me to bribe you?
+23197,23241,0,JANITOR,Maybe.
+23268,23336,0,ROSS,But you already told me everything.
+23575,23673,0,ROSS,Check it out, he actually is the MonkeyShine monkey.
+23725,23767,0,RACHEL,Well, so what're you gonna do?
+23768,23842,0,ROSS,Well, I guess I'm gonna call the beer company and try to find out where he is.
+23844,23916,0,CHANDLER,That's what I did when I lost my Clydesdales.
+23941,23984,0,PHOEBE,OK, hi again.
+23986,24055,0,ALL,Hi Phoebe.
+24080,24582,0,PHOEBE,Today we're gonna start with some songs about barnyard animals.    _Oh, the cow in the meadow goes moo,   Oh, the cow in the meadow goes moo.   Then the farmer hits him on the head and grinds him up,   And that's how we get hamburgers.   Nooowww, chickens!_
+24606,24667,0,_TV DOCTOR,You're the only one who can save her Drake.
+24667,24727,0,JOEY ON TV,Damnit, I'm a doctor, I'm not God._
+24730,24779,0,ROSS,Well, there goes my whole belief system.
+24846,24871,0,ERICA,It's Erica.
+24873,24919,0,JOEY,Oh my God, quick turn off the TV.
+24919,24965,0,RACHEL,No no no, wait, I wanna see what happens.
+24968,25018,0,JOEY,Uh, I get Leslie out of the coma and then we make out.
+25037,25086,0,RACHEL,Well how can that be, you were just kissing Sabrina?
+25089,25182,0,MONICA,Rachel, it's a world where Joey is a neuro-surgeon.
+25258,25301,0,JOEY,Hey Erica, c'mon in.
+25303,25378,0,ERICA,How did you get here so fast, I just saw you in Salem?
+25379,25496,0,JOEY,Right, they uh, they choppered me in. What's up?
+25498,25590,0,ERICA,Ohh, and I see you're having a little party too. Is she here, huh, huh?
+25590,25614,0,JOEY,Who?
+25617,25739,0,ERICA,Sabrina. I know about you two. I saw you today kissing in the doctor's lounge.
+25784,25830,0,JOEY,It's not what you think, that was...
+25832,25884,0,ERICA,You told me I was the only one.
+25975,26287,0,JOEY,Alright look, that's it. I don't think we should see each other anymore, alright. Look, I know I should have told you this a long time ago but I am not Drake Remore, OK. I'm not even a doctor, I'm an actor. I just pretend to be a doctor.
+26289,26380,0,ERICA,Oh my God. Do the people at the hospital know about this?
+26457,26505,0,JOEY,Somebody wanna help me out here?
+26524,26571,0,RACHEL,Oh, I know, I know.
+26577,26620,0,UNKNOWN,
+26621,26719,0,UNKNOWN,
+26745,26793,0,ERICA,How, how can you be here and there.
+26814,26860,0,JOEY,'Cause it's a television show.
+26865,26910,0,ERICA,Drake, what're you getting at?
+26958,27028,0,UNKNOWN,
+27054,27080,0,JOEY,I'm not Drake.
+27100,27225,0,ROSS,That's right, he's not Drake, he's Hans Remore, Drake's evil twin.
+27365,27412,0,ERICA,Is this true?
+27416,27604,0,RACHEL,Yes, yes it is true. And I know this because, because he pretended to be Drake to, to sleep with me.
+27752,27866,0,MONICA,And then he told me he would run away with me, and he didn't.
+27915,27988,0,CHANDLER,And you left the toilet seat up, you bastard.
+28111,28159,0,ERICA,Is all this true?
+28232,28591,0,JOEY,Yes, I'm afraid it is. You deserve much better than me Erica. You deserve to be with the real Drake, he's the one you fell in love with. Go to Salem, find him, he's the guy for you.
+28610,28637,0,ERICA,Oh Hans.
+28709,28851,0,ROSS,Hans...Hans...Yo evil twin.
+28856,29068,0,JOEY,Right. Goodbye Erica, good luck in Salem. Take care
+29069,29139,0,ERICA,I'll never forget you Hans.
+29239,29298,0,JOEY,OK, alright, the people who threw the water.
+29298,29357,0,UNKNOWN,
+29359,29431,0,PHOEBE,Fired! Why?
+29450,29570,0,ROB,The library board has had a lot of complaints from parents about some of the stuff in your songs.
+29575,29908,0,PHOEBE,I can't believe it. Did you tell your board about how kids want to hear the truth?
+29933,29959,0,ROB,No.
+30008,30051,0,PHOEBE,I see.
+30053,30148,0,ROB,Maybe if you just played some regular kiddie songs.
+30149,30317,0,PHOEBE,No. What do you, what do you want me to be, like some stupid, big, like, purple dinosaur?
+30341,30387,0,ROB,I'm not saying you have to be Barney.
+30387,30432,0,PHOEBE,Who's Barney.
+30579,30606,0,UNKNOWN,
+30625,30638,0,UNKNOWN,
+30638,30651,0,UNKNOWN,
+30654,30744,0,UNKNOWN,
+30749,30796,0,UNKNOWN,
+30796,30844,0,UNKNOWN,
+30869,30963,0,UNKNOWN,
+30966,30990,0,UNKNOWN,
+31009,31181,0,ROSS,Well, I tracked down Marcel and get this, he's healthy, he's happy, and he's right here in New York filming _Outbreak II - The Virus Takes Manhattan_.
+31182,31224,0,RACHEL,You're kidding.
+31228,31250,0,JOEY,This is amazing.
+31250,31273,0,ROSS,I know.
+31276,31352,0,JOEY,I finally get a part on TV and the monkey's makin' movies.
+31398,31440,0,PHOEBE,OK, Rachel, I'm ready.
+31541,31656,0,KID,Excuse me. Is this where the singing lady is that tells the truth?
+31662,31704,0,PHOEBE,Um, yeah I guess that's me.
+31751,31799,0,KID,She's here.
+31992,32279,0,PHOEBE,_Sometimes men love women,   sometimes men love men,   and then there are bisexuals,   though some just say they're kidding themselves.   la la-la-la la-la-la-la-la-la-la..._
+32498,32567,0,ROSS,This is so exciting, I haven't seen my monkey in almost a year.
+32569,32739,0,CHANDLER,What, you never look down in the shower? Oh please. I'm not allowed to make one joke in the monkey-is-penis genre?
+32760,32832,0,SECURITY GUARD,C'mon people, back up please, back up, c'mon, c'mon, c'mon, c'mon.
+32833,32886,0,ROSS,Uh, excuse me, uh, where can we find the monkey?
+32904,32932,0,SECURITY GUARD,I'm sorry guys, closed set.
+32932,33073,0,ROSS,Uh, I'm sorry, you don't understand, I'm, I'm, I'm a friend of his. We uh, we used to live together.
+33074,33146,0,SECURITY GUARD,Yeah, and I have a time share in the Pocanos with Flipper.
+33218,33242,0,MONICA,Ross, there he is.
+33264,33362,0,ROSS,Hey, hey buddy, Marcel. Marcel.
+33528,33554,0,UNKNOWN,
+33573,33603,0,UNKNOWN,
+33621,33674,0,UNKNOWN,
+33747,33782,0,UNKNOWN,
+33782,33818,0,UNKNOWN,
+33819,33890,0,UNKNOWN,
+34628,34656,0,SECURITY GUARD,Uh, excuse me folks this is a uhh...
+34657,34748,0,JOEY,Closed set. We know but we're friends with the monkey.
+34799,34919,0,ROSS,Good morning. Hey pal, look who I brought. It's your old friend Harry Elefante.
+35012,35084,0,JOEY,Woah, dude, burn.
+35086,35180,0,ROSS,I don't get it, he seemed so happy to see me yesterday.
+35182,35280,0,TRAINER,Hey don't take it personal, he's under a lot of pressure, ya know, starring in a movie and all.
+35326,35374,0,RACHEL,Now just how big of a star is Marcel?
+35375,35495,0,TRAINER,In human terms, I'd say Cybill Shepard.
+35568,35663,0,CHANDLER,So, are you guys in the movie, or are you just really paranoid.
+35708,35770,0,DIRECTOR'S ASSISTANT,Hey Sal, Jerry wants to know if the monkey's ready for the subway set?
+35770,35879,0,JOEY,Uh, excuse me. Jerry is the director, which one's he?
+35880,35931,0,DIRECTOR'S ASSISTANT,The one in the director's chair.
+35950,36021,0,JOEY,Gotcha. Phoebs, walk with me.
+36021,36116,0,PHOEBE,OK. Um, how come I'm walking with you?
+36119,36383,0,JOEY,Well, we're, we're just goin' over here so that we can get away from the horrible flesh eating virus, for the love of God woman, listen to me. Is he lookin', is he lookin'?
+36549,36574,0,SUSIE,We've got a problem.
+36574,36599,0,DIRECTOR'S ASSISTANT,Tell me.
+36618,36697,0,SUSIE,I can't do Chris's makeup. She refuses to acknowledge that she has a moustasche.
+36715,36752,0,DIRECTOR'S ASSISTANT,Is it bad?
+36752,36911,0,SUSIE,It looks like one of her eyebrows fell down. Now unless someone convinces her to let me bleach it, Jean-Claude Van Damme is gonna be making out with Gabe Kaplan.
+36954,36983,0,DIRECTOR'S ASSISTANT,I'll talk to her.
+37003,37033,0,SUSIE,I hate actors.
+37056,37151,0,CHANDLER,Nice camoflauge man, for a minute there I almost didn't see ya.
+37224,37247,0,SUSIE,Excuse me.
+37321,37365,0,SUSIE,Uh, is your name Chandler?
+37368,37401,0,CHANDLER,Uh, yes, yes it is.
+37401,37435,0,SUSIE,Chandler Bing?
+37436,37528,0,CHANDLER,Do you know me or are you just really good at this game?
+37532,37913,0,SUSIE,I'm Susie Moss. Fourth grade, glasses, I used to carry around a box of animal crackers like a purse.   CHANDLER  Susie Moss, right, yeah, wow, you look. . . great job growing up.
+37916,38014,0,SUSIE,It's nice to see you're not still wearing that denim cap with all the little mirrors on it.
+38032,38110,0,CHANDLER,Oh, right, well yeah, I graduated fourth grade and realized I wasn't a pimp.
+38128,38276,0,SUSIE,Remember the class play? You, you pulled up my skirt and the entire auditorium saw my underpants.
+38302,38469,0,CHANDLER,Yes, back then I, uh, used humor as a defense mechanism. Thank God I don't do that anymore.
+38518,38566,0,UNKNOWN,
+38566,38613,0,UNKNOWN,
+38632,38704,0,UNKNOWN,
+38709,38733,0,UNKNOWN,
+38848,38862,0,MONICA,Oh my God, oh my God, oh my God.
+38862,38876,0,RACHEL,What what what what?
+38896,39016,0,MONICA,Jean-Claude Van Damme. I didn't know he was in this movie, he is so hot.
+39020,39044,0,RACHEL,Ya think?
+39065,39183,0,MONICA,The muscles from Brussels, wham bam Van Damme, did you see _Time Cop_?
+39185,39234,0,RACHEL,No, was he any good in it?
+39234,39284,0,MONICA,Rachel, he like, totally changed time.
+39330,39379,0,RACHEL,Wow, so why don't you go talk to him?
+39404,39495,0,RACHEL,What, so you go over there, you tell him you think he's cute, what's the worst that could happen?
+39496,39521,0,MONICA,He could hear me.
+39548,39584,0,RACHEL,OK, I'm doin' it for ya.
+39584,39711,0,MONICA,Oh Rachel don't, don't you dare, don't, don't. Tell him I cook.
+39737,39772,0,RACHEL,Excuse me. Hi.
+39772,39808,0,VAN DAMME,Hi.
+39831,40097,0,RACHEL,Um, this is gonna sound kinda goofy but uhhm, my friend over there, who cooks by the way, um, she thinks you're cute.
+40098,40145,0,VAN DAMME,You don't think I'm cute?
+40191,40525,0,RACHEL,I, I don't know, um, do you think you're cute? OK, we're kinda gettin' off the track here. Um, I was supposed to come here and tell you my friend thinks you're cute. So what should I tell her?
+40552,40651,0,VAN DAMME,You can tell her I think her friend is cute.
+40842,40963,0,CHANDLER,No, Stephen Hurs was the kid who would eat anything for money, David Stein was the guy who had no elbows.
+40981,41034,0,SUSIE,OK, well then who was the kid that got caught masturbating?
+41035,41150,0,CHANDLER,OK that's not what he was doing. Alright, he was looking for his bus money.
+41180,41215,0,UNKNOWN,
+41215,41250,0,SUSIE,Oh that's me, I gotta go.
+41296,41322,0,CHANDLER,Oh uh, o, OK.
+41344,41463,0,SUSIE,Um, so listen, how many times am I gonna have to touch you on the arm before you ask me on a date.
+41512,41654,0,CHANDLER,Well, uh, let's try one more. . . there you go, say Ernie's, 8 o'clock.
+41656,41801,0,SUSIE,I'll be there, and who knows, if things go well, maybe this time I'll get to see your underwear.
+41964,42012,0,CHANDLER,No one was around to hear that?
+42134,42161,0,MONICA,So what'd he say?
+42180,42424,0,RACHEL,Agh, what a jerk. I kept talking about you and he kept asking me out. I mean, naturally, you know, I said no.
+42496,42540,0,MONICA,Well, thanks anyway.
+42540,42638,0,RACHEL,He just kept asking, and asking, and asking, and asking, and asking, and asking.
+42639,42784,0,MONICA,Rachel if you, if you want to go out with him, you can. Sound like a big jerk to me but if that's what you want to do...
+42787,42876,0,RACHEL,Jean-Claude she said yes, I'll see you tonight. Thank you.
+42929,42974,0,UNKNOWN,
+43120,43265,0,RACHEL,And then Jean-Claude took me to that place Crossroads and that's where we hung out with Drew Barrymore.
+43284,43505,0,JOEY,Oh man, she's so smokin, she has got the greatest set of. . . no guys around, huh.
+43550,43585,0,RACHEL,Does anybody need anything?
+43585,43720,0,MONICA,Oh, I'll have an espresso. Oh acutally, I'll get it. If I ask you to, you'll probably end up drinking it yourself.
+43792,43817,0,RACHEL,That is so unfair.
+43817,43958,0,PHOEBE,I know. Oh, like you would drink her coffee after what you did to her with Van Damme.
+43982,44126,0,ROSS,Hey Joey I have to cancel racketball for tonight, that was Marcel's trainer. He's gonna let me have him for a couple of hours.
+44128,44175,0,JOEY,You're blowin' me off for a monkey?
+44175,44222,0,ROSS,Hey, we can rescedule for Saturday.
+44247,44318,0,JOEY,Yeah, unless you hook up with a bunch of pigeons.
+44344,44438,0,CHANDLER,Hey, stick a fork in me, I am done.
+44464,44511,0,PHOEBE,Stick a fork what?
+44511,44558,0,CHANDLER,Like, when you're cooking a steak.
+44559,44603,0,PHOEBE,Oh, OK, I don't eat meat.
+44629,44681,0,CHANDLER,Well then, how do you know when vegetables are done?
+44699,44771,0,PHOEBE,Well you know, you juist, you eat them and you can tell.
+44773,44819,0,CHANDLER,OK, then, eat me, I'm done.
+44896,45154,0,CHANDLER,I've met the perfect woman. OK, we're sitting on her couch, we're fooling around, and then suddenly she turns to me and says, 'Do you ever want to do it in an elevator?'
+45179,45216,0,MONICA,What did you say?
+45216,45363,0,CHANDLER,Ahh, I believe my exact words were, 'Flaign,en - sten'. I mean I didn't know what to say, how do you know if you wanna do it on an elevator?
+45363,45401,0,PHOEBE,Oh, you just know.
+45636,45708,0,SUSIE,Oh, shoot, we gotta go, got a reservation in 30 minutes.
+45732,45853,0,CHANDLER,Oh no no no no, no no no no no no, you see, what I had planned shouldn't take more that 2, 3 minutes tops.
+45876,45951,0,SUSIE,Oh, 200 seconds of passion. We gotta go.
+45996,46185,0,SUSIE,But um, here's an idea, have you ever worn women's underwear?
+46209,46424,0,CHANDLER,Well, ye, yes, actually, but, uh, they were my Aunt Edna's, and there were three of us in there.
+46448,46595,0,SUSIE,Well I was thinking it would be um, kind of sexy if you wore mine tonight, at dinner.
+46712,46763,0,CHANDLER,You want me to wear your panties?
+46765,46790,0,SUSIE,Could ya?
+46811,47144,0,CHANDLER,Well, if I was wearing your underwear then, uh, what would you be wearing?. . . You're swell.
+47222,47330,0,ROSS,OK, got the music, got the dinner. Oh and check it out, I made Marcel's favorite dish, banannacake.
+47330,47414,0,ROSS,With mealworms.
+47532,47673,0,JOEY,Yaaahhh. Ahhh, candles. What'dya thinks gonna happen here tonight?
+47770,48372,0,ROSS,Hello. Oh hi, are you on your way ove-. Oh. No, no, I, I understand, I mean a monkey's gotta work. No it, it's no big deal, it' not like I uh, had anything special planned. Yeah OK, OK. OK, OK, bye.
+48633,48683,0,UNKNOWN,
+48756,48778,0,UNKNOWN,
+48778,48800,0,UNKNOWN,
+48801,48838,0,UNKNOWN,
+48838,48875,0,UNKNOWN,
+48948,49042,0,PHOEBE,OK, Rachel, why don't you start talking first.
+49043,49325,0,RACHEL,Alright, I feel that this is totally unjustified.  She gave me the green light, I did nothing but-. Do you think I can't see you in the TV set?
+49400,49472,0,PHOEBE,Alright Monica, if there is something that you would like to share...
+49473,49518,0,MONICA,Ya know, you had no right to go out with him.
+49520,49556,0,RACHEL,That is the most ridiculous.
+49556,49592,0,MONICA,You sold me out.
+49594,49617,0,RACHEL,I did not sell you out.
+49617,49640,0,MONICA,Yes you did. Absolutely.
+49642,49690,0,RACHEL,Would you let me talk.
+49762,49808,0,MONICA,Did you just flick me?
+49853,49907,0,RACHEL,OK, well, you wouldn't let me finish and I was jus-
+49952,49998,0,UNKNOWN,
+50003,50028,0,MONICA,Quit flicking
+50046,50082,0,RACHEL,Ow, you stop flicking.
+50082,50117,0,MONICA,You flicked me first.
+50265,50292,0,UNKNOWN,
+50383,50452,0,UNKNOWN,
+50644,50691,0,PHOEBE,OK, now I'm gonna kick some ass.
+50908,50985,0,PHOEBE,Alright, now I will let go if you both stop.
+51009,51076,0,RACHEL,Oh, what do you, you want me to stop seeing him, is that what you want?
+51102,51220,0,RACHEL,You want me to just call him up and tell him that you're seeing him instead? That's what you want?
+51220,51243,0,MONICA,OK.
+51294,51340,0,RACHEL,Oh that's what you want.
+51342,51388,0,MONICA,Yes.
+51392,51426,0,RACHEL,Fine.
+51426,51460,0,MONICA,Fine,
+51462,51606,0,PHOEBE,There we go.You know what, if we were in prison, you guys would be, like, my bitches.
+51796,51843,0,ROSS,Thanks for letting me tag along tonight you guys.
+51843,51890,0,JOEY,Forget about it.
+51914,51962,0,SUSIE,How you doin there squirmy?
+51965,52039,0,CHANDLER,I'm hangin in. . . and a little out.
+52131,52298,0,JOEY,So, assistant to the director. That's a really exciting job, I mean, you must have a ton of cool responsibilities.
+52299,52326,0,DIRECTOR'S ASSISTANT,I have nothing to do with casting.
+52328,52394,0,JOEY,So what're you guys gonna eat?
+52423,52593,0,SUSIE,How come all I can think about is putting that ice in my mouth and licking you all over?
+52640,52757,0,CHANDLER,Because I went to an all boys high school and God is making up for it.
+52951,53045,0,SUSIE,I want you right here, right now.
+53047,53287,0,CHANDLER,Right now, right here. Don't ya think we're in kind of a public plaaaa  They do have the shrimp.
+53333,53381,0,SUSIE,Meet me in the bathroom.
+53544,53616,0,CHANDLER,I'm going to the bathroom now.
+53790,53862,0,UNKNOWN,
+54029,54054,0,UNKNOWN,
+54124,54174,0,CHANDLER,I can't believe we're doing this.
+54192,54270,0,SUSIE,Alright mister, let's see those panties.
+54312,54339,0,CHANDLER,Alrighty.
+54433,54507,0,SUSIE,Ooh. Ooh. But ya know what would be even sexier?
+54509,54533,0,CHANDLER,What?
+54552,54629,0,SUSIE,If you didn't have your shirt tucked into them.
+54695,54863,0,SUSIE,Alright. Now I would like to see you wearing nothing but them. Take your clothes off.
+54865,54964,0,CHANDLER,OK, but uh, I hope you realize this means we're gonna miss hearing about the specials.
+55010,55034,0,SUSIE,C'mon hurry, hurry.
+55036,55108,0,CHANDLER,Hey, do you want this done quick, or do you want this done right?
+55128,55203,0,SUSIE,Alright, turn around. Time to see you from behind.
+55228,55323,0,SUSIE,Oh, somebody's been doing his buns of steel video.
+55343,55587,0,CHANDLER,Well, you want me to uh, clench anything, or-... Susie? Susie.
+55588,55655,0,SUSIE,This is for the fourth grade.
+55730,55767,0,CHANDLER,Huh? Where, whaddya mean?
+55767,55873,0,SUSIE,Whaddo I mean. Whaddya mean, whaddo I mean? I mean underpants, mister, that's what I mean.
+55897,55943,0,CHANDLER,What, what's what you mean?
+55945,56112,0,SUSIE,My skirt, you lifted, kids laughing. I was Susie Underpants 'till I was 18.
+56157,56232,0,CHANDLER,That was in the fourth grade. How could you still be upset about that?
+56258,56374,0,SUSIE,Well um, why don't you call me in 20 years and tell me if you're still upset about this.
+56496,56591,0,CHANDLER,Alright, I hope you realize you're not getting these underpants back.
+56810,57145,0,MONICA,I can't believe this, just like 2 weeks ago I was watching _Sudden Death_, now I'm on a date with Jean-Claude Van Damme. Can you beat up that guy?  Can you beat up that guy?
+57145,57171,0,VAN DAMME,Sure.
+57189,57362,0,MONICA,This is so wild. Ya know, I gotta admit, I was kinda surprised that you agreed to go on a blind date.
+57363,57410,0,VAN DAMME,Normally, I would not do it.
+57456,57526,0,MONICA,Well, what made you make the exception for me?
+57528,57723,0,VAN DAMME,'Cause Rachel told me uh, you were dying to have a threesome with me and uh, Drew Barrymore. By the way, Drew has some groundrules and...
+57816,57839,0,MONICA,Say you're sorry.
+57839,57862,0,RACHEL,No.
+57888,57924,0,MONICA,Say it.
+57924,57960,0,RACHEL,No.
+58006,58032,0,UNKNOWN,
+58032,58058,0,UNKNOWN,
+58107,58179,0,MONICA,Rachel, you say you're sorry or your sweater gets it.
+58222,58298,0,RACHEL,OK, OK, that is my favorite sweater, that is my third date sweater.
+58344,58394,0,MONICA,Say you're sorry.
+58416,58538,0,RACHEL,OK, you wanna play? OK, let's play, let's play.
+58656,58680,0,MONICA,What're you gonna do?
+58683,58754,0,RACHEL,You give me back my sweater or it's handbag marinara.
+58826,58870,0,MONICA,You don't have the guts.
+58876,58970,0,RACHEL,Oh yeah. Well, at least I wasn't too chicken to tell some guy I thought he was cute.
+59228,59495,0,PHOEBE,Oh alright, stop, STOP THE MADNESS. This is crazy. Who can even remember why this even started in the first place?
+59612,59927,0,PHOEBE,Yes that's right. But still, I-, look at your purse, look at your sweater, look at yourselves.
+60024,60094,0,MONICA,I'll help you fix your sweater.
+60116,60191,0,RACHEL,I'll help you throw out your purse.
+60236,60287,0,MONICA,I'm sorry that I made you stop seeing him.
+60312,60407,0,RACHEL,Well, I'm sorry I went out with him when I knew you liked him.
+60453,60524,0,MONICA,I'm sorry that I borrowed your gloves
+61026,61051,0,CHANDLER,Joey?
+61051,61076,0,JOEY,Ma?
+61146,61172,0,CHANDLER,Joey!
+61175,61295,0,JOEY,Chandler? What're you still doin' here, I though you guys took off.
+61296,61362,0,CHANDLER,Oh, no no no, she took off with my clothes.
+61386,61413,0,JOEY,Are you naked in there?
+61413,61531,0,CHANDLER,Not exactly. . . I'm wearin panties.
+61632,61679,0,JOEY,Huh, you uh, you always wear panties?
+61722,61794,0,CHANDLER,No, no, this is the first time.
+61818,62011,0,JOEY,Wow, talk about your bad luck, I mean, the first time you try panties and someone walks off with your clothes.
+62033,62128,0,CHANDLER,I was not trying them out, Susie asked me to wear them.
+62131,62157,0,JOEY,Well, let me see.
+62158,62251,0,CHANDLER,No. I'm not letting you or anybody else see, ever.
+62253,62469,0,JOEY,Alright, alright.  Woah, someone's flossing.
+62613,62683,0,ROSS,Joey, some people don't like that.
+62710,62757,0,JOEY,Chandler's wearing panties.
+62760,62817,0,ROSS,What? Let me see.
+62817,62875,0,CHANDLER,No, no, you don't have to see.
+62901,62945,0,ROSS,Hi Tushie.
+62976,63043,0,CHANDLER,Alright, one of you give me your underpants.
+63065,63117,0,JOEY,Can't help you, I'm not wearing any.
+63142,63208,0,CHANDLER,How can you not be wearing any underwear?
+63211,63304,0,JOEY,Oh, I'm gettin' heat from the guy in the hot pink thong.
+63328,63423,0,CHANDLER,Alright look Ross I'll give you 50 dollars for your underpants.
+64072,64098,0,CHANDLER,Hey Phoebs, can I have the milk after you?
+64098,64171,0,PHOEBE,I'm almost done with it, keep your panties on.
+64336,64383,0,JOEY,Hey, hey, and I'm in the movie.
+64386,64420,0,ROSS,What happened?
+64420,64676,0,JOEY,One of the virus victims called in sick, so Cathy recommended me and boom, I'm dying on the gurney. Oh Ross, Marcel just finished his last scene if you want to go down there and say goodbye.
+64721,64960,0,ROSS,Ahh, oh that's OK, I mean, he's probably got, you know, parties to go to and stuff. But, ya know, he's moved on. Hey, that, that's the way it goes right.
+65006,65032,0,PHOEBE,Oh my God.
+65032,65059,0,ROSS,What?
+66228,66375,0,VAN DAMME,or you and me. Drew was very disappointed.
+66420,66471,0,RACHEL,OK, well, bye.
+66590,66614,0,VAN DAMME,Goodbye.
+66662,66713,0,MONICA,Well, bye for me too.
+66903,66951,0,RACHEL,OK, well, bye-bye again.
+67025,67068,0,MONICA,OK.
+67096,67166,0,VAN DAMME,Perhaps, uh, the three of us, just could. . .
+67168,67215,0,MONICA AND RACHEL,Oh, no no no no no.
+67236,67308,0,VAN DAMME,Are you sure, I can crush a walnut with my butt.
+67310,67347,0,RACHEL,Impressive.
+67347,67432,0,MONICA,But no. Maybe if I were baking.
+67454,67504,0,MONICA AND RACHEL,Bye-bye.
+67621,68052,0,ROSS,Bye Marcel. See ya on the big screen. You keep people drinkin' that beer, OK. I miss you buddy.
+68389,68463,0,PHOEBE,You know, I think I want to write a song about all this.
+68506,68655,0,PHOEBE,Yeah. Oh, except one of the strings on my guitar is broken. Hey, Chandler, can I borrow your G-string?
+68657,68704,0,CHANDLER,How long you been waitin' to say that?
+68704,68751,0,PHOEBE,About 20 minutes. CLOSING CREDITS
+68914,68989,0,_VAN DAMME,Can't you see what's going on here, this man is dying.
+69035,69057,0,DIRECTOR,Cut.
+69080,69157,0,_VAN DAMME,Can't you see what's going on here, this man is dying.
+69204,69229,0,DIRECTOR,Cut.
+69272,69350,0,_VAN DAMME,Can't you see what's going on here, this man is dying.
+69396,69441,0,JOEY,Aaaaagggghhhhh. Mommy_
+69464,69539,1,_VAN DAMME,Can't you see what's going on here, this man is dead._

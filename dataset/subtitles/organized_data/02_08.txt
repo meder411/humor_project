@@ -1,0 +1,214 @@
+Frame_Start Frame_End Laugh Speaker Dialogue
+104,154,0,Rachel,Ross kissed me.
+155,222,0,Monica,Oh my god, oh my god, oh my god!
+224,283,0,Rachel,It was unbelievable!
+283,342,1,Monica,Oh my god, oh my god, oh my god!
+344,534,0,Phoebe,Ok, all right. We want to hear everything. Monica, get the wine and unplug the phone. Rachel, does this end well or do we need to get tissues?
+536,586,0,Rachel,Oh, it ended very well.
+610,702,0,Monica,Do not start without me. Do not start without me.
+704,918,1,Phoebe,Ok, all right, let's hear about the kiss. Was it like, was it like a soft brush against your lips? Or was it like a, you know, a "I gotta have you now" kind of thing?
+921,1110,0,Rachel,Well, at first it was really intense, you know. And then, oh, god, and then we just sort of sunk into it.
+1112,1206,0,Phoebe,Ok, so, ok, was he holding you? Or was his hand like on your back?
+1206,1379,1,Rachel,No, actually first they started on my waist. And then, they slid up, and then, they were in my hair.
+1427,1473,1,Ross,And, uh, and then I kissed her.
+1473,1519,0,Joey,Tongue?
+1521,1545,0,Ross,Yeah.
+1545,1569,0,Joey,Cool.
+2694,2979,0,Chandler,All right, check out this bad boy. 12 megabytes of ram. 500 megabyte hard drive. Built-in spreadsheet capabilities and a modem that transmits at over 28,000 b.p.s.
+2982,3032,0,Phoebe,Wow. What are you gonna use it for?
+3050,3080,0,Chandler,Games and stuff.
+3127,3198,1,Monica,There are no jobs. There are no jobs for me.
+3199,3315,0,Joey,Wait, here's one. Uh, would you be willing to cook naked?
+3315,3365,1,Monica,There's an ad for a naked chef?
+3366,3535,1,Joey,No, but if you're willing to cook naked, then you might be willing to dance naked. And then...
+3607,3701,1,Phoebe,Hey, oh, so, um...how'd you make out last night?
+3751,3917,1,Ross,That, that is funny. That is painfully funny. No, wait. Wait, yeah, that's just painful
+3918,3991,0,Monica,Wait a minute. I thought last night was great.
+3992,4394,0,Ross,Yeah, it was, but...I get home, ok, and I see Julie's saline solution on my night table. And I'm thinking to myself, oh my god, what the hell am I doing? I mean, here I am, I am with Julie, this incredible, great woman, who I care about and who cares about me, and I'm like, what, am I just gonna throw all that away?
+4396,4470,1,Joey,You got all that from saline solution?
+4490,4552,0,UNKNOWN,
+4552,4614,1,UNKNOWN,
+4638,4729,0,Monica,We are talking about Rachel here. You and Rachel.
+4731,5043,0,Ross,Believe me, I've been dreaming about me and Rachel for ten years now. But now, I'm with Julie, so it's like me and Julie, me and Rachel, me and Julie, me and... ... Rachel. Rachel, Rachel.
+5046,5069,0,Rachel,Hey, you.
+5069,5093,0,Ross,How are you?
+5096,5132,0,Rachel,Good. How are you?
+5132,5168,0,Ross,Good.
+5186,5211,0,Julie,Hi, honey.
+5211,5353,1,Ross,Hi, Julie.  Hi, Julie. Julie, um, how are you?
+5355,5369,0,Julie,Good.
+5369,5689,1,Ross,Good, so everybody's here. Everybody's good. So, were you gonna play something, Phoebe?
+5691,5715,0,Phoebe,Oh, well, actually.
+5715,5740,0,Ross,Play it.
+5786,5812,0,Phoebe,Ok, all right.
+5832,5870,0,Joey,Hey, Julie, I didn't know you wore lenses.
+5870,5908,1,Julie,What?
+5952,6409,1,Phoebe,Ok, um, hi, hello, hi, ok, so, um, this is a song about a love triangle between three people that I made up. Um, it's called, um, "Two of Them Kissed Last Night".
+6460,7390,1,Phoebe,There was a girl, we'll call her Betty, and a guy let's call him Neil. Now I can't stress this point too strongly, this story isn't real. Now our Neil must decide, who will be the girl that he casts aside. Will Betty be the one who he loves truly? Or will it be the one who we'll call Ju...Loolie? He must decide, he must decide, even though I made him up, he must decide!
+7462,7634,0,Mr. Ratstatter,This is a nice resume. Nice, nice, nice. _Muy impressivo._
+7656,7702,1,UNKNOWN,
+7726,7776,0,UNKNOWN,
+7778,7839,0,UNKNOWN,
+7839,7899,0,UNKNOWN,
+7918,8038,0,Monica,So, Mr. Rastatter, what exactly does this job entail? The ad wasn't too clear.
+8040,8075,0,Mr. Ratstatter,Mockolate.
+8075,8110,1,Monica,I'm sorry?
+8110,8208,0,Mr. Ratstatter,Mockolate. It's a completely synthetic chocolate substitute.
+8257,8376,1,Mr. Ratstatter,Go ahead. Try a piece. Yeah, we think that Mockolate is even better than chocolate.
+8377,8424,0,Monica,All right. Mmm-mmm.
+8619,8725,1,Monica,I love how it crumbles. Now see, your chocolate doesn't do that.
+8725,9140,1,Mr. Ratstatter,No, ma'am. Well, anyhoo, we should be getting our F.D.A. approval any day now, hopefully, in time for Thanksgiving. See, the way we look at it, chocolate already dominates most of your major food-preparation holidays  Easter, Christmas, what have you.
+9142,9286,1,Mr. Ratstatter,But, we're thinking, given the right marketing, we can make Thanksgiving the Mockolate holiday.
+9289,9312,0,Monica,Wow.
+9335,9385,0,Mr. Ratstatter,Aren't you going to swallow that?
+9405,9457,1,Monica,Just waiting for it to stop bubbling.
+9458,9529,0,Mr. Ratstatter,Yeah, isn't that great?
+9554,9717,0,Mr. Ratstatter,Well, anyhoo, um, we are looking for a couple of chefs who can create some Thanksgiving-themed recipes. You think you might be interested?
+9719,9961,1,Monica,Abso......lutely. See, I love creating new recipes. I love Thanksgiving. And, well, now, I love Mockolate.
+9980,10004,0,Mr. Ratstatter,Really?
+10005,10127,0,Monica,Especially the after taste, you know, I'll tell ya, that'll last ya till Christmas.
+10221,10267,0,Monica,How about Mockolate mousse?
+10271,10343,0,Phoebe,It's not, it's not very Thanksgiving-y.
+10362,10415,0,Monica,Ok, how about pilgrim Mockolate mousse?
+10437,10464,0,Phoebe,What makes it pilgrim?
+10485,10533,1,Monica,We'll put buckles on it.
+10607,10653,0,Rachel,Did uh, Ross call?
+10653,10698,0,Monica,No, I'm sorry.
+10699,11016,0,Rachel,Why didn't he call? He's gonna stay with Julie, isn't he? He's gonna stay with her and she's going to be all, "Hi, I'm Julie, Ross picked me, and we're gonna to get married, have a lot of kids and dig up stuff together."
+11058,11136,0,Phoebe,No offense, but that sounds nothing like her.
+11182,11277,1,Ross,I don't know what to do. What am I gonna do? I mean, this, this is like a complete nightmare.
+11279,11566,1,Chandler,Oh, I know. This must be so hard. Oh, no. Two women love me. They're both gorgeous and sexy. My wallet's too small for my fifties, and my diamond shoes are too tight.
+11590,11637,0,Joey,Hey, here's a thought, Ross.
+11637,11685,0,Chandler,Don't touch the computer. Don't ever touch the computer.
+11708,11827,1,Joey,Ross, listen. I got two words for you. Threesome.
+11950,11995,0,UNKNOWN,
+11995,12041,1,UNKNOWN,
+12043,12080,0,UNKNOWN,
+12080,12117,0,UNKNOWN,
+12137,12499,1,Chandler,Ok, all right, look. Let's get logical about this, ok? We'll make a list. Rachel and Julie, pros and cons. Oh. We'll put their names in bold, with different fonts, and I can use different colors for each column.
+12500,12547,0,Ross,Can't we just use a pen?
+12547,12594,1,Chandler,No, Amish boy.
+12623,12742,0,Joey,Ok, let's start with the cons, 'cause they're more fun. All right, Rachel first.
+12766,12953,0,Ross,I don't know. I mean, all right, I guess you can say she's a little spoiled sometimes.
+12957,13005,0,Joey,You could say that.
+13050,13412,1,Ross,And I guess, you know, sometimes, she's a little ditzy, you know. And I've seen her be a little too into her looks. Oh, and Julie and I, we have a lot in common 'cause we're both paleontologists, but Rachel's just a waitress.
+13413,13702,1,Chandler,Waitress. Got it. You guys wanna play Doom? Or we could keep doing this. What else?
+13720,13750,0,Ross,I don't know.
+13794,13870,0,Joey,Oh, her ankles are a little chubby.
+13892,13964,1,Chandler,Ok, let's do Julie. What's wrong with her?
+14058,14108,0,Ross,She's not Rachel.
+14154,14370,1,Monica,Ok, this is pumpkin pie with mockolate cookie crumb crust. This is mockolate cranberry cake, and these are mockolate chip cookies. Just like the Indians served.
+14445,14478,1,Rachel,Oh my god.
+14478,14512,0,Monica,Oh my god good?
+14514,14608,1,Rachel,Oh my god, I can't believe you let me put this in my mouth.
+14632,14708,0,Phoebe,Oh, oh sweet Lord! This is what evil must taste like!
+14852,15213,1,Chandler,I'm telling you this thing won't print. Yes, I pressed that button like 100 times. You know, for a hot line you are not so hot. What? What is that in the background? Are you watching Star Trek?
+15358,15404,0,Joey,Hey, so how'd it go with Julie? Did you, did you break her heart?
+15404,15665,1,Ross,Yes, it was horrible. She cried. I cried. She threw things, they hit me. Anyway, I did the right thing.
+15668,15762,1,Chandler,So, Spock actually hugs his father?
+15784,15830,0,Rachel,Hey, do you guys have......hi.
+15909,15949,0,Rachel,Where you goin'?
+15952,16096,0,Ross,I uh, I just got back from uh, from Julie's.
+16123,16265,0,Ross,No, no, uh, it's not what you think. It's um the other thing.
+16411,16526,1,Rachel,Well, what's the other thing, what do I think?
+16550,16577,0,Ross,Well, uh.
+16578,16742,1,Joey,He broke up with Julie. Well, go hug her, for god's sakes.
+16766,16790,0,Rachel,Really?
+16790,16888,0,Ross,Really. It's always been you, Rach.
+16888,16938,0,Rachel,Oh, god.
+17202,17273,1,Rachel,Oh, oh, this is good, this is really good.
+17274,17581,1,Ross,I know, I know, it's, it's almost... What do you say we go take a walk, just us, not them?
+17582,17619,1,Rachel,Let me get my coat.
+17619,17725,0,Ross,Ok. No, hey, whoa, whoa, I'll get your coat.
+17873,18101,1,Rachel,Ok, he's goin' to get my coat. He's goin' to get my coat. Oh my god, you guys. I can't believe this. This is unbelievable.  What's that?
+18101,18137,0,Chandler,What? Nothing.
+18181,18218,0,Rachel,What's that? What? I saw my name. What is it?
+18218,18255,0,Chandler,No, no, see? See?  Hey, it's printing!
+18257,18305,0,Rachel,Well what is it? Let me see.
+18307,18373,1,UNKNOWN,
+18379,18423,0,Rachel,Well what is it? Let me see.
+18423,18468,0,Ross,Hey, someone order a coat?
+18469,18545,0,Rachel,Ross, Chandler wrote something about me on his computer and he won't let me see.
+18546,18757,1,Ross,He won't?  He won't! Because, isn't that, isn't that the, the short story you were writing?
+18759,18853,1,Chandler,Yes, yes it is, short story, that I was writing.
+18854,18901,0,Rachel,And I'm in it? Then let me read it.
+18903,18947,0,Chandler, Joey, Ross,No!
+18994,19045,1,Rachel,Come on.
+19045,19096,0,Joey,Hey, uh, why don't you read it to her?
+19314,19357,1,UNKNOWN,
+19594,20126,0,Chandler,"It was summer, and it was hot. Rachel was there. A lonely gray couch. 'Oh, look,' cried Ned, and then the kingdom was his forever. The end."
+20193,20289,0,Ross,That's it? That's all you wrote? You're the worst writer in the whole world.
+20291,20435,0,Rachel,All right, you know what? This isn't funny anymore. There's something about me on that piece of paper and I want to see it.
+20438,20483,0,Ross,No, you don't.
+20530,20676,0,Rachel,All right, you know what, that's fine. If you guys want to be children about this, that's fine. I do not need to see it.
+20822,20857,0,Rachel,What is this? Ross, what is this?
+20857,20893,0,UNKNOWN,
+20918,20941,0,Rachel,What is this? Ross, what is this?
+20942,20977,0,UNKNOWN,
+20977,21011,0,Chandler,Good luck.
+21062,21155,0,Ross,Ok, just, just remember how crazy I am about you, ok?
+21156,21299,0,Rachel,Kind of ditzy? Too into her looks? Spoiled?
+21302,21397,0,Ross,Now that's a little spoiled. He was supposed to type "little", the idiot.
+21422,21468,0,Rachel,Just a waitress?
+21494,21703,0,Ross,No, that, that was, I mean, as opposed to uh, the uh, ok. Is this over yet Rach?
+21709,21800,0,Rachel,Oh! I do not have chubby ankles!
+21802,21924,0,Ross,No, no, wait, ok, ok, look at the other side. Look at Julie's column.
+21925,22159,0,Rachel,She is not _Rachem_. What the hell's a Rachem? Is that some stupid paleontology word that I wouldn't know because I'm just a waitress.
+22164,22447,0,Ross,No, Rach, come on. Rach! Rach, no, no! She's not Rachel, she is, she is not, Ra--Rachel?
+22544,22668,0,Chandler,My diary! My diary, that's brilliant. I should have told her it was my diary, she never would have made me read her my diary.
+22687,22808,0,Monica,You know, that's true. You'd be a great person to have around the day after an emergency.
+22812,22954,0,Phoebe,I... I cannot believe Ross even made this list. What a dinkus.
+22976,23048,0,Joey,Hey, cut him some slack. It was Chandler's idea.
+23050,23094,0,Phoebe,What?
+23096,23170,0,Chandler,Oh good, I was hoping that would come up.
+23171,23216,0,Monica,This was your idea?
+23217,23317,0,Chandler,All right, let's get some perspective here, ok? These things, they happen for a reason.
+23334,23382,0,Monica,Yeah. You!
+23406,23505,0,Chandler,All right, Pheebs, back me up here, ok? You believe in that karma crap, don't you?
+23526,23625,0,Phoebe,Yeah, by the way, good luck in your next life as a dung beetle.
+24032,24178,0,Ross,Rach! Whoops! Rach, hey, open up, please!
+24181,24344,0,Rachel,When somebody does not buzz you in, Ross, that means go away. That doesn't mean please climb up the fire escape.
+24346,24418,0,Ross,I just wanna read something. It's your pro list.
+24418,24489,0,Rachel,Not interested.
+24490,24945,0,Ross,Ok, ok, number one  The way you cry at game shows. Number two  how much you love your friends. Number three  the way you play with your hair when you're nervous. Number four  how brave you are for starting your life over. Number five  how great you are with Ben.
+24964,25038,0,Ross,Number six  the way you smell.
+25066,25111,0,Joey,Hey, Ross! What are you doin'?
+25111,25156,0,Ross,Hey, Joey. You wanna open the window?
+25158,25185,0,Joey,Oh, yeah, I do.
+25210,25276,0,Chandler,What are you doing out there?
+25277,25425,0,Monica,Oh, you must be freezing. You know what you need? How about a nice steaming cup of hot Mockolate?
+25519,25660,0,Ross,Rach, come on, open up. Rach, come on, come on, Rach. You got to give me another chance.
+25661,25708,0,Rachel,No.
+25710,25733,0,Ross,No?
+25733,25757,0,Rachel,That's what I said.
+25759,25797,0,Chandler,Look, maybe we should go?
+25797,25835,0,Rachel,No, you guys, you really don't have to go, we're done talking.
+25853,25890,0,Ross,Rach, come on, look, I know how you must feel.
+25890,26287,0,Rachel,No, you don't, Ross. Imagine the worst things you think about yourself. Now, how would you feel if the one person that you trusted the most in the world not only thinks them too, but actually uses them as reasons not to be with you.
+26288,26405,0,Ross,No, but, but I wanna be with you in spite of all those things.
+26427,26528,0,Rachel,Oh, well, that's, that's mighty big of you, Ross.  I said don't go!
+26600,26837,0,Ross,You know what? You know what? If, things were the other way around, there's nothing you could put on a list that would ever make me not want to be with you.
+26839,26984,0,Rachel,Well, then, I guess that's the difference between us. See, I'd never make a list.
+27363,27425,0,UNKNOWN,
+27425,27486,0,UNKNOWN,
+27530,27579,0,Joey,Maybe a little longer.
+27678,27992,0,Monica,Now, in some of these recipes, the quantities may seem just a little unusual, uh, like these coconut mockolate holiday nut bars. I've indicated four cups of coconut, and four cups of crushed nut, and only, uh, one tablespoon of mockolate.
+28034,28058,0,Mr. Ratstatter,Doesn't matter.
+28058,28083,0,Monica,What?
+28086,28227,0,Mr. Ratstatter,Our FDA approval didn't come through. Something about laboratory rats.
+28251,28310,0,Monica,Oh, gosh, I'm sorry.
+28310,28563,0,Mr. Ratstatter,Yeah, well, anyhoo, here is your check.  Thank you for all the trouble you went through. Um, listen, you didn't eat a lot of it while you were cooking, did you?
+28564,28609,0,Monica,Well, uh, I ate some.
+28611,28803,0,Mr. Ratstatter,Oh, some, that's fine. Some is fine. Some is not a lot. So, it doesn't burn when you pee, does it?
+29209,29355,0,Rachel,Is that him again? Tell him I'd come to the phone, but my ankles are weighin' me down.
+29382,29451,0,Monica,Listen, I... I don't think this is the best time.
+29452,29523,0,Ross,Look, can, can you do something for me?
+29526,29811,0,Monica,Sure, what? Ok, ok.  Music?
+29812,29857,0,UNKNOWN,
+30003,30263,0,Radio,The next one's dedicated to Rachel from Ross. Rachel, he wants you to know he's deeply sorry for what he did and he hopes you can find it in your heart to forgive him.
+30986,31588,0,Radio,Uh, we've just gotten a call from Rachel, and she told us what Ross did. It's pretty appalling, and Ross, if you're listening, I don't wanna play your song anymore. Why don't we devote our time to a couple that stands a chance? Avery, Michelle's sorry she hit you with her car and she hopes you two will work it out.
+32401,32448,0,Mr. Ratstatter,Hi, thanks for coming in again.
+32450,32520,0,Monica,Oh, not at all. I have no morals and I need the cash.
+32523,32986,0,Mr. Ratstatter,It's like I'm lookin' in a mirror. Anyway, they're called "fishtachios". They taste exactly like pistachios, but they're made primarily of reconstituted fish bits. Here, try one. You're not allergic to anything, are you?
+32986,33022,0,Monica,Cat hair.
+33024,33050,1,Mr. Ratstatter,Oh, sorry.

@@ -1,0 +1,260 @@
+Frame_Start Frame_End Laugh Speaker Dialogue
+58,227,0,Chandler,OK, what is it about me? Do I not look fun enough? Is there something. . . repellant. . . about me?
+246,270,0,Rachel,So, how was the party?
+272,419,0,Chandler,Well it couldn't have been worse. A woman literally passed through me. OK, so what is it, am I hideously unattractive?
+440,658,0,Phoebe,No, you are not, you are very attractive. You know what, I go through the exact same thing. Every time I put on a little weight, I start questioning everyting.
+731,797,0,Chandler,Woah, woah, I've put on a little weight?
+800,848,0,UNKNOWN,
+896,970,0,Phoebe,No, not wieght... y'know, more like insulation.
+1016,1139,0,Monica,Chandler, I'm unemployed and in dire need of a project. Ya wanna work out? I can remake you.
+1158,1233,0,Chandler,Oh, you know, I would, but that might get in the way of my lying around time.
+1254,1289,0,Monica,Please.
+1289,1325,0,All,C'mon. Let her. Yeah.
+1328,1447,0,Chandler,Alright, OK, alright. But if we put on spandex and my boobs are bigger than yours, I'm goin' home.
+1468,1713,0,Phoebe,Your boobs are fine. Look, I never should have said anything. Come here. Come here.  Oh, can't make.... hands... meet....
+3079,3247,0,Chandler,OK, let's do it.  What?
+3267,3415,1,Monica,Nothing, just never seen you in little stretchy pants before.
+3440,3507,0,Chandler,And we're changing.
+3847,3943,1,Monica,C'mon give me five more. Five more.
+3987,4016,0,Monica,Five more and I'll flash you.
+4034,4280,1,Chandler,One. . . two. . . two and a half. OK, just show me one of them.
+4686,4973,1,Chandler,. She's insane, the woman is insane. It's before work, it's after work, it's during work. She's got me doing butt clenches at my desk. And now, they won't bring me my mail anymore.
+4995,5020,0,UNKNOWN,
+5022,5058,0,UNKNOWN,
+5058,5094,0,UNKNOWN,
+5113,5152,0,UNKNOWN,
+5152,5190,0,UNKNOWN,
+5238,5286,1,Rachel,Hey Phoebs, how'd it go with Scott last night?
+5305,5427,0,Phoebe,Oh, um, it was nice. Took him to a romantic restraunt, ordered champagne, nice.
+5449,5486,0,Joey,The guy still won't put out, huh?
+5486,5523,0,Phoebe,Nope. Zilch, nothin', uh-uh.
+5546,5573,1,All,Sorry Phoebs.
+5596,5808,1,Phoebe,Look, I, y'know, I don't mind taking it slow, I like him a lot, y'know he's really interesting and he's really sweet and why won't he give it up?
+5834,5975,0,Joey,Maybe he, uhh... drives his car on the other side of the road, if ya know what I mean.
+5981,6052,0,Phoebe,No, whad'ya mean? He's not British.
+6124,6170,0,Joey,Maybe he's. . . gay.
+6220,6503,0,Phoebe,Oohh, um, no, I don't think that's the problem. 'Cause we went, um, dancing the other night and the way he held me so close, and the way he was looking into my eyes I just like... definitely felt something.
+6506,6556,0,Rachel,Yeah, but how much can you tell from a look?
+6557,6629,1,Phoebe,No, I felt it on my hip. You could tell.
+6698,6767,0,Monica,Yo, Bing. Racquetball in 15 minutes.
+6791,6868,0,Chandler,Joey, be a pal. Lift up my hand and smack her with it.
+6917,6951,0,Phoebe,Ooh, oh, Rachel, don't look.
+6951,7109,0,Rachel,What?  C'mon you guys, I don't care, I have a date tonight.
+7127,7155,0,Joey,Woah, woah, woah, you have a date?
+7155,7182,0,Rachel,Yeah, Monica's settin' me up.
+7203,7251,0,Joey,But uh, uh, what about uh, Ross and uh. . .?
+7270,7442,0,Rachel,Oh what, my whole insane jealousy thing? Well, y'know, as much fun as that was, I've decided to opt for sanity.
+7464,7493,0,Chandler,So you really OK about all this?
+7510,7755,0,Rachel,Oh yeah, c'mon, I'm movin' on. He can press her up against that window as much as he wants. For all I care, he can throw her through the damn thing.
+7781,7822,0,Ross,Hi guys.
+7824,7921,0,Ross,Oh, Monica, I figured I'd come by tomorrow morning and pick up Fluffy's old cat toy, OK?
+7942,7992,0,Monica,Only if you say his full name.
+7993,8134,0,Ross,Can I come over tomorrow and pick up Fluffy Meowington's cat toy.
+8141,8163,1,Monica,Alright.
+8182,8230,0,Joey,You're getting a cat?
+8230,8277,0,Ross,Uh, actually, we're getting a cat.
+8283,8325,0,Rachel,Together?
+8328,8376,0,Rachel,Both of you?
+8377,8470,0,Julie,Yeah, we figure it'll live with Ross half the time, and with me half the time.
+8473,8685,0,Rachel,Ohh, well, isn't that just lovely. That's something the two of you will be able to enjoy for a really, really, really, really, really long time.
+8686,8732,0,Ross,Hopefully.
+8734,8771,0,Rachel,Well.  OK, we're not supposed to take these when we leave.
+8771,8807,0,UNKNOWN,
+8809,8853,0,UNKNOWN,
+8878,9025,1,UNKNOWN,
+9142,9219,0,Rachel,Well.  OK, we're not supposed to take these when we leave.
+9359,9574,0,Michael,I don't know if Monica told you but this is the first date I've gone on since my divorce so, if I seem a little nervous, I am.
+9598,9649,1,Rachel,How long do cats live?
+9674,9709,0,Michael,I'm sorry?
+9709,9841,1,Rachel,Cats, how long do they live figuring you don't... y'know, throw 'em under a bus or something?
+9866,9925,0,Michael,Um, maybe 15, 16 years.
+9925,9984,0,Rachel,That's just great.
+10011,10054,0,Michael,Um, cheers.
+10058,10101,0,Rachel,Oh, right, clink.
+10267,10362,1,Michael,Monica told you I was cuter that this, didn't she?
+10366,10655,0,Rachel,Oh, no, Michael, it's not you. I'm sorry, it's just, it's this thing. It's probably not as bad as it sounds but this friend of mine is, is getting a cat with his girlfriend.
+10656,10726,0,Michael,Oh, that does sound. . .Ahh.
+10794,10866,0,Rachel,I mean he just started going out with her.
+10869,10944,0,Michael,Is this guy, uhh, an old boyfriend?
+10991,11204,0,Rachel,Ah, hah-hah-hah-ho, yeah, he wishes. Oh, I'm sorry, look at me. OK, Michael, let's talk about you.
+11204,11250,0,Michael,Alright.
+11253,11469,1,Rachel,OK, OK. So, you ever get a pet with a girlfriend?
+11495,11529,0,Phoebe,So, I figured it out.
+11529,11563,0,Joey,What?
+11566,11685,0,Phoebe,Why Scott doesn't want to sleep with me. It's 'cause I'm not sexy enough.
+11686,11897,0,Joey,Phoebe, that's crazy. When I first met you, you know what I said to Chandler? I said, "Excellent butt, great rack."
+11971,12165,1,Phoebe,Really? That's so sweet. I mean, I'm officially offended but, sweet.
+12188,12287,0,Joey,Phoebs look, if you want to know what the deal is, you're just gonna have to ask him.
+12306,12405,0,Phoebe,You're right, you're right. Ah, you are so yumm.
+12882,12929,1,UNKNOWN,
+12929,12976,0,UNKNOWN,
+13004,13050,0,UNKNOWN,
+13050,13095,0,UNKNOWN,
+13096,13145,0,UNKNOWN,
+13145,13193,0,Rachel,What're they called, what're they called, what're they called?
+13220,13244,1,Michael,Fruitflies?
+13244,13313,0,Rachel,Yes! Thank you.
+13314,13361,0,Waiter,So, would you like any dessert?
+13361,13460,0,Michael,No! No dessert, just a check, please.
+13482,13554,0,Rachel,Oh, you're not having fun, are you?
+13556,13743,1,Michael,No, no, I am, but only because for the last hour and a half I've been playing the movie _Diner_ in my head.
+13767,14175,0,Rachel,Oh, look at me, look at me. Oh, I'm on a date with a really great guy, all I can think about is Ross and his cat and his... Julie. I just want to get over him. gosh, why can't I do that?
+14178,14225,1,UNKNOWN,
+14250,14299,0,UNKNOWN,
+14299,14349,0,UNKNOWN,
+14367,14442,0,Rachel,Oh, look at me, look at me. Oh, I'm on a date with a really great guy, all I can think about is Ross and his cat and his... Julie. I just want to get over him. gosh, why can't I do that?
+14490,14656,0,Michael,Oy. Look, I've been through a divorce, trust me you're gonna be fine. You just can't see it now because you haven't had any closure.
+14684,14923,0,Rachel,Yeah! Closure. That's what it is, that's what I need. God, you're brilliant! Why didn't I think of that? How do I get that?
+14923,14970,0,UNKNOWN,
+14991,15258,0,Michael,Well, you know, there's no one way really, it's just, you know, whatever it takes so that you can finally say to him, "I'm over you."
+15261,15306,1,Rachel,Closure, that's what it is. Closure.
+15332,15498,0,Rachel,Hello, excuse me.
+15522,15534,1,UNKNOWN,
+15534,15546,0,Rachel,Hello, excuse me.
+15548,15571,0,Guy,What.
+15571,15670,0,Rachel,Hi, I'm sorry, I need to borrow your phone for just one minute.
+15711,15737,0,Guy,I'm talkin'!
+15738,15973,1,Rachel,I can see that. I... just one phone call, I'll be very quick, I'll even pay for it myself.  OK, you're bein' a little weird about your phone.
+16022,16072,0,Guy,Alright, fine.
+16121,16469,1,Rachel,Thank you. OK.  Machine. Just waiting for the beep.
+16469,16504,0,Michael,Good.
+16529,16603,0,UNKNOWN,
+16622,16724,0,UNKNOWN,
+16724,16770,0,UNKNOWN,
+16790,16838,0,UNKNOWN,
+16841,16889,0,UNKNOWN,
+16889,16938,0,UNKNOWN,
+17009,17153,0,UNKNOWN,
+17155,17227,0,UNKNOWN,
+17246,17306,0,UNKNOWN,
+17306,17365,1,UNKNOWN,
+17678,17873,1,Chandler,No, no, no, no, no, no  No. Monica, it's Sunday morning. I'm not running on a Sunday.
+17874,17908,0,Monica,Why not?
+17908,17993,0,Chandler,Because it's Sunday. It's God's day.
+18039,18113,1,Monica,OK, if you say stop, then we stop.
+18133,18156,1,Chandler,OK, stop.
+18158,18349,0,Monica,No, c'mon, we can't stop, c'mon, we've got three more pounds to go. I am the energy train and you are on board. Woo-woo, woo-woo, woo-woo  Woo.
+18710,18736,0,Ross,Hey Rach.
+18805,18853,0,Ross,Oh. And how was the date?
+18856,18997,0,Rachel,Umm, I think there was a restaurant... I know there was wine. . .
+19023,19258,0,Ross,Wow, well uh, uh, actually, Julie's downstairs getting a cab, I just need the cat toy, did Monica say. . . What? Why, why are you looking at me like that?
+19263,19453,0,Rachel,I don't know, I, I feel like I had a dream about you last night but I, I don't remember.
+19474,19504,0,Ross,OK. Oh, oh, oh.
+19546,19594,0,UNKNOWN,
+19599,19648,0,Rachel,Did we speak on the phone last night? Did you call me?
+19667,19743,0,Ross,No, I stayed at Julie's last night.
+19765,19859,0,Ross,Oh, actually I haven't even been home yet. Do you mind if I check my messages?
+19861,19907,0,Rachel,Oh yeah, go ahead.
+20002,20194,0,Ross,Rach, I got a message from you.  Who's Michael?
+20194,20388,0,Rachel,Oh my God. Oh my God Ross, no, hang up the phone, give me the phone Ross, give me the phone, give me the phone, give me the. . .
+20532,20579,0,Ross,You're over me?
+20582,20629,0,Rachel,Ohhhhhhhh God.
+20649,20673,0,Ross,Wha... you're uh, you're, you're over me?
+20673,20696,0,UNKNOWN,
+20699,20746,0,Ross,Wha... you're uh, you're, you're over me?
+20844,21250,1,Ross,When, when were you... under me? Rach. Rachel do you, I mean, were you, uh. . . What?
+21250,21517,0,Rachel,Ohh, OK, OK, OK, well, basically, lately, I've uh, I've uh, sort of had feelings for you.
+21610,21682,0,Ross,You've had feelings for me?
+21684,21757,0,Rachel,Yeah, what, so? You had feelings for me first.
+21829,21944,0,Ross,Woah. Huh. You know about my, I mean, you know I had... you know?
+21974,22021,0,Rachel,Chandler told me.
+22021,22068,1,Ross,Chandler. When did he... when did he... when did he?
+22138,22185,0,Rachel,When you were in China.
+22186,22234,0,Rachel,Meeting Julie.
+22234,22741,1,Ross,Julie. Julie. That. Oh God. Julie, right. OK, I need to lie down. No, ya know, I'm gonna stand. I'm gonna stand, I'm gonna walk, I'm walkin' and I am standing. OK so you uh, and now wha... and now, now, now you're over me?
+22786,22856,0,Rachel,Are you over me?
+23049,23118,0,UNKNOWN,
+23166,23192,0,Ross,Hi Julie.
+23192,23218,0,Julie,Hi honey, I've got a cab waiting.
+23221,23288,0,Ross,I'll be right down.
+23363,23408,0,Rachel,Wait, so, you're going?
+23410,23669,0,Ross,Well, OK, I uh, I have to. I can't deal with this right now. I mean, I've uh, y'know, I've got a cab, I've got a girlfriend, I'm... I'm gonna go get a cat.
+23746,23771,0,Ross,Cat.
+24178,24202,1,Phoebe,Hey Joey.
+24202,24226,0,Joey,Hey Phoebs.
+24272,24368,0,Phoebe,How come you're watching a rabbi play electric guitar?
+24390,24537,1,Joey,I can't find the remote.  Thank you.
+24581,24657,0,Phoebe,So, Scott asked me to come over for lunch today and I did.
+24676,24705,0,Phoebe,And we did.
+24724,24761,0,Joey,All right Phoebs, way to go.
+24761,24798,0,Phoebe,Yay me.
+24803,24868,0,Joey,So, so how did it happen?
+24870,24941,0,Phoebe,Well, I finally took your advice and asked him what was going on.
+24942,24967,0,Joey,And what did he say?
+24969,25401,0,Phoebe,He said that, um, he understands how sex can be like, a very emotional thing for a woman and he was just afraid that I was gonna get all, y'know, like, 'ohh, is he gonna call me the next day' and, y'know, 'where is this going' and, ya know, blah-la-la-la-la. So he said he wanted to hold off until he was prepared to be really serious.
+25420,25432,0,Joey,Wow.
+25432,25953,0,Phoebe,Yeah, so I said, "OK, relax please," y'know, I mean, sex can be just about two people right there in the moment, y'know, it's, if he wants to see me again he can call and if not, that's fine too. So after a looooot of talking. . . I convinced him.
+26045,26354,0,Joey,Let me get this straight. He got you to beg to sleep with him, he got you to say he never has to call you again, and he got you thinking this was a great idea.
+26451,26501,0,Joey,This man is my God.
+26671,26718,0,UNKNOWN,
+26720,26791,0,UNKNOWN,
+26792,26840,0,UNKNOWN,
+26840,26888,0,UNKNOWN,
+26911,26934,1,UNKNOWN,
+26934,26957,0,UNKNOWN,
+26958,27029,0,UNKNOWN,
+27053,27103,0,UNKNOWN,
+27104,27163,0,UNKNOWN,
+27163,27221,0,UNKNOWN,
+27266,27317,0,UNKNOWN,
+27319,27376,0,UNKNOWN,
+27376,27433,1,UNKNOWN,
+27484,27553,0,UNKNOWN,
+27554,27601,0,UNKNOWN,
+27601,27648,1,UNKNOWN,
+27651,27675,0,UNKNOWN,
+27678,27713,0,UNKNOWN,
+27713,27817,0,UNKNOWN,
+27819,27844,0,UNKNOWN,
+27846,27913,0,UNKNOWN,
+27915,27964,0,UNKNOWN,
+28014,28061,0,UNKNOWN,
+28062,28129,0,UNKNOWN,
+28130,28324,0,UNKNOWN,
+28394,28468,0,UNKNOWN,
+28490,28527,0,UNKNOWN,
+28527,28564,0,UNKNOWN,
+28566,28657,0,UNKNOWN,
+28684,28730,0,UNKNOWN,
+28730,28777,0,UNKNOWN,
+28873,28904,0,UNKNOWN,
+29113,29150,0,Rachel,Hi.
+29150,29188,0,Ross,I didn't get a cat.
+29214,29286,0,Rachel,Oh, that's um, interesting.
+29305,29473,0,Ross,No, no it's not interesting. OK, it's very, very not interesting. In fact it's actually 100 percent completely opposite of interesting.
+29475,29501,0,Rachel,Alright, I got it Ross.
+29502,29597,0,Ross,You had no right to tell me you ever had feelings for me.
+29598,29668,0,Ross,I was doing great with Julie before I found out about you.
+29670,29785,0,Rachel,Hey, I was doin' great before I found out about you. You think it's easy for me to see you with Julie?
+29787,29835,0,Ross,Then you should have said something before I met her.
+29838,29912,0,Rachel,I didn't know then. And how come you never said anything to me.
+29930,29958,0,Ross,There was never a good time.
+29977,30051,0,Rachel,Right, you, you only had a year. We only hung out every night.
+30054,30434,0,Ross,Not, not, not every night. You know, and... and it's not like I didn't try, Rachel, but things got in the way, y'know? Like, like Italian guys or ex-fiances or, or, or Italian guys.
+30482,30575,0,Rachel,Hey, there was one Italian guy, OK, and do you even have a point?
+30576,30768,0,Ross,The point is I... I don't need this right now, OK. It, it's too late, I'm with somebody else, I'm happy. This ship has sailed.
+30770,30842,0,Rachel,Yeah, what're you saying, you just sort of put away feelings or whatever the hell it was you felt for me?
+30844,30914,0,Ross,Hey, I've been doin' it since the ninth grade, I've gotten pretty damn good at it.
+30914,30983,0,Rachel,Alright, fine, you go ahead and you do that, alright Ross.
+30984,31010,0,Rachel,'Cause I don't need your stupid ship.
+31010,31036,0,Ross,Good.
+31080,31152,0,Rachel,And ya know what, now I've got closure.
+32405,32449,1,Ross,Try the bottom one.
+33116,33261,0,Chandler,Monica, it's 6 30 in the morning. We're not working out, it's over.
+33266,33429,0,Monica,No way, with one pound to go, c'mon. We're workin', we're movin', we're in the zone we're groovin'.
+33454,33668,0,Chandler,OK, I don't, I don't mind the last pound. OK, in fact I kind of like the last pound. OK, so don't make me do anything that I'll regret.
+33675,33792,0,Monica,Ooh, what'cha gonna do, fat boy, huh? What?
+33841,33956,0,Chandler,Nothing, except tell you, uh, I think it's wonderful how much energy you have.
+33959,34004,0,Monica,Well, thanks.
+34006,34081,0,Chandler,I mean, especially considering how tough it's been for you to find work.
+34103,34150,0,Monica,Well, you know.
+34196,34319,0,Chandler,You know, I mean, you can't tell your parents you were fired because they'd be disappointed.
+34369,34486,0,Chandler,And it's not as if you have a boyfriend's shoulder to cry on.
+34509,34535,0,Monica,Well no, but um.
+34555,34675,0,Chandler,I mean, if it were me, I think I'd have difficulty just getting out of bed at all.
+34794,34847,0,Monica,Y'know, I try to stay positive. . .
+34867,34988,0,Chandler,So, you feel like goin' for a run?
+35038,35082,0,Monica,Alright.
+35083,35205,0,Chandler,Because, you know, you don't have to. If you want, you could just take a nap right here.
+35231,35336,0,Monica,OK. Just for a little while.
+35336,35371,1,Chandler,OK.

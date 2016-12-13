@@ -1,0 +1,420 @@
+Frame_Start Frame_End Laugh Speaker Dialogue
+102,200,0,JOEY,Man this is weird. You ever realize Captain Crunch's eyebrows are actually on his hat?
+202,345,1,CHANDLER,That's what's weird? Joey, the man's been captain of a cereal for the last 40 years.
+416,439,0,JOEY,What?
+441,629,1,CHANDLER,The spoon. You licked and-and you put. You licked and you put.
+631,657,0,JOEY,Yeah, so.
+658,777,1,CHANDLER,Well don't you see how gross that is? I mean that's like you using my toothbrush.  You used my toothbrush?
+778,847,0,UNKNOWN,
+869,964,0,JOEY,Well, that was only 'cause I used the red one to unclog the drain.
+969,1159,1,CHANDLER,Mine is the red one! Oh God. Can open, worms everywhere.
+1181,1280,0,JOEY,Hey, why can't we use the same toothbrush, but we can use the same soap?
+1282,1376,0,CHANDLER,Because soap is soap. It's self-cleaning.
+1400,1564,1,JOEY,Alright, well next time you take a shower, think about the last thing I wash and the first thing you wash.
+2766,2863,1,JOEY,Hey.
+2865,2909,0,PHOEBE,Ooh, look at you fancy lads. What's the occasion?
+2909,2953,0,UNKNOWN,
+2957,3006,1,UNKNOWN,
+3029,3063,0,PHOEBE,Ahh.
+3063,3097,0,RACHEL,OK, ready when you are.
+3100,3169,0,PHOEBE,Okey-doke.
+3170,3217,0,MONICA,I can't believe you guys are actually getting tattoos.
+3220,3294,0,CHANDLER,Excuse me, you guys are getting tattoos?
+3313,3366,0,RACHEL,Yes, but you can not tell Ross 'cause I want to surprise him.
+3388,3438,0,UNKNOWN,
+3458,3530,1,UNKNOWN,
+3535,3592,0,UNKNOWN,
+3592,3649,0,UNKNOWN,
+3673,3699,0,UNKNOWN,
+3699,3724,0,UNKNOWN,
+3726,3762,0,UNKNOWN,
+3762,3798,0,UNKNOWN,
+3817,3865,0,UNKNOWN,
+3895,3966,1,UNKNOWN,
+3988,4024,0,UNKNOWN,
+4024,4059,0,UNKNOWN,
+4062,4134,0,UNKNOWN,
+4158,4206,0,UNKNOWN,
+4206,4255,0,UNKNOWN,
+4273,4309,0,UNKNOWN,
+4309,4344,0,UNKNOWN,
+4346,4396,0,UNKNOWN,
+4397,4444,0,UNKNOWN,
+4444,4490,1,UNKNOWN,
+4517,4584,0,UNKNOWN,
+4586,4622,0,UNKNOWN,
+4622,4659,0,UNKNOWN,
+4661,4707,0,UNKNOWN,
+4707,4754,0,UNKNOWN,
+4757,4794,0,UNKNOWN,
+4794,4831,0,UNKNOWN,
+4849,4898,0,UNKNOWN,
+4898,4948,1,UNKNOWN,
+4969,5019,0,UNKNOWN,
+5021,5066,0,UNKNOWN,
+5066,5112,0,UNKNOWN,
+5114,5139,0,UNKNOWN,
+5139,5164,0,UNKNOWN,
+5165,5212,0,UNKNOWN,
+5212,5258,0,and Richard was 30, Dad said,
+5259,5311,0,UNKNOWN,
+5427,5451,1,UNKNOWN,
+5451,5475,0,UNKNOWN,
+5477,5520,0,UNKNOWN,
+5597,5632,0,UNKNOWN,
+5632,5666,0,UNKNOWN,
+5787,5835,1,UNKNOWN,
+6077,6136,0,UNKNOWN,
+6136,6195,1,UNKNOWN,
+6219,6264,0,UNKNOWN,
+6264,6310,0,UNKNOWN,
+6311,6349,0,UNKNOWN,
+6349,6388,1,UNKNOWN,
+6406,6430,0,UNKNOWN,
+6430,6454,0,UNKNOWN,
+6455,6484,0,UNKNOWN,
+6502,6539,0,UNKNOWN,
+6539,6576,0,UNKNOWN,
+6577,6614,0,UNKNOWN,
+6614,6652,0,UNKNOWN,
+6670,6719,0,UNKNOWN,
+6719,6768,1,UNKNOWN,
+6815,6840,0,UNKNOWN,
+6843,6915,0,UNKNOWN,
+6916,6951,0,UNKNOWN,
+6951,6987,0,UNKNOWN,
+6988,7011,0,UNKNOWN,
+7030,7056,0,UNKNOWN,
+7056,7083,0,UNKNOWN,
+7084,7141,0,UNKNOWN,
+7141,7199,1,UNKNOWN,
+7223,7271,0,UNKNOWN,
+7273,7341,0,UNKNOWN,
+7343,7415,0,UNKNOWN,
+7415,7487,1,UNKNOWN,
+7561,7621,0,UNKNOWN,
+7621,7680,0,UNKNOWN,
+7681,7742,0,UNKNOWN,
+7742,7802,0,UNKNOWN,
+7821,7849,0,UNKNOWN,
+7850,7898,0,UNKNOWN,
+7898,7946,0,UNKNOWN,
+7965,8012,0,UNKNOWN,
+8013,8061,0,UNKNOWN,
+8061,8108,1,UNKNOWN,
+8281,8327,0,UNKNOWN,
+8327,8372,0,UNKNOWN,
+8375,8411,0,UNKNOWN,
+8411,8447,0,UNKNOWN,
+8449,8521,0,UNKNOWN,
+8541,8613,1,UNKNOWN,
+8615,8661,0,UNKNOWN,
+8686,8735,0,UNKNOWN,
+8735,8783,0,UNKNOWN,
+8785,8831,0,UNKNOWN,
+8831,8877,0,UNKNOWN,
+8899,8935,0,UNKNOWN,
+8935,8971,0,UNKNOWN,
+8973,9033,0,UNKNOWN,
+9033,9093,0,UNKNOWN,
+9118,9153,0,UNKNOWN,
+9153,9188,0,UNKNOWN,
+9189,9227,0,UNKNOWN,
+9227,9264,0,UNKNOWN,
+9308,9333,1,UNKNOWN,
+9333,9358,0,UNKNOWN,
+9360,9407,0,UNKNOWN,
+9410,9456,0,UNKNOWN,
+9456,9501,0,UNKNOWN,
+9502,9550,0,UNKNOWN,
+9552,9588,0,UNKNOWN,
+9588,9623,0,UNKNOWN,
+9625,9658,0,UNKNOWN,
+9658,9692,0,UNKNOWN,
+9693,9755,0,UNKNOWN,
+9755,9816,1,UNKNOWN,
+9836,9873,0,UNKNOWN,
+9873,9910,0,UNKNOWN,
+9912,9958,0,UNKNOWN,
+9958,10004,0,UNKNOWN,
+10005,10032,0,UNKNOWN,
+10032,10058,1,UNKNOWN,
+10074,10121,0,UNKNOWN,
+10124,10161,0,UNKNOWN,
+10161,10198,0,UNKNOWN,
+10366,10425,0,UNKNOWN,
+10425,10484,0,UNKNOWN,
+10505,10530,0,UNKNOWN,
+10530,10555,1,UNKNOWN,
+10557,10618,0,UNKNOWN,
+10618,10680,0,UNKNOWN,
+10700,10748,1,UNKNOWN,
+10775,10845,0,UNKNOWN,
+10845,10916,1,UNKNOWN,
+10917,10964,0,UNKNOWN,
+10986,11033,0,UNKNOWN,
+11057,11106,0,UNKNOWN,
+11106,11156,0,UNKNOWN,
+11159,11194,0,UNKNOWN,
+11194,11228,0,UNKNOWN,
+11230,11289,0,UNKNOWN,
+11289,11348,1,UNKNOWN,
+11350,11417,0,UNKNOWN,
+11421,11465,0,UNKNOWN,
+11470,11560,1,UNKNOWN,
+11563,11600,0,UNKNOWN,
+11600,11636,0,UNKNOWN,
+11656,11704,0,UNKNOWN,
+11704,11751,1,UNKNOWN,
+11824,11862,0,UNKNOWN,
+11862,11900,0,UNKNOWN,
+11901,11958,0,UNKNOWN,
+11958,12016,0,UNKNOWN,
+12021,12056,0,UNKNOWN,
+12056,12091,0,UNKNOWN,
+12136,12162,1,UNKNOWN,
+12184,12237,0,UNKNOWN,
+12256,12317,0,UNKNOWN,
+12317,12378,1,UNKNOWN,
+12450,12497,0,UNKNOWN,
+12497,12544,1,UNKNOWN,
+12664,12688,0,UNKNOWN,
+12690,12740,0,UNKNOWN,
+12760,12813,0,UNKNOWN,
+12880,12909,1,UNKNOWN,
+12928,12999,0,UNKNOWN,
+13001,13070,0,UNKNOWN,
+13073,13108,0,UNKNOWN,
+13108,13144,0,UNKNOWN,
+13145,13191,0,UNKNOWN,
+13217,13287,1,UNKNOWN,
+13313,13347,0,UNKNOWN,
+13347,13382,0,UNKNOWN,
+13385,13435,0,UNKNOWN,
+13436,13493,0,UNKNOWN,
+13493,13550,0,UNKNOWN,
+13646,13683,0,UNKNOWN,
+13683,13720,0,UNKNOWN,
+13793,13843,1,UNKNOWN,
+13843,13893,0,UNKNOWN,
+13985,14044,1,UNKNOWN,
+14044,14104,0,UNKNOWN,
+14105,14150,0,UNKNOWN,
+14153,14200,0,UNKNOWN,
+14200,14246,0,UNKNOWN,
+14249,14298,0,UNKNOWN,
+14298,14347,1,UNKNOWN,
+14366,14403,0,UNKNOWN,
+14403,14440,0,UNKNOWN,
+14441,14488,0,UNKNOWN,
+14488,14535,0,UNKNOWN,
+14537,14606,0,UNKNOWN,
+14609,14643,0,UNKNOWN,
+14643,14678,0,UNKNOWN,
+14679,14729,0,UNKNOWN,
+14729,14779,0,UNKNOWN,
+14781,14846,0,UNKNOWN,
+14849,14896,0,UNKNOWN,
+14896,14944,1,UNKNOWN,
+15017,15062,0,UNKNOWN,
+15063,15110,0,UNKNOWN,
+15115,15187,0,UNKNOWN,
+15281,15330,0,UNKNOWN,
+15330,15379,0,UNKNOWN,
+15381,15440,0,UNKNOWN,
+15440,15499,1,UNKNOWN,
+15501,15559,0,UNKNOWN,
+15559,15617,0,UNKNOWN,
+15619,15664,0,UNKNOWN,
+15664,15710,1,UNKNOWN,
+15763,15821,0,UNKNOWN,
+15821,15880,0,UNKNOWN,
+15881,15904,0,UNKNOWN,
+15904,15927,0,UNKNOWN,
+15928,15976,0,UNKNOWN,
+15976,16085,0,UNKNOWN,
+16085,16144,0,UNKNOWN,
+16145,16204,0,UNKNOWN,
+16204,16264,0,UNKNOWN,
+16265,16323,0,UNKNOWN,
+16323,16380,1,UNKNOWN,
+16383,16443,0,UNKNOWN,
+16443,16503,0,UNKNOWN,
+16504,16554,0,UNKNOWN,
+16599,16648,1,UNKNOWN,
+16648,16697,0,UNKNOWN,
+16719,16743,0,UNKNOWN,
+16745,16804,0,UNKNOWN,
+16804,16863,0,UNKNOWN,
+16864,16888,0,UNKNOWN,
+16888,16913,0,UNKNOWN,
+16933,16946,0,UNKNOWN,
+16946,16959,0,UNKNOWN,
+16961,17033,0,UNKNOWN,
+17033,17105,0,UNKNOWN,
+17127,17196,1,UNKNOWN,
+17221,17272,1,UNKNOWN,
+17512,17557,1,UNKNOWN,
+17558,17607,0,UNKNOWN,
+17607,17655,0,UNKNOWN,
+17675,17728,1,UNKNOWN,
+17867,17891,0,UNKNOWN,
+17891,17915,0,MONICA,Hey there.
+17921,18015,0,RICHARD,What?
+18041,18083,0,MONICA,Nothing, I just heard something nice about you.
+18085,18171,0,RICHARD,Humm, really?
+18171,18230,0,MRS. GELLER,Richard. Richard. Your son isn't seeing anyone is he?
+18232,18351,1,RICHARD,Uhh, not that I know of.
+18401,18448,0,MRS. GELLER,Well, I was thinking, why doesn't he give Monica a call?
+18450,18539,0,RICHARD,That - that's an idea.
+18541,18565,0,MONICA,Well, actually, I'm already seeing someone.
+18662,18777,1,ROSS,Ohh.
+18778,18934,0,MRS. GELLER,She never tells us anything. Ross, did you know Monica's seeing someone?
+18934,18994,1,UNKNOWN,
+19045,19092,0,ROSS,Mom, there are so many people in my life. Some of them are seeing people and some of them aren't. Is that crystal?
+19113,19163,0,MRS. GELLER,So, who's the mystery man?
+19166,19209,0,MONICA,Well, uh, he's a doctor.
+19212,19377,1,MRS. GELLER,A real doctor?
+19401,19428,0,UNKNOWN,
+19428,19454,0,UNKNOWN,
+19473,19504,0,MONICA,No, a doctor of meat. Of course he's a real doctor. And he's handsome, and he's sweet, and know you'd like him.
+19665,19713,1,MRS. GELLER,Well that's wonderful. . . I
+19716,19742,0,MONICA,Mom, it's OK.
+19742,19929,1,RICHARD,It is Judy.
+19937,19982,0,MRS. GELLER,Jack. Could you come in here for a moment? NOW!
+19982,20028,1,MR. GELLER,Found it.
+20098,20196,0,ROSS,I'll take that dad.
+20218,20312,1,MRS. GELLER,It seems your daughter and Richard are something of an item.
+20317,20360,0,MR. GELLER,That's impossible, he's got a twinkie in the city.
+20365,20390,0,MONICA,Dad, I'm the twinkie.
+20390,20415,0,MR. GELLER,You're the twinkie?
+20435,20508,0,RICHARD,She's not a twinkie.
+20509,20576,0,MONICA,Al-alright, l-look you guys, this is the best relationship I've been in. . .
+20578,20672,0,MRS. GELLER,Oh please, a relationship.
+20675,20711,0,MONICA,Yes, a relationship. For your information I am crazy about this man.
+20711,20747,0,RICHARD,Really?
+20749,20845,0,MONICA,Yes.
+20864,20962,0,MR. GELLER,Am I supposed to stand here and listen to this on my birthday?
+20963,20987,0,MONICA,Dad, dad this is a good thing for me. Ya know, and you even said yourself, you've never seen Richard happier.
+20989,21087,1,MR. GELLER,When did I say that?
+21514,21587,0,UNKNOWN,
+21588,21633,0,UNKNOWN,
+21633,21678,0,UNKNOWN,
+21681,21731,0,UNKNOWN,
+21801,21849,1,UNKNOWN,
+21873,21921,0,UNKNOWN,
+21921,21969,0,UNKNOWN,
+21997,22040,0,UNKNOWN,
+22065,22126,1,UNKNOWN,
+22126,22187,0,UNKNOWN,
+22254,22280,0,UNKNOWN,
+22280,22305,0,UNKNOWN,
+22309,22343,0,UNKNOWN,
+22343,22377,0,UNKNOWN,
+22379,22414,0,UNKNOWN,
+22414,22448,0,UNKNOWN,
+22449,22497,0,UNKNOWN,
+22497,22545,0,UNKNOWN,
+22547,22592,0,UNKNOWN,
+22592,22638,1,UNKNOWN,
+22639,22686,0,UNKNOWN,
+22687,22763,1,UNKNOWN,
+22785,22822,0,UNKNOWN,
+22822,22859,0,UNKNOWN,
+22860,22951,0,UNKNOWN,
+22953,22998,1,UNKNOWN,
+23021,23059,0,UNKNOWN,
+23059,23097,0,UNKNOWN,
+23217,23261,0,UNKNOWN,
+23263,23298,0,UNKNOWN,
+23298,23455,1,JOEY,I know. Yeah.
+23456,23506,0,CHANDLER,Yeah. So do we need to hug here or. . .
+23549,23596,1,JOEY,No, we're alright.
+23621,23743,0,CHANDLER,So I got ya something.
+23743,23788,1,JOEY,Plastic spoons. Great.
+23792,23890,0,CHANDLER,Lick away my man.
+23909,23935,0,JOEY,These'll go great in my new place. You know, 'till I get real ones.
+23937,24033,1,CHANDLER,What?
+24053,24125,0,JOEY,Well, I can't use these forever. I mean, let's face it, they're no friend to the environment.
+24130,24189,0,CHANDLER,No-no, I mean what, what's this about your new place?
+24189,24248,1,JOEY,I'm movin' out like we talked about.
+24274,24344,0,UNKNOWN,
+24345,24507,0,CHANDLER,Well I didn't think that was serious.  Ya know I thought that was just a fight.
+24509,24547,0,UNKNOWN,
+24547,24632,0,UNKNOWN,
+24724,24774,1,JOEY,Well, it was a fight. . . based on serious stuff, remember. About how I never lived alone or anything. I just think it would be good for me, ya know, help me to grow or. . . whatever.
+24800,24896,0,CHANDLER,Well, there you go.
+24915,25109,1,JOEY,Hey, are you cool with this. I mean, I don't want to leave you high and dry.
+25112,25180,0,UNKNOWN,
+25208,25276,0,CHANDLER,Hey, no, I've never been lower or wetter. I'll be fine. I'll just turn your, uh, bedroom into a game room or somethin', you know, put the foosball table in there.
+25326,25378,0,JOEY,Woah. Why do you get to keep the table?
+25448,25508,0,CHANDLER,I did pay for half of it.
+25508,25568,0,JOEY,Yeah. And uh, I paid for the other half.
+25587,25709,0,CHANDLER,Alright I'll tell you what, I'll play you for it.
+25714,25808,1,JOEY,Alright, you're on. I can take two minutes out of my day to kick your ass.
+25977,26020,0,CHANDLER,Your little men are gonna get scored on more times than your sister.
+26095,26163,1,UNKNOWN,
+26165,26263,0,MONICA,So, are you sorry that I told them?
+26359,26383,1,RACHEL,Oh.
+26383,26407,0,MONICA,Oh. Well did you get it? Let me see.
+26425,26462,0,RACHEL,Is Ross here?
+26462,26498,0,MONICA,No he went out to get pizza.
+26525,26559,0,RACHEL,Oh really, OK.
+26559,26593,0,MONICA,That's great.
+26617,26641,0,RICHARD,Very tasteful.
+26641,26665,0,PHOEBE,Wanna see mine, wanna see mine?
+26666,26713,0,MONICA,Yes.
+26716,26787,0,RACHEL,What? You didn't get one.
+26833,26935,1,PHOEBE,OK, well then what is this?
+26959,27002,0,RICHARD,What're we looking at? That blue freckle?
+27004,27073,0,PHOEBE,OK, that's my tattoo.
+27077,27112,0,UNKNOWN,
+27112,27217,0,UNKNOWN,
+27218,27265,1,UNKNOWN,
+27295,27471,0,RACHEL,That is not a tattoo, that is a nothing. I finally got her back in the chair, bairly touched her with a needle, she jumped up screaming, and that was it.
+27471,27532,1,UNKNOWN,
+27552,27590,0,UNKNOWN,
+27590,27628,0,UNKNOWN,
+27629,27771,1,PHOEBE,OK, hi. For your information this is exactly what I wanted. This is a tattoo of the earth as seen from a great distance. It's the way my mother sees me from heaven.
+27773,27832,0,UNKNOWN,
+27832,27891,1,UNKNOWN,
+27917,27986,0,UNKNOWN,
+27986,28056,1,UNKNOWN,
+28128,28156,0,RACHEL,Oh, what a load of crap. That is a dot. Your mother is up in heaven going, 'Where the hell is my lily, you wuss?' OK, Phoebe, that is not a tattoo, this is a tattoo.
+28200,28288,0,ROSS,You got a tattoo?
+28288,28324,1,UNKNOWN,
+28370,28419,0,RACHEL,Maybe. But just a little one. Phoebe got the whole world.
+28490,28517,0,ROSS,Lemme see.
+28536,28756,0,RACHEL,Well?
+28826,28862,1,ROSS,Well it's really. . . sexy. I wouldn't have thought it would be but. . . wow.
+28862,28972,0,RACHEL,Really?
+29043,29088,1,ROSS,Yeah, so uh, is it sore or can you do stuff?
+29090,29141,0,RACHEL,I guess.
+29282,29335,1,UNKNOWN,
+29357,29380,0,UNKNOWN,
+29402,29450,1,JOEY,Get out of the corner. Pass it, pass it.
+29501,29571,0,CHANDLER,Stop talkin' to your men.
+29645,29712,0,JOEY,Yes! And the table is mine.
+30000,30050,1,UNKNOWN,
+30053,30168,0,JOEY,Hey, you guys are still gonna come visit me, right?
+30171,30219,0,UNKNOWN,
+30336,30430,0,CHANDLER,Oh yeah, you got the big TV. We'll be over there all the time. . .  except when we are here.
+30432,30483,0,PHOEBE,I know you're just moving uptown but I'm really gonna miss you.
+30502,30598,0,MONICA,I know, how can you not be accross the hall anymore.
+30600,30651,0,UNKNOWN,
+30696,30744,0,UNKNOWN,
+30744,30841,0,RACHEL,Yeah, who's gonna eat all our food, and tie up our phone lines, and - is that my bra? What the hell you doin' with my bra?
+30841,30889,0,UNKNOWN,
+30891,30948,0,UNKNOWN,
+30948,31006,0,UNKNOWN,
+31007,31055,0,JOEY,Oh no-no, it's uh, it's not what you think. We uh, we used it to, you know, fling water balloons off the roof. Remember that, those junior high kids couldn't even get theirs accross the street.
+31102,31179,0,CHANDLER,Yeah, I remember.
+31464,31583,0,ROSS,Hey, let's bring the rest of these down to the truck.
+31608,31676,0,CHANDLER,So, uhh, em, you want me to uh, give you a hand with the foosball table?
+31728,31775,0,JOEY,Naa, you keep it, you need the practice.
+31777,31849,0,CHANDLER,Thanks.
+31871,31946,0,JOEY,So, I guess this is it.
+31994,32089,0,CHANDLER,Yeah, right, yeah, I guess so.
+32090,32156,0,JOEY,Listen, uh, I don't know when I'm gonna see you again.
+32159,32267,0,CHANDLER,Well, I'm guessing uh, tonight at the coffee house.
+32267,32301,1,JOEY,Right, yeah. OK. Um, take care.

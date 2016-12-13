@@ -1,0 +1,289 @@
+Frame_Start Frame_End Laugh Speaker Dialogue
+33,226,0,Rachel,Everybody? Shh, shhh. Uhhh... Central Perk is proud to present the music of Miss Phoebe Buffay.
+296,706,1,Phoebe,Hi. Um, I want to start with a song thats about that moment when you suddenly realize what life is all about. OK, here we go.  OK, thank you very much.
+1017,1067,0,Chandler,Oh, great. This is just...
+2428,2505,1,Rachel,Wow, this is so cool, you guys. The entire city is blacked out!
+2525,2644,0,Monica,Mom says it's all of Manhattan, parts of Brooklyn and Queens, and they have no idea when it's coming back on.
+2646,2695,0,Rachel,Wow, you guys, this is big.
+2695,2743,0,UNKNOWN,
+2764,2813,0,UNKNOWN,
+2838,2874,0,UNKNOWN,
+2874,2910,0,UNKNOWN,
+2930,2969,0,UNKNOWN,
+2969,3146,0,Phoebe,Can I borrow the phone? I want to call my apartment and check on my grandma.  What's my number?
+3176,3223,0,Phoebe,Well, I never call me.
+3269,3391,0,Chandler,_Oh my God, it's that Victoria's Secret model. Something... something Goodacre.
+3410,3437,0,_Jill,Hi Mom, it's Jill.
+3438,3845,0,Chandler,_She's right, it's Jill. Jill Goodacre. Oh my God. I am trapped in an ATM vestibule with Jill Goodacre! __ Is it a vestibule? Maybe it's an atrium. Oh, yeah, that is the part to focus on, you idiot!_
+3870,3965,0,Jill,Yeah, I'm fine. I'm just stuck at the bank, in an ATM vestibule.
+3967,4064,0,Chandler,_Jill says vestibule... I'm going with vestibule._
+4106,4229,0,Jill,I'm fine. No, I'm not alone... I don't know, some guy.
+4231,4469,0,Chandler,_Oh! Some guy. Some guy. 'Hey Jill, I saw you with some guy last night. Yes, he was some guy. _
+4686,4731,0,Joey,Hi everyone.
+4897,4992,0,Ross,And officiating at tonight's blackout, is Rabbi Tribbiani.
+5066,5209,0,Joey,Well, Chandler's old roomate was Jewish, and these are the only candles we have, so... Happy Chanukah, everyone.
+5259,5333,0,Phoebe,Eww, look. Ugly Naked Guy lit a bunch of candles.
+5521,5569,0,Rachel,That had to hurt!
+5596,5831,0,Chandler,_Alright, alright, alright. It's been fourteen and a half minutes and you still have not said one word. Oh God, do something. Just make contact, smile!_
+5927,5953,0,Chandler,_There you go!_
+6050,6097,0,Chandler,_You're definitely scaring here._
+6192,6263,0,UNKNOWN,
+6269,6314,0,UNKNOWN,
+6316,6362,0,UNKNOWN,
+6407,6444,0,UNKNOWN,
+6444,6481,0,UNKNOWN,
+6485,6542,0,UNKNOWN,
+6542,6599,0,UNKNOWN,
+6623,6672,0,UNKNOWN,
+6700,6712,0,UNKNOWN,
+6712,6724,0,UNKNOWN,
+6726,6797,0,UNKNOWN,
+6815,6841,0,UNKNOWN,
+6841,6868,0,UNKNOWN,
+6870,6940,0,UNKNOWN,
+6964,7010,0,UNKNOWN,
+7037,7086,0,UNKNOWN,
+7108,7366,0,Chandler,_Yeah, about 300 guys I went to high school with._ Yeah, thanks.
+7462,7475,0,Monica,Hello?
+7475,7488,0,Chandler,Hey, it's me.
+7490,7538,0,Monica,Are you OK?
+7538,7798,0,Chandler,Yeah, I'm fine.  I'm trppd in an ATM vstbl wth Jll Gdcr.
+7822,7858,0,Monica,What?
+7858,8019,0,Chandler,I'm trppd... in an ATM vstbl... wth Jll Gdcr!
+8062,8093,0,Monica,I have no idea what you just said.
+8110,8158,0,Chandler,Put Joey on the phone.
+8233,8257,0,Joey,What's up man?
+8257,8450,0,Chandler,I'm trppd... in an ATM vstbl... wth JLL GDCR.
+8474,8498,0,UNKNOWN,
+8518,8555,0,UNKNOWN,
+8555,8592,0,UNKNOWN,
+8638,8663,0,UNKNOWN,
+8759,8828,0,Chandler,Yeah, like that thought never entered my mind.
+8924,8936,0,UNKNOWN,
+8936,8948,0,Rachel,Alright, somebody.
+8951,9093,0,Monica,OK, I'll go. OK, senior year of college... on a pool table.
+9098,9133,0,UNKNOWN,
+9133,9169,0,Ross,That's my sister.
+9213,9409,0,Joey,OK... my weirdest place would have to be... the women's room on the second floor of the New York CIty public library.
+9428,9481,0,Monica,Oh my God! What were you doing in a library?
+9548,9587,0,Ross,Pheebs, what about you?
+9587,9625,0,Phoebe,Oh... Milwaukee.
+9765,9815,0,UNKNOWN,
+9838,9865,0,Rachel,Um... Ross?
+9932,10007,0,Ross,Disneyland, 1989, 'It's a Small World After All.'
+10058,10080,0,All,No way!
+10099,10367,0,Ross,The ride broke down. So, Carol and I went behind a couple of those mechanical Dutch children... then they fixed the ride, and we were asked never to return to the Magic Kingdom.
+10440,10487,0,UNKNOWN,
+10488,10523,0,Phoebe,Oh, Rachel.
+10523,10558,0,Rachel,Oh come on, I already went.
+10559,10581,0,Monica,You did not go!
+10581,10603,0,UNKNOWN,
+10606,10653,0,All,Come on.
+10655,10891,0,Rachel,Oh, alright. The weirdest place would have to be... ... oh, the foot of the bed.
+10919,10953,0,Ross,Step back.
+10953,10987,0,Joey,We have a winner!
+11202,11251,0,UNKNOWN,
+11251,11299,0,UNKNOWN,
+11306,11349,0,UNKNOWN,
+11373,11422,0,UNKNOWN,
+11422,11471,0,UNKNOWN,
+11494,11681,0,Rachel,I just never had a relationship with that kind of passion, you know, where you have to have somebody right there, in the middle of a theme park.
+11754,11829,0,Ross,Well, it was the only thing to do there that didn't have a line.
+11876,11971,0,Rachel,There, well, see? Barry wouldn't even kiss me on a miniature golf course.
+11974,11985,0,Ross,Come on.
+11985,12067,0,Rachel,No, he said we were holding up the people behind us.
+12091,12139,0,Ross,And you didn't marry him because...?
+12187,12333,0,Rachel,I mean, do you think there are people who go through life never having that kind of...
+12334,12357,0,Ross,Probably. But you know, I'll tell you something. Passion is way overrated.
+12357,12379,0,UNKNOWN,
+12382,12455,0,Ross,Probably. But you know, I'll tell you something. Passion is way overrated.
+12474,12487,0,Rachel,Yeah right.
+12487,13025,0,Ross,It is. Eventually, it kind of... burns out. But hopefully, what you're left with is trust, and security, and... well, in the case of my ex-wife, lesbianism. So, you know, for all of those people who miss out on that passion... thing, there's all that other good stuff.
+13074,13111,0,Rachel,OK.
+13111,13148,0,Ross,But, um... I don't think that's going to be you.
+13172,13218,0,Rachel,You don't.
+13218,13302,0,Ross,Uh-uh. See, I see.... big passion in your future.
+13302,13338,0,Rachel,Really?
+13362,13375,0,Rachel,You do?
+13375,13388,0,Ross,I do.
+13410,13480,0,Rachel,Oh Ross, you're so great.
+13720,13768,0,Joey,It's never gonna happen.
+13936,13960,0,Ross,What?
+13960,13984,0,Joey,You and Rachel.
+14106,14177,0,UNKNOWN,
+14202,14228,0,Ross,Why not?
+14277,14418,0,Joey,Because you waited too long to make your move, and now you're in the friend zone.
+14444,14492,0,Ross,No, no, no. I'm not in the zone.
+14492,14541,0,Joey,Ross, you're mayor of the zone.
+14588,14776,0,Ross,I'm taking my time, alright? I'm laying the groundwork. Yeah. I mean, every day I get just a little bit closer to...
+14778,14945,0,Joey,Priesthood! Look Ross, I'm telling you, she has no idea what you're thinking. If you don't ask her out soon you're going to end up stuck in the zone forever.
+14946,14983,0,UNKNOWN,
+14983,15021,0,UNKNOWN,
+15040,15078,0,UNKNOWN,
+15078,15116,0,UNKNOWN,
+15118,15165,0,UNKNOWN,
+15165,15212,0,UNKNOWN,
+15231,15304,0,UNKNOWN,
+15330,15449,0,Joey,Priesthood! Look Ross, I'm telling you, she has no idea what you're thinking. If you don't ask her out soon you're going to end up stuck in the zone forever.
+15450,15689,0,Ross,I will, I will. See, I'm waiting for the right moment.  What? What, now?
+15689,15949,0,Joey,Yeeeeaaaahhh! What's messing you up? The wine? The candles? The moonlight? You've just got to go up to her and say, 'Rachel, I think that...'
+15998,16013,0,UNKNOWN,
+16013,16121,0,Ross,We're shushing... because... we're trying to hear something. Listen.  Don't you hear that?
+16123,16170,0,UNKNOWN,
+16170,16217,0,Ross,We're shushing... because... we're trying to hear something. Listen.  Don't you hear that?
+16341,16364,0,Ross,See?
+16502,16527,0,Jill,Would you like some gum?
+16527,16552,0,Chandler,Um, is it sugarless?
+16624,16648,0,Jill,Sorry, it's not.
+16648,16963,0,Chandler,Oh, then no thanks. _What the hell was that? Mental note  If Jill Goodacre offers you gum, you take it. If she offers you mangled animal carcass, you take it._
+17011,17101,0,UNKNOWN,
+17104,17179,0,UNKNOWN,
+17200,17270,0,UNKNOWN,
+17273,17369,0,UNKNOWN,
+17604,17617,0,Ross,OK, here goes.
+17617,17631,0,Joey,Are you going to do it?
+17634,17655,0,Ross,I'm going to do it.
+17655,17677,0,Joey,Do you want any help?
+17678,17727,0,Ross,You come out there, you're a dead man.
+17798,17834,0,Joey,Good luck, man.
+17834,17990,0,Ross,Thanks.  OK.
+17990,18015,0,Joey,OK.
+18089,18135,0,Joey,Hey, where are you going?
+18135,18181,0,Joey,You can't go out there.
+18182,18230,0,Monica,Why not?
+18230,18277,0,Joey,Because of... the reason.
+18306,18351,0,Monica,And that would be?
+18351,18396,0,Joey,I, um, can't tell you.
+18398,18446,0,Monica,Joey, what's going on?
+18449,18565,0,Joey,OK, you've got to promise that you'll never, ever tell Ross that I told you.
+18566,18602,0,Monica,About what?
+18602,18637,0,Joey,He's planning your birthday party.
+18684,18721,0,Monica,Oh my God! I love him!
+18721,18757,0,Joey,You'd better act surprised.
+18759,18793,0,Phoebe,About what?
+18793,18826,0,Monica,My surprise party!
+18829,18876,0,Phoebe,What surprise party?
+18876,18923,0,Monica,Oh stop it. Joey already told me.
+18928,18973,0,Phoebe,Well, he didn't tell me.
+18994,19049,0,Joey,Hey, don't look at me. This is Ross's thing.
+19067,19141,0,Phoebe,This is so typical. I'm always the last one to know everything.
+19143,19191,0,Monica,No, you are not. We tell you stuff.
+19192,19429,0,Phoebe,Yuh-huh! I was the last one to know when Chandler got bitten by the peacock at the zoo. I was the last one to know when you had a crush on Joey when he was moving in.  Looks like I was second to last.
+19430,19453,0,UNKNOWN,
+19477,19546,0,Phoebe,Yuh-huh! I was the last one to know when Chandler got bitten by the peacock at the zoo. I was the last one to know when you had a crush on Joey when he was moving in.  Looks like I was second to last.
+19647,19695,0,UNKNOWN,
+19719,19778,0,UNKNOWN,
+19778,19837,0,UNKNOWN,
+19862,19889,0,UNKNOWN,
+19907,19968,0,UNKNOWN,
+19968,20029,0,UNKNOWN,
+20075,20125,0,UNKNOWN,
+20146,20217,0,UNKNOWN,
+20267,20293,0,UNKNOWN,
+20361,20409,0,UNKNOWN,
+20409,20457,0,UNKNOWN,
+20460,20506,0,Rachel,Hmmm... this is so nice.
+20606,20870,0,Ross,OK, I have a question. Well, actually, it's not so much a question as.. more of a general wondering... ment.
+20894,20942,0,Rachel,OK.
+20942,21153,0,Ross,OK. Here goes. For a while now, I've been wanting to, um....
+21179,21228,0,Ross,Yes, yes, that's right...
+21228,21277,0,Rachel,Oh, look at the little cat!
+21299,21324,0,Ross,What?  Ow!
+21370,21775,0,Monica, Joey, and Phoebe,_I'm on top of the world, looking down on creation and the only explanation I can find, is the wonders I've found ever since..._
+22114,22184,0,Monica,This is just Bactine. It won't hurt.
+22232,22269,0,UNKNOWN,
+22269,22306,0,Joey,Sorry, that was wax.
+22357,22448,0,Phoebe,Oh, poor little Tooty is scared to death. We should find his owner.
+22450,22500,0,Ross,Why don't we just put 'poor little Tooty' out in the hall?
+22526,22596,0,Rachel,During a blackout? He'd get trampled!
+22597,22640,0,Ross,Yeah?
+22693,22764,0,UNKNOWN,
+22783,23264,0,Chandler,You know, on second thought, gum would be perfection.  _'Gum would be perfection'? 'Gum would be perfection.' Could have said 'gum would be nice,' or 'I'll have a stick,' but no, no, no, no. For me, gum is perfection. I loathe myself._
+23314,23387,0,Phoebe,Oh no, the Mendels, they hate all living things, right?
+23531,23646,0,Rachel,Oh.  Hi. We just found this cat and we're looking for the owner.
+23648,23698,0,Mr. Heckles,Er, yeah, it's mine.
+23742,23793,0,Phoebe,He seems to hate you. Are you sure?
+23793,23843,0,Mr. Heckles,Yeah, it's my cat. Give me my cat.
+23866,23913,0,Phoebe,Wait a minute. What's his name?
+23913,23960,0,Mr. Heckles,Ehhhh... B-Buttons.
+23987,24034,0,Rachel,Bob Buttons?
+24034,24080,0,Mr. Heckles,Mmm. Bob Buttons. Here, Bob Buttons.
+24128,24178,0,Phoebe,Oooh! You are a very bad man!
+24225,24269,0,Mr. Heckles,You owe me a cat.
+24369,24653,0,Rachel,Here, kitty-kitty. Here kitty-kitty. Where did you go, little kitty-kitty-kitty? Here kitty-kitty-kitty-kitty...
+24772,24800,0,UNKNOWN,
+24800,24827,0,UNKNOWN,
+24846,24873,0,Rachel,Wow.
+25013,25049,0,UNKNOWN,
+25049,25085,0,UNKNOWN,
+25086,25134,0,UNKNOWN,
+25156,25193,0,UNKNOWN,
+25193,25231,0,UNKNOWN,
+25302,25349,0,Ross,Lucky sixes....
+25372,25545,0,Rachel,Everybody, this is Paolo. Paolo, I want you to meet my friends. This is Monica.
+25546,25569,0,Monica,Hi!
+25569,25593,0,Rachel,And Joey....
+25594,25629,0,Monica,Hi!
+25629,25665,0,Rachel,And Ross.
+25684,25709,0,Monica,Hi!
+25876,25922,0,Rachel,He doesn't speak much English.
+25949,25995,0,Paolo,_Monopoly_!
+26024,26068,0,Rachel,Look at that!
+26094,26186,0,Ross,So, um... where did Paolo come from?
+26211,26240,0,Rachel,Oh... Italy, I think.
+26259,26335,0,Ross,No, I mean tonight, in the building. Suddenly. Into our lives.
+26358,26416,0,Rachel,Well, the cat... the cat turned out to be Paolo's cat!
+26416,26475,0,UNKNOWN,
+26504,26597,0,Ross,That, that is funny... .... and Rachel keeps touching him.
+26667,26763,0,Phoebe,Alright. I looked all over the building and I couldn't find the kitty anywhere.
+26765,26816,0,Rachel,Oh, I found him. He was Paolo's cat.
+26840,27026,0,Phoebe,Ah! Well! There you go! Last to know again! And I'm guessing... since nobody told me... this is Paolo.
+27031,27102,0,Rachel,Ah, Paolo, this is Phoebe.
+27222,27247,0,Phoebe,You betcha!
+27340,27604,0,Chandler,_Ah, let's see. What next? Blow a bubble. A bubble's good. It's got a... boyish charm, it's impish. Here we go._
+27872,28109,0,Chandler,_Nice going, imp. OK, it's OK. All I need to do is reach over and put it in my mouth._
+28155,28494,0,Chandler,_Good save! We're back on track, and I'm..._  _..chewing someone else's gum. This is not my gum. Oh my God! Oh my God! And now you're choking._
+28563,28586,0,Jill,Are you alright?
+28635,28838,0,Jill,My God, you're choking!  That better?
+28838,28961,0,Chandler,Yes... thank you. That was... that was....
+28961,28995,0,Jill,Perfection?
+29502,29569,0,UNKNOWN,
+29689,29749,0,Ross,Wha-What did he say that was so funny?
+29749,29808,0,Rachel,I have absolutely no idea.
+29810,29857,0,Ross,That's... that's classic.
+29859,29955,0,Rachel,Oh my God, you guys, what am I doing? What am I doing? This is so un-me!
+29956,30005,0,Monica,If you want, I'll do it.
+30051,30171,0,Phoebe,I know, I just want to bite his bottom lip.  But I won't.
+30198,30359,0,Rachel,God, the first time he smiled at me... those three seconds were more exciting than three weeks in Bermuda with Barry.
+30362,30553,0,Phoebe,You know, did you ride mopeds? 'Cause I've heard... ... oh, I see... it's not about that right now. OK.
+30556,30748,0,Rachel,Y'know, I know it's totally superficial and we have absolutely nothing in common, and we don't even speak the same language but Goooooooddddddd....
+30868,30903,0,Ross,Paolo. Hi.
+30903,30937,0,Paolo,Ross!
+30940,31296,0,Ross,Listen. Um, listen. Something you should... know... um, Rachel and I... we're kind of a thing.
+31300,31334,0,Paolo,Thing?
+31334,31368,0,Ross,Thing, yes. Thing.
+31372,31408,0,Paolo,Ah, you... have the sex?
+31408,31920,0,Ross,No, no, no. Technically the... sex is not... being had, but that's... see, that's not the point. See, um, the point is that... Rachel and I should be, er, together. You know, and if you get in the.... um...
+31922,31945,0,Paolo,Bed?
+31945,32254,0,Ross,No, no, that's not where I was going. Er, if you get in the... way, of us becoming a thing, then I would be, well, very sad.
+32304,32519,0,Ross,So you do know a little English.
+32519,32568,0,Paolo,Poco... a leetle.
+32570,32616,0,Ross,Do you know the word _crapweasel_?
+32616,32661,0,Paolo,No.
+32686,32739,0,Ross,That's funny, because you know, you are a huge crapweasel!
+32881,32955,0,Jill,Chandler, we've been here for an hour doing this! Now watch, it's easy.
+32974,33000,0,Jill,Ready?
+33074,33121,0,UNKNOWN,
+33167,33214,0,Jill,No, you've got to whip it.
+33334,33428,0,Phoebe,Oh, look look look. The last candle's about to burn out. 10, 9, 8, 7...
+33429,33588,0,UNKNOWN,
+33588,33647,0,UNKNOWN,
+33669,33693,0,Ross,Thank you.
+33693,33716,0,Phoebe,Thanks.
+33743,33817,0,Ross,Kinda... spooky without any lights.
+33986,34055,0,Ross,OK, guys, guys? I have the definitive one. Mwwwooooo-hah-hah...
+34364,34515,0,Joey,Hey Ross. This probably isn't the best time to bring it up, but you have to throw a party for Monica.
+34722,34737,0,Jill,Well, this has been fun.
+34737,34895,0,Chandler,Yes. Yes, thanks for letting me use your phone... and for saving my life.
+34941,35083,0,Jill,Well, goodbye Chandler. I had a great blackout.  See ya.
+35447,35683,1,Chandler,Hi, um, I'm account number 7143457. And, uh, I don't know if you got any of that, but I would really like a copy of the tape.

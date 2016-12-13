@@ -1,0 +1,284 @@
+Frame_Start Frame_End Laugh Speaker Dialogue
+581,656,0,Ross,Guys? There's a somebody I'd like you to meet.
+725,755,0,Monica,W-wait. What is that?
+773,809,0,Ross,'That' would be Marcel. You wanna say hi?
+809,845,0,Monica,No, no, I don't.
+846,896,0,Rachel,Oh, he is precious! Where did you get him?
+896,946,0,Ross,My friend Bethel rescued him from some lab.
+965,1066,0,Phoebe,That is so cruel! Why? Why would a parent name their child Bethel?
+1157,1210,1,Chandler,Hey, that monkey's got a Ross on its ass!
+1326,1397,0,Monica,Ross, is he gonna live with you, like, in your apartment?
+1400,1470,0,Ross,Yeah. I mean, it's been kinda quiet since Carol left, so...
+1473,1519,0,Monica,Why don't you just get a roommate?
+1521,1809,0,Ross,Nah, I dunno... I think you reach a certain age, having a roommate is kinda pathe-  ....sorry, that's, that's 'pathet', which is Sanskrit for 'really cool way to live'.
+3005,3173,0,Phoebe,So you guys, I'm doing all new material tonight. I have twelve new songs about my mother's suicide, and one about a snowman.
+3222,3293,1,Chandler,Might wanna open with the snowman.
+3317,3367,0,All,Hey, Joey. Hey, buddy.
+3386,3434,0,Monica,So, how'd it go?
+3434,3482,0,Joey,Ahhhhhh, I didn't get the job.
+3507,3578,1,Ross,How could you not get it? You were Santa last year.
+3603,3797,1,Joey,I dunno. Some fat guy's sleeping with the store manager. He's not even jolly, it's all political.
+3797,3834,0,Monica,So what are you gonna be?
+3834,3962,0,Joey,Ah, I'm gonna be one of his helpers. It's just such a slap in the face, y'know?
+3963,4133,0,Rachel,Hey, do you guys know what you're doing for New Year's?  Gee, what?! What is wrong with New Year's?
+4135,4393,1,Chandler,Nothing for you, you have Paolo. You don't have to face the horrible pressures of this holiday  desperate scramble to find anything with lips just so you can have someone to kiss when the ball drops!! Man, I'm talking loud!
+4421,4563,0,Rachel,Well, for your information, Paolo is gonna be in Rome this New Year, so I'll be just as pathetic as the rest of you.
+4563,4803,1,Phoebe,Yeah, you wish!
+4849,5043,1,Chandler,It's just that I'm sick of being a victim of this Dick Clark holiday. I say this year, no dates, we make a pact. Just the six of us- dinner.
+5044,5070,0,All,Yeah, okay. Alright.
+5089,5140,0,Chandler,Y'know, I was hoping for a little more enthusiasm.
+5211,5236,1,Rachel,Phoebe, you're on.
+5236,5261,0,Phoebe,Oh, oh, good.
+5281,5425,0,Rachel,Okay, hi. Ladies and gentlemen, back by popular demand, Miss Phoebe Buffay. Wooh!
+5501,5550,0,UNKNOWN,
+5574,5621,0,UNKNOWN,
+5621,5668,0,UNKNOWN,
+5807,6100,0,UNKNOWN,
+6287,6698,1,UNKNOWN,
+6720,6842,0,UNKNOWN,
+6842,7032,0,UNKNOWN,
+7057,7108,0,Max,No. No, that's- that's okay.
+7127,7272,0,Phoebe,Well, c'mon, if it's important enough to discuss while I'm playing, then I assume it's important enough for everyone else to hear!
+7274,7342,1,Chandler,That guy's going home with a note!
+7467,7500,0,David,Noth- I was- I was just saying to my-
+7500,7533,0,Phoebe,Could you speak up please?
+7536,7682,0,David,Sorry, I wa- I was just saying to my friend that I thought you were the most beautiful woman that I'd ever seen in my- in my life. And then he said that- you said you thought
+7701,7917,0,David,Daryl Hannah was the most beautiful woman that he'd ever seen in his life and I said yeah, I liked her in Splash, a lot, but not so much in- in Wall Street, I thought she had kind of a
+7920,7992,0,Max,Hard quality.
+8016,8325,1,David,-hard quality. And uh, while Daryl Hannah is beautiful in a conventional way, you are luminous with a kind of a delicate grace. Then, uh, that-that-that's when you started yelling.
+8499,8565,1,Phoebe,Okay, we're gonna take a short break.
+8662,8734,0,Joey,Hey, that guy's going home with more than a note!
+8854,8900,0,Ross,Come here, Marcel. Sit here.
+8997,9312,1,Rachel,Pheebs, I can't believe he hasn't kissed you yet. I mean God, by my sixth date with Paolo, I mean he had already named both my breasts! ...Ooh. Did I just share too much?
+9357,9385,1,Ross,Just a smidge.
+9409,9501,0,Phoebe,David's like, y'know, Scientist Guy. He's very methodical.
+9502,9526,0,Monica,I think it's romantic.
+9526,9645,0,Phoebe,Me too! Oh! Did you ever see An Officer and a Gentleman?
+9647,10194,1,Phoebe,Well, he's kinda like the guy I went to see that with. Except, except he-he's smarter, and gentler, and sweeter... I just- I just wanna be with him all the time. Day and night, and night and day... and special occasions...
+10245,10367,0,Chandler,Wait a minute, wait a minute, I see where this is going, you're gonna ask him to New Year's, aren't you. You're gonna break the pact. She's gonna break the pact.
+10367,10482,0,Phoebe,No, no, no, no, no, no. Yeah, could I just?
+10536,10571,0,Chandler,Yeah, 'cause I already asked Janice.
+10571,10607,1,Monica,What?!
+10608,10677,0,Ross,C'mon, this was a pact! This was your pact!
+10679,10749,0,Chandler,I snapped, okay? I couldn't handle the pressure and I snapped.
+10751,10821,0,Monica,Yeah, but Janice? That-that was like the worst breakup in history!
+10824,10915,1,Chandler,I'm not saying it was a good idea, I'm saying I snapped!
+10941,11013,0,Joey,Hi. Hi, sorry I'm late.
+11209,11325,1,Chandler,Too many jokes... must mock Joey!
+11395,11442,0,Joey,Nice shoes, huh?
+11466,11496,0,Chandler,Aah, y'killing me!
+11542,11633,0,Monica,Ross! He's playing with my spatulas again!
+11635,11694,0,Ross,Okay, look, he's not gonna hurt them, right?
+11694,11753,0,Monica,Do you always have to bring him here?
+11779,12163,0,Ross,I didn't wanna leave him alone. Alright? We- we had our first fight this morning. I think it has to do with my working late. I said some things that I didn't mean, and he- he threw some faeces...
+12236,12308,0,Chandler,Y'know, if you're gonna work late, I could look in on him for you.
+12310,12501,0,Ross,Oh, that'd be great! Okay, but if you do, make sure it seems like you're there to see him, okay, and you're not like doing it as a favour to me.
+12521,12592,0,Chandler,Okay, but if he asks, I'm not going to lie.
+12741,12967,1,David,...But, you can't actually test this theory, because today's particle accelerators are nowhere near powerful enough to simulate these conditions.
+12967,13023,0,Phoebe,Okay, alright, I have a question, then.
+13024,13050,0,David,Yuh.
+13050,13076,0,Phoebe,Um, were you planning on kissing me ever?
+13174,13650,0,David,Uh, that's definitely a, uh, valid question. And, uh, the answer would be  yes. Yes I was. But, see, I wanted it to be this phenomenal kiss that happened at this phenomenal moment, because, well, 'cause it's you.
+13652,13676,0,Phoebe,Sure.
+13695,14034,1,David,Right. But, see, the longer I waited, the more phenomenal the kiss had to be, and now we've reached a place where it's just gotta be one of those things where I just like... sweep everything off the table and throw you down on it. And, uh, I'm not really a, uh, sweeping sorta fella.
+14037,14249,1,Phoebe,Oh, David, I, I think you are a sweeping sorta fella. I mean, you're a sweeper! ...trapped inside a physicist's body.
+14273,14287,0,David,Rrrreally.
+14287,14391,0,Phoebe,Oh, yeah, oh, I'm sure of it. You should just do it, just sweep and throw me.
+14465,14490,0,David,...Now? Now?
+14490,14516,0,Phoebe,Oh yeah, right now.
+14518,14565,0,David,Okay, okay, okay.
+14636,14671,0,UNKNOWN,
+14671,14705,0,UNKNOWN,
+14732,14778,0,UNKNOWN,
+14804,14840,1,Phoebe,Okay, now you're just kinda tidying.
+14840,15027,0,David,Okay, what the hell, what the hell.  You want me to actually throw you or you-you wanna just hop?
+15027,15063,0,Phoebe,I can hop.
+15449,15546,0,Ross,So tell me something. What does the phrase 'no date pact' mean to you?
+15548,15692,0,Monica,I'm sorry, okay. It's just that Chandler has somebody, and Phoebe has somebody- I thought I'd ask Fun Bobby.
+15693,15717,0,Chandler,Fun Bobby? Your ex-boyfriend Fun Bobby?
+15717,15742,0,Monica,Yeah.
+15761,15810,1,Joey,You know more than one Fun Bobby?
+15810,15859,0,Chandler,I happen to know a Fun Bob.
+15907,15965,0,Rachel,Okay, here we go...
+15965,16024,0,Joey,Ooh ooh ooh ooh, there's no room for milk!
+16146,16195,1,Rachel,There. Now there is.
+16213,16312,0,Ross,Okay, so on our no-date evening, three of you now have dates.
+16333,16358,0,Joey,Uh, four.
+16358,16384,0,Rachel,Five.
+16406,16458,0,Rachel,Sorry. Paolo's catching an earlier flight.
+16477,16602,1,Joey,Yeah, and I met this really hot single mom at the store. What's an elf to do?
+16624,16722,0,Ross,Okay, so I'm gonna be the only one standing there alone when the ball drops?
+16741,16838,0,Rachel,Oh, c'mon. We'll have, we'll have a big party, and no-one'll know who's with who.
+16840,16936,0,Ross,Hey, y'know, this is so not what I needed right now.
+16938,16972,0,Monica,What's the matter?
+16972,17270,0,Ross,Oh, it's-it's Marcel. He keeps shutting me out, y'know? He's walking around all the time dragging his hands...
+17292,17364,0,Chandler,That's so weird, I had such a blast with him the other night.
+17366,17390,0,Ross,Really.
+17390,17484,0,Chandler,Yeah, we played, we watched TV.. that juggling thing is amazing.
+17556,17604,1,Ross,What, uh... what juggling thing?
+17609,17680,0,Chandler,With the balled-up socks? I figured you taught him that.
+17703,17728,0,Ross,No.
+17753,17868,0,Chandler,Y'know, it wasn't that big a deal. He just balled up socks... and a melon...
+17965,17990,0,Max,Phoebe. Hi.
+17990,18016,0,Phoebe,Oh, hi Max! Hey, do you know everybody?
+18017,18086,1,Max,No. Have you seen David?
+18108,18135,0,Phoebe,No, no, he hasn't been around.
+18137,18232,0,Max,Well, if you see him, tell him to pack his bags. We are going to Minsk.
+18252,18277,0,Phoebe,Minsk?
+18277,18303,0,Max,Minsk. It's in Russia.
+18327,18375,1,Phoebe,I know where Minsk is.
+18420,18497,0,Max,We got the grant. Three years, all expenses paid.
+18517,18554,0,UNKNOWN,
+18554,18591,1,UNKNOWN,
+18615,18641,0,Phoebe,So when, when do you leave?
+18641,18667,0,Max,January first.
+18856,18915,1,Phoebe,Hello?
+18915,18975,0,David,Hey!
+18994,19032,0,David,Hi!  What-what're you doing here?
+19032,19141,0,Phoebe,Um, well, Max told me about Minsk, so  congratulations! This is so exciting!
+19169,19240,1,Max,It'd be even more exciting if we were going.
+19258,19311,0,Phoebe,Oh, you're not going?  Oh, why?
+19354,19553,0,Max,Tell her, David. 'I don't wanna go to Minsk and work with Lifson and Yamaguchi and Flench, on nonononononono. I wanna stay here and make out with my girlfriend!!'
+19571,19623,1,David,Thank you, Max. Thank you.
+19667,19714,0,Phoebe,So-so you're really not going?
+19717,19752,0,David,I don't know. I don't know what I'm gonna do. I just- you decide.
+19752,19788,0,UNKNOWN,
+19791,19826,0,UNKNOWN,
+19826,19861,0,UNKNOWN,
+19861,19954,0,UNKNOWN,
+20005,20055,0,David,I don't know. I don't know what I'm gonna do. I just- you decide.
+20074,20101,0,Phoebe,Oh don't do that.
+20101,20128,0,David,No, but I'm asking-
+20145,20183,0,Phoebe,Oh, but I can't do that-
+20183,20221,0,Phoebe,Okay, um, stay.
+20289,20302,0,David,Stay.
+20302,20315,0,Phoebe,Stay.
+20507,20557,1,Phoebe,Getting so good at that!
+20601,20649,0,David,It was Max's stuff.
+20841,20988,0,Janice,I love this artichoke thing! Oh, don't tell me what's in it, the diet starts tomorrow!
+21105,21155,0,Chandler,You remember Janice.
+21179,21225,1,Monica,Vividly.
+21229,21276,0,UNKNOWN,
+21276,21323,0,UNKNOWN,
+21324,21348,0,UNKNOWN,
+21393,21432,1,UNKNOWN,
+21432,21517,0,UNKNOWN,
+21517,21544,0,UNKNOWN,
+21585,21633,1,UNKNOWN,
+21636,21681,0,UNKNOWN,
+21681,21727,0,UNKNOWN,
+21729,21780,0,UNKNOWN,
+22042,22055,1,Monica,Hi.
+22055,22068,0,Sandy,Hi, I'm Sandy.
+22087,22426,1,Joey,Sandy! Hi! C'mon in! ...You brought your kids.
+22426,22474,0,Sandy,Yeah. That's okay, right?
+22524,22581,0,Ross,Par-tay!
+22581,22639,0,Monica,That thing is not coming in here.
+22641,22810,0,Ross,'That thing'? This is how you greet guests at a party? Let me ask you something, if I showed up here with my new girlfriend, she wouldn't be welcome in your home?
+22832,22928,0,Monica,I'm guessing your new girlfriend wouldn't urinate on my coffee table.
+22929,23194,1,Ross,Okay. He was more embarrassed about that than anyone. Okay? And for him to have the courage to walk back in here like nothing happened...
+23218,23291,0,Monica,Alright. Just keep him away from me.
+23310,23360,0,UNKNOWN,
+23365,23432,0,UNKNOWN,
+23457,23555,1,Ross,Thank you.  Alright, I'll, uh... catch up with you later.
+23694,23875,0,Monica,Oh my gosh! Rachel, honey.. are you okay? Where-where's Paolo?
+23875,23934,0,Rachel,Rome. Jerk missed his flight.
+23938,23987,1,Phoebe,And then... your face is bloated?
+24032,25121,1,Rachel,No. Okay. I was at the airport, getting into a cab, when this woman- this blonde planet with a pocketbook- starts yelling at me. Something about how it was her cab first. And then the next thing I know she just starts- starts pulling me out by my hair! So I'm blowing my attack whistle thingy and three more cabs show up, and as I'm going to get into a cab she tackles me. And I hit my head on the kerb and cut my lip on my whistle...oh...everybody having fun at the party?  Are people eating my dip?
+25121,25156,1,UNKNOWN,
+25277,25304,0,UNKNOWN,
+25326,25374,0,UNKNOWN,
+25374,25423,0,UNKNOWN,
+25425,25459,0,UNKNOWN,
+25459,25493,0,UNKNOWN,
+25494,25541,0,UNKNOWN,
+25541,25588,1,UNKNOWN,
+25589,25637,0,UNKNOWN,
+25663,25676,0,UNKNOWN,
+25676,25688,0,UNKNOWN,
+25708,25756,1,UNKNOWN,
+25761,25828,0,UNKNOWN,
+25831,25878,0,UNKNOWN,
+25878,25925,0,UNKNOWN,
+25928,25963,0,UNKNOWN,
+25963,25999,0,UNKNOWN,
+26000,26023,0,UNKNOWN,
+26023,26045,0,UNKNOWN,
+26047,26119,1,UNKNOWN,
+26145,26189,0,UNKNOWN,
+26264,26453,0,Sandy,Y'know, when I saw you at the store last week, it was probably the first time I ever mentally undressed an elf.
+26504,26551,0,Joey,Wow, that's, uh, dirty.
+26551,26599,1,Sandy,Yeah.
+26693,26721,0,Joey,Hey, kids...
+26767,26907,1,Ross,Look at him. I'm not saying he has to spend the whole evening with me, but at least check in.
+26935,27079,1,Janice,There you are! Haaah, you got away from me!
+27098,27146,1,Chandler,But you found me!
+27146,27271,0,Janice,Here, Ross, take our picture.  Smile! You're on Janice Camera!
+27293,27337,0,Chandler,Kill me. Kill me now.
+27457,27512,0,UNKNOWN,
+27529,27580,0,UNKNOWN,
+27673,27748,1,UNKNOWN,
+27795,27841,0,Monica,Hey everybody! It's Fun Bobby!
+27916,28182,0,Fun Bobby,Hey, sorry I'm late. But my, uh, grandfather, he- died about two hours ago. But I-I-I couldn't get a flight out 'til tomorrow, so here I am!
+28203,28326,1,Joey,Hey Fun Bobby! Whoah! Who died?
+28441,28592,1,Fun Bobby,It's gonna be an open casket, y'know, so at least I'll- I get to see him again.
+28705,28779,1,UNKNOWN,
+28803,28853,0,UNKNOWN,
+28873,28899,0,UNKNOWN,
+28899,28963,0,UNKNOWN,
+28963,28998,0,UNKNOWN,
+29017,29053,0,UNKNOWN,
+29053,29089,1,UNKNOWN,
+29115,29140,0,UNKNOWN,
+29140,29165,0,UNKNOWN,
+29192,29240,0,UNKNOWN,
+29281,29400,1,Janice,Oh, I'm gonna blow this one up, and I'm gonna write 'Reunited' in glitter.
+29403,29641,0,Chandler,Alright, Janice, that's it! Janice... Janice... Hey, Janice, when I invited you to this party I didn't necessarily think that it meant that we-
+29643,29692,0,Janice,Oh, no. Oh, no.
+29789,29856,1,Chandler,I'm sorry you misunderstood...
+29859,30028,0,Janice,Oh my God. You listen to me, Chandler, you listen to me. One of these times is just gonna be your last chance with me.
+30076,30123,1,Chandler,Oh, will you give me the thing.
+30216,30241,0,Phoebe,Hi, Max!
+30241,30460,1,Max,Yoko.  I've decided to go to Minsk without you.
+30503,30529,0,David,Wow.
+30529,30672,1,Max,It won't be the same- but it'll still be Minsk. Happy New Year.
+30701,30747,0,Phoebe,Are you alright?
+30747,30794,0,David,Yeah, I'm fine, I'm fine.
+30918,30961,1,UNKNOWN,
+31010,31059,0,Phoebe,You're going to Minsk.
+31059,31108,0,David,No, I'm... not going to Minsk.
+31127,31251,0,Phoebe,Oh, you are so going to Minsk. You belong in Minsk. You can't stay here just 'cause of me.
+31271,31361,0,David,Yes I can. Because if I go it means I have to break up with you, and I can't break up with you.
+31361,31917,1,Phoebe,Oh yes, yes, yes you can. Just say, um, 'Phoebe, my work is my life and that's what I have to do right now'. And I say 'your work?! Your work?! How can you say that?!'. And then you say, um, 'it's tearing me apart, but I have no choice. Can't you understand that?'. And I say  'no! No! I can't understand that!'.
+31920,31933,1,David,Uh, ow.
+31933,32112,0,Phoebe,Ooh, sorry. Um, and, and then you put your arms around me. And then you put your arms around me.  And, um, and then you tell me that you love me and you'll never forget me.
+32112,32157,0,UNKNOWN,
+32163,32280,0,Phoebe,Ooh, sorry. Um, and, and then you put your arms around me. And then you put your arms around me.  And, um, and then you tell me that you love me and you'll never forget me.
+32282,32331,0,David,I'll never forget you.
+32376,32788,0,Phoebe,And then you say that it's almost midnight and you have to go because you don't wanna start the new year with me if you can't finish it.  I'm gonna miss you. You scientist guy.
+32856,33024,0,Dick Clark,Hi, this is Dick Clark, live in Times Square. We're in a virtual snowstorm of confetti here in Times Square...
+33026,33072,0,UNKNOWN,
+33074,33121,0,Joey,There y'go, kids.
+33140,33192,0,UNKNOWN,
+33217,33262,1,UNKNOWN,
+33385,33430,0,Joey,You seen Sandy?
+33430,33644,0,Chandler,Ooh. Uh, I don't know how to tell you this, but she's in Monica's bedroom, getting it on with Max, that scientist geek. Ooh, look at that, I did know how to tell you.
+33670,33708,1,Rachel,Vrrbddy, the bll is drrbing.
+33708,33745,0,All,What?
+33769,33841,1,Rachel,The bll is drrbing!
+33886,33937,0,Dick Clark,In twenty seconds it'll be midnight...
+33956,34008,0,Chandler,And the moment of joy is upon us.
+34030,34101,0,Joey,Looks like that no date pact thing worked out.
+34105,34172,0,Phoebe,Everybody looks so happy. I hate that.
+34174,34224,0,Monica,Not everybody's happy. Hey Bobby!
+34225,34367,1,UNKNOWN,
+34417,34627,0,Chandler,Y'know, I uh.. just thought I'd throw this out here. I'm no math whiz, but I do believe there are three girls and three guys right here.
+34653,34723,1,Phoebe,I dunno. I don't feel like kissing anyone tonight.
+34725,34772,0,Rachel,I can't kiss anyone.
+34772,34819,0,Monica,So I'm kissing everyone?
+34842,34915,1,Joey,Nonono, you can't kiss Ross, that's your brother.
+34917,34969,0,Ross,Perfect. Perfect. So now everybody's getting kissed but me.
+34987,35109,0,Chandler,Alright, somebody kiss me. Somebody kiss me, it's midnight! Somebody kiss me!
+35111,35205,0,Joey,Alrightalrightalright.  There.
+35370,35803,0,Ross,I wanted this to work so much. I mean I'm still in there, changing his diapers, pickin' his fleas... but he's just phoning it in. Just so hard to accept the fact that something you love so much doesn't love you back.
+35805,35877,0,Rachel,...I think that bitch cracked my tooth.

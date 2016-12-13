@@ -1,0 +1,382 @@
+Frame_Start Frame_End Laugh Speaker Dialogue
+34,83,0,UNKNOWN,
+102,154,0,JOEY,Hey Monica, why are we watchin' the business channel?
+174,274,0,MONICA,'Cause I was going by it the other day and I saw that there was a stock with my initials, MEG, on it and, well, sometimes I have to watch for two or three hours before it comes up again but when it does, it's pretty exciting.
+275,335,0,UNKNOWN,
+335,394,0,UNKNOWN,
+438,514,1,RACHEL,Ok honey, you really need a job.
+517,606,0,ROSS,Mon, speaking of which, dad says he knows someone you can call for an interview.
+608,682,0,PHOEBE,Ok, right there. That, that's the third sign today. Right there.
+707,801,1,ROSS,On behalf of everyone, I'd just like to say behuh.
+802,860,0,PHOEBE,No, 'cause you just said dad and everywhere I go today I keep getting signs telling me to go see my father. Like when I was walking over here and I passed a buffet...which is my father's last name.
+860,980,0,UNKNOWN,
+980,1040,0,UNKNOWN,
+1088,1138,0,UNKNOWN,
+1182,1283,1,PHOEBE,And they were serving franks which is his first name minus the s at the end. And there was a rotisserie with spinning chicken.
+1328,1375,0,UNKNOWN,
+1375,1422,0,UNKNOWN,
+1425,1475,1,MONICA,His indian name?
+1493,1662,0,PHOEBE,No because I chickened out the last time when I tried to meet him. So I mean coincidences? I don't think so.
+1662,1709,0,UNKNOWN,
+1711,1734,1,ROSS,Freakish.
+1734,1757,0,MONICA,Weird, weird.
+1758,1805,0,RACHEL,Ok, so uh, who wants the last hamburger?
+1806,1857,0,PHOEBE,Oh, alright, that's it, now I have to go see him.
+1877,1901,0,MONICA,Why?
+1901,2092,1,PHOEBE,Hamburger. McDonald's. Old MacDonald had a farm, my dad is a pharmacist.
+2118,2178,0,UNKNOWN,
+2178,2238,0,UNKNOWN,
+2239,2262,0,UNKNOWN,
+2262,2285,0,UNKNOWN,
+2286,2332,0,UNKNOWN,
+3463,3498,0,UNKNOWN,
+3498,3534,0,CHANDLER,Man, I am so beat.
+3535,3583,0,ROSS,Oh yeah.
+3583,3632,1,CHANDLER,Hey, you just wanna forget about raquetball and hang out here?
+3703,3749,0,ROSS,Yeah alright.
+3749,3794,0,BIG BULLY,Hey you're in our seats.
+3795,3824,0,ROSS,Oh, sorry we didn't know.
+3846,3962,1,LITTLE BULLY,Hey, we were sitting there.
+3991,4049,0,CHANDLER,Ok, there is one more way to say it, who knows it?
+4049,4107,0,LITTLE BULLY,Is that supposed to be funny?
+4111,4145,0,CHANDLER,No actually, I was just going for colorful.
+4145,4179,0,BIG BULLY,What's with this guy?
+4181,4255,0,LITTLE BULLY,What's with you?
+4422,4465,0,ROSS,Uh, nothing, nothing's with him. Enjoy your coffee.
+4490,4658,1,CHANDLER,What just happened?
+4659,4768,0,LITTLE BULLY,I just took your hat. See, I can be funny too. My, my joke is that I, I took your hat.
+4768,4801,1,CHANDLER,That, that is funny. Can I have it back?
+4849,4862,0,LITTLE BULLY,No.
+4862,4875,0,CHANDLER,No?
+4878,5115,0,BIG BULLY,No.
+5163,5198,1,UNKNOWN,
+5198,5234,0,UNKNOWN,
+5238,5286,0,ROSS,Ok, ok, you know what? I think you're very funny. Kudos on that hat joke. But, come on guy just, just give him back the hat.
+5305,5426,1,BIG BULLY,Why should we?
+5426,5545,0,UNKNOWN,
+5548,5582,0,UNKNOWN,
+5582,5617,1,ROSS,Because it's a special hat.  See he bought it 'cause he was feeling really down one day so he got the hat to cheer himself up, ya know. Now Chandler...
+5667,5714,0,UNKNOWN,
+5714,5760,0,CHANDLER,Stop talking, stop talking now. Let me just get this straight. You're actually stealing my hat?
+5762,5837,0,BIG BULLY,You got a problem with that?
+5882,5929,0,UNKNOWN,
+5929,5976,0,UNKNOWN,
+5980,6029,0,UNKNOWN,
+6029,6145,0,UNKNOWN,
+6145,6194,0,UNKNOWN,
+6215,6251,0,UNKNOWN,
+6251,6288,1,UNKNOWN,
+6360,6386,0,UNKNOWN,
+6386,6602,1,RACHEL,Hey, how'd the interview go?
+6602,6637,1,UNKNOWN,
+6637,6671,0,UNKNOWN,
+6672,6720,0,UNKNOWN,
+6720,6768,1,UNKNOWN,
+6770,6795,0,MONICA,It bit. It was a 50's theme restraunt. I have to cook in a costume and dance on the counter. I mean I was a chef at Cafe des Artistes. I mean how could I take a job where I have to make something called Laverne and Curly Fries?
+6795,6868,0,RACHEL,So don't do it.
+6869,6927,0,MONICA,How can I not do it? I have $127 in the bank.
+6927,6986,0,JOEY,Monica, relax, go get a beer.
+6986,7037,1,MONICA,I don't want a beer.
+7158,7190,0,JOEY,Who said it was for you?
+7190,7221,1,UNKNOWN,
+7222,7270,0,ROSS and CHANDLER,Hhhiiii.
+7272,7344,1,RACHEL,What's the matter with you?
+7346,7369,0,CHANDLER,The mean guys at the coffee house took my hat.
+7369,7392,0,RACHEL,Noo.
+7394,7512,0,JOEY,You're kiddin'.
+7514,7561,0,UNKNOWN,
+7561,7608,0,UNKNOWN,
+7680,7752,0,RACHEL,Hi.
+7826,7896,1,CHANDLER,Ohhh  Oh no, wait a minute, I have no one.
+7897,8013,1,JOEY,Hey, woah, let's go down there and get your hat back.
+8062,8077,0,CHANDLER,Na, forget it, it's probably stripped and sold for parts by now.
+8077,8091,0,MONICA,Hey, I went up.
+8110,8233,0,RACHEL,What?
+8233,8332,0,UNKNOWN,
+8332,8378,0,UNKNOWN,
+8405,8439,1,UNKNOWN,
+8439,8473,0,UNKNOWN,
+8474,8499,0,MONICA,My stock, MEG, it went up 2 points. Hey guys, do you realize that if I had invested my $127 in myself yesterday that I'd like have...a lot more than that today. Ya know what, I'm gonna do it.
+8499,8523,0,JOEY,Do what?
+8542,8569,0,MONICA,Put all my money in me.
+8569,8597,0,UNKNOWN,
+8614,8734,0,RACHEL,Monica, what are you talking about? You don't know the first thing about the stock market.
+8735,8852,0,UNKNOWN,
+9095,9166,1,UNKNOWN,
+9188,9382,0,JOEY,See, didn't I tell ya these pillows would be a good idea?
+9383,9418,1,PHOEBE,Oh God, here we go. For the first time in my life I'm gonna say 'Hi birthfather'.
+9418,9453,0,RACHEL,We love you, we're here for you.
+9454,9481,0,JOEY,Yeah good luck, good luck.
+9553,9602,0,PHOEBE,Thanks.
+9602,9651,0,JOEY,Hey Rach, you uh, you want some sandwich?
+9669,9730,0,RACHEL,Ohh, what is in that?
+9730,9791,1,JOEY,Olive loaf and ham spread, no mayo.
+9887,9922,0,PHOEBE,Hey, hey, no, oh oh.
+9922,10035,1,RACHEL,Run Phoebe run.
+10053,10077,0,PHOEBE,No no no, doggie please. Oh, I do so wanna love all animals, please no.
+10077,10100,0,JOEY,Get him a bone, get a bone. You gotta bone?
+10102,10248,0,RACHEL,Are you kidding me?
+10416,10485,1,UNKNOWN,
+10506,10542,0,UNKNOWN,
+10542,10578,1,UNKNOWN,
+10579,10615,0,UNKNOWN,
+10615,10650,0,UNKNOWN,
+10678,10808,1,JOEY,Hey, hey, hey no.
+10808,10845,0,UNKNOWN,
+10866,10905,0,UNKNOWN,
+10905,10944,0,UNKNOWN,
+10962,11010,1,UNKNOWN,
+11015,11049,0,UNKNOWN,
+11049,11082,0,JOEY,Well if he's not gonna eat it, I will.
+11109,11154,0,PHOEBE,Are you crazy?
+11325,11348,1,UNKNOWN,
+11348,11370,0,CHANDLER,Hey.
+11373,11515,0,ROSS,What?
+11542,11614,1,CHANDLER,Do you have to be a Century 21 real-estate agent to get to wear those really cool jackets?
+11681,11753,0,ROSS,Do you say this stuff to girls?
+11756,11825,0,BIG BULLY,Hehehehey, isn't that the guy who used to wear your hat?
+11874,11972,0,LITTLE BULLY,And look where they're sitting.
+11974,12009,0,ROSS,You're joking, right? You guys just walked through the door.
+12009,12043,0,BIG BULLY,Maybe we didn't make it clear enough.
+12044,12096,0,LITTLE BULLY,Yeah.
+12115,12356,1,BIG BULLY,This couch belongs to us.
+12430,12476,0,UNKNOWN,
+12476,12523,0,UNKNOWN,
+12526,12573,0,UNKNOWN,
+12622,12737,1,CHANDLER,Alright, I'll tell you what, you call the couch and then, and then we'll call the couch, and we'll see who it comes to.
+12739,12787,0,UNKNOWN,
+12790,12943,0,BIG BULLY,You know what I keep wondering? Why you two are still sitting here.
+12943,12978,1,UNKNOWN,
+13002,13050,0,ROSS,Alright, that's it. I've had enough of this, alright. Gunther, these guys are trying to take our seat.
+13052,13100,0,GUNTHER,Fellas, these guys were here first.
+13119,13157,1,LITTLE BULLY,Sorry.
+13157,13335,1,GUNTHER,There you go.
+13338,13386,0,ROSS,Thank you Gunther. We didn't want to have to go and do that.
+13408,13433,0,LITTLE BULLY,He told on us?
+13434,13528,0,BIG BULLY,You told on us?
+13554,13588,0,ROSS,Well pal, you didn't give me much of a choice.
+13588,13623,1,CHANDLER,Don't play with his things.
+13671,13770,0,ROSS,I know.
+13815,13989,0,BIG BULLY,Alright, let's take this outside.
+14008,14106,1,ROSS,Let's, let's take this outside? Who talks like that?
+14108,14143,0,BIG BULLY,The guy that's about to kick your ass talks like that.
+14143,14178,1,CHANDLER,You had to ask.
+14247,14396,1,ROSS,Yeah.
+14421,14584,0,ROSS,Ok, ok look, see, the thing is we're, we're not gonna fight you guys.
+14706,14780,1,LITTLE BULLY,Well then here's the deal, you won't have to so long as never ever show your faces in this coffee house ever again.
+14925,14993,0,UNKNOWN,
+14996,15021,0,JOEY,Hey Phoeb's, I think you're good to go.
+15087,15136,1,PHOEBE,Yeah, I don't know.
+15136,15222,0,RACHEL,What's the matter?
+15222,15258,0,UNKNOWN,
+15303,15375,1,UNKNOWN,
+15376,15435,0,UNKNOWN,
+15435,15495,0,UNKNOWN,
+15498,15548,1,UNKNOWN,
+15570,15629,0,UNKNOWN,
+15629,15689,0,UNKNOWN,
+15714,15784,0,UNKNOWN,
+15784,15854,0,UNKNOWN,
+15856,15892,0,PHOEBE,I just think that this was a really bad sign, ya know. I mean, like the beast at the threshold, you know. It's just like, I have no family left, ya know. I mean except for my grandmother, you know, but let's face it, she's not gonna be around forever, despite what she says. And I have a sister who I've barely spoken to since we like shared a womb. I don't know, this is my real father and I just, I want things to be like just right.
+15892,16002,0,RACHEL,Yeah Phoebe, I completely understand.
+16022,16070,0,JOEY,Yeah, whatever you need. Hey, you wanna go home?
+16530,16578,1,PHOEBE,Ok, thanks. Sorry, again
+16673,16766,0,PHOEBE,What was that?
+16866,16986,0,UNKNOWN,
+17006,17035,0,UNKNOWN,
+17078,17107,1,MONICA,I wanna buy 5 shares of SGJ and I wanna buy them now. C'mon time is money my friend. Thank you. Wooo.
+17126,17273,1,RACHEL,Time is money my friend?
+17292,17366,0,JOEY,Yeah, you missed, 'Takes money to make money,' and uh, 'Don't make me come down there and kick your wall street butt.'
+17367,17461,1,MONICA,Hey, I made $17 before breakfast, what have you done?
+17489,17532,0,JOEY,Well uh, I had breakfast here so technically I saved $3.50.
+17534,17681,0,RACHEL,How did you make $17.
+17701,17726,0,MONICA,Well, my financially challenged friends,  I split my money and I bought some shares of CHP and ZXY.
+17729,17917,0,JOEY,How come those?
+17917,17966,1,UNKNOWN,
+17967,18015,0,MONICA,Well, CHP because I used to have a crush on Eric Estrada. And ZXY becuase I think it sounds zexy.
+18018,18134,0,RACHEL,What happened to uh, MEG.?
+18134,18180,0,UNKNOWN,
+18204,18276,1,MONICA,MEG was good for me but I dumped her. Ya know, my motto is get out before they go down.
+18375,18398,0,JOEY,That is so not my motto.
+18398,18435,0,PHOEBE,Hey.
+18435,18449,0,UNKNOWN,
+18450,18614,0,RACHEL,Hey Phoebs. Oh hey, how's the dog?
+18614,18684,0,UNKNOWN,
+18685,18793,0,RACHEL,Oh, thank God.
+18793,18851,1,UNKNOWN,
+18854,18925,0,UNKNOWN,
+18974,19091,0,PHOEBE,Yeah, but he did have to have a bunch of stitches and he said that only once in a blue moon does a dog's ear grow back so...still hoping.
+19095,19211,0,RACHEL,Ok, so Phoebe, now are you gonna call your dad and let him know that his dog is ok?
+19213,19262,0,UNKNOWN,
+19262,19311,0,UNKNOWN,
+19335,19382,1,PHOEBE,I, I don't wanna meet my father over the phone.  What am I gonna say, like 'Hi, I'm Phoebe, the daughter you abandoned. Oh, by the way, I broke your dog.'
+19382,19527,0,JOEY,Hey Phoebs, if you want, I'll do it.
+19550,19691,1,PHOEBE,Ok. Listen, just don't say anything about me, ok.
+19693,19788,1,MONICA,DON'T...be too long with the phone.
+19839,19873,0,RACHEL,She'll be a much better friend when the market closes.
+19873,19906,0,JOEY,It's a woman.
+19983,20186,1,PHOEBE,So talk to her.
+20186,20341,1,UNKNOWN,
+20505,20529,0,JOEY,
+20529,20552,0,RACHEL,Why the voice.
+20630,20676,0,UNKNOWN,
+20676,20721,0,CHANDLER,Your cappucino sir.
+20794,20841,0,ROSS,Thank you.
+20841,20888,1,CHANDLER,Ya know I think this is much better than the coffee house.
+21086,21153,0,ROSS,Absolutely.
+21155,21275,0,ROSS,How come it's not mixing with the water?
+21398,21446,1,CHANDLER,Well the package says you have to uh, constantly keep it moving. Stir and drink, stir and drink, never let it settle.
+21446,21482,0,UNKNOWN,
+21482,21577,0,UNKNOWN,
+21577,21633,0,UNKNOWN,
+21634,21685,0,UNKNOWN,
+21703,21732,1,JOEY,Hey, this is ridiculous. I'll tell you what. After I get back from my neice's christening, I'll go down to the coffee house with you and we'll all have a nice cup of coffee alright. No problem, Joey's there.
+21734,21767,0,CHANDLER,Ok.
+21767,21799,0,ROSS,No.
+21802,21926,0,CHANDLER,No?
+21944,21981,0,UNKNOWN,
+21981,22017,0,UNKNOWN,
+22020,22057,1,UNKNOWN,
+22057,22094,0,UNKNOWN,
+22112,22164,0,ROSS,No. Man I don't wanna have to have Joey with me every time I wanna descent cup of coffee. Ya know, and I don't wanna spend the rest of my life drinking cappucino with a 'K'. I say you and I go back down there and stand up to those guys.
+22210,22247,1,CHANDLER,Alright, hang on a second there Custer.
+22247,22285,0,JOEY,Yeah really, Ross, have you ever been beaten up before?
+22306,22352,0,ROSS,Yeah, sure.
+22352,22521,1,JOEY,By someone besides Monica?
+22522,22594,0,UNKNOWN,
+22596,22739,1,ROSS,No. So what. So what if we get beaten up, maybe that's just something every man has to go through once in his life. Ya know, like a, like a right of passage or somethin'.
+22739,22783,0,UNKNOWN,
+22788,22856,0,UNKNOWN,
+22858,22884,0,UNKNOWN,
+22885,22976,0,UNKNOWN,
+22976,23022,0,UNKNOWN,
+23072,23097,0,UNKNOWN,
+23097,23122,0,MONICA,I need to borrow a hundred bucks.
+23123,23193,0,RACHEL,What?
+23193,23216,0,MONICA,Hi, welcome home.  I need to borrow a hundred bucks.
+23217,23253,0,RACHEL,For what?
+23253,23289,0,MONICA,I've gotta get back in the game.
+23290,23324,0,RACHEL,Why, when did you get out of the game?
+23324,23358,0,MONICA,I don't know, I lost it all ok. I lost it.
+23360,23434,1,RACHEL,Oh no.
+23457,23579,0,MONICA,Hey, I've come to terms with it, you have to too.
+23598,23634,0,RACHEL,Ok. Look uhh, Mon I'm, I'm really sorry.
+23634,23670,1,MONICA,Yeah, yeah, yeah, where are we on the hundred bucks?
+23672,23915,0,RACHEL,I, I don't have it.
+23963,24011,0,UNKNOWN,
+24011,24059,0,UNKNOWN,
+24078,24130,0,MONICA,But I need it. Otherwords I'm gonna have to take that horrible diner job. You know, with the dancing and the costumes. I don't wanna have to wear flame retardant boobs.
+24203,24227,0,UNKNOWN,
+24227,24369,0,PHOEBE,Hi.
+24370,24489,0,MRS BUFFAY,Schnoodle. Oh my God, what the hell happened to my dog?
+24490,24556,1,UNKNOWN,
+24561,24586,0,UNKNOWN,
+24586,24611,0,UNKNOWN,
+24629,24681,0,UNKNOWN,
+24705,24740,1,UNKNOWN,
+24740,24813,0,UNKNOWN,
+24813,24849,1,UNKNOWN,
+24873,24920,0,PHOEBE,Yeah, eight of them. That's 56 to him. You know also, if, if it's raining, you can't let him look up too long 'cause that cone'll fill up really really fast.
+24920,24966,0,MRS BUFFAY,Yeah well, thanks for bringing back what's left of him.
+24969,25017,0,PHOEBE,Sure, oh, is, is Frank home.
+25017,25065,0,MRS BUFFAY,How do you know Frank?
+25090,25171,0,PHOEBE,Just from a, from a long time ago. Is he here?
+25171,25253,0,MRS BUFFAY,Yeah. Frank.
+25255,25325,0,FRANK,Yeah. What?
+25326,25363,0,PHOEBE,Oh, ok, um, I mean Frank senior.
+25363,25401,0,MRS BUFFAY,He went out for groceries.
+25421,25519,1,PHOEBE,Ok so will he be back soon?
+25547,25685,0,MRS BUFFAY,Well he left four years ago so we're expecting him back any minute now.
+25687,25924,0,PHOEBE,Alright, I'm, I'm gonna go. I'm sorry about the dog, everything. I'm sorry.
+25926,26095,1,FRANK,Hey lady. Hey wait up. How do you know my dad?
+26118,26143,0,PHOEBE,Um well I don't really. Just genetically. He's kinda my dad too.
+26143,26286,0,FRANK,Heavy.
+26287,26385,0,PHOEBE,Yeah. So um, did he ever talk about me, Phoebe?
+26406,26450,0,PHOEBE,Oh.
+26474,26500,1,FRANK,Except stilts.
+26500,26575,0,PHOEBE,Stilts?
+26575,26763,1,UNKNOWN,
+26763,26813,0,UNKNOWN,
+26815,26851,0,UNKNOWN,
+26851,26924,0,UNKNOWN,
+26924,26959,0,UNKNOWN,
+26983,27019,1,FRANK,Yeah, he loved stilts. One time I was upstairs, I was stealing cigarettes out of my mom's purse, and uh, all of a sudden I look over and there's my dad's head bobbing past the window. He just had this big smile on his face and he was waving 'cause he was always happiest when he was on his stilts.
+27019,27055,0,PHOEBE,Wow.
+27077,27124,1,FRANK,Yeah.
+27124,27282,0,PHOEBE,I don't know what to do with that.
+27282,27319,0,FRANK,Me neither. So you're like my big sister.
+27320,27390,0,PHOEBE,Yeah.
+27416,27529,1,FRANK,This is huge, you can buy me beer.
+27529,27576,0,named Pete, I could say,
+27579,27615,0,UNKNOWN,
+27615,27651,0,UNKNOWN,
+27652,27688,0,PHOEBE,I'm not gonna. But you know what's cool though? Ok, if you had a friend named Pete, then I could say, 'Oh yeah, I know Pete, he's friends with my brother.'
+27688,27723,1,FRANK,I gotta friend named Mark.
+27724,27891,0,PHOEBE,That'll work too.
+27892,27929,0,UNKNOWN,
+27929,27966,0,FRANK,Cool, alright. So maybe, ya know, I could give you a call sometime, we could talk or somethin'.
+27968,28001,0,PHOEBE,Yeah, that'd be ok.
+28001,28035,0,FRANK,Alright.
+28038,28085,0,PHOEBE,Ok, I'm in the book.
+28153,28203,0,FRANK,Ok, yeah.
+28206,28264,0,PHOEBE,Alright. So um, stilts huh?
+28264,28321,0,UNKNOWN,
+28324,28370,0,FRANK,Yeah hey, you know if you want I can take you around back and show you where he hit his head on the rain gutter.
+28424,28612,0,UNKNOWN,
+28612,28734,1,ROSS,Well we did it, we're here. We are standing our ground. How long does a cup of coffee take?
+28998,29044,1,CHANDLER,Would you come on! Come on!  Thank you.
+29044,29089,0,CHANDLER,Ah, there we go.
+29113,29149,0,ROSS,I think we proved our point.
+29149,29184,0,CHANDLER,You burn your mouth?
+29283,29329,0,ROSS,Cannot feel my tounge.
+29334,29405,0,CHANDLER,Bullies, big bullies.
+29452,29501,0,LITTLE BULLY,Oh, look who's here, it's the weenies.
+29501,29550,0,BIG BULLY,Did we not make ourselves clear the other day.
+29569,29621,0,ROSS,Yes, and that's why we're here.
+29622,29715,0,CHANDLER,Yes, we're standing out ground...apparently.
+29715,29742,0,LITTLE BULLY,Let's do this alright.
+29764,29838,0,ROSS,Woah, ho-ho, whad'ya got there, a weapon?
+29857,29907,0,LITTLE BULLY,It's a nice watch, I don't wanna break it on your ribs.
+29930,30029,0,LITTLE BULLY,Alright.
+30032,30064,0,CHANDLER,Question. If I don't care about my watch, can I use it as a weapon?
+30064,30169,0,ROSS,Whad'ya mean?
+30174,30220,0,CHANDLER,Well, it's sharp, it's metal, I think I can do some, you know, serious damage with it.
+30266,30290,0,UNKNOWN,
+30290,30314,0,BIG BULLY,No, you can't use your watch.
+30318,30455,0,CHANDLER,Ok.
+30458,30483,0,UNKNOWN,
+30483,30508,0,UNKNOWN,
+30530,30565,0,UNKNOWN,
+30565,30599,0,UNKNOWN,
+30602,30676,0,LITTLE BULLY,Look, here's what we'll do. We'll put all keys and watches in the hat over there. Alright.  Alright, c'mon man, let's do this.
+30678,30724,0,ROSS,Before I forget, are we hitting faces?
+30743,30817,0,BIG BULLY,Of course we're hitting faces, why wouldn't you hit faces?
+30844,30917,0,ROSS,Well because I have to work on Monday, I have a big presentation.
+30935,30972,0,UNKNOWN,
+30972,31009,0,UNKNOWN,
+31034,31154,0,LITTLE BULLY,Actually, you know, uh, I gotta show this apartment tomorrow and uh, you know, this no faces thing might not be a bad idea.
+31176,31214,0,UNKNOWN,
+31214,31252,0,BIG BULLY,Ok, nothing from the neck up.  Or the waist down. Dana's ovulating.
+31274,31345,0,BIG BULLY,Yeah.
+31348,31360,0,CHANDLER,Ok, so let me just get this straight. So we're uh, strictly talking about the middle?
+31360,31441,0,BIG BULLY,C'MON!
+31444,31492,0,UNKNOWN,
+31494,31540,0,ROSS,Hey, hey, woah, you want some of this, huh? You want a piece of this, huh? I'm standin here, huh.
+31540,31586,0,CHANDLER,Hey, hey, those guys are takin our stuff!
+31588,31636,0,UNKNOWN,
+31681,31778,0,UNKNOWN,
+31778,31894,0,ROSS,God, that was, that was amazing, that was incredible. You guys, you guys kicked butt.
+31894,31922,0,UNKNOWN,
+31922,31949,0,LITTLE BULLY,Us, what about you guys? Man you really, bing, gave it to old Mr. Clean back there. He was a big guy.
+31966,32016,0,ROSS,Yeah he was wasn't he.
+32016,32186,0,CHANDLER,Yeah, I wouldn't know having missed everything.
+32210,32349,0,BIG BULLY,Don't do that to yourself. Any one of us could have tripped over that little girls jump-rope.
+32398,32436,0,ROSS,So, listen guys, are we uh, are we ok here?
+32436,32474,0,ROSS,Alright.
+32522,32547,0,CHANDLER,Ok so, can I have my hat back?
+32881,32931,0,UNKNOWN,
+32952,32998,0,RACHEL,Look at her.
+33002,33027,0,CHANDLER,Hi Monica.
+33046,33073,0,JOEY,He-he-he, how's it goin'?
+33119,33167,0,PHOEBE,Hey nice boobs.
+33602,33646,1,CHANDLER,Guys guys, check this out.

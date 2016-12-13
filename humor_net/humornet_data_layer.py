@@ -16,39 +16,41 @@ class HumorNetNetDataLayer(caffe.Layer):
 	def setup(self, bottom, top):
 
 		# Names of the data layers being fed the data
-		self._top_names = ['frame_data', 'word_data', 'speaker_vec', 'cont_sequence', 'gt_laugh']
+		self._top_names = ['frame_data', 'word_data', 'pos_vec', 'speaker_vec', 'cont_sequence', 'gt_laugh']
 	
 		# Parse layer parameters into Python dict
 		params = eval(self.param_str)
 
 		# Store input as class variables
 		self._batch_size = params['batch_size']
-
-		# Get phase of network operation	
-		self._phase = params['phase'].lower()
+		self._timesteps = params['timesteps']
 
 		# Create a batch loader to load the images.
 		self._batch_loader = BatchLoader(params)
 	
 		# Reshape tops
-		top[0].reshape(self._batch_size, 3, 224, 224) # FaceNet's input is (batch_size x channels(3) x height(224) x width(224))
-		top[1].reshape(self._batch_size, 6) # 6 channels because 6 attributes
+		top[0].reshape(self._timesteps, self._batch_size, 4096) # FRAME DATA - timesteps, batch size, frame_data_vector length (VGG fc7)
+		top[1].reshape(self._timesteps, self._batch_size, vocab_size + 1) # WORD VECTOR - timesteps, batch size, vocab size + 1
+		top[2].reshape(self._timesteps, self._batch_size, pos_size) # POS TAGS - timesteps, batch size, pos tag size
+		top[3].reshape(self._timesteps, self._batch_size, speaker_size) # SPEAKER VECTORS - timesteps, batch size, speaker size
+		top[4].reshape(self._timesteps, self._batch_size) # CONTINUATION MARKERS - timesteps, batch_size
+		top[5].reshape(self._timesteps, self._batch_size) # GT LABELS -timesteps, batch_size
+		
 
-		if self._phase == 'train':
-			top[2].reshape(self._batch_size, 6) # 6 channels because 6 weights
-	
 	# Load data on forward pass
 	def forward(self, bottom, top):
 		for itt in range(self._batch_size):
 			# Use the batch loader to load the next image.
-			img, label, weights = self._batch_loader.load_next_image()
+			frame_vec, word_vec, pos_vec, speaker_vec, cont_label, gt_laugh = self._batch_loader.load_next_sequence()
 
 			# Add data directly to the Caffe data layer
-			top[0].data[itt, ...] = img
-			top[1].data[itt, ...] = label
+			top[0].data[:, itt, ...] = frame_vec
+			top[1].data[:, itt, ...] = word_vec
+			top[2].data[:, itt, ...] = pos_vec
+			top[3].data[:, itt, ...] = speaker_vec
+			top[4].data[:, itt] = cont_label
+			top[5].data[:, itt] = gt_laugh
 
-			if self._phase == 'train':
-				top[2].data[itt, ...] = weights
 
 	# As this layer always has fixed input and output sizes (from being the data layer),
 	# we can leave this unimplemented
@@ -66,37 +68,45 @@ class BatchLoader(object):
 	# Initializer
 	def __init__(self, params):
 		self._batch_size = params['batch_size'] # Number of images to load into the network at a time
-		self._image_root = params['srt_root'] # Root directory of subtitle files
-		self._cur = 0 # Current image index
+		self._srt_root = params['srt_root'] # Root directory of subtitle files
+		self._frame_root = params['frame_root'] # Root directory of frame data files
+		self._timesteps = params['timesteps'] # Number of timesteps in each sequence
+		self._vocab_file = params['vocab_file'] # Path to vocab file
+		self._speaker_file = params['speaker_file'] # Path to speaker file
+		self._pos_file = params['pos_file'] # Path to POS file
+		self._num_vocab = params['num_vocab'] # Size of vocabulary
+		self._num_speakers = params['num_spekaers'] # Number of speakers
+		self._num_pos = params['num_pos'] # Number of POS tags
+		self._cur = 0 # Current sequence index
 
-		# Initialize a transformer for modifying images (e.g. augmentation, preprocessing)
-		self._transformer = ImageTransformer()	
-		self._transformer.set_scale(1/255) # Scale value to transform intensity ranges from [0,255] --> [0,1]
+		# Initialize an augmenter for augmenting dataset
+		self._augmenter = Augmenter()	
 
-		# Initialize and load the data
-		self._labels = []
-		self._image_paths = []
-		self._weights = []
-		self.__load_data(self._image_root, self._data_file, self._weights_file)
+		# Load and process the data
+		self._frame_vecs = np.zeros(self._timesteps, 1, 4096)
+		self._word_vecs = np.zeros(self._timesteps, 1, self._num_vocab + 1)
+		self._speaker_vecs = np.zeros(self._timesteps, 1, self._num_speakers)
+		self._pos_vecs = np.zeros(self._timesteps, 1, self._num_pos)
+		self._cont_sequences = np.zeros(self._timesteps, 1)
+		self._gt_laughs = np.zeros(self._timesteps, 1)
+		self.__load_data(self._srt_root, self._frame_root)
 
-		# Log the test runs
-		if self._phase is 'test':
-			with open(osp.join(self._log_root, self._experiment, self._architecture, 'test_GT_log.txt'), 'w') as f:
-			    f. write('Iteration Image_Path Attribute_GT\n')
-
-		print "BatchLoader initialized with {} images".format(len(self._image_paths))
 
 	 # Load the next image in a batch.
-	def load_next_image(self):
+	def load_next_sequence(self):
 
 		# If all data has been seen, change the order
 		if self._cur == len(self._image_paths):
 			self._cur = 0 # Reset image index
 			self.__shuffle_lists() # Shuffle the data
 		
-		# Load an image and resize so min(H,W) = 256
-		image_file_name = self._image_paths[self._cur]
-		img = np.asarray(self.__resize(Image.open(osp.join(self._image_root, image_file_name))))
+		# Load a sequence
+		frame_vec = np.asarray(self._frame_vecs[self._cur])
+		word_vec = self._word_vecs[self._cur]
+		speaker_vec = self._speaker_vecs[self._cur]
+		pos_vec = self._pos_vecs[self._cur]
+		cont_sequence = self._cont_sequences[self._cur]
+		gt_laugh = self._gt_laughs[self._cur]
 
 		# Pull corresponding ground truth and convert to numpy float32 type array
 		label = np.asarray(self._labels[self._cur], dtype=np.float32)
@@ -125,14 +135,6 @@ class BatchLoader(object):
 			data =[[line[0], line[1], [float(x) >= 0.5 for x in line[2:]]] for line in data]
 			self._labels = [line[2] for line in data]
 			self._image_paths = [osp.join(image_root, line[0], line[0] + '_' + line[1] + '.jpg') for line in data]
-		if weights_file:
-			with open(weights_file, 'r') as f:
-				f.readline()
-				weights = f.readlines()
-				weights = [line.strip('\n\r').split(' ') for line in weights]
-				weights = {line[0] : float(line[2]) for line in weights}
-				for lbl in label_names:
-					self._weights.append(weights[lbl])
 	
 	# Shuffle the data lists *together*
 	def __shuffle_lists(self):
@@ -154,4 +156,11 @@ class BatchLoader(object):
 		else:
 			ratio = 256 / height # 256 from VGG paper
 			return img.resize((ratio * width, 256))
-	
+
+
+class Augmenter(object):
+
+	def __init__(self, frame_variance, min_sent_len, max_sent_len):
+		self._frame_variance = frame_variance
+		self._min_sent_len = min_sent_len
+		self._max_sent_len = max_sent_len 

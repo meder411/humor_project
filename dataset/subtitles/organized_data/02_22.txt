@@ -1,0 +1,244 @@
+Frame_Start Frame_End Laugh Speaker Dialogue
+176,366,0,MONICA,So, I'll get candles and my mom's lace tablecloth, and since it's Rachel's birthday, I mean, we want it to be special, I thought I'd poach a salmon.
+368,393,1,MONICA,What?
+394,490,0,ROSS,Question. Why do we always have to have parties where you poach things?
+491,537,0,MONICA,You wanna be in charge of the food committee?
+538,610,0,ROSS,Question two. Why do we always have to have parties with committees?
+630,725,1,JOEY,Really. Why can't we just get some pizzas and get some beers and have fun?
+728,896,1,PHOEBE,Yeah, I agree. Ya know, I think fancy parties are only fun if you're fancy on the inside and I'm just not sure we are.
+898,1019,0,MONICA,Alright. If you guys don't want it to be special, fine. You can throw any kind of party you want.
+1038,1278,1,MONICA,Joey they're not real. I start miles beneath the surface of these things, ok, they're fake. See  honk honk.
+1281,1357,0,CHANDLER,Wow, it's, it's like porno for clowns.
+2529,2597,0,ROSS,I talked to Rachel's sisters, neither of them can come.
+2598,2673,0,MONICA,Ok, um so, I still have to invite Dillon and Emma and Shannon Cooper.
+2698,2733,0,JOEY,Woah, woah, woah, uh, no Shannon Cooper.
+2733,2769,0,PHOEBE,Why not her?
+2788,2841,0,JOEY,Cause she uh, she steals stuff.
+2909,3031,1,CHANDLER,Or maybe she doesn't steal stuff and Joey just slept with her and never called her back.
+3075,3104,1,MONICA,Joey that is horriable.
+3122,3290,0,JOEY,Hey I liked her, alright. Maybe, maybe too much. I don't know I guess I just got scared.
+3315,3362,1,PHOEBE,I'm sorry, I didn't know.
+3386,3459,0,JOEY,I didn't think anyone'd buy that, ok.
+3483,3521,0,ROSS,Hi honey, how did it go?
+3521,3560,0,RACHEL,Agh, it was the graduation from hell.
+3578,3656,1,CHANDLER,Ya know, my cousin went to hell on a football scholarship.
+3677,3919,1,RACHEL,Ya know, I mean this is supposed to be a joyous occasion. My sister's graduating from college, nobody thought she would. It's a true testament to what a girl from long island would do for a Celica.
+3941,3966,0,MONICA,So what happened?
+3966,4492,1,RACHEL,My parents happened. All they had to do was sit in the same stadium, smile proudly, and not talk about the divorce. But nooo, they got into a huge fight in the middle of the commencement address. Bishop Tutu actually had to stop and shush them. But you know what, you know what the good news is? I get to serve coffee for the next 8 hours.
+4537,4587,1,PHOEBE,Ok, so I guess we don't invite her parents.
+4588,4622,0,MONICA,Well, how bout just her mom?
+4622,4657,0,CHANDLER,Why her mom?
+4659,4709,1,MONICA,Cause I already invited her.
+4712,4758,0,PHOEBE,Ooh, ooh, did you ask Stacy Roth?
+4778,4945,1,JOEY,Oh no, can't invite her. She also steals.
+5017,5069,0,UNKNOWN,
+5233,5286,0,PHOEBE,Ok, here are the birthday candles. Where's the birthday cake?
+5305,5427,1,MONICA,Ok, we're not having birthday cake, we're having birthday flan.
+5449,5473,0,CHANDLER,Excuse me?
+5476,5522,0,MONICA,It's a traditional Mexican custard dessert.
+5522,5645,1,JOEY,Oh that's nice. Happy birthday Rachel, here's some goo.
+5788,5978,1,MONICA,Dr. Greene. Oh my God it's Rachel's dad. What're you doing here?
+5980,6050,0,MR. GREENE,What? The father can't drop by to see the daughter on her birthday?
+6050,6269,0,MONICA,No no, the father can, but um, since I am the roommate I can tell you that she's not here and I'll pass along the message, ok. So bye-bye.
+6287,6338,1,MR. GREENE,Ohhh, you're having a parteee.
+6340,6519,0,MONICA,No, no, not a party. Just a surprise gathering of some people Rachel knows. Um, this is Phoebe and Chandler and Joey.
+6519,6722,1,MR. GREENE,I'll never remember all of that. So uh, what's the deal? Rachel comes home, people pop out and yell stuff, is that it?
+6724,6818,1,CHANDLER,This isn't your first surprise party, is it sir?
+6887,6935,0,MRS. GREENE,Hi Monica.
+6988,7060,0,MONICA,Chinese menu guy. Forgot the menus.
+7061,7154,1,CHANDLER,So, basically just a Chinese guy.
+7176,7296,0,JOEY,Uh, hey, Dr. Greene, why don't you come with me, we'll put your jacket on Rachel's bed.
+7342,7437,1,MR. GREENE,Alright, that sounds like a two person job.
+7489,7539,0,MRS. GREENE,Well, my goodness, what was that?
+7558,7634,0,MONICA,Sandra, I am so sorry, I thought you were Rachel and we just weren't ready for you yet.
+7637,7684,0,MRS. GREENE,You thought I was Rachel?
+7684,7730,0,CHANDLER,Yes because uh, you look so young.
+7733,7845,1,PHOEBE,And because you're both, you know, white women.
+7870,7992,0,MRS. GREENE,Oh, I missed you kids. Well, should I put my coat in the bedroom?
+8019,8064,1,CHANDLER,NO! No, I'll take that for ya.
+8064,8161,0,MRS. GREENE,Oh well thank you. Such a gentleman. Thank you.
+8234,8293,0,UNKNOWN,
+8293,8352,1,UNKNOWN,
+8353,8391,0,UNKNOWN,
+8391,8429,0,UNKNOWN,
+8446,8472,0,UNKNOWN,
+8472,8498,0,UNKNOWN,
+8573,8628,1,UNKNOWN,
+8628,8684,0,UNKNOWN,
+8686,8710,0,UNKNOWN,
+8710,8734,0,UNKNOWN,
+8735,8807,0,UNKNOWN,
+8807,8878,1,UNKNOWN,
+8996,9033,0,MONICA,Oh my God, oh my God, oh my God.
+9033,9142,1,CHANDLER,Ok, think, what would Jack and Chrissy do?
+9170,9313,0,JOEY,oh, ok we can come back out in the living room.
+9332,9430,1,MONICA,So uh, Joey and Chanlder, I, I think it's time that you take Dr. Greene over to your place.
+9433,9553,1,CHANDLER,Uhh, yes, absdolutely, um. Why again?
+9573,9718,0,MONICA,Because that's where the party is you goon. See this is just the staging area.
+9718,9766,0,JOEY,Right this is staging.
+9767,9841,0,CHANDLER,Yeah, this more than anything else, is the staging area.
+9961,10292,1,CHANDLER,Alright you guys are off to party number one  Alright fellas, let's keep it movin', let' keep it movin.
+10338,10510,0,MONICA,Chandler could you at least send some women to my party?  Alright that's Ross.
+10511,10555,0,CHANDLER,Ok, they're coming, shhh.
+10725,10775,1,RACHEL,Ohh, thank you for the wonderful dinner.
+10797,10843,0,ROSS,Thanks for being born.
+10845,10965,0,RACHEL,Ohh, thank you for my beautiul earrings, they're perfect. I love you.
+10967,11061,0,ROSS,Oh, now you can exchange them if you want, ok.
+11062,11133,1,RACHEL,Now I love you even more.
+11250,11279,0,ALL,Surprise.
+11280,11448,0,RACHEL,Oh my gosh, wow. Monica. Oh my god. Mom. This is so great.
+11466,11516,0,MRS. GREENE,Happy birthday sweetie.
+11542,11611,0,RACHEL,Wow you, you. I had no idea.
+11614,11635,0,ROSS,Really?
+11635,11657,0,RACHEL,No, I knew.
+11659,11706,0,ROSS,All right.
+11707,11803,0,MONICA,Ok, everybody, there's food and drinks on the table. Go across the hall.
+11803,11829,0,MONICA,Right now, Joey and Chandler's, go now.
+11849,11863,0,RACHEL,Why.
+11863,11878,0,MONICA,Just go.
+11926,11949,0,UNKNOWN,
+11952,12019,1,ALL,Surprise.
+12068,12117,0,MR. GREENE,Happy birthday sweetpea.
+12137,12166,0,RACHEL,Daddy.
+12354,12425,0,RACHEL,Both of them are here, both of them, both of them are here?
+12427,12475,0,CHANDLER,Well, we could count again.
+12475,12524,1,RACHEL,I can't believe this is happening.
+12526,12713,0,ROSS,You know what, this is ridiculous, ok. This is your birthday, this is your party. I say we just put 'em all together and if they can't deal with it, who cares.
+12715,12751,0,RACHEL,I do.
+12751,12787,1,ROSS,That's who.
+12811,12837,0,CHANDLER,Look, are you gonna be ok?
+12857,13005,0,RACHEL,Well, I have to be, I don't really have a choice, I mean, you know, I could look at the bright side, I get two birthday parties and two birthday cakes.
+13024,13122,0,CHANDLER,Well, actually just one birthday flan.
+13167,13191,1,RACHEL,What?
+13192,13359,1,CHANDLER,It's a traditional Mexican custard dessert...Look talk to Monica, she's on the food committee.
+13482,13696,1,CHANDLER,Joey, Joey. Hey, some girl just walked up to me and said, 'I want you Dennis,' and stuck her tounge down my throat. I love this party.
+13698,13723,0,JOEY,Quick volleyball question.
+13723,13748,0,CHANDLER,Volleyball.
+13767,13892,0,JOEY,Yeah, we set up a court in your room. Uh, you didn't really like that grey lamp, did you?
+13893,14008,1,CHANDLER,Joey, a woman just stuck her tounge down my throat, I'm not even listening to you.
+14010,14057,0,GIRL'S VOICE,Dennis.
+14057,14104,0,CHANDLER,Ok, that's me.
+14108,14202,0,RACHEL,Listen honey, can you keep dad occupied, I'm gonna go talk to mom for a while.
+14204,14274,0,ROSS,Ok, do you have any ideas for any openers?
+14277,14442,1,RACHEL,Uhh, let's just stay clear of 'I'm the guy that's doing you daughter' and you should be ok.
+14468,14802,1,MONICA,Ok people, I want you to take a piece of paper, here you go, and write down your most embarassing memory. Oh, and I do ask that when you're not using the markers, you put the caps back on them because they will dry out.
+14823,15042,0,ROSS,Hi Dr. Greene. So, uh, how's everything in the uh, vascular surgery....game?
+15069,15162,1,MR. GREENE,It's not a game Ross, a woman died on my table today.
+15165,15405,1,ROSS,I'm sorry. See that's the good thing about my job. All the dinosaurs on my table are already dead.
+15450,15832,1,MONICA,Listen you guys, I don't mean to be a pain about this but, um, I've noticed that some of you are just placing them on. You wanna push the caps until you hear them click.  Gunther, where're you going?
+15833,15902,0,GUNTHER,I um, was sorta thinking about maybe...
+15904,16073,0,MONICA,No. No you can't go. No this is fun. Come on we're just getting started. Here, here's your marker.
+16121,16169,1,PHOEBE,Listen if you wanna go, just go.
+16171,16261,1,GUNTER,No, she'll yell at me again.
+16315,16363,0,PHOEBE,Alright, I can get you out.
+16363,16410,0,GUNTHER,What?
+16434,16601,1,PHOEBE,Shh. In a minute, I'm gonna create a diversion. When I do, walk quickly to the door and don't look back.
+16622,16657,0,MR. GREENE,I think I need a drink.
+16657,16719,0,ROSS,Oh, here, I, I'll get it for ya. Whad'ya want?
+16719,16742,0,MR. GREENE,Scotch.
+16745,16843,0,ROSS,Scotch. Alright, I'll be back in 10 seconds with your scotch on the rocks in a glass.
+16862,16899,0,MR. GREENE,Neat.
+16899,16936,1,ROSS,Cool.
+16938,17009,0,MR. GREENE,No no no, no no no, neat, as in no rocks.
+17032,17078,1,ROSS,I know.
+17152,17246,0,MR. GREENE,Oh hello Ross, where have you been?
+17248,17436,1,ROSS,Hi. Uh, I have been in the bathroom. Stay clear of the salmon mousse.
+17509,17653,0,MRS. GREENE,Oh, scotch neat. Ya know, that's Rachel's father's drink.
+17654,18108,1,ROSS,Oh, mine too. Isn't that neat, scotch neat. Would you excuse me?  Hey, hey, where you uh, sneakin off to mister?
+18115,18150,1,MR. GREENE,I'm getting my cigarettes out of my jacket.
+18150,18185,1,ROSS,No. no.
+18186,18244,0,MR. GREENE,Whad'ya mean no?
+18244,18545,1,ROSS,No, um, see 'cause that, that is, that is the staging area. If you go in there, it'll ruin the whole illusion of the party. Yeah, I think you take your scotch back in there and I will get your cigarettes for you sir.
+18564,18613,0,MR. GREENE,Get my glasses too.
+18613,18662,1,ROSS,All righty roo.
+18710,19095,1,MONICA,Ok, the first person's most embarassing memory is, 'Monica, your party sucks.' Very funny.
+19114,19187,1,PHOEBE,Oh no, ooh, ooh, did somebody forget to use a coaster?
+19190,19432,1,MONICA,What?  I don't see anything.
+19451,19525,1,PHOEBE,Great, I'm seeing water rings again.
+19575,19648,0,MRS. GELLER,Ross, whose glasses are those?
+19666,19714,0,ROSS,Mine.
+19722,19790,0,MRS. GREENE,You wear bi-focals?
+19814,20031,1,ROSS,Um-hmm.  I have a condition, apparently, that I require two different sets of focals.
+20054,20128,0,MRS. GREENE,Did you know my husband has glasses just like that?
+20146,20198,0,RACHEL,Well those are very popular frames.
+20217,20267,1,ROSS,Neil Sedaka wears them.
+20338,20412,0,GUY,I hear you can get people out of here.
+20486,20560,1,MRS. GREENE,Rachel, you didn't tell me your boyfriend smoked.
+20578,20649,0,RACHEL,Yeah, like a chimney.
+20651,20750,1,ROSS,Ohh, big smoker.
+20769,20831,0,UNKNOWN,
+20831,20893,1,UNKNOWN,
+21182,21252,1,MR. GREENE,Are you wearing my glasses?
+21252,21465,1,ROSS,Yes.  I was just warming up the earpieces for you.
+21467,21614,0,MR. GREENE,Thank you. Is that one of my cigarettes?
+21754,21872,1,ROSS,Yeah, yes it is, I was just moistening the tip.
+21898,22041,1,PHOEBE,Ok, ok, she's taking the trash out so I can get you out of here but it has to be now, she'll be back any minute.
+22042,22066,0,GIRL 1,What about my friend Victor?
+22068,22160,0,PHOEBE,No, only the three of you, any more than that and she'll get suspicious.
+22162,22210,0,GIRL 1,Alright, let me just get my coat.
+22210,22399,1,PHOEBE,There isn't time. You must leave everything. They'll take care of you next door.
+22400,22449,0,GIRL 1,Is it true they have beer?
+22474,22544,1,PHOEBE,Everything you've heard is true.
+22548,22689,0,MONICA,Could you guys please try to keep it down, we're trying to start a Boggle tournament.
+22690,22727,0,MONICA,You, and you, you're supposed to be at my party. And Gunther! What are you doing here?
+22727,22832,1,UNKNOWN,
+22933,23267,1,MONICA,You, and you, you're supposed to be at my party. And Gunther! What are you doing here?
+23336,23409,1,PHOEBE,Ok, welcome to the fu-oh.
+23478,23694,1,PHOEBE,Alright, I'm sorry but these people needed me. They work hard all week, it's Saturday night, they deserve to have a little fun. Go.
+23696,23890,0,MONICA,Ya know, my party is fun. I mean, maybe it's a little quieter, less obvious sorta fun but, you know, if people would just give it a chance...
+23986,24044,1,RACHEL,You want me to see a therapist?
+24044,24198,1,MRS. GREENE,Sweetheart, you obviously have a problem. You've chosen a boyfriend exactly like your father.
+24205,24346,0,RACHEL,Ok mom, you know what, fine, I'll make an appointment ok, but you know what, right now, I gotta go, I gotta go do a thing.
+24349,24537,1,MR. GREENE,Did you know your mother spent $1200 dollars on bansai trees. I felt like Gulliver around that place.
+24556,24701,0,RACHEL,Daddy, daddy, you know what, I really wanna hear more about this, I really do, but I just have, I just have to do a, some stuff.
+24702,24844,0,MRS. GREENE,You work and you work and you work at a marriage but all he cares about is his stupid boat.
+24846,24916,1,MR. GREENE,You work and you work and you work on a boat...
+24918,24989,0,MRS. GREENE,He always ridiculed my pottery classs...
+24991,25038,0,MR. GREENE,...and you sand it and you varnish it...
+25041,25133,1,MRS. GREENE,...but when all is said and done, he still drinks out of the mugs.
+25135,25207,0,MR. GREENE,...and her yoga and her Bridges of Madison County...
+25209,25244,0,MRS. GREENE,...the scotch and the cigarettes...
+25244,25278,0,MR. GREENE,...and the bansai's and the chiuaua...
+25281,25349,0,MRS. GREENE,...I may have only been in therapy for three weeks now dear but...
+25351,25422,0,MR. GREENE,...what the hell does she want with half a boat...
+25497,25545,0,UNKNOWN,
+25545,25593,1,UNKNOWN,
+25612,25684,0,UNKNOWN,
+25809,26167,1,CHANDLER,Hey, how you holdin' up there, tiger? Oh, sorry, when my parents were getting divorced I got a lot of tigers. Got a lot of champs, chiefs, sports, I even got a governor.
+26191,26642,1,RACHEL,This is it, isn't it? I mean, this is what my life is gonna be like. My mom there, my dad there. Thanksgiving, Christmas. She gets the house, he's in some condo my sister's gonna decorate with wicker. Oh, Chandler how did you get through this?
+26646,26859,1,CHANDLER,Well, I relied on a carefully regimented program of denial and, and wetting the bed.
+26888,27173,1,RACHEL,Ya know, I just, so weird. I mean I was in there just listening to them bitch about each other and all I kept thinking about was the fourth of July.
+27175,27294,1,CHANDLER,Becasue it reminded you of the way our forefathers used to bitch at each other?
+27315,28323,0,RACHEL,It's just this thing. Every year we would go out on my dad's boat and watch the fireworks. Mom always hated it because the ocean air made her hair all big. My sister Jill would be throwing up over the side and my dad would be upset becasue nobody was helping and then when we did help he would scream at us for doing it wrong. But then when the fireworks started, everybody just shut up, you know, and it'd get really cold, and we would all just sort of smush under this one blanket. It never occured to anybody to bring another one. And now it's just...
+28374,28443,0,CHANDLER,I, I know.
+28971,29021,1,MONICA,Ok, thanks for coming, I hope you guys had fun.
+29024,29213,0,MRS. GREENE,Alright, Monica dear, I'm gonna hit the road. Now I've left my 10 verbs on the table. And you be sure and send me that finished poem.
+29214,29262,0,MONICA,Ok will do. So glad you came.
+29281,29329,0,MRS. GREENE,I think I saw Rachel out in the hall.
+29329,29463,0,MONICA,Ok, let me go check. Your mom want's to say goodbye.
+29463,29521,0,MRS. GREENE,Happy birthday sweetie.
+29593,29617,0,JOEY,Ahh, you drive safe.
+29646,29691,0,MRS. GREENE,Ross, what're you doing.
+29718,29809,0,ROSS,I'm getting ready for the water skiing.  How are you doing?
+29811,29858,0,UNKNOWN,
+29858,29905,0,UNKNOWN,
+29934,29982,0,UNKNOWN,
+30025,30049,0,CHANDLER,Well, uh, Dr. Greene, where are you going?
+30049,30073,0,MR. GREENE,To get my coat.
+30076,30121,0,GUYS,No no no.
+30123,30196,0,MR. GREENE,Alright, alright, I can get my own coat.
+30365,30434,0,CHANDLER,Sorry, we're on a major flan high.
+30503,31031,0,PHOEBE,Oh no, you're not supposed to be here. This is the staging area, you should, it's all wrong, you should leave, ya know, get out.  Or perhaps you'd like a creme d'menthe.
+31034,31082,0,MR. GREENE,I have to be heading to my chateau, thank you.
+31084,31154,0,PHOEBE,Oh all right, then I guess we're going back into the hallway.
+31156,31583,0,JOEY,Thanks for coming Mrs. Greene.  Well, ok, you take care.
+31634,31897,0,MRS. GREENE,Oh, you kids  Well, this is the best party I've been to in years.
+31898,31945,0,MONICA,Thank you.
+32066,32115,0,MONICA,Ok everybody, it's time for flan.
+32134,32230,0,CHANDLER,Yup, get ready for the gelatenous fun.
+32233,32309,0,JOEY,Kinda looks like that stuff you get when you get a bad infection.
+32326,32355,0,MONICA,Ok, that's enough.
+32374,32450,0,PHOEBE,Ok Rachel, make a special flan wish.
+32470,32521,0,RACHEL,Ok, I've got one.  Wow, those things almost never come true.
+32614,32661,0,UNKNOWN,
+32686,32784,1,RACHEL,Ok, I've got one.  Wow, those things almost never come true.

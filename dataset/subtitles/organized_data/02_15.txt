@@ -1,0 +1,348 @@
+Frame_Start Frame_End Laugh Speaker Dialogue
+53,154,0,JOEY,Alright, no peeking. No peeking, no peeking, no peeking.
+173,272,1,CHANDLER,Alright, alright, but you better be wearing clothes when I open my eyes.
+320,367,0,JOEY,Alright open your eyes.
+487,562,1,CHANDLER,Sweet mother of all that is good and pure.
+585,643,0,JOEY,Huh? _Days of our Lives_ picked up my option.
+643,701,0,CHANDLER,Congratulations!
+706,821,1,chandler,Now we can finally watch _Green Acres_ the way it was meant to be seen.
+869,896,0,CHANDLER,So uh, which one is mine?
+897,944,0,JOEY,Whichever one you want, man. Whichever one you want.  Not that one.
+944,991,0,UNKNOWN,
+1017,1064,1,UNKNOWN,
+1159,1209,0,UNKNOWN,
+1229,1301,1,JOEY,Ohh yeah, that's the stuff.
+1353,1399,0,UNKNOWN,
+1401,1444,0,UNKNOWN,
+2717,2862,1,UNKNOWN,
+2862,2946,0,PHOEBE,I can't believe two cows made the ultimate sacrifice so you guys could watch TV with your feet up.
+2946,2982,0,UNKNOWN,
+3001,3100,0,CHANDLER,Well they were chair-shaped cows. They never would have survived in the wild.
+3151,3242,1,ALL,Woah!
+3249,3295,0,MONICA,Rose Marie really belongs on a smaller screen, doesn't she?
+3318,3353,0,RACHEL,Hi you guys.
+3353,3388,0,UNKNOWN,
+3530,3568,0,CHANDLER and JOEY,Woah, hey, yo.
+3568,3662,0,RACHEL,So, uh, how was your day?
+3662,3698,0,ROSS,Oh you know, pretty much the usual, uh, sun shining, birds chirping.
+3701,3751,1,RACHEL,Really? Mine too.
+3822,3930,0,PHOEBE,Hey cool, mine too.
+3930,3966,0,ROSS,Yeah, yeah, yeah. I got to get to the museum. So um, I'll see you tonight.
+4109,4132,0,RACHEL,OK.
+4202,4230,0,ALL,Bye.
+4298,4348,1,CHANDLER and JOEY,Hey, yo.
+4348,4397,0,MONICA,What's tonight?
+4442,4468,0,RACHEL,It is our first official date. Our first date.
+4491,4536,1,MONICA,Uh, hello.
+4562,4682,0,RACHEL,Hi.
+4682,4757,1,MONICA,Tonight you're supposed to waitress for me, my catering thing, any of those words trigger anything for you?
+4776,4812,0,RACHEL,God, oh God Monica, I forgot. This is our first date.
+4812,4847,0,MONICA,Yes but my mom got me this job.
+4850,4887,0,PHOEBE,OK, I can be a waitress, I can be a waitress.
+4887,4924,0,UNKNOWN,
+4927,4974,0,RACHEL,Oh, thank you, thank you, thank you, thank you. See Phoebe, Phoebe.
+4974,5088,1,MONICA,Really Phoebs? Because, you know, you'd have to be an actual waitress. This can't be like your 'I can be a bear cub' thing.
+5090,5141,0,UNKNOWN,
+5160,5212,0,UNKNOWN,
+5232,5258,0,UNKNOWN,
+5258,5285,0,UNKNOWN,
+5621,5667,1,UNKNOWN,
+5712,5748,0,PHOEBE,It's James Bond.
+5748,5821,0,MONICA,Sorry we're late.
+5821,5857,1,UNKNOWN,
+5859,5903,0,UNKNOWN,
+5907,6171,1,MONICA,Dr. Burke, it, it's me.
+6195,6269,0,DR. BURKE,Monica? My God you used to be so. . . I mean you, you, you, you must have lost like. . . You look great.
+6287,6334,0,MONICA,Thank you. This is my friend Phoebe. She's gonna be helping me tonight.
+6430,6457,1,UNKNOWN,
+6457,6484,0,DR. BURKE,Hi Phoebe, nice to meet you.  So, how ya been?
+6504,6603,0,MONICA,I've been great, just great. How have you been?
+6605,6647,0,DR. BURKE,Oh, well obviously you know Barbara and I split up, otherwise you wouldn't have done the head tilt.
+6648,6815,0,MONICA,The head tilt?
+6817,6845,0,UNKNOWN,
+6863,6888,0,UNKNOWN,
+6888,6913,0,UNKNOWN,
+6915,6963,0,UNKNOWN,
+6963,7011,1,UNKNOWN,
+7032,7068,0,UNKNOWN,
+7068,7103,0,UNKNOWN,
+7104,7142,0,UNKNOWN,
+7142,7179,0,UNKNOWN,
+7180,7224,0,UNKNOWN,
+7224,7269,0,UNKNOWN,
+7271,7298,0,UNKNOWN,
+7319,7341,0,UNKNOWN,
+7441,7535,1,UNKNOWN,
+7536,7634,0,UNKNOWN,
+7653,7705,0,UNKNOWN,
+7724,7796,0,UNKNOWN,
+7844,7882,0,UNKNOWN,
+7882,7919,1,UNKNOWN,
+7941,7988,0,UNKNOWN,
+8017,8065,0,UNKNOWN,
+8065,8113,0,UNKNOWN,
+8135,8183,1,UNKNOWN,
+8256,8324,0,UNKNOWN,
+8402,8427,1,UNKNOWN,
+8427,8451,0,UNKNOWN,
+8469,8505,0,UNKNOWN,
+8505,8540,0,UNKNOWN,
+8546,8593,0,UNKNOWN,
+8593,8640,0,UNKNOWN,
+8640,8707,0,UNKNOWN,
+8712,8749,0,UNKNOWN,
+8749,8786,0,UNKNOWN,
+8804,8854,1,UNKNOWN,
+8876,8890,0,UNKNOWN,
+8890,8904,0,UNKNOWN,
+8924,8983,0,DR. BURKE,See.
+8983,9043,1,UNKNOWN,
+9072,9192,0,MONICA,Alright, I'll tell you what. I'll come get you in 5 minutes with some sort of um, kabob emergency.
+9213,9260,0,UNKNOWN,
+9264,9331,0,UNKNOWN,
+9480,9515,1,DR. BURKE,OK. You better. Oh God, here we go. Hey wanna see 'em go nuts? Watch this.
+9515,9550,0,PHOEBE,You are so smitten.
+9573,9694,1,MONICA,I am not.
+9694,9717,0,UNKNOWN,
+9739,9835,1,PHOEBE,Oh, you are so much the smitten kitten. You should ask him out.
+9859,9933,0,MONICA,Dr. Burke? I don't think so. I mean, like, he's a grown up.
+9936,10027,0,PHOEBE,So. You two are totally into each other.
+10029,10097,0,MONICA,Phoebe, he's a friend of my parents. He's like 20 years older than me.
+10100,10223,0,PHOEBE,OK, so what, you're just never gonna see him again?
+10244,10292,1,MONICA,Not never. I mean, I'm gonna see him tomorrow at my eye appointment.
+10292,10438,1,PHOEBE,Didn't you like, just get your eyes checked?
+10484,10543,0,UNKNOWN,
+10543,10601,0,UNKNOWN,
+10700,10841,1,UNKNOWN,
+10846,10894,1,RACHEL,C'mon, I'm not saying it was a bad movie, I'm just saying, you know, it was a little. . . hard to follow.
+10894,11062,0,ROSS,I told you there was going to be sub-titles.
+11249,11275,0,RACHEL,I know, I just didn't want to wear my glasses on my first date.
+11369,11470,1,RACHEL,Monica.
+11471,11514,0,ROSS,It would really help when I'm kissing you if you didn't shout out my sister's name.
+11540,11574,0,ROSS,Oh.
+11574,11608,0,RACHEL,Monica.
+12333,12378,1,ROSS,Mon.
+12380,12462,0,ROSS,What, what.
+12462,12545,0,UNKNOWN,
+12545,12592,1,UNKNOWN,
+12621,12688,0,UNKNOWN,
+12715,12762,1,UNKNOWN,
+12763,12812,0,ROSS,And that's, that's funny why?
+12813,12907,0,UNKNOWN,
+12909,12955,0,UNKNOWN,
+12955,13001,0,UNKNOWN,
+13004,13120,1,RACHEL,Well it's not, honey I'm sorry, I guess I'm just nervous. I mean, it's you, ya know, it's us. I mean, we're crossing that line, sort of a big thing.
+13387,13459,0,RACHEL,OK.
+13460,13503,1,ROSS,OK, my hands were no where near your butt.
+13505,13542,0,UNKNOWN,
+13542,13580,0,UNKNOWN,
+13598,13648,0,UNKNOWN,
+13649,13685,0,UNKNOWN,
+13685,13721,0,UNKNOWN,
+13724,13792,0,UNKNOWN,
+13817,13865,0,UNKNOWN,
+13865,13912,0,UNKNOWN,
+13935,13972,0,UNKNOWN,
+13972,14009,1,UNKNOWN,
+14012,14048,0,UNKNOWN,
+14048,14083,0,UNKNOWN,
+14103,14115,0,UNKNOWN,
+14115,14127,0,UNKNOWN,
+14129,14151,0,UNKNOWN,
+14151,14174,0,UNKNOWN,
+14177,14188,0,UNKNOWN,
+14188,14200,0,UNKNOWN,
+14203,14238,0,UNKNOWN,
+14238,14273,0,UNKNOWN,
+14441,14478,1,UNKNOWN,
+14478,14570,0,UNKNOWN,
+14570,14684,0,UNKNOWN,
+14731,14800,1,JOEY,Wow, look at that. The car is on fire, yet somehow it's expensive paint job is protected by the Miracle Wax.
+15063,15136,1,CHANDLER and JOEY,Hey.
+15139,15187,0,JOEY,What're you doin' here? Aren't you supposed to be out with Rachel?
+15236,15304,1,UNKNOWN,
+15329,15376,0,UNKNOWN,
+15401,15449,0,CHANDLER,So how'd it go?
+15449,15568,0,UNKNOWN,
+15573,15759,1,ROSS,Oh. Listen, have you ever been uh, you know, foolin' around with a girl and uh, she started laughin'?
+15829,15857,0,CHANDLER,Yeah, but uh, it was 1982 and my flock of seagulls haircut was tickling her chin.
+15858,15925,0,UNKNOWN,
+15927,15975,1,UNKNOWN,
+16096,16164,0,UNKNOWN,
+16167,16308,0,UNKNOWN,
+16314,16359,0,UNKNOWN,
+16359,16404,0,UNKNOWN,
+16407,16444,1,ROSS,Yeah. I don't know, I've been wanting this since like ninth grade typing, ya know. And I just want it to be perfect and right and. . . why isn't that laser beam cutting through the paint?
+16444,16481,0,CHANDLER,It's the Miracle Wax.
+16500,16515,0,UNKNOWN,
+16515,16529,0,UNKNOWN,
+16576,16626,0,ROSS,Hey.
+16645,16772,1,RACHEL,Hi. Listen, I was um, thinkin' about. . .
+16791,16804,0,UNKNOWN,
+16804,16817,0,UNKNOWN,
+17004,17103,1,CHANDLER,Listen can you guys uh, speak up, it's harder for us to hear you when you lower your voice.
+17104,17155,1,RACHEL,OK, listen, I'm sorry about last night and I really want to make it up to you.
+17197,17365,0,ROSS,No, you, ya know there's no need to make it u. . . how?
+17366,17427,0,UNKNOWN,
+17427,17555,0,UNKNOWN,
+17581,17656,0,UNKNOWN,
+17848,17893,1,UNKNOWN,
+17893,17939,0,RACHEL,What's this.
+18062,18131,1,UNKNOWN,
+18132,18160,0,DR. BURKE,I'm going to look into your eyes now.
+18180,18467,0,MONICA,Really.
+18469,18516,0,UNKNOWN,
+18541,18589,0,UNKNOWN,
+18777,18825,1,UNKNOWN,
+18852,18888,0,UNKNOWN,
+18888,18924,0,UNKNOWN,
+18926,19019,0,DR. BURKE,Yeah, that's my job. Alright, look up. . . look down, now open your eyes, now look down. That's right, look into the light. Now look at me. . . OK. Your eyes look good. Those are good eyes.
+19161,19188,0,MONICA,Good, they feel good, in my head.
+19188,19284,0,DR. BURKE,So, it's great to see ya.
+19380,19426,0,DR. BURKE,You too.
+19454,19478,0,MONICA,OK, um. Goodbye.
+19478,19502,0,DR. BURKE,Drops!
+19522,19550,0,MONICA,What?
+19623,19740,1,DR. BURKE,Drops. Here, they're free.
+19740,19785,0,MONICA,Thanks. So, I guess I better be going.
+19788,19835,0,DR. BURKE,Oh, OK, yeah. I'll see ya later.
+20149,20243,0,UNKNOWN,
+20314,20410,1,CHANDLER and JOEY,Hey, woah, hey, woah.
+20413,20576,1,PHOEBE,You know you should go outside and be with the three-dimensional people.
+20580,20675,1,JOEY,No, inside good, outside bad.
+20771,20840,1,PHOEBE,You guys are so pathetic, I, oh, OH, XANADU! OH.
+20864,20890,0,CHANDLER,She's one of us now.
+20890,20915,0,RACHEL,Hi you guys.
+20936,20989,1,CHANDLER, JOEY, and PHOEBE,Hey.
+21008,21056,0,ROSS,Well we just wanted to stop by and uh, say goodnight.
+21059,21120,0,CHANDLER, JOEY, and PHOEBE,Goodnight.
+21120,21181,0,ROSS,Look at that, they won't even turn their heads.
+21324,21372,1,RACHEL,Alright you guys, I'm takin' off my shirt.
+21416,21515,1,JOEY,Naa, she's lyin'.
+21539,21586,0,MONICA,Stop sending food to our apartment.
+21586,21632,0,ROSS,Well, why're you all dressed up?
+21633,21658,0,PHOEBE,You're not the only one who has a date tonight.
+21658,21683,0,ROSS,What? You have a date? Who with?
+21703,21728,0,MONICA,No one.
+21728,21753,0,ROSS,C'mon, what's his name?
+21776,21801,0,MONICA,Nothing.
+21824,21894,0,ROSS,Come on, tell me.
+21896,21934,0,UNKNOWN,
+21934,21971,0,UNKNOWN,
+21973,21996,0,MONICA,Alright, but I'm very excited about this OK, so you gotta promise you won't get all big-brothery and judgmental.
+22015,22041,0,ROSS,Oh, I promise, what.
+22041,22067,0,MONICA,It's Richard Burke.
+22069,22111,0,UNKNOWN,
+22136,22174,1,UNKNOWN,
+22174,22280,0,UNKNOWN,
+22281,22305,0,UNKNOWN,
+22305,22375,0,UNKNOWN,
+22452,22510,1,UNKNOWN,
+22510,22568,0,UNKNOWN,
+22572,22631,0,UNKNOWN,
+22631,22691,1,UNKNOWN,
+22710,22760,0,UNKNOWN,
+22760,22811,0,UNKNOWN,
+22812,22854,0,MONICA,Well for your information he happens to be one of the brightest, most sophisticated, sexiest men I've ever been with.
+22856,22929,1,ROSS,Doctor Burke is sexy?
+22974,22999,0,UNKNOWN,
+23001,23025,0,UNKNOWN,
+23025,23049,0,UNKNOWN,
+23092,23118,0,UNKNOWN,
+23118,23143,0,RACHEL,Ya know, Dr. Burke kissed me once.
+23145,23299,0,MONICA,When?
+23299,23337,0,UNKNOWN,
+23356,23372,0,RACHEL,When I was um, 7, I crashed my bike right out in front of his house and to stop me from crying he kissed me right here.
+23372,23388,0,PHOEBE,Oh you are so lucky.
+23429,23468,1,UNKNOWN,
+23468,23506,0,UNKNOWN,
+23554,23612,0,UNKNOWN,
+23612,23671,0,UNKNOWN,
+23673,23721,0,UNKNOWN,
+23890,23924,0,UNKNOWN,
+23924,23959,0,UNKNOWN,
+23961,24009,0,UNKNOWN,
+24009,24057,0,UNKNOWN,
+24076,24112,0,UNKNOWN,
+24112,24148,0,UNKNOWN,
+24151,24187,0,UNKNOWN,
+24187,24223,0,UNKNOWN,
+24273,24299,1,UNKNOWN,
+24367,24414,0,UNKNOWN,
+24414,24462,0,UNKNOWN,
+24464,24488,0,UNKNOWN,
+24488,24512,0,UNKNOWN,
+24532,24579,1,UNKNOWN,
+24608,24652,0,UNKNOWN,
+24964,24990,1,UNKNOWN,
+24990,25016,0,MONICA,Wow, is that Michelle?
+25035,25134,0,DR. BURKE,Yep.
+25134,25179,0,UNKNOWN,
+25229,25255,0,UNKNOWN,
+25275,25325,1,MONICA,I've not seen her since high school graduation. Oh my God, that night she got so dru. . . motional.
+25328,25376,0,DR. BURKE,Ya know, she's having another baby.
+25376,25472,0,MONICA,I thought she just had one.
+25472,25519,0,UNKNOWN,
+25539,25578,0,UNKNOWN,
+25578,25616,0,UNKNOWN,
+25635,25683,0,UNKNOWN,
+25683,25731,1,UNKNOWN,
+25781,25829,0,UNKNOWN,
+25898,25927,0,UNKNOWN,
+26044,26092,0,UNKNOWN,
+26095,26140,0,UNKNOWN,
+26142,26263,1,DR. BURKE,Yeah. Are we nuts here?
+26282,26425,0,MONICA,I don't know, maybe. I mean I'm dating a man who's pool I once peed in.
+26426,26486,0,UNKNOWN,
+26486,26545,1,UNKNOWN,
+26572,26617,0,DR. BURKE,I didn't need to know that. I guess 21 years is a lot. I mean, hell, I'm a whole person who can drink older than you.
+26666,26696,0,MONICA,Yeah.
+26767,26813,0,DR. BURKE,So.
+26813,26956,0,MONICA,So maybe we should just. . .
+27049,27169,0,DR. BURKE,Yeah, yeah, maybe.
+27172,27241,0,MONICA,Wow, this really sucks.
+27650,27723,0,DR. BURKE,Yeah, it sure does.
+27725,27799,0,MONICA,Well, we don't really have to decide anything right now, do we?
+27820,27868,0,DR. BURKE,No, no, there's no rush or anything.
+27868,27916,1,DELIVERY GUY,Pizza delivery.
+27984,28011,0,UNKNOWN,
+28013,28059,0,RACHEL,Oh.
+28063,28151,0,ROSS,I'm done.
+28154,28228,0,RACHEL,Yeah well, you know what, so is uh, Sorentino's.
+28229,28276,0,ROSS,Wha, OK, I'm sorry, let's uh, why don't we find someplace else.
+28276,28322,0,UNKNOWN,
+28323,28349,0,RACHEL,No, you know what, it's late, everything's gonna be closed. Why don't we just do it another night?
+28368,28394,0,ROSS,No, no, we won't.
+28416,28445,0,RACHEL,We won't?
+28464,28493,0,ROSS,C'mon.
+28562,28608,0,UNKNOWN,
+28608,28648,0,RACHEL,What is this? What are we doing?
+28648,28687,0,ROSS,Shh. Do you want cran-apple or cran-grape?
+28752,28826,0,RACHEL,Grape.
+28924,28996,0,ROSS,
+28997,29044,0,UNKNOWN,
+29044,29090,0,UNKNOWN,
+29138,29162,0,UNKNOWN,
+29258,29330,1,ROSS,Sorry.
+29355,29450,1,RACHEL,Ah, so what are we looking at?
+29451,29520,0,UNKNOWN,
+29524,29561,0,UNKNOWN,
+29561,29736,1,RACHEL,Really?
+29741,29932,0,ROSS,I've no idea, could be. Listen, I'm sorry I had to work tonight.
+30148,30196,1,RACHEL,Oh it's OK. You were worth the wait, and I don't just mean tonight.
+30197,30265,0,ROSS,You're not laughing.
+30694,30744,0,UNKNOWN,
+31055,31085,0,UNKNOWN,
+31109,31200,0,UNKNOWN,
+31204,31249,0,UNKNOWN,
+31252,31323,0,RACHEL,Ah, oh God. Oh, honey, oh that's OK.
+31535,31584,0,ROSS,What. Oh no, you just rolled over the juice box.
+32252,32281,0,UNKNOWN,
+32300,32543,0,ROSS,Hi.
+32546,32595,0,RACHEL,Hi you. I can't believe I'm waking up next to you.
+32641,32678,0,ROSS,I know it is pretty unbelievaaaaah.
+32678,32714,0,RACHEL,What?
+33382,33431,0,UNKNOWN,
+33434,33587,0,JOEY,Is that the fire alarm?
+33587,33681,0,CHANDLER,Yeah.  Oh it's not warm yet, we still have time.
+33681,33715,1,UNKNOWN,

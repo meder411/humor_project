@@ -1,0 +1,199 @@
+Frame_Start Frame_End Laugh Speaker Dialogue
+179,306,0,Monica,
+306,704,1,Phoebe,Oh, look at these! Hey, Ben. Just do it.  Oh my God, oh, ok, was that too much pressure for him?
+708,755,0,Susan,Oh, is he hungry already?
+755,803,0,Carol,I guess so.
+823,1014,0,Chandler,You know, it's...
+1038,1067,0,Joey,I gotta get one, too.
+1137,1184,1,Ross,What are you guys doing?
+1187,1302,1,Chandler,We're just hanging out by the spoons. Ladle?
+1304,1401,0,Ross,Look, would you guys grow up? That is the most natural beautiful thing in the world.
+1404,1473,1,Joey,Yeah, we know, but there's a baby suckin' on it.
+1540,1892,0,Ross,This is my son having lunch, ok? It's gonna happen a lot, so you'd better get used to it. Now if you have any problem with it, if you're uncomfortable, just ask questions. Carol's fine with it, now come on.
+1892,1927,0,Ross,Carol?
+1953,2092,0,Chandler,Carol? I was just wondering if Joey could ask you a question about breast-feeding?
+2098,2140,0,Carol,Sure.
+2191,2217,0,Joey,Uh, does it hurt?
+2260,2311,0,Carol,It did at first, but not anymore.
+2314,2338,0,Joey,Chandler?
+2385,2457,0,Chandler,So, uh, how often can you do it?
+2480,2506,0,Carol,As much as he needs.
+2529,2740,0,Joey,Ok, I got one, I got one. Uh, if he blows into one, does the other one get bigger?
+3893,3939,0,Julie,Rachel, do you have any muffins left?
+3940,3978,0,Rachel,Yeah, I forget which ones.
+3978,4052,0,Julie,Oh, you're busy, that's ok, I'll get it. Anybody else want one?
+4052,4086,0,All,No thanks.
+4107,4204,0,Julie,
+4204,4303,0,Rachel,What a bitch.
+4375,4585,1,Julie,Oh, listen you guys. I have this friend at _Bloomingdale's_ who's quitting tomorrow and he wants to abuse his discount. So, anyone want to come with me and take advantage of it?
+4588,4682,1,Phoebe,I can't, I have to take my grandmother to the vet.
+4759,4782,0,Monica,Ok, um, I'll go with you.
+4782,4806,0,Julie,Great.
+4876,4898,0,Ross,Hi, honey.
+4898,4921,1,Chandler,Hey, sweetums.
+4948,4996,0,Ross,Hello to the rest.
+5065,5166,0,Joey,Monica what're you doin'? You can't go shopping with her? What about Rachel?
+5167,5213,0,Monica,It's gonna be a problem, isn't it?
+5213,5356,1,Chandler,Come on, you're going to _Bloomingdale's_ with Julie? That's like cheating on Rachel in her house of worship.
+5380,5548,1,Phoebe,Monica, she will kill you. She will kill you like a dog in the street.
+5642,5718,0,Ross,So, uh, Jules tells me you guys are going shopping tomorrow?
+5740,5799,0,Monica,Yeah, uh, it's actually not that big a deal.
+5799,5908,0,Ross,It's a big deal to me. This is great, Monica. I really appreciate this.
+5909,5954,0,Monica,You're welcome.
+6312,6507,1,Joey,Hey Annabelle.
+6507,6557,1,Annabelle,Hey, Joey. So did you hear about the new guy?
+6557,6581,0,Joey,Who?
+6600,6723,0,Annabelle,Nobody knows his name. Me and the girls just call him the Hombre man.
+6936,6962,0,Hombre Man,
+7080,7130,0,Joey,What's he doin' in my section?
+7132,7177,0,Annabelle,I guess he doesn't know.
+7177,7416,0,Joey,Well, he's gonna. I'll see you a little later, ok?  Hey, how ya doin'?
+7419,7464,0,Hombre Man,Mornin'.
+7465,7681,0,Joey,Listen, I know you're new, but it's kinda understood that everything from Young Men's to the escalator is my territory.
+7728,7776,1,Hombre Man,Your territory, huh?
+7803,7826,0,Joey,Yeah. Bijan for men?
+7826,7848,0,Guy,No thanks.
+7851,7894,0,Hombre Man,Hombre?
+7896,7947,0,Guy,Yeah. All right.
+8111,8159,1,Hombre Man,You were saying?
+8232,8327,1,Monica,Phoebe, listen. You were with me, and we were shopping all day.
+8329,8354,0,Phoebe,What?
+8354,8379,0,Monica,We were shopping, and we had lunch.
+8398,8427,0,Phoebe,Oh, all right. What did I have?
+8446,8494,0,Monica,You had a salad.
+8494,8543,0,Phoebe,Oh, no wonder I don't feel full.
+8544,8569,0,Rachel,Hey, guys, what's up.
+8590,8641,0,Phoebe,I went shopping with Monica all day, and I had a salad.
+8708,8757,0,Rachel,Good, Pheebs. What'd you buy?
+8785,8951,0,Phoebe,Um, we went shopping for um, for, fur.
+9000,9068,0,Rachel,You went shopping for fur?
+9095,9291,0,Phoebe,Yes, and then I realized I'm against that, and uh, so then we bought some,  uh, boobs.
+9434,9482,0,Rachel,You bought boobs?
+9548,9697,0,Phoebe,Bras! We bought bras! We bought bras.
+9770,10079,0,Joey,Hey, Annabelle, Uh, listen, I was wondering if maybe after work you and I could go maybe grab a cup of coffee.
+10082,10171,0,Annabelle,Oh, actually I sorta have plans.
+10268,10296,1,Hombre Man,Ready, Annabelle?
+10340,10464,0,Annabelle,You bet.  Maybe some other time?
+10701,10892,1,Joey,Bijan for men?!
+10920,11061,0,Carol,Ok, and this is Funny Clown. Funny Clown is only for after his naps, not before his naps or he won't sleep.
+11064,11254,1,Ross,Carol, we've been through this before, ok? We have a good time. We laugh, we play. It's like we're father and son.
+11277,11447,0,Susan,Honey, relax. Ross is great with him.  Don't look so surprised. I'm a lovely person.
+11496,11540,0,Rachel,Oh, this is so cute.
+11542,11586,0,Susan,Oh, I got that for him.
+11588,11759,1,Ross,My mommies love me. That's clever.
+11783,12161,1,Monica,Hello? Oh, Hi, Ju
+12164,12212,0,Rachel,Did you just say Hi, Jew?
+12306,12454,0,Monica,Yes. Uh, yes, I did. That was my friend, Eddie Moskowitz. Yeah, he likes it. Reaffirms his faith.
+12545,12584,0,UNKNOWN,
+12584,12622,0,UNKNOWN,
+12624,12694,0,Monica,Yes. Uh, yes, I did. That was my friend, Eddie Moskowitz. Yeah, he likes it. Reaffirms his faith.
+12834,12883,1,Phoebe,Ben, dinner!
+12906,13026,0,Ross,Thanks Aunt Pheebs. Hey, you didn't microwave that, did you, because it's breast milk, and you're not supposed to do that.
+13028,13101,0,Phoebe,Duh, I think I know how to heat breast milk. Ok.
+13192,13242,1,Chandler,What did you just do?
+13244,13290,0,Phoebe,I licked my arm, what?
+13291,13338,0,Ross,It's breast milk.
+13338,13384,0,Phoebe,So?
+13387,13460,0,Rachel,Phoebe, that is juice, squeezed from a person.
+13506,13554,1,Joey,What is the big deal?
+13603,13650,0,Chandler,What did you just do?
+13700,13773,0,Ross,Ok, would people stop drinking the breast milk?
+13818,13853,0,Phoebe,You won't even taste it?
+13853,13888,0,Ross,No!
+13892,13940,0,Phoebe,Not even if you just pretend that it's milk?
+13960,14058,0,Ross,Not even if Carol's breast had a picture of a missing child on it.
+14229,14276,0,Monica,Hey, where is everybody?
+14276,14322,0,Rachel,They took Ben to the park. Where've you been?
+14325,14517,0,Monica,Just out. Had some lunch, just me, little quality time with me. Thanks for your jacket.
+14517,14704,1,Rachel,Oh, no problem. You can borrow it, by the way.
+14779,14898,0,Rachel,Mon, if uh you were at lunch alone, how come it cost you uh 53 dollars?
+14948,15090,1,Monica,You know what probably happened? Someone musta stolen my credit card.
+15095,15184,0,Rachel,And sorta just put the receipt back in your pocket?
+15208,15307,1,Monica,That is an excellent excellent question. That is excellent.
+15352,15405,0,Rachel,Monica, what is with you? Who'd you have lunch with?
+15424,15437,0,Monica,Judy.
+15437,15450,0,Rachel,Who?
+15452,15464,0,Monica,Julie.
+15464,15475,0,Rachel,What?!
+15477,15520,1,Monica,Jody!
+15549,15592,0,Rachel,You were with Julie?
+15620,15999,1,Monica,Look, when it started I was just trying to be nice to her because she was my brother's girlfriend. And then, one thing led to another and, before I knew it, we were...shopping.
+16099,16121,0,Rachel,Oh. Oh my God.
+16172,16339,1,Monica,Honey, wait. We only did it once. It didn't mean anything to me.
+16389,16646,1,Monica,Really, Rachel, I was thinking of you the whole time. Look, I'm sorry, all right. I never meant for you to find out!
+16647,16723,0,Rachel,Oh, please, you wanted to get caught.
+16744,16771,0,Monica,That is not true!
+16772,16839,0,Rachel,Oh, so you just sort of happened to leave it in here?
+16864,16963,0,Monica,Did it ever occur to you that I might just be that stupid?
+17006,17629,0,Rachel,Ok, Monica. I just have to know one thing. Did you go with her to _Bloomingdale's_?
+17896,18303,1,Monica,Hi, Steve.
+18421,18447,0,Carol,How did we do?
+18448,18517,0,Phoebe,Oh, I tasted Ben's milk, and Ross freaked out.
+18540,18565,0,Ross,I did not freak out.
+18568,18615,0,Carol,Why'd you freak out?
+18615,18720,0,Ross,Because it's breast milk. It's gross.
+18720,18756,0,Carol,My breast milk is gross?
+18804,18832,0,Susan,This should be fun.
+18899,19021,0,Ross,No, no, Carol. There's nothing wrong with it. I just, I just don't think breast milk is for adults.
+19024,19141,0,Chandler,Of course the packaging does appeal to grown-ups and kids alike.
+19165,19307,0,Carol,Ross, you're being silly. I've tried it, it's no big deal. Just taste it.
+19309,19357,0,Ross,That would be no.
+19379,19403,0,UNKNOWN,
+19403,19427,0,UNKNOWN,
+19429,19455,0,Phoebe,Come on. It doesn't taste bad.
+19458,19571,0,Joey,Yeah, it's kinda sweet, sorta like, uh...
+19571,19595,0,Susan,Cantaloupe juice.
+19597,19624,0,Joey,Exactly.
+19794,19887,0,Ross,You've tasted it? You've tasted it.
+19936,19984,0,Ross,Oh, you've tasted it.
+20032,20147,0,Susan,You can keep saying it, but it won't stop being true.
+20294,20507,0,Ross,
+21108,21132,0,Chandler,Howdy.
+21183,21348,0,Joey,Gimme a box a juice. Well, they switched me over to Hombre.
+21352,21442,0,Chandler,Well, maybe it's because of the way you're dressed.
+21465,21634,0,Joey,Or maybe it's because this guy's doing so good they wanna put more people on it.  You should see this guy, Chandler, he goes through two bottles a day.
+21684,21824,0,Chandler,What do you care? You're an actor. This is your day job. This isn't supposed to mean anything to you.
+21827,22212,0,Joey,I know, but, I was the best, you know? I liked being the best.  I don't know. Maybe I should just get outta the game. They need guys up in housewares to serve cheese.
+22215,22437,0,Chandler,All right, say you do that. You know sooner or later somebody's gonna come along that slices a better cheddar. And then where're you gonna run?
+22437,22472,0,Joey,Yeah I guess you're right.
+22474,22668,0,Chandler,You're damn right I'm right. I say you show this guy what you're made of. I say you stand your ground. I say you show him that you are the baddest hombre west of the lingerie.
+22690,22714,0,Joey,I'm gonna do it.
+22714,22863,0,Chandler,All right. Now go see Miss Kitty and she'll fix you up with a nice hooker.
+22906,22952,0,Monica,I don't know what else to say.
+22954,23012,0,Rachel,Well that works out good, because I'm not listening.
+23012,23070,0,Monica,I feel terrible, I really do.
+23072,23166,0,Rachel,Oh, I'm sorry, did my back hurt your knife?
+23196,23291,0,Monica,Rachel,  say that I'm friends with her, we spend some time together. Is that so terrible?
+23315,23349,0,Monica,It's that terrible?
+23349,23675,0,Rachel,Yes. Monica, you don't get it. It's bad enough that she's stolen the guy who might actually be the person that I am supposed to be with, but now, she's actually , but now she's actually stealing you.
+23771,24239,0,Monica,Me? What are you talking about? Nobody could steal me from you. I mean, just because I'm friends with her doesn't make me any less friends with you. I mean,  you're my...We're, we're...Oh, I love you.
+24239,24275,0,Rachel,I love you too.
+24391,24748,0,Phoebe,You guys, um I know that this really doesn't have anything to do with me, but um I love you guys too.
+24778,25326,0,Monica,Look, I know that you're in a place right now where you really need to hate Julie's guts, but she didn't do anything wrong. I mean, she was just a girl who met a guy, and now they go out. I really think that if you gave her a chance, you'd like her. Would you just give that a chance, for me?
+25377,25445,0,Rachel,I'd do anything for you, you know that.
+25447,25498,0,Monica,
+25521,25567,0,Phoebe,Wait, wait, wait, wait!
+26020,26164,0,Joey,Mornin'.  I said, mornin'.
+26192,26218,0,Hombre Man,I heard ya.
+26261,26379,0,Store Guy,All right, everybody, I'm openin' the doors. You boys ready?
+26504,26540,0,Hombre Man,Ready.
+26540,26576,0,Joey,Yeah, I'm ready.
+27700,27817,0,Customer,You idiot, you stupid cowboy, you blinded me, I'm suing!
+27818,27951,0,Store Guy,Oh my god, Todd! What the hell did you do?
+27951,28012,0,Hombre Man,I'm sorry. I am such a doofus. I'm so sorry, I'm so sorry.
+28038,28106,0,Annabelle,My god, what happened?
+28108,28396,0,Joey,These new kids, they never last. Sooner or later, they all...stop lastin'. Listen, uh, what do you say I buy you that cup of coffee now?
+28418,28443,0,Annabelle,Sure.
+28735,28770,0,Julie,So.
+28770,29113,0,Rachel,So. I just thought the two of us should hang out for a bit. I mean, you know, we've never really talked. I guess you'd know that, being one of the two of us, though, right?
+29116,29329,0,Julie,I know, I probably shouldn't even tell you this, but I'm pretty much totally intimidated by you.
+29354,29403,0,Rachel,Really? Me?
+29406,29742,0,Julie,Yes. Oh my god, are you kidding? Ross is so crazy about you, and I really wanted you to like me, and, it's probably me being totally paranoid, but I kinda got the feeling that maybe you don't.
+29910,30051,0,Rachel,Well, you're not totally paranoid.
+30240,31032,0,Rachel,Um, ok, uh, oh god, um, when you and uh Ross first started going out, it was really hard for me, um, for many reasons, which I'm not gonna bore you with now, but um, I just, I see how happy he is, you know, and how good you guys are together, and um, Monica's always saying how nice you are, and god I hate it when she's right.
+31061,31203,0,Julie,Thanks. Hey, listen, would you like to go to a movie sometime or something?
+31205,31276,0,Rachel,Yeah, that'd be great. I'd love it.
+31277,31430,0,Julie,I'd love it too. Shoot, I gotta go. So, I'll talk to you later.
+31430,31468,0,Rachel,All right, Julie.
+31678,31728,0,Rachel,Bye.  What a manipulative bitch.
+32475,32497,1,Ross,That's not bad.

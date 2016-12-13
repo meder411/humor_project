@@ -1,0 +1,232 @@
+Frame_Start Frame_End Laugh Speaker Dialogue
+130,322,0,PHOEBE,Ooh, ooh, ooh, ooh, ooh. Ugly Naked Guy is decorating his tree. Oh my God, you should see the size of his Christmas Balls.
+369,442,1,JOEY,Hey, how much did you guys tip the super this year?
+445,536,0,CHANDLER,Yeah, we were gonna give fifty, but if you guys gave more, we don't wanna look bad.
+538,596,0,MONICA,Oh, actually this year we just made him homemade cookies.
+596,653,1,CHANDLER,And twenty-five it is.
+702,737,0,JOEY,You gave him cookies?
+737,942,0,MONICA,Money is so impersonal. Cookies says someone really cares. . . Alright, we're broke, but cookies do say that.
+944,1043,1,PHOEBE,I can see that. A plate of brownies once told me a limerick.
+1093,1184,0,CHANDLER,Phoebs, let me ask you something, were, were these, uh, funny brownies?
+1189,1305,1,PHOEBE,Not especially. But you know what, I think they had pot in them.
+1374,1449,0,ROSS,So you guys, who else did you tip with cookies?
+1451,1517,0,RACHEL,Uhh, the mailman, the super.
+1522,1593,0,MONICA,Oh, and the newspaper delivery guy.
+1614,1660,0,JOEY,Oh my God.
+1661,1711,0,RACHEL,What?
+1711,1761,0,JOEY,Uhhh, I don't think you're gonna like this.
+1811,1903,1,RACHEL,Ooh, goooosh, ooh, these are cookies smashed in the sports section.
+1905,1951,0,MONICA,Oh look, and he did my crossword puzzle.
+1953,2145,0,ROSS,Yeah, but not very well, unless 14-across, 'Gershwin musical' actually is bitemebitemebitemebiteme.
+3296,3533,0,JOEY,I can't believe it's Christmas already. Ya know, I mean, one day your eatin' turkey, the next thing ya know, your lords are a-leapin' and you geese are a-layin'.
+3555,3653,1,CHANDLER,Which is why geese are so relaxed this time of year.
+3675,3701,0,ROSS,Hey guys.
+3701,3727,0,CHANDLER, MONICA, and JOEY,Hey.
+3770,3869,0,ROSS,Hey Rach. I, uh, got you a little present.  _Walks down stairs, alone or in pairs, everyone knows it's_. . . just a big spring. Alright, you still mad at me becuase of the whole. . .
+3919,3966,1,UNKNOWN,
+3991,4082,0,UNKNOWN,
+4083,4398,1,ROSS,Hey Rach. I, uh, got you a little present.  _Walks down stairs, alone or in pairs, everyone knows it's_. . . just a big spring. Alright, you still mad at me becuase of the whole. . .
+4418,4633,1,ROSS,How 'bout from now on we just call it the 'unfortunate incident'?  Hey Gunther, you got stairs in your place?
+4635,4660,0,GUNTHER,Yeah.
+4660,4685,1,ROSS,Here, go nuts.
+4732,4758,0,ROSS,Hey guys.
+4758,4784,0,CHANDLER, MONICA, and JOEY,Hey.
+4806,4842,0,CHANDLER,What's in the bag?
+4842,4878,0,ROSS,Um, just some presents.
+4897,5019,0,JOEY,C'mon show us what you bought. . . You know you want to.
+5041,5190,1,ROSS,OK. OK, this is a picture frame from Ben to my parents, huh.
+5209,5236,0,MONICA,Cute.
+5238,5475,1,ROSS,I got some, uh, hers and hers towels for Susan and Carol. And, uh, I got this blouse for mom.
+5476,5535,1,MONICA,Ross, that is gorgeous!
+5535,5739,1,MONICA,Look at these authentic fake medals. I tell ya, mom's gonna be voted best dressed at the make-believe military academy.
+5808,5845,0,PHOEBE,Happy Christmas Eve Eve.  Oh my God, where did you get this?
+5845,5881,1,UNKNOWN,
+5882,5932,0,PHOEBE,Happy Christmas Eve Eve.  Oh my God, where did you get this?
+5951,6001,0,ROSS,Uh, Macy's, third floor, home furnishings.
+6004,6102,0,PHOEBE,This is my father, this is a picture of my dad.
+6168,6221,1,CHANDLER,Nah, Phoebs, that's the guy that comes in the frame.
+6239,6289,0,PHOEBE,No it isn't, this is my dad, alright, I'll show you.
+6292,6339,0,RACHEL,Phoebe, I thought your dad was in prison.
+6339,6484,0,PHOEBE,No, that's my stepdad. My real dad's the one that ran out on us before I was born.
+6485,6554,1,RACHEL,How have you never been on Oprah?
+6576,6725,0,PHOEBE,OK, look, see, this is him. My mother gave me this picture before she died, same guy.
+6792,6916,1,MONICA,Honey, uh, this is a picture of the frame guy posing in front of a bright blue screen with a collie.
+6936,7200,0,PHOEBE,It's not a blue screen... it's just, maybe it was just really clear that day. OK, I have to talk to my grandmother.
+7202,7238,1,MONICA,Oh, wait a minute honey.
+7238,7274,0,GANG,Phoebs.
+7368,7462,0,JOEY,So anyway, I'm trying to get my boss's ex-wife to sleep with me. . .
+7464,7489,1,GANG,Joey!
+7493,7608,0,JOEY,Oh, but when Phoebe has a problem, everyone's all ears!
+7634,7774,1,GRANDMOTHER,Esther Livingston.  Gone.
+7825,7869,0,GRANDMOTHER,Hi, Phoe.
+7872,7920,0,PHOEBE,Hi Gram. Whatcha doin'?
+7922,8017,0,GRANDMOTHER,Oh, just updating the phonebook.
+8038,8133,0,PHOEBE,Um, gram, um, can I see the pictures of my dad again?
+8137,8293,0,GRANDMOTHER,Oh. Oh, sure, sure, uh, uh, how come?
+8293,8331,0,PHOEBE,Just, you know, to see... um.
+8350,8900,1,GRANDMOTHER,Oh, sure, yeah.  This is the one of you father in a meadow, and, uh, helping a little boy fly a kite, and here he is at a graduation. . . another graduation. . . another graduation.
+8925,8972,1,PHOEBE,OK, is this really my father?
+8977,9097,0,GRANDMOTHER,Is it really your fa--I can't... well of course it is.
+9121,9239,0,PHOEBE,OK, I smell smoke. Maybe that's 'cause someone's pants are on fire.
+9262,9404,0,PHOEBE,Ya know, in all the years that we have been grandmother and granddaughter, you have never lied to me.
+9406,9529,0,GRANDMOTHER,Alright, that is not your father, that's just a picture of a guy in a frame.
+9554,9596,0,PHOEBE,Oh God.
+9602,10031,0,GRANDMOTHER,It was your mother's idea. Ya know, she didn't want you to know your real father because it hurt her so much when he left, and, I didn't want to go along with it, but, well then she died and, and it was harder to argue with her. Not impossible, but harder.
+10033,10321,0,PHOEBE,Alright, so, what, he's not a famous tree surgeon? And then, I guess, OK, he doesn't live in a hut in Burma where there's no phones?
+10341,10416,0,GRANDMOTHER,Last I heard, he was a pharmacist somewhere upstate.
+10434,10554,0,PHOEBE,OK, that makes no sense. Why would the villagers worship a pharmacist?
+10602,10631,0,GRANDMOTHER,Honey.
+10651,10698,0,PHOEBE,Oh.
+10699,11131,0,GRANDMOTHER,Anyway, that's all I know. That, and this.  This is the real him.
+11253,11590,0,CHANDLER,Ya know I remember my father, all dressed up in the red suit, the big black boots, and the patent leather belt, sneakin around downstairs. He didn't want anybody to see him but he'd be drunk so he'd stumble, crash into something and wake everybody up.
+11610,11681,0,RACHEL,Well, that doesn't sound like a very merry Christmas.
+11684,11733,0,CHANDLER,Who said anything about Christmas?
+11803,11838,0,MONICA,Hi.
+11838,11874,0,ROSS,Hey, anyone hear from Phoebe yet?
+11875,11901,0,RACHEL,No, nothin'.
+11921,11959,0,MONICA,I hope she's OK.
+11959,11998,0,JOEY,Yeah, I know exactly what she's goin' through.
+12017,12065,0,MONICA,How do you know exactly what she's going through?
+12068,12117,0,JOEY,She told us.
+12187,12223,0,CHANDLER,So whaddya got there Monica?
+12223,12259,0,MONICA,Just some stuff for the party.
+12262,12331,0,ROSS,Yeah, what're you guys doin' here, aren't you supposed to be Christmas shopping?
+12332,12450,0,MONICA,You guys haven't gotten your presents yet? Tomorrow's Christmas Eve, what're ya gonna do?
+12452,12547,0,CHANDLER,Don't you have to be Claymation to say stuff like that?
+12571,12716,0,RACHEL,Oh, by the way Mon, I don't think the mailman liked your cookies. Here are the ornaments your mom sent.
+12785,12886,0,MONICA,Well, maybe the mailman liked the cookies, we just didn't give him enough.
+12906,12978,0,JOEY,Monica, pigeons learn faster that you.
+13170,13338,0,ROSS,Hey, Rach, you know what? I think, I think I know what'll make you feel better. How 'bout you make a list about me.
+13340,13434,0,RACHEL,Wha... forget it Ross, no, I am not gonna stand here and make a list of. . .
+13434,13845,0,RACHEL,OK, you're whiney, you are, you're obsessive, you are insecure, you're, you're gutless, you know, you don't ever, you don't just sort of seize the day, you know. You like me for what, a year, you didn't do anything about it. And, uh, oh, you wear too much of that gel in your hair.
+13935,14036,0,ROSS,See there, you uhh, alright, ya, you did what I said.
+14037,14180,0,RACHEL,Yeah, and you know what? You're right, I do feel better, thank you Ross.
+14298,14732,0,PHOEBE,Yeah, um, in Albany, can I have the number of Frank Buffay. . . OK, um, in Ithica. . . alright, um, Saratoga. . . Oneonta. Alright, you know what, you shouldn't call youself information.
+14895,14991,0,PHOEBE,Hello grandma, if that is in fact your real name.
+14994,15137,0,GRANDMOTHER,C'mon now Phoe, don't still be mad at me. How's it going?
+15137,15285,0,PHOEBE,Well, not so good. Upstate's pretty big, he's pretty small, you do the math.
+15304,15620,0,GRANDMOTHER,Well, I think you're better off without him. Oh honey, I know he's your daddy but, but to me he's still the irresponsible creep who knocked up your mom and stole her Gremlin.
+15642,15740,0,PHOEBE,No I just, just wanted to know who he was, ya know.
+15764,16050,0,GRANDMOTHER,I know. OK, I wasn't completely honest with you when I told you that, uh, I didn't know exactly where he lived.
+16051,16096,0,PHOEBE,Whattaya mean?
+16098,16362,0,GRANDMOTHER,He lives at 74 Laurel Drive in Middletown. If you hit the Dairy Queen, you've gone too far. You can take my cab.
+16363,16453,0,PHOEBE,Wow. Thank you.
+16478,16554,0,GRANDMOTHER,Now, remember, nobody else drives that cab.
+16555,16838,0,PHOEBE,Uh-huh, got it. Ooh, I'm gonna see my dad. Wish me luck, Grandpa!
+17034,17085,0,JOEY,Phoebe here with the cab yet?
+17106,17198,0,CHANDLER,Yeah, she, she brought the invisible cab. . . hop in.
+17222,17273,0,JOEY,Well she better get here soon, the outlet stores close at 7.
+17274,17534,0,CHANDLER,Hey, don't worry. I figure it'll be 2 hours to Phoebe's dad's house, they'll meet, they'll chat, they'll swap life stories, we'll still have plenty of time.
+17556,17581,0,JOEY,Hey, here she comes.
+17581,17607,0,Chandler,Hey.
+17801,17897,0,PHOEBE,Can you believe this. In, like, two hours I'm gonna have a dad. Eeeshk.
+17923,17967,0,JOEY,Yeah, big stuff.
+17967,18012,0,PHOEBE,OK, let's go.
+18013,18060,0,PHOEBE,Alright, here, you have to hold this.
+18137,18185,0,CHANDLER,OK.  Brake left, gas right?
+18207,18277,0,PHOEBE,Uh-huh, yeah, that's my cheat sheet.
+18330,18364,0,CHANDLER,Where's my seat belt?
+18364,18471,0,PHOEBE,Oh, no no, that side doesn't have one, the paramedics had to cut through it.
+18755,18826,0,ROSS,C'mon, just tell me, please, please.
+18829,18924,0,MONICA,For the sixteenth time, no... I do not think you're obsessive.
+18970,18999,0,RACHEL,Oh, gosh, it's hot in here.
+19000,19094,0,MONICA,Rach, get the heat.  Ross, could you turn the heat down please?
+19095,19141,0,ROSS,Sure. By the way, there's a difference between being obsessive and. . .
+19141,19187,0,MONICA,Ross, the heat!
+19189,19289,0,ROSS,Fine, OK! Heat, heat, heat, and I'm the obsessive one.  off.
+19311,19382,0,UNKNOWN,
+19384,19549,0,UNKNOWN,
+19573,19633,0,RACHEL,Did you just break the radiator?
+19633,19743,0,ROSS,No, no, I was turnin' the knob and, and. . . here it is.
+19763,19813,0,MONICA,Well put it back.
+19885,19920,0,ROSS,It uhh, it won't go back.
+19920,19955,0,RACHEL,I'll call the super.
+19957,19984,0,MONICA,Here, let me try.
+20002,20101,0,ROSS,Oh, oh that's right, I forgot about your ability to fuse metal.
+20103,20172,0,MONICA,Hey, it's Funny's cousin, Not Funny.
+20193,20726,0,RACHEL,Hi, Mr. Treeger. Hi, it's Rachel Green from upstairs. Yes, _somebody_, uh, broke our knob on the radiator and it's really hot in here. Yes, it's, it's hot enough to bake cookies. Well, do you think we could have a new one by 6? Wha t, no, no, Tuesday, we can't wait until Tuesday, we're having a party tonight.
+20745,20772,0,ROSS,OK, tip the man.
+20774,20968,0,MONICA,No, if he doesn't like our cookies, too bad, I am not gonna be blackmailed. Look if worse comes to worse, it gets a little warm, we'll call it a theme party.
+20986,21080,0,ROSS,Hey, here's a theme  Come on in, live like bacon.
+21130,21203,0,PHOEBE,Ooh, this is it, 74.
+21250,21321,0,CHANDLER,Oh, so that's what this is for.
+21326,21455,0,PHOEBE,Wow, this is it, I'm gonna meet my dad. This is like the biggest thing ever, huh.
+21455,21494,0,JOEY,Sure is.
+21513,21561,0,PHOEBE,OK, here I go. I'm goin' in.
+21564,21588,0,CHANDLER,Alright.
+21588,21612,0,JOEY,Good luck Phoebs.
+21632,21874,0,PHOEBE,OK, here I go. . . here I go. . . I'm goin'.
+22164,22377,0,RACHEL,Hi, welcome to our tropical Christmas party. You can put your coats and sweaters and pants and shirts in the bedroom.
+22402,22693,0,ROSS,It's hard to tell because I'm sweating, but I use exactly what the gel bottle says, an amount about the size of a pea. How, how can that be too much?
+22764,22928,0,MONICA,Ice, ice, ice squares anyone? Take a napkin. Alright.
+22952,23073,0,ROSS,Monica, Monica, your guest are turning into jerky, OK.
+23074,23145,0,MONICA,Really? I'm perfectly comfortable.
+23146,23192,0,UNKNOWN,
+23192,23237,0,UNKNOWN,
+23314,23350,0,RACHEL,Mr. Treeger.
+23350,23386,0,MR. TREEGER,Uhh, you said there was a party.
+23387,23482,0,RACHEL,Oh, yeah, well hey, welcome to our sauna.
+23483,23696,0,MR. TREEGER,Ahh, is it hot? My body always stays cool, probably 'cause I have so much skin. Hey, cheese!
+23742,23885,0,ROSS,Alright, alright, here's the chance. Monica give him cash, Rachel give him your earrings. Something, now, anything.
+23888,23923,0,MONICA,No, I will not cave.
+23923,23957,0,RACHEL,Yeah, I'm with Mon.
+23958,24294,0,ROSS,Alright, alright, you know how you say I never seize the day? Well, alright, even though he's your super, I'm seizing.  Mr. Treeger, here is 50 bucks, merry Christmas.
+24296,24438,0,MR. TREEGER,Oh wow, I didn't get you anything. Here's five back.
+24445,24629,0,ROSS,No no, no, that, that's your Christmas tip, alright. Oh, hey, do you think there's a chance you could fix that radiator now?
+24631,24751,0,MR. TREEGER,No can do, like I told the girl, I can't get a new knob until Thursday.
+24753,24798,0,MONICA,Ross.
+24798,24844,0,MONICA,Looks like he's playin' baseball.
+24846,24893,0,ROSS,You mean hardball?
+24966,24991,0,MONICA,Whatever.
+25015,25052,0,RACHEL,What'cha gonna' do?
+25052,25326,0,ROSS,Excuse me, I'm seizing. Mr. Treeger, here's another 50, happy Hanukkah. Will uh, will this help with the knob getting?
+25330,25497,0,MR. TREEGER,No, the place is not open 'till Tuesday. Am I not saying it right.
+25522,25589,0,MONICA,So, wait, you really did like my cookies?
+25591,25711,0,MR. TREEGER,Oh, yeah, they were so personal, really showed you cared.
+25809,25901,0,RACHEL,Nice seizing. . . gel boy.
+25974,26048,0,MR. TREEGER,So, uh, is this, uh, mistletoe?
+26098,26210,0,RACHEL,Huh-huh, no act--no, uhh, that, that is basil.
+26283,26381,0,MR. TREEGER,Ahh, if it was mistletoe, I was gonna kiss ya.
+26407,26475,0,RACHEL,Huh-hoo, yeah, no, it's still basil.
+26787,26813,0,PHOEBE,OK.
+26835,26859,0,JOEY,How far'd ya get?
+26859,26883,0,PHOEBE,Mailbox.
+26885,26957,0,CHANDLER,Alright, we're gettin' closer.
+26983,27029,0,JOEY,Phoebs, what's goin' on?
+27031,27296,0,PHOEBE,No, it's just like, ya know, it's a whole mess of stuff, ya know. It's like, yesterday, ya know, my dad was this, like, famous Burma tree surgeon guy and, ya know, now he's a, a pharmacist guy and. . .
+27314,27409,0,JOEY,Well, maybe he's, maybe he's this really cool pharmacist guy.
+27411,27770,0,PHOEBE,Yeah, maybe, yeah. You know, and, and I'll knock on the door and, and he'll hug me and I'll have a dad. Ya know and I'll, I'll go to his pharmacy and everyone will be really nice to me 'cause, you know, I'm Franks daughter.
+27771,27841,0,CHANDLER,Well, so why not go knock?
+27892,28489,0,PHOEBE,Well, 'cause, I mean, what if, what if he's not this great dad guy? I mean, what if, what if he's just still the dirtbag who ran out on my mom and us? You know what? I've already lost a fake dad this week and I don't think I'm ready to lose a real one.
+28520,28614,0,JOEY,Phoebs, that's OK. You took a big step today.
+28638,28661,0,PHOEBE,Yeah?
+28661,28780,0,CHANDLER,Yeah, and someday when you're ready, you'll make it past the hedges.
+28782,28873,0,JOEY,Yeah, and when you do, he'll be lucky to have you.
+28875,29046,0,PHOEBE,You guys. I'm sorry about your shopping.
+29046,29139,0,CHANDLER,Oh, that's OK, we'll figure something out.
+29187,29545,0,JOEY,Uh, listen Phoebs, I know you're not goin' in there but do you think it'd be alright if I went in and used his bathroom? Oh, that's fine, never mind. Cool, snow, kinda like a blank canvas.
+29766,29837,0,CHANDLER,Ho, ho, ho, holy crap is it hot in here!
+29906,29953,0,JOEY,Really, hey, you mind if I turn the heat down?
+29955,30029,0,MONICA,Hey, we could have used that kind of thinkin' earlier.
+30030,30078,0,ROSS,Hey, Phoebs, how'd it go.
+30097,30144,0,PHOEBE,Oh, I couldn't go in.
+30146,30170,0,MONICA,Honey, I'm sorry.
+30170,30195,0,ROSS,Are you OK?
+30196,30314,0,PHOEBE,Yeah, yeah, no it's OK 'cause, I mean, I know he's there, so, that's enough for now.
+30316,30389,0,CHANDLER,Hey, guys, it's after midnight, merry Christmas everyone.
+30407,30481,0,UNKNOWN,
+30528,30650,0,JOEY,Hey, Monica, the knob was broken so I just turned it off from underneath, I hope that's alright.
+30935,30962,0,UNKNOWN,
+30965,31012,0,UNKNOWN,
+31012,31060,0,UNKNOWN,
+31109,31156,0,JOEY,Rach, these are for you.
+31180,31276,0,RACHEL,Wiper blades. I don't even have a car.
+31295,31391,0,JOEY,No, but with this new car smell, you'll think you do.
+31463,31511,0,CHANDLER,OK, Phoebs, your turn.
+31608,31848,0,PHOEBE,Ahh, toilet seat covers! Is that what you were doing while I was getting gas?
+31850,31944,0,JOEY,And for Ross, Mr. Sweet-tooth.
+32018,32065,0,ROSS,You got me a cola drink?
+32066,32137,0,CHANDLER,And, a lemon lime.
+32185,32304,0,ROSS,Well this, this is too much, I feel like I should get you another sweater.
+32354,32424,0,CHANDLER,And last but not least.
+32470,32523,1,JOEY,They're ribbed for your pleasure.
