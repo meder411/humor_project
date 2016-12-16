@@ -1,18 +1,21 @@
+# PYTHON DATA LAYER
 layer {
 	name: "data"
 	type: "Python"
 	top: "frame_data"
 	top: "word_data"
 	top: "speaker_vec"
+	top: "pos_vec"
 	top: "cont_sequence"
 	top: "gt_laugh"
 	python_param {
 		module: "humornet_data_layer"
 		layer: "HumorNetDataLayer"
-		param_str: "{\'batch_size\': 1, \'phase\': \'test\', \'image_root\': \'../frames\', \'label_file\':\'amfed_test_labels.txt\'}"
+		param_str: "{\'batch_size\': 16, \'timesteps\': 200, \'frame_root\': \'../dataset/video/frames\', \'text_root\': \'../dataset/subtitles/organized_data\', \'vocab_file\':\'../dataset/vocab.txt\', \'speaker_file\': \'../dataset/speakers.txt\', \'pos_file\': \'../dataset/pos.txt\'}"
 	}
 }
 
+# HUMOR NETWORK
 layer {
 	name: "word_embedding"
 	type: "Embed"
@@ -23,7 +26,7 @@ layer {
 	}
 	embed_param {
 		bias_term: false
-		input_dim: 12594 #youtube_vocab+1
+		input_dim: 4640 #vocab+1
 		num_output: 500
 		weight_filler {
 			type: "uniform"
@@ -34,9 +37,104 @@ layer {
 }
 
 layer {
+	name: "reshape_word_embeddings"
+	type: "Reshape"
+	bottom: "embedded_word"
+	top: "reshaped_embedded_word"
+	reshape_param {
+		shape {
+			dim: 200
+			dim: -1
+			dim: 500
+		}
+	}
+}
+
+layer {
+	name: "speaker_embedding"
+	type: "Embed"
+	bottom: "speaker_vec"
+	top: "embedded_speaker"
+	param {
+		lr_mult: 1
+	}
+	embed_param {
+		bias_term: false
+		input_dim: 131 #speakers+1
+		num_output: 30
+		weight_filler {
+			type: "uniform"
+			min: -0.08
+			max: 0.08
+		}
+	}
+}
+
+layer {
+	name: "reshape_speaker_embeddings"
+	type: "Reshape"
+	bottom: "embedded_speaker"
+	top: "reshaped_embedded_speaker"
+	reshape_param {
+		shape {
+			dim: 200
+			dim: -1
+			dim: 30
+		}
+	}
+}
+
+layer {
+	name: "pos_embedding"
+	type: "Embed"
+	bottom: "pos_vec"
+	top: "embedded_pos"
+	param {
+		lr_mult: 1
+	}
+	embed_param {
+		bias_term: false
+		input_dim: 39 #speakers+1
+		num_output: 20
+		weight_filler {
+			type: "uniform"
+			min: -0.08
+			max: 0.08
+		}
+	}
+}
+
+layer {
+	name: "reshape_pos_embeddings"
+	type: "Reshape"
+	bottom: "embedded_pos"
+	top: "reshaped_embedded_pos"
+	reshape_param {
+		shape {
+			dim: 200
+			dim: -1
+			dim: 20
+		}
+	}
+}
+
+layer {
+	name: "reshape_frame_data"
+	type: "Reshape"
+	bottom: "frame_data"
+	top: "reshaped_frame_data"
+	reshape_param {
+		shape {
+			dim: -1
+			dim: 4096
+		}
+	}
+}
+
+layer {
 	name: "frame_embedding"
 	type: "InnerProduct"
-	bottom: "frame_data"
+	bottom: "reshaped_frame_data"
 	top: "embedded_frame"
 	param {
 		lr_mult: 1
@@ -59,13 +157,27 @@ layer {
 }
 
 layer {
+	name: "reshape_frame_embeddings"
+	type: "Reshape"
+	bottom: "embedded_frame"
+	top: "reshaped_embedded_frame"
+	reshape_param {
+		shape {
+			dim: 200
+			dim: -1
+			dim: 500
+		}
+	}
+}
+
+layer {
 	name: "lstm1"
 	type: "LSTM"
-	bottom: "embedded_frame"
+	bottom: "reshaped_embedded_frame"
 	bottom: "cont_sequence"
 	top: "lstm1"
 	recurrent_param {
-		num_output: 1000
+		num_output: 200
 		weight_filler {
 			type: "uniform"
 			min: -0.08
@@ -82,8 +194,9 @@ layer {
 	name: "concat1"
 	type: "Concat"
 	concat_param { concat_dim: 2 } # concat along h
-	bottom: "speaker_vec"
-	bottom: "embedded_word"
+	bottom: "reshaped_embedded_word"
+	bottom: "reshaped_embedded_speaker"
+	bottom: "reshaped_embedded_pos"
 	bottom: "lstm1"
 	top: "lstm2_input"
 }
@@ -95,7 +208,7 @@ layer {
 	bottom: "cont_sequence"
 	top: "lstm2"
 	recurrent_param {
-		num_output: 1000
+		num_output: 200
 		weight_filler {
 			type: "uniform"
 			min: -0.08
@@ -109,28 +222,52 @@ layer {
 }
 
 layer {
-	name: "loss"
-	type: "SigmoidCrossEntropyLoss"
+	name: "predict"
+	type: "InnerProduct"
 	bottom: "lstm2"
-	bottom: "gt_laugh"
-	top: "loss"
-	include { phase: TRAIN }
+	top: "prediction"
+        param {
+                lr_mult: 1
+                decay_mult: 1
+        }
+        param {
+                lr_mult: 2
+                decay_mult: 0
+        }
+        inner_product_param {
+                num_output: 2
+                weight_filler {
+                        type: "xavier"
+                }
+                bias_filler {
+                        type: "constant"
+                        value: 0.2
+                }
+		axis: 2
+        }
 }
 
 layer {
-	name: "sigmoid"
-	type: "Sigmoid"
-	bottom: "lstm2"
+	name: "loss"
+	type: "SoftmaxWithLoss"
+	bottom: "prediction"
 	bottom: "gt_laugh"
-	top: "sigmoid"
-	include { phase: TEST }
+	top: "loss"
+	include { phase: TRAIN }
+	softmax_param {
+		axis: 2
+	}
 }
 
 layer {
 	name: "accuracy"
 	type: "Accuracy"
-	bottom: "sigmoid"
-	bottom: "target_sequence"
+	bottom: "prediction"
+	bottom: "gt_laugh"
 	top: "accuracy"
 	include { phase: TEST }
+	accuracy_param {
+		axis: 2
+	}
 }
+

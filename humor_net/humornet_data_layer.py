@@ -6,12 +6,17 @@ import sys
 sys.path.append('/playpen/meder/libraries/caffe/python')
 import caffe
 import numpy as np
+import os
 import os.path as osp
 import random
+import math
+import string
+import nltk
+import sqlite3
 from PIL import Image
 
 # Python data layer to for FaceNet
-class HumorNetNetDataLayer(caffe.Layer):
+class HumorNetDataLayer(caffe.Layer):
 
 	def setup(self, bottom, top):
 
@@ -29,10 +34,10 @@ class HumorNetNetDataLayer(caffe.Layer):
 		self._batch_loader = BatchLoader(params)
 	
 		# Reshape tops
-		top[0].reshape(self._timesteps, self._batch_size, 4096) # FRAME DATA - timesteps, batch size, frame_data_vector length (VGG fc7)
-		top[1].reshape(self._timesteps, self._batch_size, vocab_size + 1) # WORD VECTOR - timesteps, batch size, vocab size + 1
-		top[2].reshape(self._timesteps, self._batch_size, pos_size) # POS TAGS - timesteps, batch size, pos tag size
-		top[3].reshape(self._timesteps, self._batch_size, speaker_size) # SPEAKER VECTORS - timesteps, batch size, speaker size
+		top[0].reshape(self._timesteps, self._batch_size, 4096) # FRAME_VECS - timesteps, batch size, 4096
+		top[1].reshape(self._timesteps, self._batch_size) # WORD VECTOR - timesteps, batch size, (word is index of one-hot vector)
+		top[2].reshape(self._timesteps, self._batch_size) # POS TAGS - timesteps, batch size, (pos is index of one-hot vector)
+		top[3].reshape(self._timesteps, self._batch_size) # SPEAKER VECTORS - timesteps, batch size (speaker is index of one-hot vector)
 		top[4].reshape(self._timesteps, self._batch_size) # CONTINUATION MARKERS - timesteps, batch_size
 		top[5].reshape(self._timesteps, self._batch_size) # GT LABELS -timesteps, batch_size
 		
@@ -42,12 +47,11 @@ class HumorNetNetDataLayer(caffe.Layer):
 		for itt in range(self._batch_size):
 			# Use the batch loader to load the next image.
 			frame_vec, word_vec, pos_vec, speaker_vec, cont_label, gt_laugh = self._batch_loader.load_next_sequence()
-
 			# Add data directly to the Caffe data layer
 			top[0].data[:, itt, ...] = frame_vec
-			top[1].data[:, itt, ...] = word_vec
-			top[2].data[:, itt, ...] = pos_vec
-			top[3].data[:, itt, ...] = speaker_vec
+			top[1].data[:, itt] = word_vec
+			top[2].data[:, itt] = pos_vec
+			top[3].data[:, itt] = speaker_vec
 			top[4].data[:, itt] = cont_label
 			top[5].data[:, itt] = gt_laugh
 
@@ -68,99 +72,164 @@ class BatchLoader(object):
 	# Initializer
 	def __init__(self, params):
 		self._batch_size = params['batch_size'] # Number of images to load into the network at a time
-		self._srt_root = params['srt_root'] # Root directory of subtitle files
+		self._text_root = params['text_root'] # Root directory of subtitle files
 		self._frame_root = params['frame_root'] # Root directory of frame data files
 		self._timesteps = params['timesteps'] # Number of timesteps in each sequence
 		self._vocab_file = params['vocab_file'] # Path to vocab file
 		self._speaker_file = params['speaker_file'] # Path to speaker file
 		self._pos_file = params['pos_file'] # Path to POS file
-		self._num_vocab = params['num_vocab'] # Size of vocabulary
-		self._num_speakers = params['num_spekaers'] # Number of speakers
-		self._num_pos = params['num_pos'] # Number of POS tags
-		self._cur = 0 # Current sequence index
 
-		# Initialize an augmenter for augmenting dataset
-		self._augmenter = Augmenter()	
+		# Seed random number generator
+		self._seed = 319874
+		random.seed(self._seed)
 
-		# Load and process the data
-		self._frame_vecs = np.zeros(self._timesteps, 1, 4096)
-		self._word_vecs = np.zeros(self._timesteps, 1, self._num_vocab + 1)
-		self._speaker_vecs = np.zeros(self._timesteps, 1, self._num_speakers)
-		self._pos_vecs = np.zeros(self._timesteps, 1, self._num_pos)
-		self._cont_sequences = np.zeros(self._timesteps, 1)
-		self._gt_laughs = np.zeros(self._timesteps, 1)
-		self.__load_data(self._srt_root, self._frame_root)
+		# Load vocabulary, speakers, POS
+		self._episode_frames = dict()
+		self._episode_laughs = dict()
+		self._episode_speakers = dict()
+		self._episode_words = dict()
+		self._episode_pos = dict()
+		self._vocabulary = dict()
+		self._speakers = dict()
+		self._pos = dict()
+
+		self.__load_data()
+
+		# Hard-coded values		
+		self._min_seq_len = 3
+		self._max_seq_len = 20
+		self._num_vocab =  4640 # Size of vocabulary + 1
+		self._num_speakers = 131 # Number of speakers + 1
+		self._num_pos = 39 # Number of POS tags + 1
+
+		# Connect to sqlite DB for vision features
+		self._conn = sqlite3.connect('../scene_encoding/features.db', detect_types = sqlite3.PARSE_DECLTYPES)
+		self._c = self._conn.cursor()
 
 
-	 # Load the next image in a batch.
+	 # Load the next sequence in a batch.
 	def load_next_sequence(self):
 
-		# If all data has been seen, change the order
-		if self._cur == len(self._image_paths):
-			self._cur = 0 # Reset image index
-			self.__shuffle_lists() # Shuffle the data
-		
-		# Load a sequence
-		frame_vec = np.asarray(self._frame_vecs[self._cur])
-		word_vec = self._word_vecs[self._cur]
-		speaker_vec = self._speaker_vecs[self._cur]
-		pos_vec = self._pos_vecs[self._cur]
-		cont_sequence = self._cont_sequences[self._cur]
-		gt_laugh = self._gt_laughs[self._cur]
+		# Allocate space
+		frame_vecs = np.zeros([self._timesteps, 4096])
+		word_vecs = np.zeros(self._timesteps)
+		speaker_vecs = np.zeros(self._timesteps)
+		pos_vecs = np.zeros(self._timesteps)
+		cont_sequences = np.zeros(self._timesteps)
+		gt_laughs = np.zeros(self._timesteps)
 
-		# Pull corresponding ground truth and convert to numpy float32 type array
-		label = np.asarray(self._labels[self._cur], dtype=np.float32)
+		# Pick a random episode
+		ep = random.choice(self._episode_frames.keys())
 
-		# Log a test run
-		if self._phase is 'test':
-			with open(osp.join('..', 'logs', 'test_GT_log.txt'), 'a') as f:
-			    f.write(str(self._cur) + ' ' + self._image_paths[self._cur] + ' '.join(map(str, map(int, label))) + '\n')
+		frames = self._episode_frames[ep]
+		words = self._episode_words[ep]
+		pos = self._episode_pos[ep]
+		speakers = self._episode_speakers[ep]
+		laughs = self._episode_laughs[ep]
 
-		# Process image
-		self._transformer.set_mean([np.mean(img[:,:,i]) for i in xrange(img.shape[2])])
-		img = self._transformer.augment(img) # Perform data augmentation steps on image (random crops and random flips)
+		# Pick a random sequence length
+		length = random.randint(self._min_seq_len, self._max_seq_len)
 
-		# Increment image index
-		self._cur += 1
-		
-		return self._transformer.preprocess(img), label, self._weights
+		# Pick a random starting utterance	
+		starting_idx = random.randint(0, len(words) - length - 1)
+
+		# Go through each utterance in the subtitle sequence
+		num_words = 0
+		seq_idx = 0
+		for i in xrange(starting_idx, starting_idx + length):
+			utterance_size = len(words[i])
+			if utterance_size > 0:
+				# If adding utterance will overflow timesteps, break (TODO make this not a break statement)
+				num_words += utterance_size
+				if num_words > self._timesteps:
+					break
+
+				# Determine <utterance_size> equal frame blocks
+				frame_start = frames[i][0]
+				frame_end = frames[i][1]
+				frame_step = math.floor(frame_start - frame_end / utterance_size)
+
+				# Go through each word in utterance
+				mult = 1
+				for j in xrange(len(words[i])):
+				
+					# If speakers in known list, encode it as one-hot vector, otherwise make in UNK
+					if speakers[i] in self._speakers:
+						speaker_vecs[seq_idx] = speakers[i]
+					else:
+						speaker_vecs[seq_idx] = len(self._speakers)
+
+					# If POS in known list, encode it as one-hot vector, otherwise make it UNK
+					if pos[i][j] in self._pos:
+						pos_vecs[seq_idx] = self._pos[pos[i][j]]
+					else:
+						pos_vecs[seq_idx] = len(self._pos)
+
+					# If word in known list, encode it as one-hot vector, otherwise make it UNK
+					if words[i][j] in self._vocabulary:
+						word_vecs[seq_idx] = self._vocabulary[words[i][j]]
+					else:
+						word_vecs[seq_idx] = len(self._vocabulary)
+
+					# If this is not the first word in a dialogue line, make continuation sequence a 1
+					if i > 0:
+						cont_sequences[seq_idx] = 1
+					
+					# Store ground truth laugh
+					gt_laughs[seq_idx] = laughs[i]
+
+					# Extract random frame from uniformly sized blocks according to size of utterance
+					begin = frame_start + (mult - 1) * frame_step
+					end = min(frame_start + mult * frame_step, frame_end)
+					mult += 1
+					rows = self._c.execute('SELECT feature FROM features WHERE episode = (?) AND frame_number >= (?) AND frame_number <= (?)',
+						[ep, begin, end]).fetchall()
+					if len(rows):
+						idx = random.randrange(0, len(rows))
+						frame_vecs[seq_idx, :] = np.frombuffer(rows[idx][0], np.float32)
+
+					# Increment sequence counter
+					seq_idx += 1
+								
+		return frame_vecs, word_vecs, pos_vecs, speaker_vecs, cont_sequences, gt_laughs
 
 	# Read the data from the file
-	def __load_data(self, image_root, data_file, weights_file):
-		with open(data_file, 'r') as f:
-			label_names = f.readline()
-			label_names = [lbl for lbl in label_names.strip('\n\r').split(' ')[2:]]
-			data = f.readlines()
-			data = [line.strip('\r\n').split(' ') for line in data]
-			data =[[line[0], line[1], [float(x) >= 0.5 for x in line[2:]]] for line in data]
-			self._labels = [line[2] for line in data]
-			self._image_paths = [osp.join(image_root, line[0], line[0] + '_' + line[1] + '.jpg') for line in data]
-	
-	# Shuffle the data lists *together*
-	def __shuffle_lists(self):
-		# First shuffle the indices
-		index_shuffle = range(len(self._image_paths))
-		random.shuffle(index_shuffle)
-		
-		# Then reindex the lists
-		self._image_paths = [self._image_paths[i] for i in index_shuffle]
-		self._labels = [self._labels[i] for i in index_shuffle]
-
-	# Resize an image so the smaller of height/width is 256
-	# Requires img to be of type PIL.Image.Image
-	def __resize(self, img):
-		width, height = img.size
-		if height > width:
-			ratio = 256 / width # 256 from VGG paper
-			return img.resize((256, ratio * height))
+	def __load_data(self):
+		with open(self._vocab_file, 'r') as f:
+			self._vocabulary = {k : v for v, k in enumerate(f.readlines())}
+		with open(self._speaker_file, 'r') as f:
+			self._speakers = {k : v for v, k in enumerate(f.readlines())}
+		with open(self._pos_file, 'r') as f:
+			self._pos = {k : v for v, k in enumerate(f.readlines())}
+		for ep in os.listdir(self._text_root):
+			if ep.endswith('_laugh.txt'):
+				with open(osp.join(self._text_root, ep), 'r') as f:
+					lines = f.readlines()
+					lines = [line.strip().split(',') for line in lines[1:]]
+					self._episode_laughs[ep[:5]] = [int(line[2]) for line in lines]
+					self._episode_frames[ep[:5]] = [[int(line[0]), int(line[1])] for line in lines]
+			if ep.endswith('_words.txt'):
+				with open(osp.join(self._text_root, ep), 'r') as f:
+					lines = f.readlines()
+					lines = [line.strip().split(',') for line in lines[1:]]
+					self._episode_words[ep[:5]] = [line[2].split(' ') for line in lines]
+			if ep.endswith('_pos.txt'):
+				with open(osp.join(self._text_root, ep), 'r') as f:
+					lines = f.readlines()
+					lines = [line.strip().split(',') for line in lines[1:]]
+					self._episode_pos[ep[:5]] = [line[2].split(' ') for line in lines]
+			if ep.endswith('_speaker.txt'):
+				with open(osp.join(self._text_root, ep), 'r') as f:
+					lines = f.readlines()
+					lines = [line.strip().split(',') for line in lines[1:]]
+					self._episode_speakers[ep[:5]] = [line[2] for line in lines]
+	def __to_one_hot(n, length):
+		if n < length:
+			vec = np.zeros(1, length)
+			if n <= 0:
+				return vec
+			else:
+				vec[n-1] = 1
+				return vec
 		else:
-			ratio = 256 / height # 256 from VGG paper
-			return img.resize((ratio * width, 256))
-
-
-class Augmenter(object):
-
-	def __init__(self, frame_variance, min_sent_len, max_sent_len):
-		self._frame_variance = frame_variance
-		self._min_sent_len = min_sent_len
-		self._max_sent_len = max_sent_len 
+			print 'n must be < length'

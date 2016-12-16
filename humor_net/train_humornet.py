@@ -12,8 +12,8 @@ import caffe
 # USER DEFINED VARIABLES
 ###########################
 SNAPSHOTS_ROOT = 'snapshots'
-GPU_IDX = 0 # Set which GPU to use
-NITER = 1000 # Number of test batches to run
+GPU_IDX = 1 # Set which GPU to use
+NITER = 100 # Number of batches to run
 
 #################
 # SET UP CAFFE
@@ -26,13 +26,15 @@ caffe.set_device(GPU_IDX)
 # TRAIN THE NETWORK
 ######################
 # Load solver
-solver = caffe.SGDSolver('humornet_solver.prototxt')) # Load solver from prototxt file
+solver = caffe.SGDSolver('humornet_solver.prototxt') # Load solver from prototxt file
+solver.net.copy_from('vgg16.caffemodel') # Initialize VGG weights
 train_net = solver.net # Assign the network to train
 
 # Run training
-train_loss = np.zero(NITER)
-for itt in xrange(NITER):
-	solver.step(1) # 1 forward/backward passes
-	train_loss[itt] = train_net.blocks['loss'].data
-	if itt % 100 == 0:
+with open('humornet_training_log.txt', 'w') as f:
+	train_loss = np.zeros(NITER)
+	for itt in xrange(NITER):
+		solver.step(100) # 1 forward/backward passes
+		train_loss[itt] = train_net.blobs['loss'].data
 		print train_loss[itt]
+		f.write('{} {}'.format((itt+1)*100, train_loss[itt]))

@@ -1,0 +1,420 @@
+Frame_Start Frame_End Words...
+102,200,Man this is weird You ever realize Captain Crunch 's eyebrows are actually on his hat
+202,345,That 's what 's weird Joey the man 's been captain of a cereal for the last 40 years
+416,439,What
+441,629,The spoon You licked and-and you put You licked and you put
+631,657,Yeah so
+658,777,Well do n't you see how gross that is I mean that 's like you using my toothbrush You used my toothbrush
+778,847,
+869,964,Well that was only cause I used the red one to unclog the drain
+969,1159,Mine is the red one Oh God Can open worms everywhere
+1181,1280,Hey why ca n't we use the same toothbrush but we can use the same soap
+1282,1376,Because soap is soap It 's self-cleaning
+1400,1564,Alright well next time you take a shower think about the last thing I wash and the first thing you wash
+2766,2863,Hey
+2865,2909,Ooh look at you fancy lads What 's the occasion
+2909,2953,
+2957,3006,
+3029,3063,Ahh
+3063,3097,OK ready when you are
+3100,3169,Okey-doke
+3170,3217,I ca n't believe you guys are actually getting tattoos
+3220,3294,Excuse me you guys are getting tattoos
+3313,3366,Yes but you can not tell Ross cause I want to surprise him
+3388,3438,
+3458,3530,
+3535,3592,
+3592,3649,
+3673,3699,
+3699,3724,
+3726,3762,
+3762,3798,
+3817,3865,
+3895,3966,
+3988,4024,
+4024,4059,
+4062,4134,
+4158,4206,
+4206,4255,
+4273,4309,
+4309,4344,
+4346,4396,
+4397,4444,
+4444,4490,
+4517,4584,
+4586,4622,
+4622,4659,
+4661,4707,
+4707,4754,
+4757,4794,
+4794,4831,
+4849,4898,
+4898,4948,
+4969,5019,
+5021,5066,
+5066,5112,
+5114,5139,
+5139,5164,
+5165,5212,
+5212,5258,
+5259,5311,
+5427,5451,
+5451,5475,
+5477,5520,
+5597,5632,
+5632,5666,
+5787,5835,
+6077,6136,
+6136,6195,
+6219,6264,
+6264,6310,
+6311,6349,
+6349,6388,
+6406,6430,
+6430,6454,
+6455,6484,
+6502,6539,
+6539,6576,
+6577,6614,
+6614,6652,
+6670,6719,
+6719,6768,
+6815,6840,
+6843,6915,
+6916,6951,
+6951,6987,
+6988,7011,
+7030,7056,
+7056,7083,
+7084,7141,
+7141,7199,
+7223,7271,
+7273,7341,
+7343,7415,
+7415,7487,
+7561,7621,
+7621,7680,
+7681,7742,
+7742,7802,
+7821,7849,
+7850,7898,
+7898,7946,
+7965,8012,
+8013,8061,
+8061,8108,
+8281,8327,
+8327,8372,
+8375,8411,
+8411,8447,
+8449,8521,
+8541,8613,
+8615,8661,
+8686,8735,
+8735,8783,
+8785,8831,
+8831,8877,
+8899,8935,
+8935,8971,
+8973,9033,
+9033,9093,
+9118,9153,
+9153,9188,
+9189,9227,
+9227,9264,
+9308,9333,
+9333,9358,
+9360,9407,
+9410,9456,
+9456,9501,
+9502,9550,
+9552,9588,
+9588,9623,
+9625,9658,
+9658,9692,
+9693,9755,
+9755,9816,
+9836,9873,
+9873,9910,
+9912,9958,
+9958,10004,
+10005,10032,
+10032,10058,
+10074,10121,
+10124,10161,
+10161,10198,
+10366,10425,
+10425,10484,
+10505,10530,
+10530,10555,
+10557,10618,
+10618,10680,
+10700,10748,
+10775,10845,
+10845,10916,
+10917,10964,
+10986,11033,
+11057,11106,
+11106,11156,
+11159,11194,
+11194,11228,
+11230,11289,
+11289,11348,
+11350,11417,
+11421,11465,
+11470,11560,
+11563,11600,
+11600,11636,
+11656,11704,
+11704,11751,
+11824,11862,
+11862,11900,
+11901,11958,
+11958,12016,
+12021,12056,
+12056,12091,
+12136,12162,
+12184,12237,
+12256,12317,
+12317,12378,
+12450,12497,
+12497,12544,
+12664,12688,
+12690,12740,
+12760,12813,
+12880,12909,
+12928,12999,
+13001,13070,
+13073,13108,
+13108,13144,
+13145,13191,
+13217,13287,
+13313,13347,
+13347,13382,
+13385,13435,
+13436,13493,
+13493,13550,
+13646,13683,
+13683,13720,
+13793,13843,
+13843,13893,
+13985,14044,
+14044,14104,
+14105,14150,
+14153,14200,
+14200,14246,
+14249,14298,
+14298,14347,
+14366,14403,
+14403,14440,
+14441,14488,
+14488,14535,
+14537,14606,
+14609,14643,
+14643,14678,
+14679,14729,
+14729,14779,
+14781,14846,
+14849,14896,
+14896,14944,
+15017,15062,
+15063,15110,
+15115,15187,
+15281,15330,
+15330,15379,
+15381,15440,
+15440,15499,
+15501,15559,
+15559,15617,
+15619,15664,
+15664,15710,
+15763,15821,
+15821,15880,
+15881,15904,
+15904,15927,
+15928,15976,
+15976,16085,
+16085,16144,
+16145,16204,
+16204,16264,
+16265,16323,
+16323,16380,
+16383,16443,
+16443,16503,
+16504,16554,
+16599,16648,
+16648,16697,
+16719,16743,
+16745,16804,
+16804,16863,
+16864,16888,
+16888,16913,
+16933,16946,
+16946,16959,
+16961,17033,
+17033,17105,
+17127,17196,
+17221,17272,
+17512,17557,
+17558,17607,
+17607,17655,
+17675,17728,
+17867,17891,
+17891,17915,Hey there
+17921,18015,What
+18041,18083,Nothing I just heard something nice about you
+18085,18171,Humm really
+18171,18230,Richard Richard Your son is n't seeing anyone is he
+18232,18351,Uhh not that I know of
+18401,18448,Well I was thinking why does n't he give Monica a call
+18450,18539,That that 's an idea
+18541,18565,Well actually I 'm already seeing someone
+18662,18777,Ohh
+18778,18934,She never tells us anything Ross did you know Monica 's seeing someone
+18934,18994,
+19045,19092,Mom there are so many people in my life Some of them are seeing people and some of them are n't Is that crystal
+19113,19163,So who 's the mystery man
+19166,19209,Well uh he 's a doctor
+19212,19377,A real doctor
+19401,19428,
+19428,19454,
+19473,19504,No a doctor of meat Of course he 's a real doctor And he 's handsome and he 's sweet and know you 'd like him
+19665,19713,Well that 's wonderful I
+19716,19742,Mom it 's OK
+19742,19929,It is Judy
+19937,19982,Jack Could you come in here for a moment NOW
+19982,20028,Found it
+20098,20196,I 'll take that dad
+20218,20312,It seems your daughter and Richard are something of an item
+20317,20360,That 's impossible he 's got a twinkie in the city
+20365,20390,Dad I 'm the twinkie
+20390,20415,You 're the twinkie
+20435,20508,She 's not a twinkie
+20509,20576,Al-alright l-look you guys this is the best relationship I 've been in
+20578,20672,Oh please a relationship
+20675,20711,Yes a relationship For your information I am crazy about this man
+20711,20747,Really
+20749,20845,Yes
+20864,20962,Am I supposed to stand here and listen to this on my birthday
+20963,20987,Dad dad this is a good thing for me Ya know and you even said yourself you 've never seen Richard happier
+20989,21087,When did I say that
+21514,21587,
+21588,21633,
+21633,21678,
+21681,21731,
+21801,21849,
+21873,21921,
+21921,21969,
+21997,22040,
+22065,22126,
+22126,22187,
+22254,22280,
+22280,22305,
+22309,22343,
+22343,22377,
+22379,22414,
+22414,22448,
+22449,22497,
+22497,22545,
+22547,22592,
+22592,22638,
+22639,22686,
+22687,22763,
+22785,22822,
+22822,22859,
+22860,22951,
+22953,22998,
+23021,23059,
+23059,23097,
+23217,23261,
+23263,23298,
+23298,23455,I know Yeah
+23456,23506,Yeah So do we need to hug here or
+23549,23596,No we 're alright
+23621,23743,So I got ya something
+23743,23788,Plastic spoons Great
+23792,23890,Lick away my man
+23909,23935,These 'll go great in my new place You know till I get real ones
+23937,24033,What
+24053,24125,Well I ca n't use these forever I mean let 's face it they 're no friend to the environment
+24130,24189,No-no I mean what what 's this about your new place
+24189,24248,I 'm movin out like we talked about
+24274,24344,
+24345,24507,Well I did n't think that was serious Ya know I thought that was just a fight
+24509,24547,
+24547,24632,
+24724,24774,Well it was a fight based on serious stuff remember About how I never lived alone or anything I just think it would be good for me ya know help me to grow or whatever
+24800,24896,Well there you go
+24915,25109,Hey are you cool with this I mean I do n't want to leave you high and dry
+25112,25180,
+25208,25276,Hey no I 've never been lower or wetter I 'll be fine I 'll just turn your uh bedroom into a game room or somethin you know put the foosball table in there
+25326,25378,Woah Why do you get to keep the table
+25448,25508,I did pay for half of it
+25508,25568,Yeah And uh I paid for the other half
+25587,25709,Alright I 'll tell you what I 'll play you for it
+25714,25808,Alright you 're on I can take two minutes out of my day to kick your ass
+25977,26020,Your little men are gon na get scored on more times than your sister
+26095,26163,
+26165,26263,So are you sorry that I told them
+26359,26383,Oh
+26383,26407,Oh Well did you get it Let me see
+26425,26462,Is Ross here
+26462,26498,No he went out to get pizza
+26525,26559,Oh really OK
+26559,26593,That 's great
+26617,26641,Very tasteful
+26641,26665,Wan na see mine wan na see mine
+26666,26713,Yes
+26716,26787,What You did n't get one
+26833,26935,OK well then what is this
+26959,27002,What 're we looking at That blue freckle
+27004,27073,OK that 's my tattoo
+27077,27112,
+27112,27217,
+27218,27265,
+27295,27471,That is not a tattoo that is a nothing I finally got her back in the chair bairly touched her with a needle she jumped up screaming and that was it
+27471,27532,
+27552,27590,
+27590,27628,
+27629,27771,OK hi For your information this is exactly what I wanted This is a tattoo of the earth as seen from a great distance It 's the way my mother sees me from heaven
+27773,27832,
+27832,27891,
+27917,27986,
+27986,28056,
+28128,28156,Oh what a load of crap That is a dot Your mother is up in heaven going Where the hell is my lily you wuss OK Phoebe that is not a tattoo this is a tattoo
+28200,28288,You got a tattoo
+28288,28324,
+28370,28419,Maybe But just a little one Phoebe got the whole world
+28490,28517,Lem me see
+28536,28756,Well
+28826,28862,Well it 's really sexy I would n't have thought it would be but wow
+28862,28972,Really
+29043,29088,Yeah so uh is it sore or can you do stuff
+29090,29141,I guess
+29282,29335,
+29357,29380,
+29402,29450,Get out of the corner Pass it pass it
+29501,29571,Stop talkin to your men
+29645,29712,Yes And the table is mine
+30000,30050,
+30053,30168,Hey you guys are still gon na come visit me right
+30171,30219,
+30336,30430,Oh yeah you got the big TV We 'll be over there all the time except when we are here
+30432,30483,I know you 're just moving uptown but I 'm really gon na miss you
+30502,30598,I know how can you not be accross the hall anymore
+30600,30651,
+30696,30744,
+30744,30841,Yeah who 's gon na eat all our food and tie up our phone lines and is that my bra What the hell you doin with my bra
+30841,30889,
+30891,30948,
+30948,31006,
+31007,31055,Oh no-no it 's uh it 's not what you think We uh we used it to you know fling water balloons off the roof Remember that those junior high kids could n't even get theirs accross the street
+31102,31179,Yeah I remember
+31464,31583,Hey let 's bring the rest of these down to the truck
+31608,31676,So uhh em you want me to uh give you a hand with the foosball table
+31728,31775,Naa you keep it you need the practice
+31777,31849,Thanks
+31871,31946,So I guess this is it
+31994,32089,Yeah right yeah I guess so
+32090,32156,Listen uh I do n't know when I 'm gon na see you again
+32159,32267,Well I 'm guessing uh tonight at the coffee house
+32267,32301,Right yeah OK Um take care

@@ -1,5 +1,5 @@
 test_iter: 25
-test_interval: 1000
+test_interval: 100
 iter_size: 2 # accumulate gradients to 2 batches before updating
 base_lr: 0.01
 lr_policy: "step"
@@ -9,9 +9,10 @@ display: 1
 max_iter: 40000
 momentum: 0.9
 weight_decay: 0.0000
-snapshot: 1000
-snapshot_prefix: "./snapshots/humornet"
+snapshot: 100
+snapshot_prefix: "snapshots"
 solver_mode: GPU
 random_seed: 1701
 average_loss: 100
 clip_gradients: 10
+net: "humornet.prototxt"

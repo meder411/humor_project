@@ -13,7 +13,7 @@ Frame_Start Frame_End Laugh Speaker Dialogue
 2969,3146,0,Phoebe,Can I borrow the phone? I want to call my apartment and check on my grandma.  What's my number?
 3176,3223,0,Phoebe,Well, I never call me.
 3269,3391,0,Chandler,_Oh my God, it's that Victoria's Secret model. Something... something Goodacre.
-3410,3437,0,_Jill,Hi Mom, it's Jill.
+3410,3437,0,Jill,Hi Mom, it's Jill.
 3438,3845,0,Chandler,_She's right, it's Jill. Jill Goodacre. Oh my God. I am trapped in an ATM vestibule with Jill Goodacre! __ Is it a vestibule? Maybe it's an atrium. Oh, yeah, that is the part to focus on, you idiot!_
 3870,3965,0,Jill,Yeah, I'm fine. I'm just stuck at the bank, in an ATM vestibule.
 3967,4064,0,Chandler,_Jill says vestibule... I'm going with vestibule._

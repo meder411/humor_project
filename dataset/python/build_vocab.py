@@ -31,7 +31,7 @@ for srt_file in os.listdir(srt_dir):
 		try:
 			divided = sub.text.split(':')
 			if len(divided) > 1:
-				speaker = divided[0].strip().upper() # Extract speaker
+				speaker = divided[0].strip().strip(string.punctuation).upper() # Extract speaker
 
 				# Add speaker to speaker set
 				if speaker not in speakers:
@@ -87,14 +87,14 @@ fvocab.close()
 # Print parts of speech  to file
 fpos = open(osp.join(output_dir, 'pos.txt'), 'w')
 for p in pos:
-	fpos.write(p + ' ' + str(pos[p]) + '\n')
+	fpos.write(p + '\n')
 fpos.close()
 
 # Print speakers to file
-fspeakers = open(osp.join(output_dir, 'speakers.txt'), 'w')
-for speaker in speakers:
-	fspeakers.write(speaker + ' ' + str(speakers[speaker]) + '\n')
-fspeakers.close()
+#fspeakers = open(osp.join(output_dir, 'speakers.txt'), 'w')
+#for speaker in speakers:
+#	fspeakers.write(speaker + '\n')
+#fspeakers.close()
 
 print 'Vocab size: ', len(vocab)
 print 'Number of speakers: ', len(speakers)

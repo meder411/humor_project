@@ -1,0 +1,344 @@
+Frame_Start Frame_End Words...
+129,178,
+178,227,00 in the morning
+229,263,
+263,296,
+299,346,
+346,392,
+395,419,
+438,465,
+465,492,
+511,548,
+548,635,
+635,683,
+702,740,
+740,779,
+780,827,
+848,875,
+895,921,
+923,969,
+969,1076,
+1076,1135,
+1139,1187,
+1207,1233,
+1233,1259,
+1278,1316,
+1316,1353,
+1356,1400,
+1400,1445,
+1448,1494,
+1494,1540,
+1569,1629,
+1629,1689,
+1712,1749,
+1749,1786,
+1807,1831,
+1833,1882,
+1882,1930,
+1948,1999,
+2000,2048,
+2048,2097,
+2116,2141,
+2144,2169,
+2169,2194,
+2212,2265,
+2284,2335,
+2335,2385,
+2404,2452,
+2458,2500,
+3608,3643,
+3643,3678,
+3680,3704,
+3725,3871,When I was little I wanted to be a veteranarian but then I found out you had to put your hands into cows and stuff
+3989,4012,Are are you OK
+4014,4325,Yeah yeah just a tough day at work A stegosaurus fell over and trapped a kid Whoa whoa I know this jacket this is th -- Fun Bobby 's jacket Where is he what He he 's here is n't he
+4325,4346,Maybe
+4348,4376,Do n't toy with me
+4394,4420,Geller
+4420,4446,Hey Fun Bobby
+4465,4496,Hey Whoa hey you 've been working out huh
+4514,4660,Not at all I love this guy Hey I was so psyched to hear you 're back with my sister
+4663,4698,You and me both
+4698,4732,Hey so what 'd I miss what 'd I miss c'mon
+4734,4801,Oh we were just trying to make Joey feel better
+4804,4840,Hey do you need me to pick you up
+4840,4875,No I 'm alright man Really
+4878,4921,No I 'm picking you up
+4924,5070,Hey no seriously I do n't need you to pick me Alright It still works
+5089,5214,OK now before I go does anybody else need to be picked up I 'm still gon na go
+5238,5308,OK I 'll see you later babe
+5330,5428,Uh public display of affection coming up You can avert your eyes
+5596,5618,See ya
+5618,5641,Bye See you later
+5644,5681,Fun Bobby is so great
+5681,5980,Oh is n't he Oh you know I really think this time it may work with him I mean he just makes me feel so good and I 've been feeling so lousy this last couple of months no job no boyfriend Well at least my cup is half full
+6002,6050,Half full of looooovvvvve
+6120,6196,And for our two-week anniversary he 's gon na take me to his cousin 's cabin for the weekend
+6197,6264,Cabin of loooooovvvvve
+6312,6350,We went through a lot of wine tonight you guys
+6350,6389,Really I only had two glasses
+6408,6432,I just had a glass
+6432,6456,Two
+6458,6484,I had one glass
+6484,6624,I had about a mugful in this lovely I got boned at the Museum of Natural History mug
+6648,6771,OK so that 's that 's what two bottles And yet somehow we went through five
+7080,7132,So what So he drank a lot tonight
+7135,7294,Yeah but you know now that I think about it I do n't think I 've ever seen Fun Bobby without a a drink in his hand
+7323,7654,Yeah Oh OOOH yeah you know did you notice how he always starts his stories with um OK I was soooo wasted or Oh we were soooo bombed or ummm ooh ooh So I wake up and I 'm in this dumpster in Connecticut
+7659,7731,Monica have you ever been with him when he was n't drinking
+7733,8019,Well we just happen to go to alot of places where you might drink I mean how do you go to a wine tasting without having a drink Or or to a club or to the zoo
+8136,8187,Rach does this have nonfat milk
+8207,8254,Ehhhummmm I do n't know why do n't you taste it
+8307,8331,Mmmm no
+8350,8427,Oh well too late sorry you already had some
+8472,8545,Whattaya say we make these uh coffees Irish
+8639,8665,Um cake
+8690,8759,Yeah we 're gon na we 're gon na get some cake
+8810,8906,You know what It seems like you 've been making an awful lot of stuff Irish lately
+8925,9047,Well I would make them Belgian but the waffles are hard to get into that flask
+9072,9097,Yeah OK
+9100,9289,Look maybe this is none of my business or maybe it is I do n't know but uh I 'm kind of worried about you
+9308,9554,OK look this is n't the first time somebody 's said something to me about this but I do n't know I always made excuses about it like uhhh I 'm just a social drinker or C'mon it 's Flag Day
+9620,9674,So what are you saying now
+9695,9863,I guess I 'm saying I 'll try and quit I kinda like that you worry about me
+9914,9962,Sooo what 's goin on huh
+9983,10029,I am gon na try and quit drinking
+10029,10076,Ooohh why
+10245,10296,Guess who 's back in show business
+10316,10346,Ohh ohh Lorne Green
+10411,10442,No no Phoebs You know why Cause he 's dead
+10461,10486,Oh no
+10536,10655,OK I guess this is gon na seem kinda bittersweet now but Joey that 's who
+10678,10771,Yeah my agent just called me with an audition for Days of Our Lives
+10773,10810,
+10810,10847,
+10872,10915,
+10992,11086,Oh well we have to celebrate You know what we should do We should do like a soap opera theme
+11088,11207,Hey yeah we could all sleep together and then one of us could get amnesia
+11278,11371,Hey Rach what time do you get off We 're all gon na do something tonight
+11372,11471,Ummmm well actually I 'm already done but I ... I kinda got plans
+11472,11540,You have other friends
+11542,11589,Yeah I uhh I have a I have a date
+11589,11636,What
+11638,11673,
+11673,11708,
+11729,11759,With a man
+11780,11827,
+11831,11888,What What is so strange about me having a date
+11888,11945,
+11950,12068,What about Ross I mean are you still mad at him cause he made that list about you
+12070,12209,Noooo no I 'm not mad at him I 'm I 'm not really anything at him anymore
+12212,12258,What are you talking about
+12258,12383,I do n't know Whatever I was feeling I 'm not
+12402,12430,But you guys came so close
+12432,12595,Oh I know I 'm sorry you guys You 're just gon na have to get used to the fact that I will not be dating Ross
+12620,12738,Here he is Hi Guys this is Russ
+12761,12786,Hhhhiiiii
+13072,13147,
+13171,13206,
+13206,13242,
+13244,13552,Stop saying you 're not talented you 're very talented It 's just with the bird dead and all there 's very little act left Oh honey give me a break will ya Oooh ooh I 'll talk to you later
+13554,13653,Well there 's my favorite client So tell me darling how was the audition
+13672,13768,Well I think it went pretty well I I got a callback for Thursday
+13771,13818,Joey have you ever seen me ecstatic
+13818,13866,No
+13868,13938,Well here it is
+14012,14155,OK uh listen there 's something I want to talk to you about The network casting lady
+14155,14200,Oh is n't Lori a doll
+14202,14637,Oh yeah yeah she 's great but I kinda got the feeling that she was sort of coming on to me And I definitely would get the part if I would 've you know if I would have sent the Little General in
+14704,14900,Oh I see Well I 'm just gon na put in a call here and we 'll find out what 's goin on and straighten it out Yeah you 're gon na have to sleep with her
+14920,14949,
+14996,15042,
+15043,15114,
+15114,15184,
+15280,15330,
+15332,15404,Oh I see Well I 'm just gon na put in a call here and we 'll find out what 's goin on and straighten it out Yeah you 're gon na have to sleep with her
+15476,15500,What 's the matter
+15500,15524,It 's Fun Bobby
+15525,15561,What is n't he sober
+15561,15691,Oh he 's sober alright Just turns out that Fun Bobby was fun for a reason
+15788,15854,Alright here you go sweetie
+15859,15928,Thanks You wan na hear something funny
+15931,15979,Oh God yes
+16004,16142,There are no hardware stores open past midnight in the Village
+16191,16238,That is funny
+16244,16361,I needed to buy a hammer the other night and I 'm out walkin around the neighborhood but apparently there are no hardware stores open past midnight in the Village
+16363,16504,
+16507,16576,
+16579,16720,I needed to buy a hammer the other night and I 'm out walkin around the neighborhood but apparently there are no hardware stores open past midnight in the Village
+16820,16939,
+17059,17126,Ahhh hey honey Do n't you have to be at your interview now
+17127,17260,Oh yeah See you guys
+17260,17368,Bye ridiculously dull Bobby
+17389,17415,Oh my God
+17418,17463,It 's not that bad
+17463,17558,Not that bad Did you hear the hammer story
+17558,17607,OK OK do n't get all squinky
+17653,17724,Maybe it was just the kind of story where you have to be there
+17725,17943,But I 'm gon na be there for the rest of my life I mean I ca n't break up with him I 'm the one who made him quit drinking He 's dull because of me
+17944,18090,Alright do n't say that He 's probably always been dull You just you know set it free
+18156,18180,Hi
+18180,18204,Hey Ross bahhhh
+18234,18349,Hi Russ I 've just got two more tables to clean and then we 'll go OK
+18351,18567,OK I 'll just sit here and uh chat with your uh friend type ... .people
+18687,18712,Rachel Um hi
+18757,18830,OK so you know what you 're doing right
+18832,18880,Uhh waitressing
+18880,19000,Well yeah but no I mean umm does n't does n't Russ just remind you of someone
+19048,19093,Huh Bob Saget
+19096,19189,Oh yeah No no no no oh oh
+19216,19251,Oh my oh
+19251,19286,What What 's wrong
+19331,19432,She 's just upset because she uh she buttered a spider into her toast this morning
+19480,19525,Alright
+19572,19598,
+19598,19623,
+19645,19715,Ross Russ Russ Ross
+19720,19744,Hi
+19744,19768,Hi
+19789,19826,Are you a uh friend of Rachel 's
+19826,19934,Yes yes I am Are you a uh a friend of Rachel 's
+19936,20174,Actually I 'm a kind of a you know a date-type thing of Rachel 's
+20193,20220,A date
+20220,20246,Yeah I 'm her date
+20265,20364,Oh oh you 're uh you 're oh you 're the date
+20385,20481,You know this is actually good because if we ever lose Ross we have a spare
+20506,20558,Oh you are the uh paleontologist
+20580,20651,Yes yes I am And you are a
+20651,20722,Periodontist
+20726,20847,See They 're as different as night and later that night
+20868,21011,Well I am going to uh get a beverage It was nice nice uh meeting you
+21011,21058,Ditto
+21183,21250,I uh well I I met Russ
+21297,21350,Hey I did n't know we were uh seeing other people
+21370,21442,Well we 're not seeing each other so
+21447,21936,Well uh for your information there 's a woman at the museum who 's curator of moths and other uh winged things who 's uh let it be known that she is drawn to me much like a well you know But so far I 've been keeping her at bay but uh if this is the deal
+21936,21971,Well yeah this is the deal
+21972,22020,OK well um have a nice evening
+22044,22078,Um Russ you ready
+22078,22112,Yeah
+22138,22161,Bye
+22161,22184,Bye
+22256,22330,She 's dating She 's dating
+22331,22404,Yes yes but did you see who she was dating
+22427,22461,What do you mean
+22461,22496,Do you not see it
+22498,22788,See what I do n't know what she sees in innn that goober And it takes him what Like like I do n't know uhh uhhh hello a week to get out a sentence
+22811,22863,Yeah it 's annoying is n't it
+22928,22956,Yeah
+23238,23339,Whoa whoa so I 'm guessing you did n't get the part or uh Italy called and said it was hungry
+23360,23398,Well the part 's mine if I want it
+23398,23435,Oh my God
+23454,23507,Yeah if I 'm willing to sleep with the casting lady
+23526,23579,Oh my God
+23603,23814,Ten years I 've been waiting for a break like this Chandler ten years I mean Days of Our Lives That 's actually on television
+23816,23843,So what 're you gon na do
+23862,23958,Well I guess I could sleep with her I mean how could I do that
+23960,24059,Well I I 've got a pop-up book that told me everything I need to know
+24078,24127,I 've never slept with someone for a part
+24127,24176,Well is she
+24203,24237,Sorry
+24237,24320,It 's alright Is she good-looking
+24320,24562,Yeah she 's totally good looking I mean if I met her in a bar or something I 'd be buying her breakfast You know after having slept with her
+24678,24967,Y'know maybe this is n't such a big deal Y'know I mean the way that I see it is you get a great job and you get to have sex Y'know I mean throw in a tree and a fat guy and you 've got Christmas
+25036,25375,I just I just do n't think that I want it that way though y'know I mean let 's say I do make it alright I 'm always gon na look back and wonder if it was because of my talent or because of y'know the Little General
+25420,25476,Did n't you used to call it the Little Major
+25493,25588,Yeah but after Denise DeMarco I had to promote it
+25689,25735,Can I get you something from the bar
+25735,25854,Yes I would like something No no thank you
+25855,25948,If if you want to drink it 's OK with me I 've got to get used to it
+25949,26069,No no really I I would n't feel right about it Just some water
+26072,26130,So the light went out in my refrigerator
+26130,26188,I 'd like a scotch on the rocks with a twist
+26211,26218,
+26236,26549,Hey we 're having some fun now huh Ross Wan na do another one huh Russ OK eleven letters atomic element number 101 ends in ium
+26552,26588,Dysprosium
+26588,26691,Dysprosium Try mendelevium
+26691,26863,And weenie number two has it Unless of course nine-down Knights in White Satin was sung by the Doody Blues
+26934,26981,You do n't see it You actually do n't see it
+26981,27029,What
+27032,27077,OK honey you 're dating Ross
+27080,27137,No Phoebs I 'm dating Russ
+27137,27195,Russ is Ross Russ Ross
+27196,27222,Steve sleeve
+27224,27293,OK noone is named Sleeve
+27293,27459,Phoebe what the hell are you talking about Other than their names being similar I 'm sorry I do not see what you 're seeing
+27462,27558,For your information it 's a card sharp not a card shark
+27577,27697,You could not be more wrong You could try but you would not be successful
+27700,27796,OK I 'm gon na get some more coffee before the pinching and eye-poking begins
+27844,27878,I know what your problem is
+27878,27913,Oh you do do you
+27919,27967,Um-hum you 're jealous
+28012,28040,Of of what
+28058,28134,You 're jealous because I 'm a real doctor
+28158,28372,Hey you 're a doctor of gums That 's the smallest body part you can major in It 's like day one floss Day two here 's your diploma
+28374,28398,Hey you listen
+28398,28422,No no let me finish
+28423,28480,No let me finish
+28480,28538,No you let me fini
+28830,28888,Did Joey say what he was gon na go when he left
+28888,28998,No I do n't even think he knew Hey would you sleep with somebody to get a great job
+29018,29068,I do n't know Who would I have to sleep with
+29071,29116,Me
+29164,29209,Why would I have to sleep with you
+29212,29262,It 's my game You want the job or not
+29356,29380,Morning
+29380,29404,Where ya goin
+29406,29500,Bobby and I are going away for the weekend remember
+29521,29559,What 's with all the bottles of liquor
+29559,29596,
+29599,29658,
+29658,29718,
+29742,29809,What 's going on is uh Bobby drinking again
+29812,30007,Oh no no this is not for him this is for me That way he 's still sober but I find his stories about shoelaces much more amusing
+30122,30174,Oh God even his knock is boring
+30243,30280,Hi I 'll be ready in just a second
+30280,30316,Uh can I talk to you a minute
+30317,30341,Sure
+30388,30432,This is really hard for me to say
+30435,30481,Oh God you fell off the wagon
+30481,30555,Oh no no it 's about you
+30555,30581,What about me
+30603,30676,I think you may have a drinking problem
+30744,30844,What these Oh these are um for cuts and scrapes
+30888,31010,Look I am just not strong enough to be in a codependent relationship right now OK
+31012,31061,Oh shoot
+31108,31179,Well anyway I hope we can be friends
+31180,31227,OK
+31296,31320,Take care
+31320,31344,You too
+31347,31372,
+31464,31514,What happened
+31514,31563,Well we we kinda broke up
+31731,31778,Does anybody want these
+31778,31943,I 'll take one Sometimes I like to hold stuff like this and pretend I 'm a giant
+32020,32054,Hey
+32054,32088,How 'd the callback go
+32091,32184,It was unbelievable I walked in there and she was all over me
+32187,32211,So what 'd you do
+32211,32282,Well I could n't do it I told her I did n't want to get the part that way
+32282,32326,Good for you
+32327,32451,But wait wait wait Then after I left her office she caught up with me at the elevator and offered me an even bigger part
+32472,32496,So and
+32497,32735,Soooooo you are now looking at Dr Drake Ramore neurosurgeon recurring in at least four episodes
+32737,32785,Alright I 've got to go shower
+33095,33131,Hi
+33131,33167,Oh hey
+33168,33215,I guess you guys heard Rachel dumped me
+33215,33263,Yeah I 'm sorry man
+33265,33429,Oh all she said was that I remind her too much of somebody You have any idea who she 's talking about
+33432,33596,Oh I do it 's it 's Bob Saget She hates him
+33599,33623,Hey
+33623,33695,Hey Julie Hey how are you doing
+33697,33913,Um oh I do n't know I mean it 's definitely weird not being with Ross but I guess I 'm doing OK Actually I 've got some of his stuff that he um
+34100,34125,
+34125,34151,
+34153,34220,
+34245,34296,
+34296,34346,
+34364,34415,
+34417,34484,
+34485,34500,
+34500,34514,
+34532,34558,
+34558,34584,

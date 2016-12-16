@@ -8,7 +8,7 @@ import nltk
 # Directory tree
 project_root = '..' 
 srt_dir = osp.join(project_root, 'subtitles', 'full')
-collection_dir = osp.join(project_root, 'subtitles', 'organized_data')
+collection_dir = '..'#osp.join(project_root, 'subtitles', 'organized_data')
 output_dir = osp.join(project_root, 'subtitles', 'organized_data')
 
 # Functions
@@ -43,8 +43,15 @@ for srt_file in os.listdir(srt_dir):
 	subs = pysrt.open(osp.join(srt_dir, srt_file))
 
 	# Write to file
-	fdata = open(osp.join(output_dir, ep + '.txt'), 'w')
-	fdata.write('Frame_Start Frame_End Laugh Speaker Dialogue\n')
+	flaugh = open(osp.join(output_dir, ep + '_laugh.txt'), 'w')
+	fwords = open(osp.join(output_dir, ep + '_words.txt'), 'w')
+	fspeaker = open(osp.join(output_dir, ep + '_speaker.txt'), 'w')
+	fpos = open(osp.join(output_dir, ep + '_pos.txt'), 'w')
+	flaugh.write('Frame_Start Frame_End Laugh\n')
+	fpos.write('Frame_Start Frame_End POS...\n')
+	fwords.write('Frame_Start Frame_End Words...\n')
+	fspeaker.write('Frame_Start Frame_End Speaker\n')
+	numlaughs = 0
 	for sub in subs:
 		fstart = time_to_frame_num(time_in_sec(str_to_time_obj(str(sub.start))))
 		fend = time_to_frame_num(time_in_sec(str_to_time_obj(str(sub.end))))
@@ -56,8 +63,8 @@ for srt_file in os.listdir(srt_dir):
 			laugh = 0
 		divided = text.split(':')
 		if len(divided) > 1:
-			speaker = divided[0].strip() # Extract speaker
-			speakers.add(speaker) # Add speaker to speaker set
+			speaker = divided[0].strip().strip(string.punctuation) # Extract speaker
+			speakers.append(speaker) # Add speaker to speaker set
 			dialogue = ' '.join(divided[1:]).strip() # Extract dialogue
 
 			# Tokenize sentence and determine POS
@@ -65,8 +72,8 @@ for srt_file in os.listdir(srt_dir):
 			tags = nltk.pos_tag(nltk.word_tokenize(sent))
 
 			# Add to collections
-			[vocab.add(tag[0]) for tag in tags]
-			[pos.add(tag[1]) for tag in tags]
+			[vocab.append(tag[0]) for tag in tags]
+			[pos.append(tag[1]) for tag in tags]
 		else:
 			speaker = 'UNKNOWN'
 			dialogue = divided[0]
@@ -77,29 +84,15 @@ for srt_file in os.listdir(srt_dir):
 			tags = nltk.pos_tag(nltk.word_tokenize(sent))
 
 			# Add to collections
-			[vocab.add(tag[0]) for tag in tags]
-			[pos.add(tag[1]) for tag in tags]
-		fdata.write('{},{},{},{},{}\n'.format(fstart, fend, laugh, speaker, dialogue))
-	fdata.close()	
-
-# Print vocab to file
-fvocab = open(osp.join(output_dir, 'vocab.txt'), 'w')
-for word in vocab:
-	fvocab.write(word + '\n')
-fvocab.close()
-
-# Print parts of speech  to file
-fpos = open(osp.join(output_dir, 'pos.txt'), 'w')
-for p in pos:
-	fpos.write(p + '\n')
-fpos.close()
-
-# Print speakers to file
-fspeakers = open(osp.join(output_dir, 'speakers.txt'), 'w')
-for speaker in speakers:
-	fspeakers.write(speaker.upper() + '\n')
-fspeakers.close()
-
-print 'Vocab size: ', len(vocab)
-print 'Number of speakers: ', len(speakers)
-print 'Number of POS: ', len(pos)
+			[vocab.append(tag[0]) for tag in tags]
+			[pos.append(tag[1]) for tag in tags]
+		utt = [tag[0] for tag in tags]
+		utt_pos = [tag[1] for tag in tags]
+		flaugh.write('{},{},{}\n'.format(fstart, fend, laugh))
+		fspeaker.write('{},{},{}\n'.format(fstart, fend, speaker))
+		fwords.write('{},{},{}\n'.format(fstart, fend, ' '.join(utt)))
+		fpos.write('{},{},{}\n'.format(fstart, fend, ' '.join(utt_pos)))
+	flaugh.close()	
+	fspeaker.close()	
+	fwords.close()	
+	fpos.close()	

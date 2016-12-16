@@ -1,3 +1,5 @@
 video/
 audio/
 *.caffemodel
+*log*
+*.db

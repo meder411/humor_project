@@ -1,5 +1,5 @@
 Frame_Start Frame_End Laugh Speaker Dialogue
-174,225,0,[Scene,Chandler's Office, Chandler is on a coffee break.   Shelley enters.)
+174,225,0,Scene,Chandler's Office, Chandler is on a coffee break.   Shelley enters.)
 226,366,1,Shelley,Hey gorgeous, how's it going?
 373,510,0,Chandler,Dehydrated Japanese noodles under fluorescent lights... does it get better than this?
 514,657,0,Shelley,Question. You're not dating anybody, are you, because I met somebody who would be perfect for you.
@@ -9,7 +9,7 @@ Frame_Start Frame_End Laugh Speaker Dialogue
 836,869,1,Shelley,Okay. He's cute, he's funny, he's-
 872,1160,0,Chandler,He's a he?
 2339,2524,0,UNKNOWN,
-2554,2766,1,[Scene,Monica and Rachel's, everyone is there.)
+2554,2766,1,Scene,Monica and Rachel's, everyone is there.)
 2790,2814,0,Chandler,...Couldn't enjoy a cup of noodles after that. I mean, is that ridiculous? Can you believe she actually thought that?
 2817,2955,0,Rachel,Um... yeah. Well, I mean, when I first met you, y'know, I thought maybe, possibly, you might be...
 2983,3102,0,Chandler,You did?
@@ -41,7 +41,7 @@ Frame_Start Frame_End Laugh Speaker Dialogue
 6216,6239,0,UNKNOWN,
 6293,6341,0,UNKNOWN,
 6364,6431,0,UNKNOWN,
-6436,6471,0,[Scene,The Hospital, Mr. and Mrs. Geller are there, along with Aunt Lillian. Ross and Monica enter and everyone says hi and kisses.)
+6436,6471,0,Scene,The Hospital, Mr. and Mrs. Geller are there, along with Aunt Lillian. Ross and Monica enter and everyone says hi and kisses.)
 6471,6637,0,Ross,So, uh, how's she doing?
 6637,6671,0,Aunt Lillian,The doctor says it's a matter of hours.
 6676,6700,0,Monica,How-how are you, Mom?

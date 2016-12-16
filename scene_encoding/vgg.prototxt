@@ -5,7 +5,7 @@ layer {
 	python_param {
 		module: "vgg_data_layer"
 		layer: "VGGDataLayer"
-		param_str: "{\'image_root\': \'frames\', \'log_root\':\'logs\'}"
+		param_str: "{\'image_root\': \'../dataset/video/frames/01_01\', \'log_root\':\'logs\'}"
 	}
 }
 layer {

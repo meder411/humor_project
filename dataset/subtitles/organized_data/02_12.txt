@@ -163,7 +163,7 @@ Frame_Start Frame_End Laugh Speaker Dialogue
 23941,23984,0,PHOEBE,OK, hi again.
 23986,24055,0,ALL,Hi Phoebe.
 24080,24582,0,PHOEBE,Today we're gonna start with some songs about barnyard animals.    _Oh, the cow in the meadow goes moo,   Oh, the cow in the meadow goes moo.   Then the farmer hits him on the head and grinds him up,   And that's how we get hamburgers.   Nooowww, chickens!_
-24606,24667,0,_TV DOCTOR,You're the only one who can save her Drake.
+24606,24667,0,TV DOCTOR,You're the only one who can save her Drake.
 24667,24727,0,JOEY ON TV,Damnit, I'm a doctor, I'm not God._
 24730,24779,0,ROSS,Well, there goes my whole belief system.
 24846,24871,0,ERICA,It's Erica.
@@ -496,10 +496,10 @@ Frame_Start Frame_End Laugh Speaker Dialogue
 68506,68655,0,PHOEBE,Yeah. Oh, except one of the strings on my guitar is broken. Hey, Chandler, can I borrow your G-string?
 68657,68704,0,CHANDLER,How long you been waitin' to say that?
 68704,68751,0,PHOEBE,About 20 minutes. CLOSING CREDITS
-68914,68989,0,_VAN DAMME,Can't you see what's going on here, this man is dying.
+68914,68989,0,VAN DAMME,Can't you see what's going on here, this man is dying.
 69035,69057,0,DIRECTOR,Cut.
-69080,69157,0,_VAN DAMME,Can't you see what's going on here, this man is dying.
+69080,69157,0,VAN DAMME,Can't you see what's going on here, this man is dying.
 69204,69229,0,DIRECTOR,Cut.
-69272,69350,0,_VAN DAMME,Can't you see what's going on here, this man is dying.
+69272,69350,0,VAN DAMME,Can't you see what's going on here, this man is dying.
 69396,69441,0,JOEY,Aaaaagggghhhhh. Mommy_
-69464,69539,1,_VAN DAMME,Can't you see what's going on here, this man is dead._
+69464,69539,1,VAN DAMME,Can't you see what's going on here, this man is dead._
