@@ -3,3 +3,4 @@ audio/
 *.caffemodel
 *log*
 *.db
+*.pyc
