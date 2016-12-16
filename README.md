@@ -4,64 +4,53 @@ This is code for my project to detect humor in videos by leveraging both visual 
 The project has 3 components:
 
 1. Building a humor dataset that explicitly aligns visuals wih language in humorous situations
-2. Detecting and describing the speakers' expressions
+2. Encoding video data
 3. The actual humor detection
 
 
 This repository contains the files listed below. All code is my work unless indicated below or in the code's comments where relevant.
 
-	|>> face_description : Top-level Directory for face detection and description
-	|	|
-	|	|>> facenet : Neural network components
-	|	|	|
-	|	|	|>> layers: Directory containing soft-links to a modified version of Caffe's sigmoid_cross_entropy_layer (now it can accept class weights)
-	|	|	|	|
-	|	|	|	|-- weighted_sigmoid_cross_entropy_loss_layer.cpp
-	|	|	|	|-- weighted_sigmoid_cross_entropy_loss_layer.hpp
-	|	|	|	|-- weighted_sigmoid_cross_entropy_loss_layer.cu
-	|	|	|	=
-	|	|	|	
-	|	|	|>> models: Directory containing .prototxt files describing the FaceNet architecture
-	|	|	|	|
-	|	|	|	|--facenet_train_solver.prototxt : solver parameters file
-	|	|	|	|--facenet_train.prototxt : train net (provided by FaceNet authors)
-	|	|	|	|--facenet_test.prototxt : test net
-	|	|	|	|--facenet_valid.prototxt : validation net
-	|	|	|	=
-	|	|	|
-	|	|	|-- amfed_label_weights.txt : List of class weights based on negative:positive sample ratio
-	|	|	|-- amfed_test_labels.txt : Test set
-	|	|	|-- amfed_train_labels.txt : Training set
-	|	|	|-- amfed_valid_labels.txt : Validation set
-	|	|	|-- facenet_data_layer : Custom Python data layer to load images into FaceNet
-	|	|	|-- network_util.py : Utility functions for FaceNet
-	|	|	|-- test_facenet.py : Script to test the network
-	|	|	|-- train_facenet.py : Script to train the network
-	|	|	=
-	|	|
-	|	|>> matlab : Directory containing tools for video sampling and face extraction
-	|	|	|>> +lib : Directory containing functions for face detection and cropping (only cropping is used) (from FaceNet creators) 
-	|	|	|-- points2xyxy.m : Function to convert bounding box representation
-	|	|	|-- tlwh2xyxy.m : Another function to convert bounding box representation
-	|	|	|-- sample_video.m : Script to automatically extract faces from videos
-	|	|	=
-	|	|	
-	|	|-- number_of_frames.txt : File mapping AMFED videos to the number of frames in the video
-	|	|-- organize_amfed.py : Script to unify the AMFED dataset (the data is highly disorganized) and generate the training, test, and validation sets for FaceNet
-	|	=
+	|>> face_description : Top-level Directory for face detection and description (DEPRECATED)
+	|
 	|
 	|>> dataset : Top-level directory for components related to building the dataset
 	|	|
-	|	|>> edited : Directory to store subtitle files after they have been edited for OCR mistakes (dialogue with time-of-appearance, no speakers)
-	|	|>> transcripts : Directory to store transcripts of episodes (just dialogue, with speakers)
-	|	|>> full_subtitles : Directory to store merged subtitles and transcripts (full dialogue with speakers and time-of-appearance)
-	|	|>> subtitles : Directory to store raw subtitles ripped from the DVDs
+	|	|>> edited : Subtitle files edited for OCR mistakes
+	|	|>> transcripts : Transcripts of episodes (just dialogue, with speakers)
+	|	|>> full_subtitles : Merged subtitles and transcripts (full dialogue, speakers, and time)
+	|	|>> subtitles : Directory to store raw subtitles ripped from the DVDs (time, no speakers)
+	|	|>> matlab : MATLAB files
+	|	|	|-- find_laughs.m : Script to detect laughter from episode audio tracks
+	|	|	|-- new_friends_labeling_tool.fig : Layout of labeling tool
+	|	|	|-- new_friends_labeling_tool.m : Labeling tool
+	|	|	=
+	|	|
+	|	|>> old : Old stuff (DEPRECATED)
+	|	|
 	|	|>> logs : Directory containing logs of spell-checking and speaker matching
-	|	|-- format_srt.py : Script to spell-check and parse the raw subtitles
-	|	|-- match_speakers_old.py : Script to attempt to assign speakers from transcripts to lines in subtitles using N-gram matching of lines (old version)
-	|	|-- match_speakers.py : Better script to assign speakers to subtitles. Takes advantage of inherent ordering, but still uses N-gram similarity
+	|	|>> python : Python files
+	|	|	|-- build_vocab.py : Script to compile vocabulary files (words, speakers, POS)
+	|	|	|-- merge_subs_transcripts.py : Align speakers with subtitles (from MATLAB output)
+	|	|	|-- format_srt.py : Script to spell-check and parse the raw subtitles
+	|	|	|-- organize_srt.py : Script to organize the text data for loading into LSTM
+	|	|	|-- match_speakers_old.py : Script to assign speakers with subtitles (old version)
+	|	|	|-- match_speakers.py : Better script to assign speakers to subtitles.
+	|	|	|-- split_transcript_scenes.py : Split episode transcripts into scenes
+	|	|	|-- html2text.py : Aaron Swartz's library for converting HTML to plain text
 	|	=
 	|
-	|>> sentence_encoding : Top-level directory for sentence feature extraction (currently empty)
+	|>> scene_encoding : Top-level directory for video frame feature extraction
+	|	|
+	|	|--vgg.protoxt : humor LSTM architecture
+	|	|--humornet_solver.prototxt : solver parameters file
+	|	|--vgg_data_layer : Python data layer to load data into network
+	|	|--extract_features.py : Python script to extract video feature the network
+	|	=
 	|
-	|>> humor_detector : Top-level directory for components of the final system (currently empty)
+	|>> humor_net : Neural network components
+	|	|
+	|	|--humornet.protoxt : humor LSTM architecture
+	|	|--humornet_solver.prototxt : solver parameters file
+	|	|--humornet_data_layer : Python data layer to load data into network
+	|	|--train_humornet.py : Python script to train the network
+	|	=
